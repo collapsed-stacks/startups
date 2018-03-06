@@ -4,9 +4,8 @@
 - tagged: `trademark`
 - score: 0
 
-<p>I have a name picked out for my company and I want to trademark but I am unsure if I have a conflict. Let's say I wanted to start my business name using someones name for example, "Ashley Anne Productions" but someone has part of the name but reversed in order "Anne Ashley" and they are in the same class. Can I still trademark my name since they are in different order and it has three words, not two?
-Thank you </p>
-
+I have a name picked out for my company and I want to trademark but I am unsure if I have a conflict. Let's say I wanted to start my business name using someones name for example, "Ashley Anne Productions" but someone has part of the name but reversed in order "Anne Ashley" and they are in the same class. Can I still trademark my name since they are in different order and it has three words, not two?
+Thank you 
 
 
 ## Answer 9651
@@ -27,18 +26,17 @@ Thank you </p>
 - posted by: [Daniel Anderson](https://stackexchange.com/users/8398759/daniel-anderson) on 2016-07-11
 - score: 0
 
-<p>The question is whether your name/trademark is "deceptively similar" to other more established brands.  This is intended to ensure you are not using a name which consumers might confuse with another company they already know and perhaps do business with.</p>
+The question is whether your name/trademark is "deceptively similar" to other more established brands.  This is intended to ensure you are not using a name which consumers might confuse with another company they already know and perhaps do business with.
 
-<p>As the other posters noted, much of it has to do with whether you're in the same line of business as the company whose name is close to your own.  Since you've already answered that question by stating that the companies are in the same "class" (which I assume means industry) then there's an outside chance that your trademark could be challenged by the other company.  While you may ultimately prevail, this could prove to be costly.</p>
+As the other posters noted, much of it has to do with whether you're in the same line of business as the company whose name is close to your own.  Since you've already answered that question by stating that the companies are in the same "class" (which I assume means industry) then there's an outside chance that your trademark could be challenged by the other company.  While you may ultimately prevail, this could prove to be costly.
 
-<p>Additionally, depending on how aggressive the other company is in defending its intellectual property, you might receive a "cease and desist" letter pretty early on from their attorneys, especially if they perceive you as a real competitive threat.  This can be an expensive proposition.  If you lose then you could pay damages plus legal fees, plus you're in for the cost of having to change all of your logos, marketing materials, etc., not to mention your own legal costs.</p>
+Additionally, depending on how aggressive the other company is in defending its intellectual property, you might receive a "cease and desist" letter pretty early on from their attorneys, especially if they perceive you as a real competitive threat.  This can be an expensive proposition.  If you lose then you could pay damages plus legal fees, plus you're in for the cost of having to change all of your logos, marketing materials, etc., not to mention your own legal costs.
 
-<p>Unless there's a really good reason to run the risk of what you could face, you might rethink the name and go with something less risky, just to save yourself some unnecessary headaches down the road.</p>
+Unless there's a really good reason to run the risk of what you could face, you might rethink the name and go with something less risky, just to save yourself some unnecessary headaches down the road.
 
-<p>I hope this helps.</p>
+I hope this helps.
 
-<p>Good luck!</p>
-
+Good luck!
 
 
 

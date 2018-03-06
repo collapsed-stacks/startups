@@ -4,28 +4,25 @@
 - tagged: `equity`, `founder`, `profit-sharing`
 - score: 0
 
-<p>We are a company in electronics industry. Unfortunately, we didn't have a specific idea in mind to work around.
-In the first years, we worked on small industrial projects, generally designing controllers for different projects.</p>
+We are a company in electronics industry. Unfortunately, we didn't have a specific idea in mind to work around.
+In the first years, we worked on small industrial projects, generally designing controllers for different projects.
 
-<p>After a few years, we found some nice ideas, and started to work around them. For example, founder_A said let's work on Project_A. We worked on it. Next year, founder_B said let's work on project_B too. So we worked on both projects. This might happen in the future too. Different creative ideas would come, and we would work on them.</p>
+After a few years, we found some nice ideas, and started to work around them. For example, founder_A said let's work on Project_A. We worked on it. Next year, founder_B said let's work on project_B too. So we worked on both projects. This might happen in the future too. Different creative ideas would come, and we would work on them.
 
-<p>I know that a company must have a unique central idea to work on, and they shall avoid working in different categories. But the current state of the company we have established is this. Actually, we are working on 3 main ideas currently; other ideas have been either over, expired, or non-profitable. And we will probably correct it, i.e. we will surely choose the best and most profitable idea among these, and focus on it.</p>
+I know that a company must have a unique central idea to work on, and they shall avoid working in different categories. But the current state of the company we have established is this. Actually, we are working on 3 main ideas currently; other ideas have been either over, expired, or non-profitable. And we will probably correct it, i.e. we will surely choose the best and most profitable idea among these, and focus on it.
 
-<h2><strong><em>The Problem:</em></strong></h2>
+***The Problem:***
+-
+When we found the company, we were 4 founders, so we decided on 25% for everyone. Through years, many things happened:
 
-<p>When we found the company, we were 4 founders, so we decided on 25% for everyone. Through years, many things happened:</p>
+- One of the founders had to leave the company (because of personal problems.)
+- Some founders had to work part-time, while some worked full-time (again, because of personal problems).
+- The amount of money invested in the company by the founders are a little bit different.
+- The number of ideas brought by the founders, and the value of each idea, are different.
 
-<ul>
-<li>One of the founders had to leave the company (because of personal problems.)</li>
-<li>Some founders had to work part-time, while some worked full-time (again, because of personal problems).</li>
-<li>The amount of money invested in the company by the founders are a little bit different.</li>
-<li>The number of ideas brought by the founders, and the value of each idea, are different.</li>
-</ul>
+*Now this is the question:*
 
-<p><em>Now this is the question:</em></p>
-
-<p>We want to re-determine the % of each person. How shall we do it? Which parameters have higher impact? Founders' personal investments? Or founders' time and man-hours spent on projects? Or founders' brought ideas? And if it is a combination of all these factors, which parameters have highest weights?</p>
-
+We want to re-determine the % of each person. How shall we do it? Which parameters have higher impact? Founders' personal investments? Or founders' time and man-hours spent on projects? Or founders' brought ideas? And if it is a combination of all these factors, which parameters have highest weights?
 
 
 ## Answer 8910

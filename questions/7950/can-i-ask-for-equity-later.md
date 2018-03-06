@@ -4,14 +4,13 @@
 - tagged: `equity`, `software`
 - score: 3
 
-<p>I am an intern at a software development company. Recently, boss briefed us about a new project he wants to do. If the initial idea works out well, the plan is to fork this into a new company and get VC funding.  </p>
+I am an intern at a software development company. Recently, boss briefed us about a new project he wants to do. If the initial idea works out well, the plan is to fork this into a new company and get VC funding.  
 
-<p>The product is mostly mobile-focused. I am responsible for designing the UI, coding, testing, and release of the mobile app. Plus, I have to do some work on the server, too.  </p>
+The product is mostly mobile-focused. I am responsible for designing the UI, coding, testing, and release of the mobile app. Plus, I have to do some work on the server, too.  
 
-<p>If the idea works as expected, can I ask for equity?  </p>
+If the idea works as expected, can I ask for equity?  
 
-<p>Also, how do I decide how much to ask?</p>
-
+Also, how do I decide how much to ask?
 
 
 ## Answer 7952
@@ -19,12 +18,11 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-11-28
 - score: 13
 
-<p>You <em>might</em>, depending on how generous your boss wants to be and how well you work.</p>
+You *might*, depending on how generous your boss wants to be and how well you work.
 
-<p>Keep in mind that a) you're an intern, b) it was not your idea, c) you got briefed on it (i.e. you didn't even have a say on whether you should be doing it) and d) you're getting paid to do it.</p>
+Keep in mind that a) you're an intern, b) it was not your idea, c) you got briefed on it (i.e. you didn't even have a say on whether you should be doing it) and d) you're getting paid to do it.
 
-<p>If you end up instrumental in actually pushing it forward, you might have a happy surprise down the road, of course. But don't set your expectations too high.</p>
-
+If you end up instrumental in actually pushing it forward, you might have a happy surprise down the road, of course. But don't set your expectations too high.
 
 
 ## Answer 8534
@@ -57,14 +55,13 @@
 - posted by: [Magora Systems](https://stackexchange.com/users/7052871/magora-systems) on 2015-12-22
 - score: 0
 
-<p>My personal advice:</p>
+My personal advice:
 
-<ol>
-<li><p>Place you CV with complete description of your current experience and possible working time on job sites and find out what can you get in another company.</p></li>
-<li><p>Come to your boss and speak about the salary upgrade.</p></li>
-<li><p>Make your decision based on the results of you investigations and negotiations. </p></li>
-</ol>
+1. Place you CV with complete description of your current experience and possible working time on job sites and find out what can you get in another company.
 
+2. Come to your boss and speak about the salary upgrade.
+
+3. Make your decision based on the results of you investigations and negotiations. 
 
 
 

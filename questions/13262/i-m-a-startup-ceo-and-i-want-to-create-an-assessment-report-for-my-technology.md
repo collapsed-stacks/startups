@@ -4,16 +4,15 @@
 - tagged: `software`, `growth`
 - score: 1
 
-<p>we have a buggy software that break at some random point, we've done some improvement to it but i'm not sure is it enough or not.</p>
+we have a buggy software that break at some random point, we've done some improvement to it but i'm not sure is it enough or not.
 
-<p>so i decided to do an assessment report </p>
+so i decided to do an assessment report 
 
-<p>is there any service for assessing my software quality?
-or should i outsource this task.</p>
+is there any service for assessing my software quality?
+or should i outsource this task.
 
-<p>i want to know witch part of my software have critical bugs(architecture, code, ...)
-can i do marketing and sales with these software or not</p>
-
+i want to know witch part of my software have critical bugs(architecture, code, ...)
+can i do marketing and sales with these software or not
 
 
 ## Answer 13263
@@ -34,12 +33,11 @@ can i do marketing and sales with these software or not</p>
 - posted by: [Matiss](https://stackexchange.com/users/1819512/matiss) on 2017-09-01
 - score: 0
 
-<p>What you are looking for is called Software audit review. It is usually performed by external party, not a direct member of whoever is developing the software.</p>
+What you are looking for is called Software audit review. It is usually performed by external party, not a direct member of whoever is developing the software.
 
-<p>It can be either an auditor firm, another software firm, or an outside consultant. If the results are for your own, internal consumption, outside firm or consultant is the way to go.</p>
+It can be either an auditor firm, another software firm, or an outside consultant. If the results are for your own, internal consumption, outside firm or consultant is the way to go.
 
-<p>There are certain cases where audit review is required by customers, quite often government agencies. In those cases, only a certified auditor can perform this review and those services are very, very expensive.</p>
-
+There are certain cases where audit review is required by customers, quite often government agencies. In those cases, only a certified auditor can perform this review and those services are very, very expensive.
 
 
 

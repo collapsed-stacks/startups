@@ -4,12 +4,11 @@
 - tagged: `marketing`, `market-research`
 - score: 1
 
-<p>Say, I know a social group which is a my target as customers for my product. How do I know their psychological portrait, motivation, mentality in general?</p>
+Say, I know a social group which is a my target as customers for my product. How do I know their psychological portrait, motivation, mentality in general?
 
-<p>Do services exist that can provide this data, reports on a budget?</p>
+Do services exist that can provide this data, reports on a budget?
 
-<p>How is this process usually performed by companies/startups to develop product properties in accordance to customers needs?</p>
-
+How is this process usually performed by companies/startups to develop product properties in accordance to customers needs?
 
 
 ## Answer 12624
@@ -17,8 +16,7 @@
 - posted by: [DS R](https://stackexchange.com/users/5601768/ds-r) on 2017-05-09
 - score: 0
 
-<p><strong>Survey companies</strong> can help you. They maintain user profiles from almost all categories. You can request a questionnaire to be filled up by a particular group. Of course you have to pay more for that, instead of an ask anybody kind of questionnaire. One example firm is surveymonkey</p>
-
+**Survey companies** can help you. They maintain user profiles from almost all categories. You can request a questionnaire to be filled up by a particular group. Of course you have to pay more for that, instead of an ask anybody kind of questionnaire. One example firm is surveymonkey
 
 
 

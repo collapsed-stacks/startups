@@ -4,14 +4,13 @@
 - tagged: `community`
 - score: 1
 
-<p>I am analyzing the market and possibilities of the farming in Euro Union or the US. Especially, for the crops, different kinds of horticulture, like tomatoes, lettuce and so on. I want to collect information about small farms needs in relates to planting, watering, fertilizing, harvesting, and things around it.</p>
+I am analyzing the market and possibilities of the farming in Euro Union or the US. Especially, for the crops, different kinds of horticulture, like tomatoes, lettuce and so on. I want to collect information about small farms needs in relates to planting, watering, fertilizing, harvesting, and things around it.
 
-<p>I'd like to find farmers who are in the industry and who I can ask some questions and discuss.</p>
+I'd like to find farmers who are in the industry and who I can ask some questions and discuss.
 
-<p>So, are there any forums, community boards, may be like StackExchange ones on the web? I found some blogs, news sites, or sites of organizations, but not much luck with forums.</p>
+So, are there any forums, community boards, may be like StackExchange ones on the web? I found some blogs, news sites, or sites of organizations, but not much luck with forums.
 
-<p>Please advise if you know some.</p>
-
+Please advise if you know some.
 
 ## No Answers
 

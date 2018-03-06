@@ -4,8 +4,7 @@
 - tagged: `beta-testing`, `testing`
 - score: 2
 
-<p>I am learning to create something truly useful and I am having difficulty in finding people who can test my idea. Is there any online place where I can validate my beta version. </p>
-
+I am learning to create something truly useful and I am having difficulty in finding people who can test my idea. Is there any online place where I can validate my beta version. 
 
 
 ## Answer 11554
@@ -13,10 +12,9 @@
 - posted by: [niraj](https://stackexchange.com/users/9659943/niraj) on 2016-11-18
 - score: 1
 
-<p>There is an app called "Flare" that may be of use. Business ideas can be presented and rated, given feedback, etc. Apparently you can connect with potential collaborators, investors, and so on.</p>
+There is an app called "Flare" that may be of use. Business ideas can be presented and rated, given feedback, etc. Apparently you can connect with potential collaborators, investors, and so on.
 
-<p>I have only used the app occasionally to browse through ideas. I haven't posted an idea or used any of the other advertised features. But check it out, at least on the surface it seems it could be helpful for validation of ideas and maybe more.</p>
-
+I have only used the app occasionally to browse through ideas. I haven't posted an idea or used any of the other advertised features. But check it out, at least on the surface it seems it could be helpful for validation of ideas and maybe more.
 
 
 ## Answer 11374

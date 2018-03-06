@@ -4,16 +4,13 @@
 - tagged: `legal`, `patent`
 - score: 7
 
-<p>I'm on a startup team that's developing clever audio-network solutions, and patents are really starting to annoy me. We come up with all these ideas on our own or otherwise see the ideas existing on the marketplace for a long time, but then we do some research and find that patents have been granted for many of them. I would argue that these patents are obvious and thus invalid, but for some reason (broken patent system?) they've been granted anyway.</p>
+I'm on a startup team that's developing clever audio-network solutions, and patents are really starting to annoy me. We come up with all these ideas on our own or otherwise see the ideas existing on the marketplace for a long time, but then we do some research and find that patents have been granted for many of them. I would argue that these patents are obvious and thus invalid, but for some reason (broken patent system?) they've been granted anyway.
 
-<p>Certain that this is a problem many startups face, how is this issue usually dealt with? Do the typically cash-strapped startups generally:</p>
+Certain that this is a problem many startups face, how is this issue usually dealt with? Do the typically cash-strapped startups generally:
 
-<ol>
-<li>Ignore them if they've come up with the ideas themselves and haven't just stolen them?</li>
-<li>Pay license fees?</li>
-<li>Try invalidate the patents on the basis of obviousness?</li>
-</ol>
-
+ 1. Ignore them if they've come up with the ideas themselves and haven't just stolen them?
+ 2. Pay license fees?
+ 3. Try invalidate the patents on the basis of obviousness?
 
 
 ## Answer 12307
@@ -21,43 +18,41 @@
 - posted by: [Jeff O'Neill](https://stackexchange.com/users/46273/jeff-o-neill) on 2017-03-12
 - score: 6
 
-<p><strong>Patents don't cover what they think you cover.</strong>  </p>
+**Patents don't cover what they think you cover.**  
 
-<p>I am a patent attorney, and it makes me cringe every time I see a news article claiming that Amazon patented X or Google patented Y. The news articles are never right.</p>
+I am a patent attorney, and it makes me cringe every time I see a news article claiming that Amazon patented X or Google patented Y. The news articles are never right.
 
-<p>Patents have three sections:</p>
+Patents have three sections:
 
-<ol>
-<li>Figures that illustrate the invention,</li>
-<li>Text description that describes the figures, and</li>
-<li><strong>Claims that define what the invention is</strong>.</li>
-</ol>
+ 1. Figures that illustrate the invention,
+ 2. Text description that describes the figures, and
+ 3. **Claims that define what the invention is**.
 
-<p>The claims are the numbered sentences at the end of the patent and there are usually about 20.  The claims are written in an awkward language and are hard to understand.  To understand what a patent covers, you need to read the patent and spend a couple hours deciphering what the claims mean.</p>
+The claims are the numbered sentences at the end of the patent and there are usually about 20.  The claims are written in an awkward language and are hard to understand.  To understand what a patent covers, you need to read the patent and spend a couple hours deciphering what the claims mean.
 
-<p>The figures and text description may broadly describe some kind of audio-network solution, but the patent doesn't cover that.  The patents covers only the invention precisely described by the claims.</p>
+The figures and text description may broadly describe some kind of audio-network solution, but the patent doesn't cover that.  The patents covers only the invention precisely described by the claims.
 
-<p>Nearly all patents cover some extremely small incremental improvement to existing technology. After all, that is how invention works. It is rare to have a patent that gives you broad protection over an entire product.</p>
+Nearly all patents cover some extremely small incremental improvement to existing technology. After all, that is how invention works. It is rare to have a patent that gives you broad protection over an entire product.
 
-<p><strong>Many patents are likely invalid</strong></p>
+**Many patents are likely invalid**
 
-<p>Even though many patents cover less than you think they do, many patents are still likely invalid. The patent examiners are overworked and underpaid. Although they are stricter than 10 years ago, many patents get approved that shouldn't have been. Invalidating a patent is challenging because they have a legal "presumption of validity" so it will cost you a lot of money to invalidate a patent.</p>
+Even though many patents cover less than you think they do, many patents are still likely invalid. The patent examiners are overworked and underpaid. Although they are stricter than 10 years ago, many patents get approved that shouldn't have been. Invalidating a patent is challenging because they have a legal "presumption of validity" so it will cost you a lot of money to invalidate a patent.
 
-<p><strong>Most startups ignore other patents</strong></p>
+**Most startups ignore other patents**
 
-<p>As a startup, you should be focusing on getting patents for your own product and you should not worry about other companies' patents.</p>
+As a startup, you should be focusing on getting patents for your own product and you should not worry about other companies' patents.
 
-<p>It would cost you a ridiculous amount of money to (i) search for relevant patents, (ii) determine if they cover your product, (iii) determine if they are valid, and (iv) negotiate some agreement with the patent owner. If you did all that, most patent owners would likely refuse to license you or charge you an enormous fee, especially if they know or think that your product depends on a license.</p>
+It would cost you a ridiculous amount of money to (i) search for relevant patents, (ii) determine if they cover your product, (iii) determine if they are valid, and (iv) negotiate some agreement with the patent owner. If you did all that, most patent owners would likely refuse to license you or charge you an enormous fee, especially if they know or think that your product depends on a license.
 
-<p>Basically, don't go looking for trouble.</p>
+Basically, don't go looking for trouble.
 
-<p>You are right that small startups don't have to worry about accusations of patent infringement.  If you don't have a lot of revenue, no one is going to waste their time suing you for patent infringement.</p>
+You are right that small startups don't have to worry about accusations of patent infringement.  If you don't have a lot of revenue, no one is going to waste their time suing you for patent infringement.
 
-<p>If you do become successful and have a lot of revenue, the question is not "if" but "when" you will be sued for patent infringement.  All successful companies are sued for patent infringement. Often, the patent you are being sued on has very little to do with the main idea of your product, but some silly side thing like how you get payments or do customer support.</p>
+If you do become successful and have a lot of revenue, the question is not "if" but "when" you will be sued for patent infringement.  All successful companies are sued for patent infringement. Often, the patent you are being sued on has very little to do with the main idea of your product, but some silly side thing like how you get payments or do customer support.
 
-<p>Patents are just a part of doing business, and you will have to deal with that when your company starts making money.  You will then hopefully have the resources to deal with it.</p>
+Patents are just a part of doing business, and you will have to deal with that when your company starts making money.  You will then hopefully have the resources to deal with it.
 
-<p>Until then, spend all your time figuring out how to make money and don't worry about other people's patents.</p>
+Until then, spend all your time figuring out how to make money and don't worry about other people's patents.
 
 
 
@@ -85,10 +80,9 @@
 - posted by: [Entrepreneur](https://stackexchange.com/users/10837024/entrepreneur) on 2017-05-08
 - score: 0
 
-<p>If you have an idea for a really ingenious or exciting product you probably should not expend energy over patents even if they appear to overlap somewhat with your idea, unless a patent obviously matches your idea exactly. As mentioned in another answer, you won't be drawn into an expensive patent suit unless your product is financially very successful. And if it is financially very successful you are likely to be drawn into some type of legal exchange no matter what. Keep in mind however that if your idea is successful, if it can be shown that you had knowledge of a particular patent and infringed it anyway that it would not weigh in your favor.</p>
+If you have an idea for a really ingenious or exciting product you probably should not expend energy over patents even if they appear to overlap somewhat with your idea, unless a patent obviously matches your idea exactly. As mentioned in another answer, you won't be drawn into an expensive patent suit unless your product is financially very successful. And if it is financially very successful you are likely to be drawn into some type of legal exchange no matter what. Keep in mind however that if your idea is successful, if it can be shown that you had knowledge of a particular patent and infringed it anyway that it would not weigh in your favor.
 
-<p>If you are especially concerned about a particular patent and would like to study what is actually protected by it then you will want to study the CLAIMS section. That is what is actually protected by the patent. Loosely speaking, the rest of the patent document provides background and context for the claims. Learning how to read the claims will help you sort through which patents actually do, or do not already have your idea covered.</p>
-
+If you are especially concerned about a particular patent and would like to study what is actually protected by it then you will want to study the CLAIMS section. That is what is actually protected by the patent. Loosely speaking, the rest of the patent document provides background and context for the claims. Learning how to read the claims will help you sort through which patents actually do, or do not already have your idea covered.
 
 
 

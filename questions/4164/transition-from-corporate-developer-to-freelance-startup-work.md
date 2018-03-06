@@ -4,12 +4,11 @@
 - tagged: `software`, `freelancing`, `consulting`
 - score: 6
 
-<p>For the last five years I have held various roles in traditional corporate settings such as software engineer, program manager, and systems engineer. I have also developed an iPad app on the side that should start generating a small amount of income. I really want to branch out on my own doing app and web development as a service and helping startups in exchange for money and/or equity. </p>
+For the last five years I have held various roles in traditional corporate settings such as software engineer, program manager, and systems engineer. I have also developed an iPad app on the side that should start generating a small amount of income. I really want to branch out on my own doing app and web development as a service and helping startups in exchange for money and/or equity. 
 
-<p>What are the best resources (books, podcasts, websites) available for making the transition from corporate development to freelance. I am not looking to primarily create my own product. I just love working with people and I am tiring of the corporate America culture. Most software services companies I have worked with have provided mediocre service or products and I feel I could do better at a cheaper price. Looking for any and all advice or references. </p>
+What are the best resources (books, podcasts, websites) available for making the transition from corporate development to freelance. I am not looking to primarily create my own product. I just love working with people and I am tiring of the corporate America culture. Most software services companies I have worked with have provided mediocre service or products and I feel I could do better at a cheaper price. Looking for any and all advice or references. 
 
-<p>Thanks</p>
-
+Thanks
 
 
 ## Answer 4165

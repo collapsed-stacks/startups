@@ -4,12 +4,12 @@
 - tagged: `sales`, `employees`, `remote`
 - score: 4
 
-<p>I'm trying to expand our sales force to other locations.</p>
+I'm trying to expand our sales force to other locations.
 
-<p>What's the best way for the head-office to manage remote sales reps that are in other states or provinces?</p>
+What's the best way for the head-office to manage remote sales reps that are in other states or provinces?
 
-<p>Any suggestions will be fantastic!</p>
 
+Any suggestions will be fantastic!
 
 ## No Answers
 

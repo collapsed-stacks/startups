@@ -4,8 +4,7 @@
 - tagged: `lean-startup`
 - score: 1
 
-<p>as a part of our startup, users can upload a lot of images. we have chosen not to store the images on our servers. We need a content delivery network (CDN) that is fast enough, cheap and easy to code. We initially chose Amazon S3 and CloudFront for multiple reasons however, now we realize its taking too long to code as we need this feature done for our MVP first release. Considering the security required for each user, what are the best alternatives for my problem?</p>
-
+as a part of our startup, users can upload a lot of images. we have chosen not to store the images on our servers. We need a content delivery network (CDN) that is fast enough, cheap and easy to code. We initially chose Amazon S3 and CloudFront for multiple reasons however, now we realize its taking too long to code as we need this feature done for our MVP first release. Considering the security required for each user, what are the best alternatives for my problem?
 
 
 ## Answer 5604

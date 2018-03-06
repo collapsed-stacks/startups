@@ -4,22 +4,22 @@
 - tagged: `business-plan`, `mobile-apps`
 - score: 1
 
-<p>I'm looking of starting my Online Service Business for working for clients / people, who need UI / UX Designers Services. I'm thinking about it for like 2 months already (so I kind of stuck of ideas) and I don't know how to better present myself and my services online.</p>
+I'm looking of starting my Online Service Business for working for clients / people, who need UI / UX Designers Services. I'm thinking about it for like 2 months already (so I kind of stuck of ideas) and I don't know how to better present myself and my services online.
 
-<p>I'm thinking to build a website, where I could show my past UI / UX (so basically it's a portfolio page), also add my services and stuff like that (basic website to show myself to future clients). But after planning my website and my services I thought of idea of narrowing my services niche from Web and Mobile UiI / UX Designer to ONLY Mobile UI / UX Designer. Because I saw that I much more prefer designing for mobile, instead for Web.</p>
+I'm thinking to build a website, where I could show my past UI / UX (so basically it's a portfolio page), also add my services and stuff like that (basic website to show myself to future clients). But after planning my website and my services I thought of idea of narrowing my services niche from Web and Mobile UiI / UX Designer to ONLY Mobile UI / UX Designer. Because I saw that I much more prefer designing for mobile, instead for Web.
 
-<p>Is it good to do this kind of stuff to only narrowing my services to Mobile UI / UX? I'm asking this question because I see a bunch of UI / UX Designers (as a solo or agency, or whatever) whose are doing a really broad type of services for clients (it includes BOTH WEB and Mobile Design).</p>
+Is it good to do this kind of stuff to only narrowing my services to Mobile UI / UX? I'm asking this question because I see a bunch of UI / UX Designers (as a solo or agency, or whatever) whose are doing a really broad type of services for clients (it includes BOTH WEB and Mobile Design).
 
-<p>Maybe I'm narrowing it too much?</p>
+Maybe I'm narrowing it too much?
 
-<p><strong>EDIT</strong> </p>
 
-<p>My main question:</p>
+**EDIT** 
 
-<p>IS IT A GOOD BUSINESS PLAN TO NARROW MY UI / UX DESIGN SERVICES TO ONLY DESIGNING FOR MOBILE? Basically, I want to do only mobile design services (as I said, it would include UI / UX design) and I want to remove Web design services from my offerings. </p>
+My main question:
 
-<p>Hope this clears some things out. </p>
+IS IT A GOOD BUSINESS PLAN TO NARROW MY UI / UX DESIGN SERVICES TO ONLY DESIGNING FOR MOBILE? Basically, I want to do only mobile design services (as I said, it would include UI / UX design) and I want to remove Web design services from my offerings. 
 
+Hope this clears some things out. 
 
 
 ## Answer 452
@@ -27,10 +27,9 @@
 - posted by: [Jeremy Parsons](https://stackexchange.com/users/497810/jeremy-parsons) on 2014-08-22
 - score: 2
 
-<p>As a rule, <em>the narrower you pitch, the more you will resonate with customers</em> who want that one thing. If my lawn mower blades have blunted, I'm looking for mower blade sharpening, and someone who offers just that will be an earlier call than a service to sharpen anything.</p>
+As a rule, *the narrower you pitch, the more you will resonate with customers* who want that one thing. If my lawn mower blades have blunted, I'm looking for mower blade sharpening, and someone who offers just that will be an earlier call than a service to sharpen anything.
 
-<p>With that in mind, I'd say you're not narrowing far enough. Tighten the focus to one type of project and one type of customer and you have a platform to learn. </p>
-
+With that in mind, I'd say you're not narrowing far enough. Tighten the focus to one type of project and one type of customer and you have a platform to learn. 
 
 
 ## Answer 456
@@ -38,14 +37,13 @@
 - posted by: [Laxiton6893](https://stackexchange.com/users/2181902/laxiton6893) on 2014-08-22
 - score: 1
 
-<p>I think it's fine. Narrowing down to mobile UX development is perfect. It's what you like and there is a market. As for your other skills use them as secondary services for customer retention. </p>
+I think it's fine. Narrowing down to mobile UX development is perfect. It's what you like and there is a market. As for your other skills use them as secondary services for customer retention. 
 
-<p>I.e you deliver a design, now you can ask the customer if they need it developed. </p>
+I.e you deliver a design, now you can ask the customer if they need it developed. 
 
-<p>If your work was good and the customer likes you, then you just saved them time and you secured another project. </p>
+If your work was good and the customer likes you, then you just saved them time and you secured another project. 
 
-<p>Hope that helps!</p>
-
+Hope that helps!
 
 
 ## Answer 474
@@ -53,8 +51,7 @@
 - posted by: [Brad Rhoads](https://stackexchange.com/users/42121/brad-rhoads) on 2014-08-23
 - score: 1
 
-<p>You might narrow it down even a bit more to mobile UX/UI design for startups. (And perhaps consider convertible debt as (partial) payment.)</p>
-
+You might narrow it down even a bit more to mobile UX/UI design for startups. (And perhaps consider convertible debt as (partial) payment.)
 
 
 ## Answer 1183

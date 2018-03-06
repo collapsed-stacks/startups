@@ -4,19 +4,18 @@
 - tagged: `market-research`
 - score: 2
 
-<p>I want to test market with few features in my app. </p>
+I want to test market with few features in my app. 
 
-<p>I am making paperless bills app. In this app, I let the shops create bills and share them with customers via whatsapp or my app. The problem is that shops need to ask customers whatsapp number or need to ask to install my app so that they can share the bill.</p>
+I am making paperless bills app. In this app, I let the shops create bills and share them with customers via whatsapp or my app. The problem is that shops need to ask customers whatsapp number or need to ask to install my app so that they can share the bill.
 
-<p>Is that good and will it work ?<br /> 
+Is that good and will it work ?<br /> 
 Or I am wasting my time because shops can't ask this to every customer ?<br /> Or it should be reverse ?<br />
- I mean should customers create order and share it with shops ?<br /> </p>
+ I mean should customers create order and share it with shops ?<br /> 
 
-<p>This way also customer has to ask shop to install app to view order. It would be odd.<br /> 
-How to go about this ? </p>
+This way also customer has to ask shop to install app to view order. It would be odd.<br /> 
+How to go about this ? 
 
-<p>No thoughts are coming to me. </p>
-
+No thoughts are coming to me. 
 
 
 ## Answer 8023
@@ -24,10 +23,9 @@ How to go about this ? </p>
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-12-07
 - score: 1
 
-<p>If by install an app you mean a native one then you're wasting your time because customers won't want (or know how) to install your app.</p>
+If by install an app you mean a native one then you're wasting your time because customers won't want (or know how) to install your app.
 
-<p>Create an HTML5 app instead - you then have nothing to install. And QR codes to steer browsers to specific bills if needed so consumers don't need to type URLs.</p>
-
+Create an HTML5 app instead - you then have nothing to install. And QR codes to steer browsers to specific bills if needed so consumers don't need to type URLs.
 
 
 ## Answer 8668
@@ -35,24 +33,23 @@ How to go about this ? </p>
 - posted by: [fiprojects](https://stackexchange.com/users/5370155/fiprojects) on 2016-03-06
 - score: 0
 
-<p>Follow the benefits and that will lead you to the answer. Asking any business to replace an existing process with a new process without making clear the benefits is unlikely to win many supporters. In some cases, concerns about (data) security will lead them to think "thanks but no thanks" without having given your idea/product serious consideration.</p>
+Follow the benefits and that will lead you to the answer. Asking any business to replace an existing process with a new process without making clear the benefits is unlikely to win many supporters. In some cases, concerns about (data) security will lead them to think "thanks but no thanks" without having given your idea/product serious consideration.
 
-<p>So... What benefit does the app do for a business? </p>
+So... What benefit does the app do for a business? 
 
-<p>Save time? How? Pay $10, get a few cents in change, while handing over the change, they hand over a paper receipt.</p>
+Save time? How? Pay $10, get a few cents in change, while handing over the change, they hand over a paper receipt.
 
-<p>Save paper? Customer receipts are not a huge headache as their inventory is held electronically somewhere.</p>
+Save paper? Customer receipts are not a huge headache as their inventory is held electronically somewhere.
 
-<p>There can also be concern that your app is a risk to their business model as they are in effect connecting their customers with you - you could always later re-direct the customers to make future purchases elsewhere.</p>
+There can also be concern that your app is a risk to their business model as they are in effect connecting their customers with you - you could always later re-direct the customers to make future purchases elsewhere.
 
-<p>What benefit does it give to the customer? Less paper in their wallet? Does your app offer OCR (Optical Character Recognition) or offer some method so that the details on the receipt can be imported (thus assisting business expense claims by employee to employer).</p>
+What benefit does it give to the customer? Less paper in their wallet? Does your app offer OCR (Optical Character Recognition) or offer some method so that the details on the receipt can be imported (thus assisting business expense claims by employee to employer).
 
-<p>If you have benefits which you have not listed here and still want to link a phone with a business, then consider having a QR code in the shop that allows the phone to link with the business, therefore giving the perception that privacy is respected.</p>
+If you have benefits which you have not listed here and still want to link a phone with a business, then consider having a QR code in the shop that allows the phone to link with the business, therefore giving the perception that privacy is respected.
 
-<p>IMHO replacing popular process with a new process, without clear benefits and without clear rewards will struggle to win traction within the market place.</p>
+IMHO replacing popular process with a new process, without clear benefits and without clear rewards will struggle to win traction within the market place.
 
-<p>Best of luck though!</p>
-
+Best of luck though!
 
 
 

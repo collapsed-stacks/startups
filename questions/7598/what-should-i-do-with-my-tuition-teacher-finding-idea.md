@@ -4,8 +4,7 @@
 - tagged: `growth`, `idea`
 - score: 4
 
-<p>I have a startup idea to start a tuition teacher finding website in Pakistan. After doing the research I have found out that some people are doing this but people aren't using their solution. After doing research of international level, I realized that none of the tuition teacher finding website drive enough traffic that it should be called a successful business. What should I do with my idea?</p>
-
+I have a startup idea to start a tuition teacher finding website in Pakistan. After doing the research I have found out that some people are doing this but people aren't using their solution. After doing research of international level, I realized that none of the tuition teacher finding website drive enough traffic that it should be called a successful business. What should I do with my idea?
 
 
 ## Answer 7602
@@ -48,10 +47,9 @@ None of them have been successful after a single attempt. they created campaigns
 - posted by: [Vikram Wable](https://stackexchange.com/users/5183367/vikram-wable) on 2015-10-23
 - score: 1
 
-<p>Your idea is limited to the tuition teachers as I can guess from your question. You can found many websites which are helping the peoples with different needs like finding the local experts near by them in different areas like language tuition, dance, cooking etc.</p>
+Your idea is limited to the tuition teachers as I can guess from your question. You can found many websites which are helping the peoples with different needs like finding the local experts near by them in different areas like language tuition, dance, cooking etc.
 
-<p>Your idea will rock don't worry it will need some extra efforts from your side. First collect the data how many tuition's teachers are interested in your idea. If you found the marginal set of tuition teachers/Owners then develop a simple website and start with that. Check the response from the peoples and try to improve the marketing and reach out the people as many as you can.</p>
-
+Your idea will rock don't worry it will need some extra efforts from your side. First collect the data how many tuition's teachers are interested in your idea. If you found the marginal set of tuition teachers/Owners then develop a simple website and start with that. Check the response from the peoples and try to improve the marketing and reach out the people as many as you can.
 
 
 ## Answer 7601
@@ -59,18 +57,13 @@ None of them have been successful after a single attempt. they created campaigns
 - posted by: [Saif Al Falah](https://stackexchange.com/users/1405882/saif-al-falah) on 2015-10-18
 - score: 0
 
-<p>You have two options at this point:</p>
+You have two options at this point:
 
-<ol>
-<li>Figure out why those websites aren't driving enough traffic.</li>
-</ol>
+1. Figure out why those websites aren't driving enough traffic.
 
-<p>OR</p>
+OR
 
-<ol start="2">
-<li>Find another idea.</li>
-</ol>
-
+2. Find another idea.
 
 
 

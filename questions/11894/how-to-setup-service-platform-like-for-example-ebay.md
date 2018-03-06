@@ -4,23 +4,22 @@
 - tagged: `business-plan`
 - score: 0
 
-<p>[<strong>Please, before downvoting:</strong>
-If this is the wrong place to post such a question, please refer me to the right one and I will delete this one here!]</p>
+[**Please, before downvoting:**
+If this is the wrong place to post such a question, please refer me to the right one and I will delete this one here!]
 
-<p>Ebay is a mediator and earns his money getting a certain percentage of the sale and other things.</p>
+Ebay is a mediator and earns his money getting a certain percentage of the sale and other things.
 
-<p>It's a marketplace where buyers and sellers come together.</p>
+It's a marketplace where buyers and sellers come together.
 
-<p><strong>My question:</strong>
+**My question:**
 How to get started with this kind of service platform?
 For example we already have the technical stuff in place, hosting and a production ready web platform.
-At the beginning the platform is empty, no offers and therefore no buyers.</p>
+At the beginning the platform is empty, no offers and therefore no buyers.
 
-<p>When I would see a platform, that only offers two things for example, I would not place my offer there, because the probability that someone will buy is very low.</p>
+When I would see a platform, that only offers two things for example, I would not place my offer there, because the probability that someone will buy is very low.
 
-<p><strong>How to push the platform in order to bring more buyers and sellers together?
-How did Ebay do it?</strong></p>
-
+**How to push the platform in order to bring more buyers and sellers together?
+How did Ebay do it?**
 
 
 ## Answer 11896
@@ -52,10 +51,9 @@ How did Ebay do it?</strong></p>
 - posted by: [Keith Wolf](https://stackexchange.com/users/147215/keith-wolf) on 2017-01-28
 - score: 1
 
-<p>Agreeing with the other answers, I have also seen similar success in focusing on your local market.  It's like tareq's answer to focus on a niche.  For example Facebook started as a Harvard-only students site, then expanded to a curated list of colleges, then all colleges, then the public.  </p>
+Agreeing with the other answers, I have also seen similar success in focusing on your local market.  It's like tareq's answer to focus on a niche.  For example Facebook started as a Harvard-only students site, then expanded to a curated list of colleges, then all colleges, then the public.  
 
-<p>More than just gaining traction, this gives <strong>you</strong> something bite-sized to focus on, especially since you know your local market better than anyone doing the same thing.</p>
-
+More than just gaining traction, this gives **you** something bite-sized to focus on, especially since you know your local market better than anyone doing the same thing.
 
 
 

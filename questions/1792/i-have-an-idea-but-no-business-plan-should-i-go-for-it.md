@@ -4,10 +4,9 @@
 - tagged: `idea`
 - score: 2
 
-<p>Ok, like several others I also have an idea which I want to build for myself as it will help me to achieve my goals. Now I believe that many others are also suffering from similar issue and I should give it a shot anyway. During the excitement, I could not realize how to make money. Now it becomes a big turn off for me because the kind of app I am wanting to make is free and has social factors integrated (e.g: Facebook doesn't charge us yet, earning from various channels which I don't know).</p>
+Ok, like several others I also have an idea which I want to build for myself as it will help me to achieve my goals. Now I believe that many others are also suffering from similar issue and I should give it a shot anyway. During the excitement, I could not realize how to make money. Now it becomes a big turn off for me because the kind of app I am wanting to make is free and has social factors integrated (e.g: Facebook doesn't charge us yet, earning from various channels which I don't know).
 
-<p>Now my question is, should I go for it without worrying about money? Can you start earning money just by having huge user base?</p>
-
+Now my question is, should I go for it without worrying about money? Can you start earning money just by having huge user base?
 
 
 ## Answer 1797
@@ -56,12 +55,11 @@ You may find the following sentence from <a href="http://okyasoft.blogspot.sg/20
 - posted by: [Jason ](https://stackexchange.com/users/5270470/jason) on 2015-01-25
 - score: 1
 
-<p>This question really depends on funding and what type of model your business is going for (sounds like a freemium model).</p>
+This question really depends on funding and what type of model your business is going for (sounds like a freemium model).
 
-<p>When creating a platform service that depends on userbase, it is always a dilemma to choose whether one should start placing ads, charge users for additional features, etc. What many worry is if the focus on monetization will detract growth and less focus will be put into the product. Therefore, I would say rather than having the business plan be the focus (not saying it is not unimportant), it is having a budget plan that really matters. The business plan will always change, but drawing out a budget plan and asking yourself where you should be after how much is spent is crucial. The worst case is to develop and then come to the stage where you are short on funding and can't operate anymore.</p>
+When creating a platform service that depends on userbase, it is always a dilemma to choose whether one should start placing ads, charge users for additional features, etc. What many worry is if the focus on monetization will detract growth and less focus will be put into the product. Therefore, I would say rather than having the business plan be the focus (not saying it is not unimportant), it is having a budget plan that really matters. The business plan will always change, but drawing out a budget plan and asking yourself where you should be after how much is spent is crucial. The worst case is to develop and then come to the stage where you are short on funding and can't operate anymore.
 
-<p>Hopefully this helps in some way!</p>
-
+Hopefully this helps in some way!
 
 
 ## Answer 3088
@@ -69,16 +67,15 @@ You may find the following sentence from <a href="http://okyasoft.blogspot.sg/20
 - posted by: [Juan](https://stackexchange.com/users/3239859/juan) on 2015-01-20
 - score: 0
 
-<p>It's completely fine to not have a business plan when you start off. Check in yur area if Founder Institute is holding events and attend them. They have free one which are very informative and they have a paid program which you need to apply and be accepted to get mentorship from them. </p>
+It's completely fine to not have a business plan when you start off. Check in yur area if Founder Institute is holding events and attend them. They have free one which are very informative and they have a paid program which you need to apply and be accepted to get mentorship from them. 
 
-<p>You basically need an idea and a value proposition. The revenue model can be found a little bit later along the way but the important part is to have a value proposition. Wihtout this, you can't really pitch your idea to anyone.</p>
+You basically need an idea and a value proposition. The revenue model can be found a little bit later along the way but the important part is to have a value proposition. Wihtout this, you can't really pitch your idea to anyone.
 
-<p>Once you're done with the value proposition. Create a minimum viable product (MVP). Iterate fast and often. You don't need to have programming chops to do this. There's plenty of open source ressources out there to help you out. The MVP will help you validate your idea. With an MVP you can actually pitch to investors and get them interested. At this point a revenue model is pretty important. Forget about ads. No one will invest in a non-recurring benefit. Work the kinks out of your product. Find a way to sell it. Get a technical co-founder and launch!</p>
+Once you're done with the value proposition. Create a minimum viable product (MVP). Iterate fast and often. You don't need to have programming chops to do this. There's plenty of open source ressources out there to help you out. The MVP will help you validate your idea. With an MVP you can actually pitch to investors and get them interested. At this point a revenue model is pretty important. Forget about ads. No one will invest in a non-recurring benefit. Work the kinks out of your product. Find a way to sell it. Get a technical co-founder and launch!
 
-<p>All this without* a business plan.</p>
+All this without* a business plan.
 
-<p>*The investor will probably ask one so be ready.</p>
-
+*The investor will probably ask one so be ready.
 
 
 

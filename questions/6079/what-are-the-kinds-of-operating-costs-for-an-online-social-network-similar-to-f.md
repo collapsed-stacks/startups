@@ -4,8 +4,7 @@
 - tagged: `startup-costs`, `web-development`, `servers`
 - score: 1
 
-<p>what is average cost for each cost type monthly?any sources for more tech info and details about these various costs?Facebook,Google,LinkedIn,any scalable website case for more experience...</p>
-
+what is average cost for each cost type monthly?any sources for more tech info and details about these various costs?Facebook,Google,LinkedIn,any scalable website case for more experience...
 
 
 ## Answer 6089
@@ -13,10 +12,9 @@
 - posted by: [Alain](https://stackexchange.com/users/21866/alain) on 2015-08-19
 - score: 1
 
-<p>StackOverflow published their specs, for instance here: <a href="https://meta.stackexchange.com/questions/10369/which-tools-and-technologies-are-used-to-build-the-stack-exchange-network">https://meta.stackexchange.com/questions/10369/which-tools-and-technologies-are-used-to-build-the-stack-exchange-network</a></p>
+StackOverflow published their specs, for instance here: https://meta.stackexchange.com/questions/10369/which-tools-and-technologies-are-used-to-build-the-stack-exchange-network
 
-<p>A handful of very large servers (about 10-20). At least as many engineers.</p>
-
+A handful of very large servers (about 10-20). At least as many engineers.
 
 
 

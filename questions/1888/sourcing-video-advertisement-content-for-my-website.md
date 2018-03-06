@@ -4,8 +4,7 @@
 - tagged: `advertising`, `content`
 - score: 2
 
-<p>I have a website that I am planning to launch and I would like to have only Video advertisements on the site. Any pointers on how and where to source the Video advertisement content from? I know, we have likes of Google AdSense, and AdBrite for sourcing textual advertisements but I am not sure about the video advertisements.</p>
-
+I have a website that I am planning to launch and I would like to have only Video advertisements on the site. Any pointers on how and where to source the Video advertisement content from? I know, we have likes of Google AdSense, and AdBrite for sourcing textual advertisements but I am not sure about the video advertisements.
 
 
 ## Answer 1889

@@ -4,8 +4,7 @@
 - tagged: `mobile-apps`, `china`
 - score: 6
 
-<p>What is the right way to publish an app in the Chinese app store? I also heard that they don't accept every app so what are the requirements to get published in Chinese app stores?</p>
-
+What is the right way to publish an app in the Chinese app store? I also heard that they don't accept every app so what are the requirements to get published in Chinese app stores?
 
 
 ## Answer 3335
@@ -13,12 +12,11 @@
 - posted by: [Okyasoft](https://stackexchange.com/users/294248/okyasoft) on 2015-02-05
 - score: 6
 
-<p>It depends on which app store you are talking about? There are several alternative android app stores operated by Chinese companies. Have a look at the following <a href="https://www.techinasia.com/10-android-app-stores-china-2014-edition/" rel="noreferrer">link</a>. The ones run by big Chinese companies like Baidu and Tencent have standard requirements much like the Google Play store. e.g. for Baidu check out the process [here] (<a href="http://app.baidu.com/" rel="noreferrer">http://app.baidu.com/</a>). </p>
+It depends on which app store you are talking about? There are several alternative android app stores operated by Chinese companies. Have a look at the following [link](https://www.techinasia.com/10-android-app-stores-china-2014-edition/). The ones run by big Chinese companies like Baidu and Tencent have standard requirements much like the Google Play store. e.g. for Baidu check out the process [here] (http://app.baidu.com/). 
 
-<p>Since a lot of the documentation and process is in Chinese, I am guessing you will need someone who can translate it for you if you do not know the language. The app itself should have all its content in Chinese.</p>
+Since a lot of the documentation and process is in Chinese, I am guessing you will need someone who can translate it for you if you do not know the language. The app itself should have all its content in Chinese.
 
-<p>Tencent seems to have english documentation and guidelines for their process at their <a href="http://open.qq.com/eng/" rel="noreferrer">open platform website</a>.</p>
-
+Tencent seems to have english documentation and guidelines for their process at their [open platform website](http://open.qq.com/eng/).
 
 
 ## Answer 5630
@@ -39,8 +37,7 @@
 - posted by: [DR Agency](https://stackexchange.com/users/10906690/dr-agency) on 2017-05-16
 - score: 0
 
-<p>there are more than 200 Android app stores in China and each one has different policy. You can choose the popular one like Baidu, 360, Huawei, Wandoujia etc to publish your app. Submit the documents and wait for feedback. Normally it costs one week. Do not publish any thing that against the local law, no gambling, no illegal etc. <a href="https://websiteapp.cn/publish-my-app/" rel="nofollow noreferrer">https://websiteapp.cn/publish-my-app/</a>, hope it helps. If you have any other questions, we will be glad to help.</p>
-
+there are more than 200 Android app stores in China and each one has different policy. You can choose the popular one like Baidu, 360, Huawei, Wandoujia etc to publish your app. Submit the documents and wait for feedback. Normally it costs one week. Do not publish any thing that against the local law, no gambling, no illegal etc. https://websiteapp.cn/publish-my-app/, hope it helps. If you have any other questions, we will be glad to help.
 
 
 

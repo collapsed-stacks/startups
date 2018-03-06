@@ -4,19 +4,19 @@
 - tagged: `profit-sharing`
 - score: 9
 
-<p>ok so maybe my question is badly put so please amend if you can find a better way of stating my problem :-)</p>
+ok so maybe my question is badly put so please amend if you can find a better way of stating my problem :-)
 
-<p>I have built a digital app and I charge people 20$/month to use it. The app has been put up for sale on an app store but I'm not paying for advertising or anything so it's just there and if someone happens to come across it during their search and they like it they will buy it.</p>
+I have built a digital app and I charge people 20$/month to use it. The app has been put up for sale on an app store but I'm not paying for advertising or anything so it's just there and if someone happens to come across it during their search and they like it they will buy it.
 
-<p>Some people have started signing up for it.</p>
+Some people have started signing up for it.
 
-<p>The company I work for learnt about this and want to strike a deal with me. They have customers that could potentially like to use my app so they want to suggest my app to those customers and if those customers end up signing up the company obviously wants to get some part of my earnings from those customers.</p>
+The company I work for learnt about this and want to strike a deal with me. They have customers that could potentially like to use my app so they want to suggest my app to those customers and if those customers end up signing up the company obviously wants to get some part of my earnings from those customers.
 
-<p>How much should that be ? i.e. For every 20$ I make a month from a customer, how much of that should go to the company that suggested my app to that customer ?</p>
+How much should that be ? i.e. For every 20$ I make a month from a customer, how much of that should go to the company that suggested my app to that customer ?
 
-<p>I'm really bad at this as I've never done anything similar before so any percentage I give will be basically random. I am a tech guy and quite bad at finances I guess... It's definitely not going to be 50% but should it be 5% ? 10% ? 20% ?</p>
+I'm really bad at this as I've never done anything similar before so any percentage I give will be basically random. I am a tech guy and quite bad at finances I guess... It's definitely not going to be 50% but should it be 5% ? 10% ? 20% ?
 
-<p>Please keep in mind that the company in question will <em>not</em> be looking for customers for my app, i.e. they won't be spending time for my app. They get customer for other projects and they're simply thinking of suggesting my app as something extra just in case they and I can make some extra cash out of it.</p>
+Please keep in mind that the company in question will *not* be looking for customers for my app, i.e. they won't be spending time for my app. They get customer for other projects and they're simply thinking of suggesting my app as something extra just in case they and I can make some extra cash out of it.
 
 
 
@@ -70,8 +70,7 @@
 - posted by: [Coral](https://stackexchange.com/users/7289746/coral) on 2016-02-15
 - score: 0
 
-<p>If there are no charges from the company to advertise your app id say give them 5% for the next year and review it then after the year. Only then will you be able to determine whether its working or not. If the app is selling up their percentage 10% with a two or three year review  (so for the next two/three years theyll only take 10% until the next review) and so it goes on...</p>
-
+If there are no charges from the company to advertise your app id say give them 5% for the next year and review it then after the year. Only then will you be able to determine whether its working or not. If the app is selling up their percentage 10% with a two or three year review  (so for the next two/three years theyll only take 10% until the next review) and so it goes on...
 
 
 

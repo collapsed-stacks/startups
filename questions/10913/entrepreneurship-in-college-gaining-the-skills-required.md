@@ -4,16 +4,15 @@
 - tagged: `tech-company`, `business-plan`, `business-model`, `growth`, `entrepreneurship`
 - score: 1
 
-<p>Often when reading about successful entrepreneurs you hear about how many times they failed before they achieved success. Throughout the years I've always been interested in start-ups and have formed a few ideas for companies myself, however, I've always been too apprehensive about putting a plan into action because of the steep learning curve involved. I come from a background in maths and problem solving (Actuarial student) with little knowledge in business, business law etc.</p>
+Often when reading about successful entrepreneurs you hear about how many times they failed before they achieved success. Throughout the years I've always been interested in start-ups and have formed a few ideas for companies myself, however, I've always been too apprehensive about putting a plan into action because of the steep learning curve involved. I come from a background in maths and problem solving (Actuarial student) with little knowledge in business, business law etc.
 
-<p>My question is how a undergraduate (specifically an undergraduate not studying business) with limited available funds can set themselves up for success? I realise that some of these skills will be delegated if the business grows, but starting off, what skills would I need? What resources exist out there to learn these skills required to set up and run a functioning business in the early years? (To any successful entrepreneurs out there) What were the things you wish you knew before you started?</p>
+My question is how a undergraduate (specifically an undergraduate not studying business) with limited available funds can set themselves up for success? I realise that some of these skills will be delegated if the business grows, but starting off, what skills would I need? What resources exist out there to learn these skills required to set up and run a functioning business in the early years? (To any successful entrepreneurs out there) What were the things you wish you knew before you started?
 
-<p>In the interest of clarity, my business ideas revolve around software solutions, technology and one general salable product. I have the ability/contacts to make these things possible, I just need the business side skills.</p>
+In the interest of clarity, my business ideas revolve around software solutions, technology and one general salable product. I have the ability/contacts to make these things possible, I just need the business side skills.
 
-<p>I guess this post is the first step of kicking my ass in gear and getting my entrepreneurial hat on. I plan to become a keen member of this community and I'm sure I'll have many questions in the future.</p>
+I guess this post is the first step of kicking my ass in gear and getting my entrepreneurial hat on. I plan to become a keen member of this community and I'm sure I'll have many questions in the future.
 
-<p>Thanks for any input in advance!</p>
-
+Thanks for any input in advance!
 
 
 ## Answer 10942
@@ -21,25 +20,29 @@
 - posted by: [nicole ino](https://stackexchange.com/users/3739969/nicole-ino) on 2016-08-15
 - score: 1
 
-<p>Entrepreneurship is not something teachable. It is something you master with experience. </p>
+Entrepreneurship is not something teachable. It is something you master with experience. 
 
-<p>You have to believe in yourself and never give up.</p>
+You have to believe in yourself and never give up.
 
-<p>That's how I did it. Just start executing your idea. You will learn a lot on your way to success.  </p>
+That's how I did it. Just start executing your idea. You will learn a lot on your way to success.  
 
-<p>I recommend you follow from my experience: </p>
 
-<ul>
-<li>follow few inspiring entrepreneurs</li>
-<li>follow market leaders in your industry </li>
-<li>learn new skills (marketing, sales, customer care) </li>
-<li>most importantly do things you love</li>
-</ul>
+I recommend you follow from my experience: 
 
-<p>PS: you'll learn lot of business skills when you start. Just focus on your goals and work hard to achieve what you want. </p>
+ - follow few inspiring entrepreneurs
+ - follow market leaders in your industry 
+ - learn new skills (marketing, sales, customer care) 
+ - most importantly do things you love
 
-<p>Good luck.  </p>
+PS: you'll learn lot of business skills when you start. Just focus on your goals and work hard to achieve what you want. 
 
+Good luck.  
+
+ 
+
+   
+
+   
 
 
 ## Answer 11025
@@ -47,12 +50,11 @@
 - posted by: [Janet Todorova](https://stackexchange.com/users/7047617/janet-todorova) on 2016-08-28
 - score: 0
 
-<p>The best solution here is to find a co-founder with complimentary skills - you build the product, your partner can do the business part. Life is too short to learn all the necessary skills to build a successful startup on your own.</p>
+The best solution here is to find a co-founder with complimentary skills - you build the product, your partner can do the business part. Life is too short to learn all the necessary skills to build a successful startup on your own.
 
-<p>You can also join a startup accelerator for early-stage entrepreneurs. Usually they provide a structured curriculum of sessions with mentors - experienced entrepreneurs. This will also help you grow your network, grow a team and succeed.</p>
+You can also join a startup accelerator for early-stage entrepreneurs. Usually they provide a structured curriculum of sessions with mentors - experienced entrepreneurs. This will also help you grow your network, grow a team and succeed.
 
-<p>I can recommend The Founder Institute: www.fi.co</p>
-
+I can recommend The Founder Institute: www.fi.co
 
 
 ## Answer 11047

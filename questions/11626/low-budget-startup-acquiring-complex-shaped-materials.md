@@ -4,13 +4,11 @@
 - tagged: `product`, `budget`
 - score: 2
 
-<p>How would a company with a relatively low budget go about producing parts? Simple shapes such as pipes, square tubes etc can easily be bought for a low price, but when it comes for more complex shapes in different materials how should one go about producing them. For example i'm going to need a few complex pieces of plastic with a glossy finish. What would be the best way for me to aquire this? Here are some ideas..</p>
+How would a company with a relatively low budget go about producing parts? Simple shapes such as pipes, square tubes etc can easily be bought for a low price, but when it comes for more complex shapes in different materials how should one go about producing them. For example i'm going to need a few complex pieces of plastic with a glossy finish. What would be the best way for me to aquire this? Here are some ideas..
 
-<ul>
-<li>Buy or rent a high quality 3d printer to print the parts, sand them down and then coat them with something.</li>
-<li>Buy a 3d printed mold in the desired shape from a company selling such servies and then pour in plastic with a lower melting point than that of the mold.</li>
-<li>I was going to write something here but i'm clueless..</li>
-</ul>
+* Buy or rent a high quality 3d printer to print the parts, sand them down and then coat them with something.
+* Buy a 3d printed mold in the desired shape from a company selling such servies and then pour in plastic with a lower melting point than that of the mold.
+* I was going to write something here but i'm clueless..
 
 
 

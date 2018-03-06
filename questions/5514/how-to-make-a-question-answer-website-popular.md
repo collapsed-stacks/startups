@@ -4,10 +4,10 @@
 - tagged: `marketing`, `social-networking`, `networking`
 - score: 1
 
-<p>I'm working on a question answer website about family, relationship, dating and all other social relationships in my local languange.</p>
+I'm working on a question answer website about family, relationship, dating and all other social relationships in my local languange.
 
-<p>I used an open source platform and it's going to be something like the Stack Exchange sites.
-This kind of websites need lots of questions and lots of answers to be useful. How can I reach that point? Should I register fake users and post some fake answers every day?</p>
+I used an open source platform and it's going to be something like the Stack Exchange sites.
+This kind of websites need lots of questions and lots of answers to be useful. How can I reach that point? Should I register fake users and post some fake answers every day?
 
 
 
@@ -16,16 +16,15 @@ This kind of websites need lots of questions and lots of answers to be useful. H
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-06-16
 - score: 2
 
-<p>One option could be to import the questions from the former SE and invite its former users:</p>
+One option could be to import the questions from the former SE and invite its former users:
 
-<p><a href="http://area51.stackexchange.com/proposals/44577/relationships-and-dating">http://area51.stackexchange.com/proposals/44577/relationships-and-dating</a></p>
+http://area51.stackexchange.com/proposals/44577/relationships-and-dating
 
-<p><a href="http://blog.stackoverflow.com/2014/01/stack-exchange-cc-data-now-hosted-by-the-internet-archive/">http://blog.stackoverflow.com/2014/01/stack-exchange-cc-data-now-hosted-by-the-internet-archive/</a></p>
+http://blog.stackoverflow.com/2014/01/stack-exchange-cc-data-now-hosted-by-the-internet-archive/
 
-<p><a href="https://archive.org/details/stackexchange" rel="nofollow">https://archive.org/details/stackexchange</a></p>
+https://archive.org/details/stackexchange
 
-<p>Also, look into why it failed. It's not a given that there's a real demand for such a site, or that there are users who are avid enough to act as psychologists on a day to day basis.</p>
-
+Also, look into why it failed. It's not a given that there's a real demand for such a site, or that there are users who are avid enough to act as psychologists on a day to day basis.
 
 
 ## Answer 7381

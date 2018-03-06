@@ -4,16 +4,13 @@
 - tagged: `pricing`, `product-market-fit`
 - score: 2
 
-<p>I have a mobile app that will be sold by an independent sales force like, say, Mary Kay Cosmetics. The end user will be retail consumers. The mobile app will be white labeled to reflect the Mary Kay brand. It will be rebranded for all the competitors in that space. Like say, Avon, as another example.</p>
+I have a mobile app that will be sold by an independent sales force like, say, Mary Kay Cosmetics. The end user will be retail consumers. The mobile app will be white labeled to reflect the Mary Kay brand. It will be rebranded for all the competitors in that space. Like say, Avon, as another example.
 
-<p>In this situation, I am wondering where the market is regarding a revenue split.</p>
+In this situation, I am wondering where the market is regarding a revenue split.
 
-<h2>Question</h2>
-
-<blockquote>
-  <p><strong>What revenue split would be consistent with the market in this situation?</strong></p>
-</blockquote>
-
+Question
+-
+> **What revenue split would be consistent with the market in this situation?**
 
 ## No Answers
 

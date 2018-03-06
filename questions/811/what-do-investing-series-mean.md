@@ -4,10 +4,9 @@
 - tagged: `financing`, `investors`
 - score: 8
 
-<p>I often see stories about some startup launching a new round of financing. These are normally labeled as series A, B, C etc. </p>
+I often see stories about some startup launching a new round of financing. These are normally labeled as series A, B, C etc. 
 
-<p>Is there any formal difference between these rounds or are they just a way of labeling investing periods? If there is, what is the timeline or process for a startup to proceed through these rounds?</p>
-
+Is there any formal difference between these rounds or are they just a way of labeling investing periods? If there is, what is the timeline or process for a startup to proceed through these rounds?
 
 
 ## Answer 817

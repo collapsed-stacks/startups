@@ -4,11 +4,12 @@
 - tagged: `legal`
 - score: 8
 
-<p>I just found a post on freelancer dot com, asking for 1:1 clone of my company's SAAS web service (they even refer to our domain in the posting).</p>
+I just found a post on freelancer dot com, asking for 1:1 clone of my company's SAAS web service (they even refer to our domain in the posting).
 
-<p>Though it is flattering that somebody thinks it is good enough to want a clone, I do fear loosing some of the hard work and money invested. </p>
+Though it is flattering that somebody thinks it is good enough to want a clone, I do fear loosing some of the hard work and money invested. 
 
-<p>Any advice on how to go about this? </p>
+Any advice on how to go about this? 
+
 
 
 
@@ -17,14 +18,13 @@
 - posted by: [Stone Hearts](https://stackexchange.com/users/7947590/stone-hearts) on 2016-03-14
 - score: 3
 
-<p>Depends on the country you are in, but I doubt your ability to take any legal action against them.</p>
+Depends on the country you are in, but I doubt your ability to take any legal action against them.
 
-<p>You could ask freelance.com to take the request down, but that is unlikely to yield the results you want. As long as they're not copying your logo/content, there is very little that is legally protected with regards to online sites.  Perhaps someone else here would be able to provide you with specific SAAS-Webservice information.  In general, many sites copy existing sites, and its very hard to have a truly unique and protected design.</p>
+You could ask freelance.com to take the request down, but that is unlikely to yield the results you want. As long as they're not copying your logo/content, there is very little that is legally protected with regards to online sites.  Perhaps someone else here would be able to provide you with specific SAAS-Webservice information.  In general, many sites copy existing sites, and its very hard to have a truly unique and protected design.
 
-<p><a href="https://startups.stackexchange.com/questions/7997/using-anothers-website-design">Using Another&#39;s Website Design</a></p>
+https://startups.stackexchange.com/questions/7997/using-anothers-website-design
 
-<p>Related question based on your questions title.</p>
-
+Related question based on your questions title.
 
 
 ## Answer 8743
@@ -55,18 +55,17 @@
 - posted by: [Eric Platon](https://stackexchange.com/users/1533/eric-platon) on 2016-03-15
 - score: 1
 
-<p>Someone citing someone else over the past century said: <a href="http://quoteinvestigator.com/2013/03/06/artists-steal/" rel="nofollow">"Good artists copy; great artists steal."</a> If you get copied, you are onto some good idea.</p>
+Someone citing someone else over the past century said: ["Good artists copy; great artists steal."](http://quoteinvestigator.com/2013/03/06/artists-steal/) If you get copied, you are onto some good idea.
 
-<p>The thing is <em>copyright</em> is pretty intricate and particular. And there are many blurry areas when it comes to software. Pr. <a href="https://en.wikipedia.org/wiki/Lawrence_Lessig" rel="nofollow">Lawrence Lessig</a> is fighting for many years on this very issue (he is an instigator for the Creative Commons, etc.).</p>
+The thing is *copyright* is pretty intricate and particular. And there are many blurry areas when it comes to software. Pr. [Lawrence Lessig](https://en.wikipedia.org/wiki/Lawrence_Lessig) is fighting for many years on this very issue (he is an instigator for the Creative Commons, etc.).
 
-<p>Your question is generic, and as such, it is difficult to give a definitive answer. @Stone Hearts mentions the country, but it also depends on what your service has to offer, and its legal status. For example, do you have any specific copyright on some materials, or patent? Searching your local country legal code could give some hints on what is "copyrighted" by default (e.g. designs, phrasing), and what is not. This can provide a base for action, as necessary.</p>
+Your question is generic, and as such, it is difficult to give a definitive answer. @Stone Hearts mentions the country, but it also depends on what your service has to offer, and its legal status. For example, do you have any specific copyright on some materials, or patent? Searching your local country legal code could give some hints on what is "copyrighted" by default (e.g. designs, phrasing), and what is not. This can provide a base for action, as necessary.
 
-<p>But the best advice to me is to provide the best service as you can, and just keep an eye on competition. You have a much better use of your time. Ersatz are behind---you lead the race. And if your customers are satisfied, they have no rationale to look elsewhere. There might be a price competition at some point, but if your implementation and service are <em>superior</em>, once again there is little worry.</p>
+But the best advice to me is to provide the best service as you can, and just keep an eye on competition. You have a much better use of your time. Ersatz are behind---you lead the race. And if your customers are satisfied, they have no rationale to look elsewhere. There might be a price competition at some point, but if your implementation and service are *superior*, once again there is little worry.
 
-<p>Let's look at some examples: Amazon is <em>the</em> e-commerce web site. Yet the Japanese Rakuten and French PriceMinister (acquired by Rakuten...) are doing well. They are shameful copy of Amazon, and keep copying ideas over time. But Amazon look at them too, and I would bet they get "inspired" by their competitors. All these companies are doing quite well: The pie is pretty big and getting bigger. Amazon does not seem to actively sue them for shameless copying. Yet Amazon is surely keeping an eye on them, just to check if they are going too far in copying.</p>
+Let's look at some examples: Amazon is *the* e-commerce web site. Yet the Japanese Rakuten and French PriceMinister (acquired by Rakuten...) are doing well. They are shameful copy of Amazon, and keep copying ideas over time. But Amazon look at them too, and I would bet they get "inspired" by their competitors. All these companies are doing quite well: The pie is pretty big and getting bigger. Amazon does not seem to actively sue them for shameless copying. Yet Amazon is surely keeping an eye on them, just to check if they are going too far in copying.
 
-<p>Competition is painful, but good. It is a basis of free markets: They can copy, and you can too---in a given legal context. Unfair competition is somewhat regulated, and you can then act upon it, but it is critical to keep in mind this costs time and money.</p>
-
+Competition is painful, but good. It is a basis of free markets: They can copy, and you can too---in a given legal context. Unfair competition is somewhat regulated, and you can then act upon it, but it is critical to keep in mind this costs time and money.
 
 
 ## Answer 8783
@@ -74,24 +73,21 @@
 - posted by: [Marcus D](https://stackexchange.com/users/258531/marcus-d) on 2016-03-21
 - score: 1
 
-<p>@AyKarsi, since you and the copier are in the same country (Germany), I would suggest getting some local legal advice.</p>
+@AyKarsi, since you and the copier are in the same country (Germany), I would suggest getting some local legal advice.
 
-<p>There are some good points in the other answers, which I wont repeat, especially from @fiprojects - particularly like the 3rd point. Offering them position as a sales partner!</p>
+There are some good points in the other answers, which I wont repeat, especially from @fiprojects - particularly like the 3rd point. Offering them position as a sales partner!
 
-<p>I'm not sure how much German law or EU law will protect you in this, but you could examine trademark, patent and copyright from the point of view of any infringements. Then <strong>if</strong> you can prove any of these, then you need to consider if you go ahead, whether you want the expense / effort of litigation!</p>
+I'm not sure how much German law or EU law will protect you in this, but you could examine trademark, patent and copyright from the point of view of any infringements. Then **if** you can prove any of these, then you need to consider if you go ahead, whether you want the expense / effort of litigation!
 
-<p>Unless it is very clear that you would win quickly, I would suggest not going down the legal route, but instead going down the marketing route considering things like the following</p>
+Unless it is very clear that you would win quickly, I would suggest not going down the legal route, but instead going down the marketing route considering things like the following
 
-<ul>
-<li>choosing your USP so that you come out ahead of the competitor</li>
-<li>when their website goes online, subscribe to it and find the bits that are better than yours and incorporate those features ... this could work both ways!</li>
-<li>if appropriate, become a 'thought leader' in your niche</li>
-<li>blog, market, SEO - get people to know about you first</li>
-<li>if possible try and establish your presence as being the 'company with experience', especially compared to the new guys!</li>
-</ul>
+ - choosing your USP so that you come out ahead of the competitor
+ - when their website goes online, subscribe to it and find the bits that are better than yours and incorporate those features ... this could work both ways!
+ - if appropriate, become a 'thought leader' in your niche
+ - blog, market, SEO - get people to know about you first
+ - if possible try and establish your presence as being the 'company with experience', especially compared to the new guys!
 
-<p>Good luck!</p>
-
+Good luck!
 
 
 

@@ -4,7 +4,8 @@
 - tagged: `lean-startup`, `profit-sharing`, `content`
 - score: 1
 
-<p>I am running a startup website for online users to share video content on my website , and I am not sure what incentives should I give them? I do not want to give them money, so what incentives can make users record videos and share it on my website?</p>
+I am running a startup website for online users to share video content on my website , and I am not sure what incentives should I give them? I do not want to give them money, so what incentives can make users record videos and share it on my website?
+
 
 
 
@@ -13,33 +14,26 @@
 - posted by: [paulzag](https://stackexchange.com/users/5451744/paulzag) on 2016-07-14
 - score: 1
 
-<p>Gamification is one way. And seeing as you're asking on stackexchange, the whole reputation and badges process gamifies interaction and participation.</p>
+Gamification is one way. And seeing as you're asking on stackexchange, the whole reputation and badges process gamifies interaction and participation.
 
-<p>So you can try</p>
+So you can try
 
-<ol>
-<li>Leaderboards #number of videos uploaded.</li>
-<li>Badges #number of days/weeks streak of consecutive uploads</li>
-</ol>
+ 1. Leaderboards #number of videos uploaded.
+ 2. Badges #number of days/weeks streak of consecutive uploads
 
-<p>Contests are another good way to incentivise uploads.</p>
+Contests are another good way to incentivise uploads.
 
-<ol>
-<li>Thematic contests e.g. cat videos</li>
-<li>Featured item videos e.g. "Wild Strawberries" - see Tropfest items</li>
-<li>Target demographic - e.g. school students or film school students</li>
-</ol>
+ 1. Thematic contests e.g. cat videos
+ 2. Featured item videos e.g. "Wild Strawberries" - see Tropfest items
+ 3. Target demographic - e.g. school students or film school students
 
-<p>Inspiration and challenges</p>
+Inspiration and challenges
 
-<ol>
-<li>Finish the sentence "My grandmother taught me..."</li>
-<li>Shoot the sunrise from your house.</li>
-<li>Give them a shotlist and they submit their movie.</li>
-</ol>
+ 1. Finish the sentence "My grandmother taught me..."
+ 2. Shoot the sunrise from your house.
+ 3. Give them a shotlist and they submit their movie.
 
-<p>This is all assuming the videos you want are some sort of creative process. If you want Minecraft game-play videos I can't think of anything.</p>
-
+This is all assuming the videos you want are some sort of creative process. If you want Minecraft game-play videos I can't think of anything.
 
 
 ## Answer 9713
@@ -47,8 +41,7 @@
 - posted by: [Community](https://stackexchange.com/users/-1/community) on 2016-07-15
 - score: 0
 
-<p>Make them feel like they are part of a <strong>community</strong>.</p>
-
+Make them feel like they are part of a **community**.
 
 
 

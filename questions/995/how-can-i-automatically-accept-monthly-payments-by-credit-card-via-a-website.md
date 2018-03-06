@@ -4,18 +4,17 @@
 - tagged: `tech-company`, `merchant-services`, `payment`, `saas`
 - score: 1
 
-<p>I'm looking to set up a service that has a flat monthly fee. How can I set up my website to allow users to input a credit card that then automatically gets billed monthly, with minimal human intervention?</p>
+I'm looking to set up a service that has a flat monthly fee. How can I set up my website to allow users to input a credit card that then automatically gets billed monthly, with minimal human intervention?
 
-<p>As I understand it, QuickBooks does what I want, kind of. But that requires human intervention (practically speaking, at least). It'll be relatively low-volume, so I <em>could</em> theoretically just accept credit card information and manually via a regular <code>TextBox</code>, then feed myself an alert to copy that into QuickBooks (or equivalent) every time someone signs up. But that seems like it could become cumbersome pretty quickly, not to mention nothing would be validated (beyond the unimpressive checksums you can find online) until I had gotten around to typing it up.</p>
+As I understand it, QuickBooks does what I want, kind of. But that requires human intervention (practically speaking, at least). It'll be relatively low-volume, so I *could* theoretically just accept credit card information and manually via a regular `TextBox`, then feed myself an alert to copy that into QuickBooks (or equivalent) every time someone signs up. But that seems like it could become cumbersome pretty quickly, not to mention nothing would be validated (beyond the unimpressive checksums you can find online) until I had gotten around to typing it up.
 
-<p>I looked around online, but all the solutions I can find are for one-off purchases (like in a web-based store).</p>
+I looked around online, but all the solutions I can find are for one-off purchases (like in a web-based store).
 
-<p>Just as examples, and they clearly have to deal with higher loads than I would, an ideal solution would be something like I imagine Netflix, Hulu Plus, SharePoint Online, etc. would use. I suspect <em>they</em> don't have someone sitting and copying over everyone's credit card information.</p>
+Just as examples, and they clearly have to deal with higher loads than I would, an ideal solution would be something like I imagine Netflix, Hulu Plus, SharePoint Online, etc. would use. I suspect *they* don't have someone sitting and copying over everyone's credit card information.
 
-<p>I suppose I could write a web-job or something, perhaps, to run in the background and bill people monthly, if an ecommerce plug-in had a code-only API available. But that just seems like it would be more trouble than it should be.</p>
+I suppose I could write a web-job or something, perhaps, to run in the background and bill people monthly, if an ecommerce plug-in had a code-only API available. But that just seems like it would be more trouble than it should be.
 
-<p>How can a SaaS startup automatically accept monthly payments?</p>
-
+How can a SaaS startup automatically accept monthly payments?
 
 
 ## Answer 997
@@ -47,10 +46,9 @@
 - posted by: [blunders](https://stackexchange.com/users/216182/blunders) on 2014-10-15
 - score: 1
 
-<p>Pretty much any major payment gateway should offer this service. Unless you're PCI compliant, you <strong>really</strong> should not be storing credit card payment information. For example, PayPal has <a href="https://www.paypal.c/pdn-recurring" rel="nofollow">subscription and recurring payment services</a>.</p>
+Pretty much any major payment gateway should offer this service. Unless you're PCI compliant, you **really** should not be storing credit card payment information. For example, PayPal has [subscription and recurring payment services](https://www.paypal.c/pdn-recurring ).
 
-<p>Main things to look for in a recurring payment service are automated alerts to that allow you to end service, and enable the payer to fix the issue on their own; meaning put in a new CC, change/approve the payment amount/type, etc.</p>
-
+Main things to look for in a recurring payment service are automated alerts to that allow you to end service, and enable the payer to fix the issue on their own; meaning put in a new CC, change/approve the payment amount/type, etc.
 
 
 

@@ -4,21 +4,19 @@
 - tagged: `payment`
 - score: 3
 
-<p>I am working on an app which receives payments for products Z owned by clients B from clients C</p>
+I am working on an app which receives payments for products Z owned by clients B from clients C
 
-<ol>
-<li>Client A publishes a product Z for selling => </li>
-<li>Client B buys it =></li>
-<li>My App receives the money via Stripe =></li>
-<li>Client A needs to receive the money minus my fee and commissions.</li>
-</ol>
 
-<p>I am wondering what's the easiest automated way to perform the step 4?</p>
+1. Client A publishes a product Z for selling => 
+2. Client B buys it =>
+3. My App receives the money via Stripe =>
+4. Client A needs to receive the money minus my fee and commissions.
 
-<p>Do I need to integrate another service into my app to send payments to clients? Or can I do this inside current Stripe setup?</p>
+I am wondering what's the easiest automated way to perform the step 4?
 
-<p>Please recommend.</p>
+Do I need to integrate another service into my app to send payments to clients? Or can I do this inside current Stripe setup?
 
+Please recommend.
 
 
 ## Answer 11345
@@ -26,10 +24,9 @@
 - posted by: [Jeremy Parsons](https://stackexchange.com/users/497810/jeremy-parsons) on 2016-10-14
 - score: 1
 
-<p>Take a look at <strong>chained payments</strong>, supported by both Stripe and PayPal. </p>
+Take a look at **chained payments**, supported by both Stripe and PayPal. 
 
-<p>You need to think about who the customer is buying from (and will see on the transaction detail) and be very clear about the payment logic. That's doubly important if you have to deal with refunds.</p>
-
+You need to think about who the customer is buying from (and will see on the transaction detail) and be very clear about the payment logic. That's doubly important if you have to deal with refunds.
 
 
 ## Answer 11487

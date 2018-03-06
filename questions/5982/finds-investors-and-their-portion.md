@@ -4,12 +4,13 @@
 - tagged: `funding`, `investment`
 - score: 0
 
-<p>I have found a great engineering idea in university, and i am going to run my own business using this idea.</p>
+I have found a great engineering idea in university, and i am going to run my own business using this idea.
 
-<p>1- If an investor accepts to invest about 100 unit on my idea (<strong>100</strong>% of the investment on idea) and after one year our company earn 10 unit net. How many units can I expect to earn out of this 10 units?</p>
 
-<p>2- What is the best way to find investors?</p>
+1- If an investor accepts to invest about 100 unit on my idea (**100**% of the investment on idea) and after one year our company earn 10 unit net. How many units can I expect to earn out of this 10 units?
 
+
+2- What is the best way to find investors?
 
 
 ## Answer 5985

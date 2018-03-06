@@ -4,10 +4,9 @@
 - tagged: `pricing`, `saas`, `discounts`
 - score: 2
 
-<p>How is the typical way to present volume discount to SaaS offering for large accounts ?</p>
+How is the typical way to present volume discount to SaaS offering for large accounts ?
 
-<p>If the standard prices are for example $50/seat/month. Should we define an extra segment starting with a fixed minimum quantity (eg: 35 units) that will be proposed with a lower price (eg : $40) ? In this case, is it ok that at the limit it presents a contradiction : 34 x $50 > 35 x $40 ?</p>
-
+If the standard prices are for example $50/seat/month. Should we define an extra segment starting with a fixed minimum quantity (eg: 35 units) that will be proposed with a lower price (eg : $40) ? In this case, is it ok that at the limit it presents a contradiction : 34 x $50 > 35 x $40 ?
 
 
 ## Answer 3917

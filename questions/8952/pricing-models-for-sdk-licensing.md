@@ -4,14 +4,13 @@
 - tagged: `mobile-apps`, `startup-costs`, `pricing`, `licensing`
 - score: 3
 
-<p>My startup is selling multiplatform (iOS / Android / OSX / Win) software development kits (SDKs) for mobile and desktop app makers. The SDKs help devs to faster implement some audio features in their apps (playback, recording, sound effects, sound analysis, etc.), not to have to write their own implementations.</p>
+My startup is selling multiplatform (iOS / Android / OSX / Win) software development kits (SDKs) for mobile and desktop app makers. The SDKs help devs to faster implement some audio features in their apps (playback, recording, sound effects, sound analysis, etc.), not to have to write their own implementations.
 
-<p>We've been selling these for a flat "per-app" fee. </p>
+We've been selling these for a flat "per-app" fee. 
 
-<p>However, we'd like to change the model to make the kits more widely used and more affordable for independent app devs. </p>
+However, we'd like to change the model to make the kits more widely used and more affordable for independent app devs. 
 
-<p>What are the recommended models? </p>
-
+What are the recommended models? 
 
 
 ## Answer 8973

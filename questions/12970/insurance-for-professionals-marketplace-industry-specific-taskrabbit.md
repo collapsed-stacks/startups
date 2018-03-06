@@ -4,12 +4,11 @@
 - tagged: `insurance`, `marketplace`
 - score: 4
 
-<p>I'm looking into the pricing and availability of insurance against claims that can be brought against a marketplace (think TaskRabbit, UrbanSitter, etc) for crimes and errors committed by the service providers against their clients (members of the public, registered on site). </p>
+I'm looking into the pricing and availability of insurance against claims that can be brought against a marketplace (think TaskRabbit, UrbanSitter, etc) for crimes and errors committed by the service providers against their clients (members of the public, registered on site). 
 
-<p>What are the terms and things to start my research from? Any experts to reach out to for consultation? </p>
+What are the terms and things to start my research from? Any experts to reach out to for consultation? 
 
-<p>Target Market: US. </p>
-
+Target Market: US. 
 
 ## No Answers
 

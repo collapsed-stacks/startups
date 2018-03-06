@@ -4,21 +4,21 @@
 - tagged: `accelerators`
 - score: 5
 
-<ul>
-<li>Facebook has Fbstart</li>
-<li>Google has Google Launchpad</li>
-<li>IBM has SmartCamp &amp; PartnerWorld</li>
-<li>Microsoft Bizspark</li>
-<li>Amazon Startups</li>
-</ul>
+- Facebook has Fbstart
+- Google has Google Launchpad
+- IBM has SmartCamp & PartnerWorld
+- Microsoft Bizspark
+- Amazon Startups
 
-<p>I haven't come across any other yet. But I wonder why they have these programs?
-Is it because they want to acquire highly potential companies before they become multi billion dollar companies? Or do they really want to help out startups? Why?</p>
+I haven't come across any other yet. But I wonder why they have these programs?
+Is it because they want to acquire highly potential companies before they become multi billion dollar companies? Or do they really want to help out startups? Why?
 
-<p>They also don't seem to be adding too much but I'd want to hear that from someone who has participated in something like this.</p>
+They also don't seem to be adding too much but I'd want to hear that from someone who has participated in something like this.
 
-<p>I feel like <a href="http://digitalclaritygroup.com/wordpress/wp-content/uploads/2012/08/trap.png" rel="nofollow">this</a> is the case.</p>
+I feel like [this][1] is the case.
 
+
+  [1]: http://digitalclaritygroup.com/wordpress/wp-content/uploads/2012/08/trap.png
 
 
 ## Answer 5307
@@ -26,12 +26,11 @@ Is it because they want to acquire highly potential companies before they become
 - posted by: [A E](https://stackexchange.com/users/5191744/a-e) on 2015-05-18
 - score: 1
 
-<p>Providing free access for developers - at a small scale - is one way of getting a competitive advantage over your rivals, because the platform which has more developers who are familiar with it will get used more in production.</p>
+Providing free access for developers - at a small scale - is one way of getting a competitive advantage over your rivals, because the platform which has more developers who are familiar with it will get used more in production.
 
-<p>It's the same reason that Adobe gives out very-cheap copies of Photoshop to design students - they want it to continue to be an industry standard, and to make that happen they need a large base of people who know how to use it.</p>
+It's the same reason that Adobe gives out very-cheap copies of Photoshop to design students - they want it to continue to be an industry standard, and to make that happen they need a large base of people who know how to use it.
 
-<p>I'm sure the PR and the potential access to acquisitions doesn't do any harm either. ;)</p>
-
+I'm sure the PR and the potential access to acquisitions doesn't do any harm either. ;)
 
 
 ## Answer 5302
@@ -39,9 +38,10 @@ Is it because they want to acquire highly potential companies before they become
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-05-17
 - score: 0
 
-<p>In my opinion, they mostly do it because of down-to-earth ROI reasons: the return on their cash hoard isn't great when it sits idle on a bank account or in US treasuries. Being able to spot promising startups when they're still cheap comes as a bonus. And boosts the ROI further.</p>
+In my opinion, they mostly do it because of down-to-earth ROI reasons: the return on their cash hoard isn't great when it sits idle on a bank account or in US treasuries. Being able to spot promising startups when they're still cheap comes as a bonus. And boosts the ROI further.
 
-<p>The idea of wanting to help might be genuine. A related aspect might be: as a service for entrepreneurial-driven employees. But this might be corporate fairy tales -- I can't say.</p>
+The idea of wanting to help might be genuine. A related aspect might be: as a service for entrepreneurial-driven employees. But this might be corporate fairy tales -- I can't say.
+
 
 
 

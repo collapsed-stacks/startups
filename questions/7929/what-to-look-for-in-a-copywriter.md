@@ -4,18 +4,17 @@
 - tagged: `marketing`
 - score: 3
 
-<p>I am looking for your advise regarding copy-writing as I do not have any relevant experience in this domain.   </p>
+I am looking for your advise regarding copy-writing as I do not have any relevant experience in this domain.   
 
-<p>I am building a new startup where startups connect with early adopters segmented based on products they used before.</p>
+I am building a new startup where startups connect with early adopters segmented based on products they used before.
 
-<p>I am publishing stories of startups which validated their products before. My goal of this blog is to make visitors subscribe to our mailing list, so I want to hire a freelance copywriter but I do not know what are the qualification to look for. Please share your experience in the following:</p>
+I am publishing stories of startups which validated their products before. My goal of this blog is to make visitors subscribe to our mailing list, so I want to hire a freelance copywriter but I do not know what are the qualification to look for. Please share your experience in the following:
 
-<ol>
-<li>How to tell a good from a bad copywriter (I do not even know what good/bad means)?</li>
-<li>What are the metrics to measure quality?</li>
-<li>Is there a standard process that copywriters usually follow?</li>
-<li>What are the technical skills, I must look for?  </li>
-</ol>
+
+ 1. How to tell a good from a bad copywriter (I do not even know what good/bad means)?
+ 2. What are the metrics to measure quality?
+ 3. Is there a standard process that copywriters usually follow?
+ 4. What are the technical skills, I must look for?  
 
 
 
@@ -45,25 +44,23 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-11-26
 - score: 0
 
-<p>Simple test: Google them and start reading what they write. If they bore you out, they'll probably bore your readers out too.</p>
+Simple test: Google them and start reading what they write. If they bore you out, they'll probably bore your readers out too.
 
-<p>More practically:</p>
+More practically:
 
-<ul>
-<li><p>Good writers get to the point. They often copy-edit what they write to strip out words - and sentences - that add no value.</p></li>
-<li><p>Good copywriters talk to their readers with an active voice, use action verbs, and strive to keep things concrete: "Contact us and our sales team will get back to you".</p></li>
-<li><p>Great copywriters are storytellers. A good story has a hero your readers can identify with, a complication, and a resolution.</p></li>
-<li><p>Good sales copywriters understand the importance of headlines. Quoting John Caples (it's called the "Caples Award" for a reason):</p>
+- Good writers get to the point. They often copy-edit what they write to strip out words - and sentences - that add no value.
 
-<blockquote>
-  <p>... I spend hours on headlines - days if necessary. And when I get a good headline, I know that my task is nearly finished. Writing copy can usually be done in a short time, if necessary. And that advertisement will be a good one - that is, if the headline is a stopper.</p>
-</blockquote></li>
-</ul>
+- Good copywriters talk to their readers with an active voice, use action verbs, and strive to keep things concrete: "Contact us and our sales team will get back to you".
 
-<p>In terms of process, the key is research. You need to do some - a lot, in fact - to find a good angle. Beyond that it depends on the writer. Some massage each sentence as they go. Others brain dump their thoughts and trim. I'm more of the latter.</p>
+- Great copywriters are storytellers. A good story has a hero your readers can identify with, a complication, and a resolution.
 
-<p>Being technical can actually get in your way: you end up needing a lot of empathy to get your point across in pain English. By contrast, a non-techie will <em>make you</em> say it in plain English until <em>they</em> grok it well enough to spew it back at you. It's a bit approximate at times but the net result is worth it.</p>
+- Good sales copywriters understand the importance of headlines. Quoting John Caples (it's called the "Caples Award" for a reason):
 
+  > ... I spend hours on headlines - days if necessary. And when I get a good headline, I know that my task is nearly finished. Writing copy can usually be done in a short time, if necessary. And that advertisement will be a good one - that is, if the headline is a stopper.
+
+In terms of process, the key is research. You need to do some - a lot, in fact - to find a good angle. Beyond that it depends on the writer. Some massage each sentence as they go. Others brain dump their thoughts and trim. I'm more of the latter.
+
+Being technical can actually get in your way: you end up needing a lot of empathy to get your point across in pain English. By contrast, a non-techie will *make you* say it in plain English until *they* grok it well enough to spew it back at you. It's a bit approximate at times but the net result is worth it.
 
 
 

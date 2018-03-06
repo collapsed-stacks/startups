@@ -4,10 +4,9 @@
 - tagged: `equity`, `partnership`, `co-founder`
 - score: 4
 
-<p>I've built an audience on social media with roughly 100,000 followers. I've been able to generate $80k-$100k a year in <strong>profit</strong> from them. I'm looking to build a platform outside of social media. He's a full-stack developer and I'm a front-end developer/designer. I'll also be putting in $30k-$50k for inventory.</p>
+I've built an audience on social media with roughly 100,000 followers. I've been able to generate $80k-$100k a year in **profit** from them. I'm looking to build a platform outside of social media. He's a full-stack developer and I'm a front-end developer/designer. I'll also be putting in $30k-$50k for inventory.
 
-<p>Should it be a 50/50 split?</p>
-
+Should it be a 50/50 split?
 
 
 ## Answer 9422
@@ -15,16 +14,15 @@
 - posted by: [Alari Truuts](https://stackexchange.com/users/5357302/alari-truuts) on 2016-06-08
 - score: 1
 
-<p>I have answered this sort of question here: <a href="https://startups.stackexchange.com/questions/9322/splitting-equity-between-founders/9323#9323">Splitting equity between founders</a> and there are quite a few materials online that would help explain, but my suggestion is:</p>
+I have answered this sort of question here: https://startups.stackexchange.com/questions/9322/splitting-equity-between-founders/9323#9323 and there are quite a few materials online that would help explain, but my suggestion is:
 
-<p>Determine the potential value of your business at the moment.</p>
+Determine the potential value of your business at the moment.
 
-<p>Based on that number see what your money buys you and determine the worth of free work on each of you (if you had a salary) and how much value that persons work adds to the company.</p>
+Based on that number see what your money buys you and determine the worth of free work on each of you (if you had a salary) and how much value that persons work adds to the company.
 
-<p>Let's say your company is worth 100k, you put in 50k that should buy you 50% now for the rest let's say your contributions are equal 50/50, then split he remainder and you get 75% he gets 25%. If the co-founders input is crucial and without it there'd be no business consider a bigger share for him.</p>
+Let's say your company is worth 100k, you put in 50k that should buy you 50% now for the rest let's say your contributions are equal 50/50, then split he remainder and you get 75% he gets 25%. If the co-founders input is crucial and without it there'd be no business consider a bigger share for him.
 
-<p>The thing is, noone can tell you how much equity you should give/get, in the end it's all up to communication and compromises.. You should never however undervalue a developer and have him a share that keeps him interested and motivated. If his share worth per year is equal to what he'd make working regularly, he might..</p>
-
+The thing is, noone can tell you how much equity you should give/get, in the end it's all up to communication and compromises.. You should never however undervalue a developer and have him a share that keeps him interested and motivated. If his share worth per year is equal to what he'd make working regularly, he might..
 
 
 ## Answer 9428

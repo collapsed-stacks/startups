@@ -4,22 +4,21 @@
 - tagged: `untagged`
 - score: 1
 
-<p>I just created my company.</p>
+I just created my company.
 
-<p>Now I have to pay 34.4$ to buy my shares.</p>
+Now I have to pay 34.4$ to buy my shares.
 
-<p>I can't write a check, but I can do a wire transfer.</p>
+I can't write a check, but I can do a wire transfer.
 
-<p>My bank will have some fees, the company bank will have some fees, but it's always hard to know how much.</p>
+My bank will have some fees, the company bank will have some fees, but it's always hard to know how much.
 
-<p>Say I spend for example 50$ to to pay 15.6$ of outbound bank fees, then I send 34.4$ to the company</p>
+Say I spend for example 50$ to to pay 15.6$ of outbound bank fees, then I send 34.4$ to the company
 
-<p>Then the company's bank charge 5$ inbound bank fee, so finally the company account received 29.4$</p>
+Then the company's bank charge 5$ inbound bank fee, so finally the company account received 29.4$
 
-<p>Did I buy 34.4$ worth of shares ? or 29.4$ worth of shares ?</p>
+Did I buy 34.4$ worth of shares ? or 29.4$ worth of shares ?
 
-<p>Thanks !</p>
-
+Thanks !
 
 ## No Answers
 

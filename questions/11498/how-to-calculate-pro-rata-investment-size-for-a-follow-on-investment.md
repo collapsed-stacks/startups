@@ -4,12 +4,11 @@
 - tagged: `valuation`, `term-sheet`, `terminology`
 - score: 1
 
-<p>Say a VC has invested $3M in last round which had a post-money valuation of $15M, and that investment gave her a 20% stake in the company. And she was given the pro-rata rights for future round(s). </p>
+Say a VC has invested $3M in last round which had a post-money valuation of $15M, and that investment gave her a 20% stake in the company. And she was given the pro-rata rights for future round(s). 
 
-<p>The current round now has a post-money valuation of $30M, in order to pro rata her investment, does it mean that the VC needs to put in another 30*0.2-3 = 3M to maintain her 20% stake after this round?</p>
+The current round now has a post-money valuation of $30M, in order to pro rata her investment, does it mean that the VC needs to put in another 30*0.2-3 = 3M to maintain her 20% stake after this round?
 
-<p>Is that how it works?</p>
-
+Is that how it works?
 
 ## No Answers
 

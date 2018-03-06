@@ -4,12 +4,11 @@
 - tagged: `marketing`, `sales`, `growth`
 - score: 0
 
-<p>When does a normal lead become a "Marketing Qualified Lead"?</p>
+When does a normal lead become a "Marketing Qualified Lead"?
 
-<p>I am a data scientist trying to understand the way lead scoring is done. So, can someone give a simple explanation on how the above process is done?</p>
+I am a data scientist trying to understand the way lead scoring is done. So, can someone give a simple explanation on how the above process is done?
 
-<p>I the scoring process/mechanism company dependant?</p>
-
+I the scoring process/mechanism company dependant?
 
 
 ## Answer 8506
@@ -17,10 +16,9 @@
 - posted by: [Andrius Darulis](https://stackexchange.com/users/7811429/andrius-darulis) on 2016-02-11
 - score: 2
 
-<p>Its a bit company dependant and there are several techniques. You can look at BANT for guidance. BANT technique says, that to qualify a lead you must identify: what budget your lead has, authority (who will make purchasing decision), need (pain points of the customer) and time frime (during which the purchase will be done)</p>
+Its a bit company dependant and there are several techniques. You can look at BANT for guidance. BANT technique says, that to qualify a lead you must identify: what budget your lead has, authority (who will make purchasing decision), need (pain points of the customer) and time frime (during which the purchase will be done)
 
-<p>Then it depends on the company structure and your sales process who will do this qualification - marketing or sales guys. Sometimes marketing can do all of the BANT qualification, sometimes they only check if the lead is in your target market and then sales do the rest. </p>
-
+Then it depends on the company structure and your sales process who will do this qualification - marketing or sales guys. Sometimes marketing can do all of the BANT qualification, sometimes they only check if the lead is in your target market and then sales do the rest. 
 
 
 ## Answer 8510

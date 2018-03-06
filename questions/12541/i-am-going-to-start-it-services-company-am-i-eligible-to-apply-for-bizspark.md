@@ -4,12 +4,11 @@
 - tagged: `bizspark`
 - score: 0
 
-<p>I am going to start a IT company where services would be provided for Xamarin, .NET, PHP and other basic technologies. Am I eligible to apply for Microsoft BizSpark program?</p>
+I am going to start a IT company where services would be provided for Xamarin, .NET, PHP and other basic technologies. Am I eligible to apply for Microsoft BizSpark program?
 
-<p>Looking forward to your responses.</p>
+Looking forward to your responses.
 
-<p>Thanks.</p>
-
+Thanks.
 
 
 ## Answer 12543
@@ -17,28 +16,24 @@
 - posted by: [Smit](https://stackexchange.com/users/7665731/smit) on 2017-04-23
 - score: 3
 
-<p>Yes, with the information provided you can apply for Bizspark.</p>
+Yes, with the information provided you can apply for Bizspark.
 
-<blockquote>
-  <p>if you are a software startup (not a consulting firm), less than 3
-  years, making less than 1M$ in annual revenues, you WILL be accepted.</p>
-</blockquote>
+> if you are a software startup (not a consulting firm), less than 3
+> years, making less than 1M$ in annual revenues, you WILL be accepted.
 
-<p>Also, take note that you need to be registered company.</p>
+Also, take note that you need to be registered company.
 
-<p>Hope this helps.</p>
+Hope this helps.
 
-<p>Ref: </p>
+Ref: 
 
-<p><a href="https://bizspark.microsoft.com/about/faq" rel="nofollow noreferrer">https://bizspark.microsoft.com/about/faq</a></p>
+https://bizspark.microsoft.com/about/faq
 
-<p>And there are many others helpful stackexchange questions such as</p>
+And there are many others helpful stackexchange questions such as
 
-<ul>
-<li><p><a href="https://startups.stackexchange.com/questions/7413/how-to-apply-for-bizspark-with-a-start-up-idea">How to apply for bizspark with a start-up idea?</a></p></li>
-<li><p><a href="https://startups.stackexchange.com/questions/5631/azure-bizspark-application">Azure BizSpark application</a></p></li>
-</ul>
+- https://startups.stackexchange.com/questions/7413/how-to-apply-for-bizspark-with-a-start-up-idea
 
+- https://startups.stackexchange.com/questions/5631/azure-bizspark-application
 
 
 ## Answer 12544
@@ -46,8 +41,7 @@
 - posted by: [Scott Moses Sunarto](https://stackexchange.com/users/5589688/scott-moses-sunarto) on 2017-04-24
 - score: 0
 
-<p>BizSpark does not accept IT companies moving in consultant/service business. They will only accept your company if you can show them your existing products/plan/prototype</p>
-
+BizSpark does not accept IT companies moving in consultant/service business. They will only accept your company if you can show them your existing products/plan/prototype
 
 
 

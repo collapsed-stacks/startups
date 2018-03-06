@@ -4,10 +4,9 @@
 - tagged: `legal`
 - score: 3
 
-<p>My startup is selling digital products from a German-based company to end consumers (B2C). When selling to a 3rd party country (non-EU, e.g. Canada), we don't need to add German VAT (19%), but send the invoice with 0% VAT. However, my accountant now says, that I've to register with the tax authorities in all those 3rd party countries and declare VAT (or similar taxes) there.</p>
+My startup is selling digital products from a German-based company to end consumers (B2C). When selling to a 3rd party country (non-EU, e.g. Canada), we don't need to add German VAT (19%), but send the invoice with 0% VAT. However, my accountant now says, that I've to register with the tax authorities in all those 3rd party countries and declare VAT (or similar taxes) there.
 
-<p>Does anyone have experience with that and know how this is handled the right way? I already did a couple of hours of online research and the problem there is, everyone says something else. Some refer to the German "Umsatzsteuergesetz", but my accountant is right that this doesn't apply to 3rd party countries and it's our responsibility to comply to each of their laws and register with each country's tax authorities. Which makes sense. Practically speaking, though, I don't think small companies are able to do this. How is this typically handled?</p>
-
+Does anyone have experience with that and know how this is handled the right way? I already did a couple of hours of online research and the problem there is, everyone says something else. Some refer to the German "Umsatzsteuergesetz", but my accountant is right that this doesn't apply to 3rd party countries and it's our responsibility to comply to each of their laws and register with each country's tax authorities. Which makes sense. Practically speaking, though, I don't think small companies are able to do this. How is this typically handled?
 
 
 ## Answer 7643

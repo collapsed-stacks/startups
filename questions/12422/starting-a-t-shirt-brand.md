@@ -4,15 +4,16 @@
 - tagged: `intellectual-property`, `idea`
 - score: -2
 
-<p>I want to start a t-shirt brand, and I want to start with the simplest setup. </p>
+I want to start a t-shirt brand, and I want to start with the simplest setup. 
 
-<ul>
-<li><p>I want to hire freelancers to get some designs. How am I sure the designers won't sell the design to any other people?</p></li>
-<li><p>I want to hire a business to print this design on the t-shirt. How am I sure this business won't print my design to any other t-shirt? </p></li>
-<li><p>I also want to buy the t-shirts from China. Or at least, buy them to the business that is gonna print the designs on the t-shirts. </p></li>
-</ul>
+ - I want to hire freelancers to get some designs. How am I sure the designers won't sell the design to any other people?
+ 
+ - I want to hire a business to print this design on the t-shirt. How am I sure this business won't print my design to any other t-shirt? 
+ 
+ - I also want to buy the t-shirts from China. Or at least, buy them to the business that is gonna print the designs on the t-shirts. 
 
-<p>I am living in Chile if it adds something to the discussion.</p>
+I am living in Chile if it adds something to the discussion.
+
 
 
 
@@ -34,18 +35,17 @@
 - posted by: [theonlydanever](https://stackexchange.com/users/4692060/theonlydanever) on 2017-04-05
 - score: 0
 
-<p>You need to consider how you're paying the designers - because commissioning (i.e., paying for) a design will sometimes mean you own the rights to the image and then can sell the design on a t-shirt. It may cost you more this way though, because you're effectively having to pay extra for the rights to distribute. But the benefit would be that you're taking all the profit after you've broken even on paying for the design, buying t-shirts, printing and distributing. </p>
+You need to consider how you're paying the designers - because commissioning (i.e., paying for) a design will sometimes mean you own the rights to the image and then can sell the design on a t-shirt. It may cost you more this way though, because you're effectively having to pay extra for the rights to distribute. But the benefit would be that you're taking all the profit after you've broken even on paying for the design, buying t-shirts, printing and distributing. 
 
-<p>Alternatively, you could offer to pay the designer per t-shirt sold... which is how RedBubble do it, I believe. No sales = No money. I can't imagine this would be easy to negotiate with the designer though, because you're not offering a widely used platform and they could take their design elsewhere and get more recognition.</p>
+Alternatively, you could offer to pay the designer per t-shirt sold... which is how RedBubble do it, I believe. No sales = No money. I can't imagine this would be easy to negotiate with the designer though, because you're not offering a widely used platform and they could take their design elsewhere and get more recognition.
 
-<p>Not to mention the turnaround time- Redbubble's popular because they have multiple dedicated printers and can distribute relatively quickly to anywhere in the world.</p>
+Not to mention the turnaround time- Redbubble's popular because they have multiple dedicated printers and can distribute relatively quickly to anywhere in the world.
 
-<p>It sounds like, what you're basically asking for, is a free design for you to print and make money from. Not to sound harsh, but what are you bringing to the party if you're outsourcing everything?</p>
+It sounds like, what you're basically asking for, is a free design for you to print and make money from. Not to sound harsh, but what are you bringing to the party if you're outsourcing everything?
 
-<p>Also, regarding the buying and printing, Google will definitely be able to help you with this. Both buying and printing are huge industries, so I have no doubt you'll find more options than you'll know what to do with.</p>
+Also, regarding the buying and printing, Google will definitely be able to help you with this. Both buying and printing are huge industries, so I have no doubt you'll find more options than you'll know what to do with.
 
-<p>Hope this helps.</p>
-
+Hope this helps.
 
 
 

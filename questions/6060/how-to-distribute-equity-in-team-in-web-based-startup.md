@@ -4,36 +4,35 @@
 - tagged: `tech-company`, `equity`, `founder`, `web-development`, `partnership`
 - score: 1
 
-<p>We are 4 guys in grad school. We are coders. I have an idea for a web based startup. So before starting the startup I want to distribute equity. <strong>I don't want 4 co-founders as too many cooks spoil the food</strong>. So I'll choose one of them to be co-founder.</p>
+We are 4 guys in grad school. We are coders. I have an idea for a web based startup. So before starting the startup I want to distribute equity. **I don't want 4 co-founders as too many cooks spoil the food**. So I'll choose one of them to be co-founder.
 
-<p>So I have made two cases.</p>
+So I have made two cases.
 
-<p><strong>CASE 1.</strong></p>
+**CASE 1.**
 
-<p>Me(Founder/CEO)- 60%</p>
+Me(Founder/CEO)- 60%
 
-<p>B(Co-founder) - 20%</p>
+B(Co-founder) - 20%
 
-<p>C- 10%</p>
+C- 10%
 
-<p>D- 10%</p>
+D- 10%
 
-<p><strong>CASE 2.</strong></p>
+**CASE 2.**
 
-<p>Me(Founder/CEO)- 50%</p>
+Me(Founder/CEO)- 50%
 
-<p>B(Co-founder) - 50%</p>
+B(Co-founder) - 50%
 
-<p>C- ?</p>
+C- ?
 
-<p>D- ?</p>
+D- ?
 
-<p>Case 1 seems unfair. But I'll provide working space. And I will invest in web technologies like domain, hosting (as we are not going to produce any physical good). And top of all. This is my idea.</p>
+Case 1 seems unfair. But I'll provide working space. And I will invest in web technologies like domain, hosting (as we are not going to produce any physical good). And top of all. This is my idea.
 
-<p>Case 2 is good to prevent any conflicts with co-founder in future but what about C and D. I can't pay them as we are in grad school.</p>
+Case 2 is good to prevent any conflicts with co-founder in future but what about C and D. I can't pay them as we are in grad school.
 
-<p>And another question should I made them to sign NDA and equity paper before starting?</p>
-
+And another question should I made them to sign NDA and equity paper before starting?
 
 
 ## Answer 6062

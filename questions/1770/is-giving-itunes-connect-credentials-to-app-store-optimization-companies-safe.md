@@ -4,11 +4,11 @@
 - tagged: `marketing`, `mobile-apps`, `market-research`, `app-store-optimization`
 - score: 9
 
-<p>There are some really cool tools to track your App Store Optimization(ASO) and they all want our iTunes Connect username &amp; password to provide us with a better solution. </p>
+There are some really cool tools to track your App Store Optimization(ASO) and they all want our iTunes Connect username & password to provide us with a better solution. 
 
-<p>But I can't seem to trust them that much. Do big apps such as Angry Birds, Waze, Spotify also give their iTunes Connect pass?</p>
+But I can't seem to trust them that much. Do big apps such as Angry Birds, Waze, Spotify also give their iTunes Connect pass?
 
-<p>And if so which tools are the most reliable?</p>
+And if so which tools are the most reliable?
 
 
 
@@ -17,12 +17,11 @@
 - posted by: [Nero](https://stackexchange.com/users/1705837/nero) on 2014-12-28
 - score: 11
 
-<p><strong>No, do NOT give away your own username/email and password combination to anyone!</strong></p>
+**No, do NOT give away your own username/email and password combination to anyone!**
 
-<p>In iTunes Connect you have the possibility to create <em>Users and Roles</em> in the module with the same name. For example, a friend of mine uses <em>App Annie</em> to get reports, etc about his sales. As he told me, he created an user in said module to grant them access to his sales and only his sales.</p>
+In iTunes Connect you have the possibility to create *Users and Roles* in the module with the same name. For example, a friend of mine uses *App Annie* to get reports, etc about his sales. As he told me, he created an user in said module to grant them access to his sales and only his sales.
 
-<p>If you give away your credentials to your Team Agent account, you basically grant them full access to everything, which definitely is not what you (should) want. As an example, as Team Agent they could probably transfer all your apps to an account of their own! (Note: I never transferred an App to another account, so maybe there are additional hurdles implemented, but damage could be caused in other manners, too.) Basically, they could do everything you can do.</p>
-
+If you give away your credentials to your Team Agent account, you basically grant them full access to everything, which definitely is not what you (should) want. As an example, as Team Agent they could probably transfer all your apps to an account of their own! (Note: I never transferred an App to another account, so maybe there are additional hurdles implemented, but damage could be caused in other manners, too.) Basically, they could do everything you can do.
 
 
 ## Answer 12362

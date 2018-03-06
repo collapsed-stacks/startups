@@ -4,10 +4,9 @@
 - tagged: `intellectual-property`, `licensing`
 - score: 1
 
-<p>I plan to manufacture and sell a hardware product that has elements which are patent-protected by more than one third party.  When determining royalty rates for each party, does the fact that I will be paying to more than one party affect the rate I am expected to pay to each?  Or will each party charge a similar rate regardless of how many other licenses are necessary to manufacture/sell the product?</p>
+I plan to manufacture and sell a hardware product that has elements which are patent-protected by more than one third party.  When determining royalty rates for each party, does the fact that I will be paying to more than one party affect the rate I am expected to pay to each?  Or will each party charge a similar rate regardless of how many other licenses are necessary to manufacture/sell the product?
 
-<p>I will be negotiating 1-2 licensing agreements in the near future, but my concern is that further down the line I may discover I am infringing on something else, and the total royalty rate will be beyond the threshold for which I am willing to continue the business.  Is it reasonable to request from the licensors that they reduce their rate if necessary such that the total rate does not exceed some amount?</p>
-
+I will be negotiating 1-2 licensing agreements in the near future, but my concern is that further down the line I may discover I am infringing on something else, and the total royalty rate will be beyond the threshold for which I am willing to continue the business.  Is it reasonable to request from the licensors that they reduce their rate if necessary such that the total rate does not exceed some amount?
 
 
 ## Answer 12928

@@ -4,18 +4,14 @@
 - tagged: `legal`
 - score: 5
 
-<p>This is soft question. I think many of person here could be having one or more patents of their innovations.</p>
+This is soft question. I think many of person here could be having one or more patents of their innovations.
 
-<p>I am from India and have one idea in my mind of making a small electronic hardware device which can be very useful for smartphones and audio devices. But I don't have deep knowledge of electronic components required to make that hardware. Also,I don't have economical and other resources to do production of the electronic hardware. <strong>But I am having just Idea about that device in my mind</strong>. </p>
+I am from India and have one idea in my mind of making a small electronic hardware device which can be very useful for smartphones and audio devices. But I don't have deep knowledge of electronic components required to make that hardware. Also,I don't have economical and other resources to do production of the electronic hardware. **But I am having just Idea about that device in my mind**. 
 
-<p>So my question is</p>
+So my question is
+> Can I get a patent for just "**idea**" of making an electronic device ?
 
-<blockquote>
-  <p>Can I get a patent for just "<strong>idea</strong>" of making an electronic device ?</p>
-  
-  <p>If it is possible how should I move forward to get the patent  ? if otherwise can I get some money by selling my idea or patent to any related company ?</p>
-</blockquote>
-
+> If it is possible how should I move forward to get the patent  ? if otherwise can I get some money by selling my idea or patent to any related company ?
 
 
 ## Answer 5471
@@ -57,14 +53,13 @@
 - posted by: [Spehro Pefhany](https://stackexchange.com/users/3852387/spehro-pefhany) on 2015-06-08
 - score: 4
 
-<p>A patent is an exchange of disclosure of an invention (a solution to a specific technological problem), which must be novel and non-obvious, in exchange for exclusive rights to the invention for a limited period of time. </p>
+A patent is an exchange of disclosure of an invention (a solution to a specific technological problem), which must be novel and non-obvious, in exchange for exclusive rights to the invention for a limited period of time. 
 
-<p>If you can't describe the solution in such a way that it can be duplicated by someone skilled in the art, then you've not really disclosed the invention. </p>
+If you can't describe the solution in such a way that it can be duplicated by someone skilled in the art, then you've not really disclosed the invention. 
 
-<p>If there is a genuine invention at the heart of your idea (say the novel part can be demonstrated in simulation without necessarily involving hardware) then you may have something. There are lawyers who will be happy to take your money in any case, and the patent office will take more money, and that's just the start if you ever have to defend the patent. An acquaintance spent several million dollars defending a patent against a major company - he eventually won, but his health and life suffered for many years. If he didn't have the resources to keep paying a multi-jurisdiction legal team he could have run out of money and lost by default. </p>
+If there is a genuine invention at the heart of your idea (say the novel part can be demonstrated in simulation without necessarily involving hardware) then you may have something. There are lawyers who will be happy to take your money in any case, and the patent office will take more money, and that's just the start if you ever have to defend the patent. An acquaintance spent several million dollars defending a patent against a major company - he eventually won, but his health and life suffered for many years. If he didn't have the resources to keep paying a multi-jurisdiction legal team he could have run out of money and lost by default. 
 
-<p>It's relatively easy to get started with a provisional patent, but you really have to see the future possibility of large amounts of money to make it worth pursuing to the end. If your idea is the heart of a start-up you can pursue the provisional for short-term protection, get your seed money, and see if you can get the venture off the runway in a matter of months. If things don't go as well as you hoped and the series A, B etc. financing falls through, it can be abandoned (and many are). </p>
-
+It's relatively easy to get started with a provisional patent, but you really have to see the future possibility of large amounts of money to make it worth pursuing to the end. If your idea is the heart of a start-up you can pursue the provisional for short-term protection, get your seed money, and see if you can get the venture off the runway in a matter of months. If things don't go as well as you hoped and the series A, B etc. financing falls through, it can be abandoned (and many are). 
 
 
 ## Answer 12026
@@ -72,8 +67,7 @@
 - posted by: [davers](https://stackexchange.com/users/4332430/davers) on 2017-01-30
 - score: 2
 
-<p>Just have to say that it bugs me when people say you can't patent an idea when inventions are made of an idea or ideas.  It's the "how" something is done and yes, being new and novel essentially means that it is made of ideas (a thought or suggestion as to a possible course of action).  You can't patent the idea of "photons shake lattice structure, releasing electrons for usable energy", since that is an "abstract idea" ... it doesn't provide any of the <em>how</em> that is required for the idea to function.  You can not patent an "abstract idea".  But if your idea is a specific new and novel mechanism that showing <em>how</em> to capture those solar-liberated electrons with a diode (assuming it's never been patented) showing how the diode works and how it can be made then you can patent that idea.  You do have to demonstrate, at least on paper very convincingly to those in the art that it would work ... but that validation does not invalidate the concept of a diode being an idea.  The very first diode was just an idea (whether you call it simple or not), as was the process by how that diode could be made.  Ideas.  Anywho ... just a little clarification because the term "can't patent an idea" is foolishly brandished around by those who do so for shock value and get kudos from others who say the same thing.  It isn't true.  You can't patent "abstract ideas", but inventions are made of ideas, validated as reasonable and which are described in terms that will produce an actual product that performs the desired objective ... but ideas nonetheless.</p>
-
+Just have to say that it bugs me when people say you can't patent an idea when inventions are made of an idea or ideas.  It's the "how" something is done and yes, being new and novel essentially means that it is made of ideas (a thought or suggestion as to a possible course of action).  You can't patent the idea of "photons shake lattice structure, releasing electrons for usable energy", since that is an "abstract idea" ... it doesn't provide any of the *how* that is required for the idea to function.  You can not patent an "abstract idea".  But if your idea is a specific new and novel mechanism that showing *how* to capture those solar-liberated electrons with a diode (assuming it's never been patented) showing how the diode works and how it can be made then you can patent that idea.  You do have to demonstrate, at least on paper very convincingly to those in the art that it would work ... but that validation does not invalidate the concept of a diode being an idea.  The very first diode was just an idea (whether you call it simple or not), as was the process by how that diode could be made.  Ideas.  Anywho ... just a little clarification because the term "can't patent an idea" is foolishly brandished around by those who do so for shock value and get kudos from others who say the same thing.  It isn't true.  You can't patent "abstract ideas", but inventions are made of ideas, validated as reasonable and which are described in terms that will produce an actual product that performs the desired objective ... but ideas nonetheless.
 
 
 

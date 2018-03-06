@@ -4,12 +4,11 @@
 - tagged: `advertising`
 - score: 3
 
-<p>We want to advertise our product for a special niches. For niche like doctors and similar "ground" occupations, it's pretty easy to realize how to approach to them. </p>
+We want to advertise our product for a special niches. For niche like doctors and similar "ground" occupations, it's pretty easy to realize how to approach to them. 
 
-<p>But how can we best approach to the cloud community like developers? What is the best way to advertise product which has to be seen by a developer community? </p>
+But how can we best approach to the cloud community like developers? What is the best way to advertise product which has to be seen by a developer community? 
 
-<p>For example, websites like StackOverflow would be ideal (if financially affordable) to place ads because this is where millions of programmers come each day. </p>
-
+For example, websites like StackOverflow would be ideal (if financially affordable) to place ads because this is where millions of programmers come each day. 
 
 
 ## Answer 739

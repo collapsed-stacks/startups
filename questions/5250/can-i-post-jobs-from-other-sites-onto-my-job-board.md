@@ -4,10 +4,9 @@
 - tagged: `website`, `launch`
 - score: 3
 
-<p>I have created a niche job board site and there are a couple other sites similar to mine. Since I am just starting is it ok to collect all the job postings from other sites and post it on mine?</p>
+I have created a niche job board site and there are a couple other sites similar to mine. Since I am just starting is it ok to collect all the job postings from other sites and post it on mine?
 
-<p>Will there be any legal issues?</p>
-
+Will there be any legal issues?
 
 
 ## Answer 5251
@@ -15,10 +14,10 @@
 - posted by: [blunders](https://stackexchange.com/users/216182/blunders) on 2015-05-10
 - score: 3
 
-<p>Given copyright is automatic and you intend to use something owned by someone else, yes, legal issues are possible.</p>
+Given copyright is automatic and you intend to use something owned by someone else, yes, legal issues are possible.
 
-<p>If you need further advice, suggest you retain legal advise from professionals.</p>
 
+If you need further advice, suggest you retain legal advise from professionals.
 
 
 

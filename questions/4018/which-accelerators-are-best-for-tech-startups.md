@@ -4,10 +4,9 @@
 - tagged: `accelerators`
 - score: 1
 
-<p>I am not too sure whether this question fits the format. Please close if it doesn't.</p>
+I am not too sure whether this question fits the format. Please close if it doesn't.
 
-<p>My question is, which accelerators are providing the best facilities to tech startups in the US? By defining best facilities: networking, success rate, mentoring and funding.</p>
-
+My question is, which accelerators are providing the best facilities to tech startups in the US? By defining best facilities: networking, success rate, mentoring and funding.
 
 ## No Answers
 

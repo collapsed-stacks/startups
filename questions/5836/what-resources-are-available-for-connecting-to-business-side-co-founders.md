@@ -4,12 +4,14 @@
 - tagged: `marketing`, `sales`, `co-founder`
 - score: 5
 
-<p>I am a web and mobile app developer. I have built and released several products. I only want to focus on the product development aspect of the business and want to turn over the business side to another co-founder.</p>
+I am a web and mobile app developer. I have built and released several products. I only want to focus on the product development aspect of the business and want to turn over the business side to another co-founder.
 
-<p>For example, <a href="https://startups.stackexchange.com/questions/3666/is-it-feasible-to-launch-an-app-working-alone?#answer-3671">see this answer</a>.</p>
+For example, [see this answer][1].
 
-<p>What resources are available for me to connect with these people?</p>
+What resources are available for me to connect with these people?
 
+
+  [1]: https://startups.stackexchange.com/questions/3666/is-it-feasible-to-launch-an-app-working-alone?#answer-3671
 
 
 ## Answer 5854

@@ -4,17 +4,15 @@
 - tagged: `lean-startup`
 - score: 3
 
-<p>I want to write email and to suggest possible cooperation(to UK geophysical consultancy).</p>
+I want to write email and to suggest possible cooperation(to UK geophysical consultancy).
 
-<p>My idea was:</p>
+My idea was:
 
-<ol>
-<li>to present myself</li>
-<li>to explain why I have chosen this company</li>
-<li>to suggest skype interview</li>
-</ol>
+1. to present myself
+2. to explain why I have chosen this company
+3. to suggest skype interview
 
-<p>I work at University, so I am not a businessman.Is this the right approach or not?</p>
+I work at University, so I am not a businessman.Is this the right approach or not?
 
 
 
@@ -23,21 +21,18 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2016-08-03
 - score: 2
 
-<p>That won't get much chance of getting read.</p>
+That won't get much chance of getting read.
 
-<p>A more typical approach for cold outreach is:</p>
+A more typical approach for cold outreach is:
 
-<ol>
-<li>A compelling title</li>
-<li>Give a compelling reason to continue reading from the very first sentence</li>
-<li>Very briefly introduce yourself and what you're up to in a short paragraph</li>
-<li>Ask for a meeting (suggest 2-3 slots directly)</li>
-</ol>
+1. A compelling title
+2. Give a compelling reason to continue reading from the very first sentence
+3. Very briefly introduce yourself and what you're up to in a short paragraph
+4. Ask for a meeting (suggest 2-3 slots directly)
 
-<p>Ideally follow up with 3-8 emails for more of the same.</p>
+Ideally follow up with 3-8 emails for more of the same.
 
-<p>The last one should be a so-called break-up email, where you basically something to the effect of: hey, look, I think you should reply back but you're either not interested or are too busy; I'll just stop emailing you moving forward, but do reach back out now or later if you were merely unavailable.</p>
-
+The last one should be a so-called break-up email, where you basically something to the effect of: hey, look, I think you should reply back but you're either not interested or are too busy; I'll just stop emailing you moving forward, but do reach back out now or later if you were merely unavailable.
 
 
 

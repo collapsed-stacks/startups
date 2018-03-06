@@ -4,13 +4,13 @@
 - tagged: `marketing`, `social-networking`
 - score: 5
 
-<p>There is a lot of information about different services / tools / dashboards. For example:</p>
+There is a lot of information about different services / tools / dashboards. For example:
 
-<p><a href="http://www.fastcompany.com/3029711/every-single-of-the-best-social-media-tools-for-startups">http://www.fastcompany.com/3029711/every-single-of-the-best-social-media-tools-for-startups</a></p>
+http://www.fastcompany.com/3029711/every-single-of-the-best-social-media-tools-for-startups
 
-<p>However is there a good resource / book (ideally) that explains how to work with social media? </p>
+However is there a good resource / book (ideally) that explains how to work with social media? 
 
-<p>Something that goes through posting frequencies and types of content to push, announcements, working with other businesses through social media? When is it better to use videos, should one or should not tweet random 'infotainment' to followers. B2C vs B2B social media strategies?</p>
+Something that goes through posting frequencies and types of content to push, announcements, working with other businesses through social media? When is it better to use videos, should one or should not tweet random 'infotainment' to followers. B2C vs B2B social media strategies?
 
 
 

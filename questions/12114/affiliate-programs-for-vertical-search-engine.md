@@ -4,18 +4,17 @@
 - tagged: `marketing`, `business-model`, `affiliate-marketing`
 - score: 0
 
-<p>I'm looking for the pros and cons of affiliate programs for a vertical search engine. The vertical search engine promotes offers from different brands. </p>
+I'm looking for the pros and cons of affiliate programs for a vertical search engine. The vertical search engine promotes offers from different brands. 
 
-<p>I also would like to know more about the differences in revenue it can generate and legal issues when using information such as pictures that you don't own. (preferably in Dutch law)</p>
+I also would like to know more about the differences in revenue it can generate and legal issues when using information such as pictures that you don't own. (preferably in Dutch law)
 
-<p>Are there more than the options below for getting commissions?</p>
+Are there more than the options below for getting commissions?
 
-<ol>
-<li>Pay per click (PPC) </li>
-<li>Pay per lead (PPL)</li>
-<li>Pay per sale (PPS)</li>
-<li>Pay per view (PPV)</li>
-</ol>
+ 1. Pay per click (PPC) 
+ 2. Pay per lead (PPL)
+ 3. Pay per sale (PPS)
+ 4. Pay per view (PPV)
+
 
 
 ## No Answers

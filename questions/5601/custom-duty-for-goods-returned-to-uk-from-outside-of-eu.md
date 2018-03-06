@@ -4,19 +4,20 @@
 - tagged: `taxes`, `united-kingdom`, `australia`
 - score: 4
 
-<p>One of my customers from Australia returned the goods back to UK where they were shipped from.</p>
+One of my customers from Australia returned the goods back to UK where they were shipped from.
 
-<p>I received a letter from Royal Mail clearly explaining that RM already paid custom duties to HMRC and will release goods when I reimburse them. They also charge handling fees £8.</p>
+I received a letter from Royal Mail clearly explaining that RM already paid custom duties to HMRC and will release goods when I reimburse them. They also charge handling fees £8.
 
-<p>Apparently there is no way to get these goods back without agreeing to reimburse RM first.</p>
+Apparently there is no way to get these goods back without agreeing to reimburse RM first.
 
-<p>According to the information on 
-<a href="https://www.gov.uk/goods-sent-from-abroad/tax-and-duty" rel="nofollow">https://www.gov.uk/goods-sent-from-abroad/tax-and-duty</a>
-there should not be any Customs Duty as goods have value under £135, so I am being charged too much. RM clearly did not care and just paid at Heathrow whatever HMRC demanded.</p>
 
-<p>How can I prevent cases like this from happening in the future?</p>
+According to the information on 
+https://www.gov.uk/goods-sent-from-abroad/tax-and-duty
+there should not be any Customs Duty as goods have value under £135, so I am being charged too much. RM clearly did not care and just paid at Heathrow whatever HMRC demanded.
 
-<p>Also for the future cases, is there any way I could inform HMRC that goods are returned to me from abroad and customs duties should not be levied?</p>
+How can I prevent cases like this from happening in the future?
+
+Also for the future cases, is there any way I could inform HMRC that goods are returned to me from abroad and customs duties should not be levied?
 
 
 

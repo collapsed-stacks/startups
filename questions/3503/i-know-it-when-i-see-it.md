@@ -4,8 +4,7 @@
 - tagged: `product-market-fit`
 - score: 0
 
-<p>As it relates to product-market-fit, what are the pros &amp; cons of taking "<a href="http://en.m.wikipedia.org/wiki/I_know_it_when_I_see_it" rel="nofollow">I know it when I see it</a>" approach to product development?</p>
-
+As it relates to product-market-fit, what are the pros & cons of taking "[I know it when I see it](http://en.m.wikipedia.org/wiki/I_know_it_when_I_see_it)" approach to product development?
 
 
 ## Answer 3505
@@ -13,21 +12,18 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-02-24
 - score: 2
 
-<p>Suppose the following:</p>
+Suppose the following:
 
-<ol>
-<li>Your leads get excited by what you have to offer upon merely hearing about it.</li>
-<li>Your prospects worry more about whether they can afford what you have to offer than about whether they actually have any use for it.</li>
-<li>Your clients are constantly blabbering about how they're using what you delivered and about the awesome results they're getting from using it.</li>
-<li>You're profitable or you're well on your way of being so.</li>
-</ol>
+1. Your leads get excited by what you have to offer upon merely hearing about it.
+2. Your prospects worry more about whether they can afford what you have to offer than about whether they actually have any use for it.
+3. Your clients are constantly blabbering about how they're using what you delivered and about the awesome results they're getting from using it.
+4. You're profitable or you're well on your way of being so.
 
-<p>If you're seeing a dynamic that combines all of those, congratulations! You have a great product-market fit. Your solution is selling like hotcakes or attracting scores of users or both, and you've OMG-crap-tons-lots of traction. Example: Slack.</p>
+If you're seeing a dynamic that combines all of those, congratulations! You have a great product-market fit. Your solution is selling like hotcakes or attracting scores of users or both, and you've OMG-crap-tons-lots of traction. Example: Slack.
 
-<p>At the other extreme, you're seeing none of them. Your solution is either crap or something that's looking for a problem. The only reasons you could possibly have any traction is because you're getting random viral buzz or because you've a nearly limitless advertisement budget. Get back to the drawing board, or prepare to rapidly go bankrupt. Example: Color.</p>
+At the other extreme, you're seeing none of them. Your solution is either crap or something that's looking for a problem. The only reasons you could possibly have any traction is because you're getting random viral buzz or because you've a nearly limitless advertisement budget. Get back to the drawing board, or prepare to rapidly go bankrupt. Example: Color.
 
-<p>Between the two, there's no precise scale that lets you say how much of a good fit you have graded between one and ten. But you'll definitely know it's good when you see it, because you'll have absolutely no problem selling or attracting users -- your day-to-day problem will be to wonder how you can sell to more clients or attract more users <em>faster</em>.</p>
-
+Between the two, there's no precise scale that lets you say how much of a good fit you have graded between one and ten. But you'll definitely know it's good when you see it, because you'll have absolutely no problem selling or attracting users -- your day-to-day problem will be to wonder how you can sell to more clients or attract more users *faster*.
 
 
 

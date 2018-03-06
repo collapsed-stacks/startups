@@ -4,19 +4,17 @@
 - tagged: `software`, `sell`
 - score: 2
 
-<p>I created a framework for founding a social portals of specific kind, which I'm still developing. I created it for my own purposes: founding some portals as described.</p>
+I created a framework for founding a social portals of specific kind, which I'm still developing. I created it for my own purposes: founding some portals as described.
 
-<p>But now I'm considering the idea (given me by multiple friends independently, it wasn't mine) of selling the source code, but it actually wasn't my primary idea, and I have no experience with selling software at all.</p>
+But now I'm considering the idea (given me by multiple friends independently, it wasn't mine) of selling the source code, but it actually wasn't my primary idea, and I have no experience with selling software at all.
 
-<p>What I have learned so far, is that investors wouldn't be quite interested in the subject (though I didn't ask any for this, just read a book written by one of investors) - because they rather prefer working business models.</p>
+What I have learned so far, is that investors wouldn't be quite interested in the subject (though I didn't ask any for this, just read a book written by one of investors) - because they rather prefer working business models.
 
-<p>So before I come to any conclusion, I wanted to ask you about some things:</p>
+So before I come to any conclusion, I wanted to ask you about some things:
 
-<ul>
-<li>is selling specific-purpose (not general-purpose, like say Wordpress, Joomla or Zend) frameworks really something needed, and there could be a market for it?</li>
-<li>should creating a business model over selling a source code, next to business model over actually using it, considered an extra opportunity, or rather extra trouble?</li>
-<li>perhaps, is selling process too overwhelming to jump into, instead of focusing on the code itself?</li>
-</ul>
+ - is selling specific-purpose (not general-purpose, like say Wordpress, Joomla or Zend) frameworks really something needed, and there could be a market for it?
+ - should creating a business model over selling a source code, next to business model over actually using it, considered an extra opportunity, or rather extra trouble?
+ - perhaps, is selling process too overwhelming to jump into, instead of focusing on the code itself?
 
 
 ## No Answers

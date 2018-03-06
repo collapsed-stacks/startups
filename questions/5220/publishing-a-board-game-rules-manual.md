@@ -4,10 +4,9 @@
 - tagged: `open-source`
 - score: 3
 
-<p>Developing a new board game and plan on publishing the rulebook online soon with templates available for users to create their own board pieces to play the game.</p>
+Developing a new board game and plan on publishing the rulebook online soon with templates available for users to create their own board pieces to play the game.
 
-<p>We have a version of the rulebook we are pleased with and have a website that we can publish it to, however we want to make sure that our rulebook is not ripped off. We want it to be freely distributed as long as the rulebook is not edited; we do not want people editing the book we've made and circulating it as their own "open source" version of the game.</p>
-
+We have a version of the rulebook we are pleased with and have a website that we can publish it to, however we want to make sure that our rulebook is not ripped off. We want it to be freely distributed as long as the rulebook is not edited; we do not want people editing the book we've made and circulating it as their own "open source" version of the game.
 
 
 ## Answer 5221
@@ -79,8 +78,7 @@
 - posted by: [Malekai](https://stackexchange.com/users/5820495/malekai) on 2015-05-07
 - score: 1
 
-<p>After some reading online, and looking at products with similar open-source-like philosophies, it turns out we need to file for a Copyright and just host the files on our public website. This means that people can access the Book itself, but will not be able to distribute, edit or sell our work. Thought I'd post my answer incase anyone else meets the same problem.</p>
-
+After some reading online, and looking at products with similar open-source-like philosophies, it turns out we need to file for a Copyright and just host the files on our public website. This means that people can access the Book itself, but will not be able to distribute, edit or sell our work. Thought I'd post my answer incase anyone else meets the same problem.
 
 
 

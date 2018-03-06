@@ -4,10 +4,9 @@
 - tagged: `tech-company`, `mobile-apps`, `equity`
 - score: 42
 
-<p>If I have a startup that produces apps, is there a clean way of dividing profits gained from each app amongst only the developers that worked on it?</p>
+If I have a startup that produces apps, is there a clean way of dividing profits gained from each app amongst only the developers that worked on it?
 
-<p>For instance if my startup were to make an app that simply used native widgets and required no design work, it doesn't really make sense that the designer should share fully in the revenue from that app. It's far to much book keeping to keep track of everyone who worked on every app. Even more so when you try to factor in time spent or effort put in. In addition, it seems to me that splitting profits in this way would work to divide the members of the startup. Does anyone have a clean solution to this problem, one that gives credit where credit is due but also keeps unity?</p>
-
+For instance if my startup were to make an app that simply used native widgets and required no design work, it doesn't really make sense that the designer should share fully in the revenue from that app. It's far to much book keeping to keep track of everyone who worked on every app. Even more so when you try to factor in time spent or effort put in. In addition, it seems to me that splitting profits in this way would work to divide the members of the startup. Does anyone have a clean solution to this problem, one that gives credit where credit is due but also keeps unity?
 
 
 ## Answer 32
@@ -87,42 +86,36 @@
 - posted by: [jimm-cl](https://stackexchange.com/users/193549/jimm-cl) on 2014-07-30
 - score: 8
 
-<blockquote>
-  <p>For instance if my startup were to make an app that simply used native
-  widgets and required no design work, it doesn't really make sense that
-  the designer should share fully in the revenue from that app.</p>
-</blockquote>
+> For instance if my startup were to make an app that simply used native
+> widgets and required no design work, it doesn't really make sense that
+> the designer should share fully in the revenue from that app.
 
-<p>But if he/she did <strong><em>some</em></strong> work on it, then he/she should be paid for it. </p>
+But if he/she did ***some*** work on it, then he/she should be paid for it. 
 
-<blockquote>
-  <p>It's far to much book keeping to keep track of everyone who worked on
-  every app. Even more so when you try to factor in time spent or effort
-  put in.</p>
-</blockquote>
+> It's far to much book keeping to keep track of everyone who worked on
+> every app. Even more so when you try to factor in time spent or effort
+> put in.
 
-<p>I think a fair way to distribute the profit would be to pay them depending on their average hour-salary.  Let's suppose your app sells a total of $100, and one developer and one designer worked on it (no matter what time have been spent).  Let's say the developer has been paid $25/hour in a previous project, and the designer has been paid $20/hour in a similar project.  The relation between those hourly rates are $25/$20, or 5/4.  Therefore, the total revenue ($100) should be split in a 5/4 relation.  In the end, the developer will receive $100/9*5 = $55.55, and the designer will receive $100/9*4 = $44.45</p>
+I think a fair way to distribute the profit would be to pay them depending on their average hour-salary.  Let's suppose your app sells a total of $100, and one developer and one designer worked on it (no matter what time have been spent).  Let's say the developer has been paid $25/hour in a previous project, and the designer has been paid $20/hour in a similar project.  The relation between those hourly rates are $25/$20, or 5/4.  Therefore, the total revenue ($100) should be split in a 5/4 relation.  In the end, the developer will receive $100/9*5 = $55.55, and the designer will receive $100/9*4 = $44.45
 
-<p>Does that make sense?  e.g></p>
+Does that make sense?  e.g>
 
-<pre><code>Total = $100
-Developer average salary = $25/hour
-Designer average salary =  $20/hour
+    Total = $100
+    Developer average salary = $25/hour
+    Designer average salary =  $20/hour
+   
+    Rate between the salaries = $25/$20 = 5/4
+    > that means you have 5 + 4 = 9 money-units to give away
 
-Rate between the salaries = $25/$20 = 5/4
-&gt; that means you have 5 + 4 = 9 money-units to give away
+    Developer should be paid:  Total / total-money-units * Developer-money-units
+                               $100  / 9                 * 5                     = $55.55
 
-Developer should be paid:  Total / total-money-units * Developer-money-units
-                           $100  / 9                 * 5                     = $55.55
+    Designer should be paid:   Total / total-money-units * Designer-money-units
+                               $100  / 9                 * 4                     = $44.45
 
-Designer should be paid:   Total / total-money-units * Designer-money-units
-                           $100  / 9                 * 4                     = $44.45
-</code></pre>
+Taking into account their previous salaries make this a fair option to me. 
 
-<p>Taking into account their previous salaries make this a fair option to me. </p>
-
-<p>Also, please note that the equation above does not include the money that is kept by the company... is not common at all that a company gives away all its money to its employees :)</p>
-
+Also, please note that the equation above does not include the money that is kept by the company... is not common at all that a company gives away all its money to its employees :)
 
 
 ## Answer 8
@@ -130,10 +123,9 @@ Designer should be paid:   Total / total-money-units * Designer-money-units
 - posted by: [connor](https://stackexchange.com/users/392995/connor) on 2014-07-30
 - score: 5
 
-<p>If you only need a designer for one app, it makes more sense to pay them either a set rate or a percentage of revenue from that app.</p>
+If you only need a designer for one app, it makes more sense to pay them either a set rate or a percentage of revenue from that app.
 
-<p>On the other hand, if your startup is co-founded by developers and designers it becomes a little bit more complicated. This is an issue that should be taken care of before work begins. You should always have a common understanding of roles and responsibilities when distributing shares of ownership. If you know your designer co-founder will have much less work to do in the company, you should discuss giving them a lower percentage of ownership.</p>
-
+On the other hand, if your startup is co-founded by developers and designers it becomes a little bit more complicated. This is an issue that should be taken care of before work begins. You should always have a common understanding of roles and responsibilities when distributing shares of ownership. If you know your designer co-founder will have much less work to do in the company, you should discuss giving them a lower percentage of ownership.
 
 
 ## Answer 38
@@ -141,14 +133,13 @@ Designer should be paid:   Total / total-money-units * Designer-money-units
 - posted by: [Michael Lai](https://stackexchange.com/users/213864/michael-lai) on 2014-07-30
 - score: 3
 
-<p>I would be a bit cautious about not engaging a designer when you are developing digital products, simply because there is a lot of evidence around to suggest that the polish as well as the substance in your product both contribute in different ways to making the product successful.</p>
+I would be a bit cautious about not engaging a designer when you are developing digital products, simply because there is a lot of evidence around to suggest that the polish as well as the substance in your product both contribute in different ways to making the product successful.
 
-<p>Having said that, I think it really depends on the size of your team. Once it gets too big, you have to consider a different model to both keep the people you want and the people you need, rather than straight out profit sharing. I would also consider that in a small size team you need some multi-skilled people that can fit into different roles as required so you don't retain people but not have work for them to do.</p>
+Having said that, I think it really depends on the size of your team. Once it gets too big, you have to consider a different model to both keep the people you want and the people you need, rather than straight out profit sharing. I would also consider that in a small size team you need some multi-skilled people that can fit into different roles as required so you don't retain people but not have work for them to do.
 
-<p>Having said that, I don't think time always equate to the value of the work, because if someone is good at what they are doing it might mean that they can get through something faster than another person can, and you are punishing them for being efficient. On the other hand, if someone is dealing with a more complex problem and require more time, then they should be compensated accordingly.</p>
+Having said that, I don't think time always equate to the value of the work, because if someone is good at what they are doing it might mean that they can get through something faster than another person can, and you are punishing them for being efficient. On the other hand, if someone is dealing with a more complex problem and require more time, then they should be compensated accordingly.
 
-<p>What I am really trying to get to is that you should be able to divide the work and manage it well among the people in your team so that everyone is busy, and if you put the right value on everyone's contributions then this won't be an issue. The ultimate way you can tell if your method is good is to see how many stay and how many leave.</p>
-
+What I am really trying to get to is that you should be able to divide the work and manage it well among the people in your team so that everyone is busy, and if you put the right value on everyone's contributions then this won't be an issue. The ultimate way you can tell if your method is good is to see how many stay and how many leave.
 
 
 ## Answer 5
@@ -156,15 +147,13 @@ Designer should be paid:   Total / total-money-units * Designer-money-units
 - posted by: [killswitch](https://stackexchange.com/users/2350675/killswitch) on 2014-07-30
 - score: 1
 
-<p>It depends on what kind of a Mobile Application development are you looking for,</p>
+It depends on what kind of a Mobile Application development are you looking for,
 
-<ul>
-<li><p>Applications used in daily use and other basic needs such as image processing, or location based don't require intense graphic designing, so you need to aim towards good developers which in turn will require more salary for them then them,</p></li>
-<li><p>Gaming Applications require good graphic designers, thus you have to aim for good designers.</p></li>
-</ul>
+- Applications used in daily use and other basic needs such as image processing, or location based don't require intense graphic designing, so you need to aim towards good developers which in turn will require more salary for them then them,
 
-<p>So it will depend on what application are you aiming for that will be the deciding factor for the deciding the salaries for each.</p>
+- Gaming Applications require good graphic designers, thus you have to aim for good designers.
 
+So it will depend on what application are you aiming for that will be the deciding factor for the deciding the salaries for each.
 
 
 ## Answer 11
@@ -172,8 +161,8 @@ Designer should be paid:   Total / total-money-units * Designer-money-units
 - posted by: [Daniel Steiner](https://stackexchange.com/users/1523303/daniel-steiner) on 2014-07-30
 - score: 1
 
-<p>Here in Austria, a developer would earn between 2.5k€ to 7k€ per month based on a 38.5 hours week. A designer is usually a bit lower. You can use This hour based approach to pay them or you can pay them a fixed amount, lets say 15% for The dev and 10% of the revenue. Choose either one, the guys will probably prefer the first method whereas it is easier for you to pay them from the income.</p>
-
+Here in Austria, a developer would earn between 2.5k€ to 7k€ per month based on a 38.5 hours week. A designer is usually a bit lower. You can use This hour based approach to pay them or you can pay them a fixed amount, lets say 15% for The dev and 10% of the revenue. Choose either one, the guys will probably prefer the first method whereas it is easier for you to pay them from the income.
+ 
 
 
 

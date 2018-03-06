@@ -4,12 +4,11 @@
 - tagged: `market-size`, `online-tool`
 - score: 0
 
-<p>I have a website for an online service that could fairly easily be translated into other languages.  I'd like to build my customer base and get more sales so I was thinking of adding Spanish and Chinese versions of my website.</p>
+I have a website for an online service that could fairly easily be translated into other languages.  I'd like to build my customer base and get more sales so I was thinking of adding Spanish and Chinese versions of my website.
 
-<p>I have good SEO for my English site. I'm hoping that I'll get good or possibly even better search engine hits in these other markets because there is likely less competition.</p>
+I have good SEO for my English site. I'm hoping that I'll get good or possibly even better search engine hits in these other markets because there is likely less competition.
 
-<p>Other than good translations, what factors should I consider when moving into a market in a different language?  Have others had success with this?</p>
-
+Other than good translations, what factors should I consider when moving into a market in a different language?  Have others had success with this?
 
 
 ## Answer 12073
@@ -17,16 +16,15 @@
 - posted by: [Pamio Solanky](https://stackexchange.com/users/414004/pamio-solanky) on 2017-02-09
 - score: 2
 
-<p>Few things I'll look at </p>
+Few things I'll look at 
 
-<ol>
-<li>Mailers </li>
-<li>Price conversion (may not be entirely necessary)</li>
-<li>Customer support in the languages you support on website </li>
-<li>Marketing - social media and other media to ensure you reach the target segments (possibly be in the languages you support) </li>
-</ol>
+ 1. Mailers 
+ 2. Price conversion (may not be entirely necessary)
+ 3. Customer support in the languages you support on website 
+ 4. Marketing - social media and other media to ensure you reach the target segments (possibly be in the languages you support) 
 
-<p>I'll update the answer as in when I get ideas or suggestions on this topic. </p>
+I'll update the answer as in when I get ideas or suggestions on this topic. 
+
 
 
 
@@ -35,14 +33,14 @@
 - posted by: [DR Agency](https://stackexchange.com/users/10906690/dr-agency) on 2017-05-16
 - score: 0
 
-<p>Here is some advice for China Market:</p>
+Here is some advice for China Market:
 
-<p>Build a Chinese website, not just translation, integrated with SEO skills, make your Chinese website localized.
+Build a Chinese website, not just translation, integrated with SEO skills, make your Chinese website localized.
 1,Check the visit speed of your Chinese website in China.  You may have to host it in Hongkong or China, since it's very slow to visit a website overseas, sometimes even can't open it.
 2,Submit it to Baidu, China search engine, since Google is blocked in China. Let Chinese people to find you.
-3, Use local social medias like Wechat and Weibo, Facebook, Twitter, Youtube etc don't work in China. </p>
+3, Use local social medias like Wechat and Weibo, Facebook, Twitter, Youtube etc don't work in China. 
 
-<p>Hope it helps.</p>
+Hope it helps.
 
 
 

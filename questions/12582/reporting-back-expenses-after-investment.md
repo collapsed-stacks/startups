@@ -4,12 +4,11 @@
 - tagged: `funding`, `investment`, `investors`, `finance`
 - score: 2
 
-<p>A scenario I'm curious about. Imagine a company that has secured its first investment, which will be used to fund people and purchase hardware needed to proceed.</p>
+A scenario I'm curious about. Imagine a company that has secured its first investment, which will be used to fund people and purchase hardware needed to proceed.
 
-<p>From the investors point of view, will they want to know what is being purchased? If so, do they typically want just a high level summary, or the amount and usage, or a breakdown of each specific item and its cost?</p>
+From the investors point of view, will they want to know what is being purchased? If so, do they typically want just a high level summary, or the amount and usage, or a breakdown of each specific item and its cost?
 
-<p>I'm not suggesting anything should be hidden - but I'm genuinely curious as to what the expectation is and how much information should be reported back.</p>
-
+I'm not suggesting anything should be hidden - but I'm genuinely curious as to what the expectation is and how much information should be reported back.
 
 
 ## Answer 12583

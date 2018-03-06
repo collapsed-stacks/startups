@@ -4,10 +4,9 @@
 - tagged: `acquisition`, `public-company`, `private-company`
 - score: 4
 
-<p><a href="https://startups.stackexchange.com/questions/1619/public-company-taken-over-by-a-private-company-and-option-to-stay-on">public company taken over by a private company and option to stay on</a></p>
+https://startups.stackexchange.com/questions/1619/public-company-taken-over-by-a-private-company-and-option-to-stay-on
 
-<p>This question made me wonder how would this process work? What happens to the public shareholders?</p>
-
+This question made me wonder how would this process work? What happens to the public shareholders?
 
 
 ## Answer 1651
@@ -30,11 +29,10 @@
 - posted by: [Davidraz](https://stackexchange.com/users/4447731/davidraz) on 2014-12-28
 - score: 2
 
-<p>I am less familiar with the technical process mentioned above but as far as I know from legal and business perspective, the private company that wants to acquire the public company can give an acquisition offer to the Board of Directors of the public company (The price will probably be higher than current market price); If the BOD approves the acquisition offer, then the deal will happen and the shareholders will receive the value of their shares in cash (or in other assets).</p>
+I am less familiar with the technical process mentioned above but as far as I know from legal and business perspective, the private company that wants to acquire the public company can give an acquisition offer to the Board of Directors of the public company (The price will probably be higher than current market price); If the BOD approves the acquisition offer, then the deal will happen and the shareholders will receive the value of their shares in cash (or in other assets).
 
-<p>As the BOD represents all the shareholders, it has the authority to sell the company.
-(Needless to say, that they often exposed to personal legal procedures from angry shareholders...)</p>
-
+As the BOD represents all the shareholders, it has the authority to sell the company.
+(Needless to say, that they often exposed to personal legal procedures from angry shareholders...)
 
 
 

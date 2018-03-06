@@ -4,11 +4,10 @@
 - tagged: `legal`
 - score: 3
 
-<p>There are certain clothing brands which can be found in the seconds market while other are not. </p>
+There are certain clothing brands which can be found in the seconds market while other are not. 
 
-<p>What are the reasons, brands do this?
-This is largely an unorganized sector. If one is planning to get into this field/ making this organized, what are the different factors should one look at? What could be the risks? How would one know if it is even legal?</p>
-
+What are the reasons, brands do this?
+This is largely an unorganized sector. If one is planning to get into this field/ making this organized, what are the different factors should one look at? What could be the risks? How would one know if it is even legal?
 
 
 ## Answer 7580

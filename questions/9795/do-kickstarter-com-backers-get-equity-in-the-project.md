@@ -4,8 +4,7 @@
 - tagged: `equity`, `funding`, `investment`, `investors`, `venture-capital`
 - score: 1
 
-<p>I have not found anywhere that Kickstarter backers get any equity or percentage of profit or anything.  Is this true?</p>
-
+I have not found anywhere that Kickstarter backers get any equity or percentage of profit or anything.  Is this true?
 
 
 ## Answer 9796
@@ -13,12 +12,11 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2016-07-28
 - score: 2
 
-<p>Backers get nothing beyond the deliverable and the perks they paid into. (Or at least, not unless those who behind the crowdfunding feel <em>very</em> generous - if they're even <em>allowed</em> to.)</p>
+Backers get nothing beyond the deliverable and the perks they paid into. (Or at least, not unless those who behind the crowdfunding feel _very_ generous - if they're even _allowed_ to.)
 
-<p>There even was something of a controversy about this very topic recently:</p>
+There even was something of a controversy about this very topic recently:
 
-<p><a href="http://www.theverge.com/2014/3/28/5557120/what-if-oculus-rift-kickstarter-backers-had-gotten-equity" rel="nofollow">http://www.theverge.com/2014/3/28/5557120/what-if-oculus-rift-kickstarter-backers-had-gotten-equity</a></p>
-
+http://www.theverge.com/2014/3/28/5557120/what-if-oculus-rift-kickstarter-backers-had-gotten-equity
 
 
 

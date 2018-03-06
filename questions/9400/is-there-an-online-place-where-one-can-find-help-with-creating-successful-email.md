@@ -4,12 +4,11 @@
 - tagged: `sales`, `saas`, `b2b`
 - score: 2
 
-<p>I have a pain: my B2B SaaS product gets about 100-200 signups a month.  Almost noone buys without engaging sales engineering help.  However, I feel that our email sequences designed to engage the signups into a conversation about their needs, completely suck.</p>
+I have a pain: my B2B SaaS product gets about 100-200 signups a month.  Almost noone buys without engaging sales engineering help.  However, I feel that our email sequences designed to engage the signups into a conversation about their needs, completely suck.
 
-<p>Is there a place where such things are discussed and where successful email sequences are shown/rated/analyzed?</p>
+Is there a place where such things are discussed and where successful email sequences are shown/rated/analyzed?
 
-<p>TIA</p>
-
+TIA
 
 
 ## Answer 9403
@@ -28,12 +27,11 @@
 - posted by: [Josh Fleming](https://stackexchange.com/users/11769315/josh-fleming) on 2017-11-14
 - score: 0
 
-<p>You can find all you need by visiting this blog:</p>
+You can find all you need by visiting this blog:
 
-<p><a href="https://optinmonster.com/6-steps-to-create-an-effective-email-autoresponder-series/" rel="nofollow noreferrer">https://optinmonster.com/6-steps-to-create-an-effective-email-autoresponder-series/</a></p>
+https://optinmonster.com/6-steps-to-create-an-effective-email-autoresponder-series/
 
-<p>Hope this helps</p>
-
+Hope this helps
 
 
 

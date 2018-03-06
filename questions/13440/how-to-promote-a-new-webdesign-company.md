@@ -4,10 +4,9 @@
 - tagged: `advertising`
 - score: 0
 
-<p>When I observe the webdesign market in general, the current promotional techniques used by companies is: giving discount, needs analysis, offering free trial and/or providing free support for X months after all. While there's nothing wrong with these techniques, however, non of them can really differentiate a new company. </p>
+When I observe the webdesign market in general, the current promotional techniques used by companies is: giving discount, needs analysis, offering free trial and/or providing free support for X months after all. While there's nothing wrong with these techniques, however, non of them can really differentiate a new company. 
 
-<p>What are some new, creative ways to promote a website and be different?</p>
-
+What are some new, creative ways to promote a website and be different?
 
 ## No Answers
 

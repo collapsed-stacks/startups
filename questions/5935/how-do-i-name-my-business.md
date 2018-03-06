@@ -4,10 +4,9 @@
 - tagged: `naming`
 - score: 5
 
-<p>Having worked full time as a developer and freelance designer, the time has been arriving for a while to start up my own business. However, I'm having trouble coming up with a name. I want something that will really last. </p>
+Having worked full time as a developer and freelance designer, the time has been arriving for a while to start up my own business. However, I'm having trouble coming up with a name. I want something that will really last. 
 
-<p>I've brainstormed many names, mapped out my values and vision for the business but what I come up with really doesn't seem to cut it. I need more angles for coming up with names. Companies like Google and Apple both have names that are nothing to do with their products, but they are great names. How can I come up with such a great name?</p>
-
+I've brainstormed many names, mapped out my values and vision for the business but what I come up with really doesn't seem to cut it. I need more angles for coming up with names. Companies like Google and Apple both have names that are nothing to do with their products, but they are great names. How can I come up with such a great name?
 
 
 ## Answer 5938
@@ -58,12 +57,11 @@ that great).  I know I'll change it later if the business takes off.</p></li>
 - posted by: [zazaalaza](https://stackexchange.com/users/4672194/zazaalaza) on 2015-08-04
 - score: 1
 
-<p>If you want a word like apple or google, that doesn't have anything to do with what you're doing I suggest you look into lists of different types of things. For example list of fruits or list of mathematical expressions (in google's case), and pick a word you like. </p>
+If you want a word like apple or google, that doesn't have anything to do with what you're doing I suggest you look into lists of different types of things. For example list of fruits or list of mathematical expressions (in google's case), and pick a word you like. 
 
-<p>If you have no idea what lists there are check out <a href="https://en.wikipedia.org/wiki/List_of_lists_of_lists" rel="nofollow">https://en.wikipedia.org/wiki/List_of_lists_of_lists</a></p>
+If you have no idea what lists there are check out https://en.wikipedia.org/wiki/List_of_lists_of_lists
 
-<p>Whatever you settle with just remember that there is no correlation between the name of the company and its success. So if you're worried that you might pick a bad name just make sure that the one you pick is a name that you are comfortable with using.</p>
-
+Whatever you settle with just remember that there is no correlation between the name of the company and its success. So if you're worried that you might pick a bad name just make sure that the one you pick is a name that you are comfortable with using.
 
 
 ## Answer 12330
@@ -71,8 +69,7 @@ that great).  I know I'll change it later if the business takes off.</p></li>
 - posted by: [Regis_AG](https://stackexchange.com/users/169667/regis-ag) on 2017-03-16
 - score: 0
 
-<p>If you want to find easily a premium domain name, you should try a premium domain name marketplace like <a href="https://www.oneclickname.com/" rel="nofollow noreferrer">https://www.oneclickname.com/</a> You will make no compromise on your domain name and avoid weeks of brainstorming.</p>
-
+If you want to find easily a premium domain name, you should try a premium domain name marketplace like https://www.oneclickname.com/ You will make no compromise on your domain name and avoid weeks of brainstorming.
 
 
 

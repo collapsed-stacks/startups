@@ -4,8 +4,7 @@
 - tagged: `business-plan`
 - score: 1
 
-<p>I am looking for a list of freely available list of startup business plans on the internet.</p>
-
+I am looking for a list of freely available list of startup business plans on the internet.
 
 
 ## Answer 9650

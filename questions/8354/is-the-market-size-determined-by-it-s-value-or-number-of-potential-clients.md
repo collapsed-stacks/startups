@@ -4,10 +4,9 @@
 - tagged: `market-research`, `market-size`, `resources`
 - score: 2
 
-<p>I've been going through a number of articles and blogs about sizing a market and getting values for TAM,SAM and so on. but I've noticed something odd. in some cases the market size is determined by number of people who might be interested in the product(TAM), ones who will buy(SAM) and ones who already bought(SOM), in other cases they refer to it by the revenue generated in that particular category. </p>
+I've been going through a number of articles and blogs about sizing a market and getting values for TAM,SAM and so on. but I've noticed something odd. in some cases the market size is determined by number of people who might be interested in the product(TAM), ones who will buy(SAM) and ones who already bought(SOM), in other cases they refer to it by the revenue generated in that particular category. 
 
-<p>when and why would I size the market in terms of users, or total revenue? </p>
-
+when and why would I size the market in terms of users, or total revenue? 
 
 ## No Answers
 

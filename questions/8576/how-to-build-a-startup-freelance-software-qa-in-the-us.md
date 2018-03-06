@@ -4,49 +4,49 @@
 - tagged: `united-states`, `software`, `entrepreneurship`, `freelancing`
 - score: 6
 
-<p>I am considering to try out starting up/building a Software QA freelancing/consulting type of business. I have some skills in automation, and know at least java/javascript language. I just don't know how to maybe market my skills to build up my own business as a software QA. Any advice on this? Thanks :)</p>
+I am considering to try out starting up/building a Software QA freelancing/consulting type of business. I have some skills in automation, and know at least java/javascript language. I just don't know how to maybe market my skills to build up my own business as a software QA. Any advice on this? Thanks :)
 
-<p><strong>Here are some details on my situation based on the comments/answers posted on my original question:</strong></p>
+**Here are some details on my situation based on the comments/answers posted on my original question:**
 
-<p><strong>1. My Location</strong></p>
+ **1. My Location**
 
-<p>I am physically located in the US, in the south, where IT is not really that I could say, popular? I am very new in the US coming from Asia </p>
+  I am physically located in the US, in the south, where IT is not really that I could say, popular? I am very new in the US coming from Asia 
 
-<p><strong>2. Why Hire Me?</strong></p>
+ **2. Why Hire Me?**
 
-<p>I have the skill that a lot of IT companies wants to have in a QA and also the experience </p>
+  I have the skill that a lot of IT companies wants to have in a QA and also the experience 
 
-<p><strong>3. What makes my service valuable?</strong></p>
+ **3. What makes my service valuable?**
 
-<p>The cost </p>
+ The cost 
 
-<p><strong>4. Do I have a portfolio of happy customers?</strong></p>
+ **4. Do I have a portfolio of happy customers?**
 
-<p>I don't know how and where to get this. Does this mean, my former employers?</p>
+ I don't know how and where to get this. Does this mean, my former employers?
 
-<p><strong>5. My set of success stories I can share</strong></p>
+ **5. My set of success stories I can share**
 
-<p>I can get some feedbacks from my former bosses I guess? </p>
+ I can get some feedbacks from my former bosses I guess? 
 
-<p><strong>6. What is my education background?</strong></p>
+ **6. What is my education background?**
 
-<p>Bachelor's degree </p>
+ Bachelor's degree 
 
-<p><strong>7. What commercial QA software I or my company own?</strong></p>
+ **7. What commercial QA software I or my company own?**
 
-<p>No commercial QA software. I am more into Open source. </p>
+ No commercial QA software. I am more into Open source. 
 
-<p><strong>8. Are you insured?</strong></p>
+ **8. Are you insured?**
 
-<p>Yes </p>
+ Yes 
 
-<p><strong>9.Would I bring my own hardware or be accessing the client's hardware?</strong></p>
+ **9.Would I bring my own hardware or be accessing the client's hardware?**
 
-<p>I can do both </p>
+ I can do both 
 
-<p><strong>10. Have you thought about branding and a website?</strong></p>
-
-<p>Yes I have HTML/CSS/Javascript knowledge but website design is my weakness and, marketing</p>
+ **10. Have you thought about branding and a website?**
+ 
+ Yes I have HTML/CSS/Javascript knowledge but website design is my weakness and, marketing
 
 
 
@@ -100,22 +100,20 @@ In many jurisdictions, legally tax efficient moves can be made to reduce your de
 - posted by: [Baronz](https://stackexchange.com/users/7281676/baronz) on 2016-02-21
 - score: 3
 
-<p>You need to flush out this idea some more for us to help advise you.</p>
+You need to flush out this idea some more for us to help advise you.
 
-<p><strong>Give us some more details about your plan:</strong></p>
+**Give us some more details about your plan:**
 
-<ol>
-<li>Where are you physically located?  </li>
-<li>Why would someone hire you?  </li>
-<li>What makes your service valuable?  </li>
-<li>Do you have a portfolio of happy customers?</li>
-<li>Do you have a set of success stories you can share?</li>
-<li>What is your education background?</li>
-<li>What commercial QA software do you or your company own?</li>
-<li>Are you insured?</li>
-<li>Would you bring your own hardware or be accessing the client's hardware?</li>
-<li>Have you thought about branding and a website?</li>
-</ol>
+ 1. Where are you physically located?  
+ 2. Why would someone hire you?  
+ 3. What makes your service valuable?  
+ 4. Do you have a portfolio of happy customers?
+ 5. Do you have a set of success stories you can share?
+ 6. What is your education background?
+ 7. What commercial QA software do you or your company own?
+ 8. Are you insured?
+ 9. Would you bring your own hardware or be accessing the client's hardware?
+ 10. Have you thought about branding and a website?
 
 
 

@@ -4,14 +4,13 @@
 - tagged: `united-states`, `legal`, `intellectual-property`, `trademark`, `lawyer`
 - score: 3
 
-<p>There are a few questions about trademarks, and the answers seem to indicate that it is best to hire an attorney.</p>
+There are a few questions about trademarks, and the answers seem to indicate that it is best to hire an attorney.
 
-<p>The US Trademarks web site seems to offer specific forms with instructions, and - at least in theory - it seems that it should be possible for a college educated person (who was able to successfully fill all the necessary immigration forms to sponsor a spouse without legal help) to figure it out.</p>
+The US Trademarks web site seems to offer specific forms with instructions, and - at least in theory - it seems that it should be possible for a college educated person (who was able to successfully fill all the necessary immigration forms to sponsor a spouse without legal help) to figure it out.
 
-<p>Is it just that it's very complicated and it takes time to learn? Or are there steps that only a lawyer can do?</p>
+Is it just that it's very complicated and it takes time to learn? Or are there steps that only a lawyer can do?
 
-<p>My startup will take some time to bring in any money, so I'm trying to limit expenses.</p>
-
+My startup will take some time to bring in any money, so I'm trying to limit expenses.
 
 
 ## Answer 1294
@@ -32,22 +31,19 @@
 - posted by: [Matthew Haugen](https://stackexchange.com/users/1325646/matthew-haugen) on 2014-11-06
 - score: 3
 
-<p>As others have noted, there's certainly nothing in place to stop you from registering a trademark on your own, without an attorney. Filing for a single class costs something between $375 and $500-something, if I recall correctly. However, there are many nuances in trademark filings that can be confusing and could lead to an improper protection. You have to perform a search for trademarks, and you have to write a fully-functioning description (if this is an image, at least) that other people can then search. Clearly, you're capable of doing both of those things, but it's much better if you have a good idea of what you're doing.</p>
+As others have noted, there's certainly nothing in place to stop you from registering a trademark on your own, without an attorney. Filing for a single class costs something between $375 and $500-something, if I recall correctly. However, there are many nuances in trademark filings that can be confusing and could lead to an improper protection. You have to perform a search for trademarks, and you have to write a fully-functioning description (if this is an image, at least) that other people can then search. Clearly, you're capable of doing both of those things, but it's much better if you have a good idea of what you're doing.
 
-<p>In general, speaking about IP, I would suggest something along these lines:</p>
+In general, speaking about IP, I would suggest something along these lines:
 
-<ul>
-<li>Copyright: whatever, do it yourself</li>
-<li>Trademark: think long and hard about an attorney</li>
-<li>Patent: don't even think about not having a patent professional</li>
-</ul>
+* Copyright: whatever, do it yourself
+* Trademark: think long and hard about an attorney
+* Patent: don't even think about not having a patent professional
 
-<p>You can read through descriptions on the USPTO site, and that might be a good idea before you make any decisions. Just get a feel for what "goes" on them, and that will tell you whether you feel comfortable doing it yourself.</p>
+You can read through descriptions on the USPTO site, and that might be a good idea before you make any decisions. Just get a feel for what "goes" on them, and that will tell you whether you feel comfortable doing it yourself.
 
-<p>On top of all that, remember that registering a trademark isn't necessary in many cases. You automatically get a trademark as soon as you start using a name in commerce, so unless you're really concerned about other people stealing your name or logo (and I don't mean to say you shouldn't be, I'm just reminding that you may not have to be), it may or may not be worth waiting until finances <em>are</em> a bit more steady. It's a business decision, and is certainly not necessary to get going.</p>
+On top of all that, remember that registering a trademark isn't necessary in many cases. You automatically get a trademark as soon as you start using a name in commerce, so unless you're really concerned about other people stealing your name or logo (and I don't mean to say you shouldn't be, I'm just reminding that you may not have to be), it may or may not be worth waiting until finances *are* a bit more steady. It's a business decision, and is certainly not necessary to get going.
 
-<p>It might be worth doing an initial consultation with an IP attorney, just to go over a bit of what you're doing and decide whether one is worth it, and more relevantly, whether it would be better to get an attorney to do it. Take what they say with a grain of salt, obviously, but they'll probably lend good advice, and initial consults are generally either free, or less than twenty or thirty dollars. Definitely worth it for something like this, I would say.</p>
-
+It might be worth doing an initial consultation with an IP attorney, just to go over a bit of what you're doing and decide whether one is worth it, and more relevantly, whether it would be better to get an attorney to do it. Take what they say with a grain of salt, obviously, but they'll probably lend good advice, and initial consults are generally either free, or less than twenty or thirty dollars. Definitely worth it for something like this, I would say.
 
 
 ## Answer 1286
@@ -55,8 +51,7 @@
 - posted by: [Charles H.](https://stackexchange.com/users/1712396/charles-h) on 2014-11-05
 - score: 1
 
-<p>You can file it yourself for about 375 using the USPTO.gov website, but trademarks are quite complex items.  Its almost worth the trouble of talking to an attorney who specializes in trademarks.  But you don't necessarily need one right away.  Get some money coming in first.  My recommendation.</p>
-
+You can file it yourself for about 375 using the USPTO.gov website, but trademarks are quite complex items.  Its almost worth the trouble of talking to an attorney who specializes in trademarks.  But you don't necessarily need one right away.  Get some money coming in first.  My recommendation.
 
 
 ## Answer 1334
@@ -64,14 +59,13 @@
 - posted by: [Ed Cottrell](https://stackexchange.com/users/2348349/ed-cottrell) on 2014-11-10
 - score: 1
 
-<p>You can do it yourself, but, as others have pointed out, it's complex. That's why people often hire attorneys.</p>
+You can do it yourself, but, as others have pointed out, it's complex. That's why people often hire attorneys.
 
-<p>There are lots of pitfalls for the unwary and uninformed. Some could simply result in your application being denied. Some, however, could result in you losing a legal challenge down the road with the result that you are no longer allowed to use your own business's name or marks. In a lawsuit, you might even be forced to pay damages for infringing someone else's mark. For example, if your mark is "Joe's Biscuits," but it turns out there is somebody out there using the trademark "Joseph's Biscuits" and you operate in the same geographical region, one of you may be in for a world of hurt.</p>
+There are lots of pitfalls for the unwary and uninformed. Some could simply result in your application being denied. Some, however, could result in you losing a legal challenge down the road with the result that you are no longer allowed to use your own business's name or marks. In a lawsuit, you might even be forced to pay damages for infringing someone else's mark. For example, if your mark is "Joe's Biscuits," but it turns out there is somebody out there using the trademark "Joseph's Biscuits" and you operate in the same geographical region, one of you may be in for a world of hurt.
 
-<p>Best advice: pay the extra money for legal assistance. I know the cost seems daunting when first starting a business (and I'm in a similar position), but there's a reason for the costs: you are paying for piece of mind and greater safety. </p>
+Best advice: pay the extra money for legal assistance. I know the cost seems daunting when first starting a business (and I'm in a similar position), but there's a reason for the costs: you are paying for piece of mind and greater safety. 
 
-<p><em>Disclaimer: This is not legal advice.</em></p>
-
+*Disclaimer: This is not legal advice.*
 
 
 ## Answer 1298
@@ -139,12 +133,11 @@
 - posted by: [Community](https://stackexchange.com/users/-1/community) on 2016-07-28
 - score: 0
 
-<p>I agree with everyone else who says you should hire an attorney to file your patent. However, I don't think hiring an attorney is such a black-and-white question. I feel like people too-often treat lawyers as full-service legal providers and then hire less qualified attorneys because they can't afford all the full-service hours of lawyers with tons of experience.</p>
+I agree with everyone else who says you should hire an attorney to file your patent. However, I don't think hiring an attorney is such a black-and-white question. I feel like people too-often treat lawyers as full-service legal providers and then hire less qualified attorneys because they can't afford all the full-service hours of lawyers with tons of experience.
 
-<p>Instead of treating this as all-or-nothing, go on the USPTO website, learn all you can, get the paper forms, fill them out, get everything else ready, maybe even grab a book on trademarks, and then go hire a <strong>great attorney</strong> to look it over what you've produced.</p>
+Instead of treating this as all-or-nothing, go on the USPTO website, learn all you can, get the paper forms, fill them out, get everything else ready, maybe even grab a book on trademarks, and then go hire a **great attorney** to look it over what you've produced.
 
-<p>Attorneys bill a lot of hours educating you, asking basic questions, other nonsense that isn't worth hundreds (or thousands) per hour. When you go speak to your lawyer, go as a relative expert. Take the savings and hire a better attorney to get the best possible outcome.</p>
-
+Attorneys bill a lot of hours educating you, asking basic questions, other nonsense that isn't worth hundreds (or thousands) per hour. When you go speak to your lawyer, go as a relative expert. Take the savings and hire a better attorney to get the best possible outcome.
 
 
 

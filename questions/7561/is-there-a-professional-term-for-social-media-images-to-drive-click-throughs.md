@@ -4,9 +4,11 @@
 - tagged: `marketing`, `content`
 - score: 1
 
-<p>Cracked makes these really nice graphics, and share them on Facebook to increase their click through rate.  I've seen a few other content publishers doing this same thing. Is there a professional term for this?
-<a href="https://i.stack.imgur.com/UQkkV.png" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/UQkkV.png" alt="enter image description here"></a></p>
+Cracked makes these really nice graphics, and share them on Facebook to increase their click through rate.  I've seen a few other content publishers doing this same thing. Is there a professional term for this?
+[![enter image description here][1]][1]
 
+
+  [1]: http://i.stack.imgur.com/UQkkV.png
 
 ## No Answers
 

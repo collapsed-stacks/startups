@@ -4,14 +4,13 @@
 - tagged: `data`, `us-government`
 - score: 0
 
-<p>I have an idea for which I would need to identify individuals. I do not need to store any identification data, just make the identification.</p>
+I have an idea for which I would need to identify individuals. I do not need to store any identification data, just make the identification.
 
-<p>Is it possible for a company to get/buy access to government held data, such as Photo ID data?</p>
+Is it possible for a company to get/buy access to government held data, such as Photo ID data?
 
-<p>If yes, to whom should one speak so as to initiate the data acquisition process?</p>
+If yes, to whom should one speak so as to initiate the data acquisition process?
 
-<p>If no, is there another way to get access to a data source which would allow me to make identifications?</p>
-
+If no, is there another way to get access to a data source which would allow me to make identifications?
 
 ## No Answers
 

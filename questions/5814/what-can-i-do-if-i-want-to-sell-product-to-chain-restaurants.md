@@ -4,8 +4,7 @@
 - tagged: `marketing`, `sales`, `restaurants`
 - score: 3
 
-<p>I come up with an idea that is supposed to help restaurants save costs and make more revenues. But for the first stage, I would like to talk to them about this idea and listen to their opinions and concerns. What can I do to reach them?</p>
-
+I come up with an idea that is supposed to help restaurants save costs and make more revenues. But for the first stage, I would like to talk to them about this idea and listen to their opinions and concerns. What can I do to reach them?
 
 
 ## Answer 5824
@@ -24,8 +23,8 @@
 - posted by: [user5254](https://stackexchange.com/users/6677812/user5254) on 2015-07-24
 - score: 1
 
-<p>Record example mocked video and show on it how this product can works on this company.
-Find persons on this restaurants on linkedin or other community and sent to it this video including list of benefits which this product include.</p>
+Record example mocked video and show on it how this product can works on this company.
+Find persons on this restaurants on linkedin or other community and sent to it this video including list of benefits which this product include.
 
 
 
@@ -34,8 +33,7 @@ Find persons on this restaurants on linkedin or other community and sent to it t
 - posted by: [Matiss](https://stackexchange.com/users/1819512/matiss) on 2015-07-23
 - score: 0
 
-<p>Create a pilot program and test it within a closed circle of your potential clients. Involve some local restaurants, if they are interested. Talk to people. </p>
-
+Create a pilot program and test it within a closed circle of your potential clients. Involve some local restaurants, if they are interested. Talk to people. 
 
 
 

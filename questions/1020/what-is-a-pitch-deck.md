@@ -4,8 +4,7 @@
 - tagged: `pitch`
 - score: 3
 
-<p>I often come across the term pitch deck when looking for information on building a start up.  What is a pitch deck?  How is it useful?</p>
-
+I often come across the term pitch deck when looking for information on building a start up.  What is a pitch deck?  How is it useful?
 
 
 ## Answer 1021
@@ -45,8 +44,7 @@
 - posted by: [blunders](https://stackexchange.com/users/216182/blunders) on 2014-10-16
 - score: 1
 
-<p>Pitch deck is just a term for a slideshow used for presenting a startup to prospective investors. </p>
-
+Pitch deck is just a term for a slideshow used for presenting a startup to prospective investors. 
 
 
 ## Answer 11387

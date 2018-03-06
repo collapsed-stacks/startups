@@ -4,14 +4,13 @@
 - tagged: `mobile-apps`, `consulting`
 - score: 2
 
-<p>I am currently considering to start a business with a great idea for an app (imo).</p>
+I am currently considering to start a business with a great idea for an app (imo).
 
-<p>As I have no clue about the legislation, etc. I want to consider a consulting company.</p>
+As I have no clue about the legislation, etc. I want to consider a consulting company.
 
-<p>No my question is:</p>
+No my question is:
 
-<p>They want to help me getting started, but how much should I tell them about my idea, before there is a patent or anything of value to make sure they don't steal it?</p>
-
+They want to help me getting started, but how much should I tell them about my idea, before there is a patent or anything of value to make sure they don't steal it?
 
 
 ## Answer 9849

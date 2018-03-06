@@ -4,8 +4,7 @@
 - tagged: `tech-company`, `startup-costs`, `investment`, `investors`
 - score: 1
 
-<p>We have an idea for startup. We have created business plan for this startup which include everything about it marketing, business model and so on. We would like to know how to get funds for this project, but we don't know which option is right one for us. We are 2 students both of us are programmers we wanna create social networking site and we need at least 6 people to make it happen and we live in central Europe and many investors are don't wanna invest into this project because of that they consider it as a big "risk". They also said it is good idea. So we wanna know where to find investors for this project. </p>
-
+We have an idea for startup. We have created business plan for this startup which include everything about it marketing, business model and so on. We would like to know how to get funds for this project, but we don't know which option is right one for us. We are 2 students both of us are programmers we wanna create social networking site and we need at least 6 people to make it happen and we live in central Europe and many investors are don't wanna invest into this project because of that they consider it as a big "risk". They also said it is good idea. So we wanna know where to find investors for this project. 
 
 
 ## Answer 5779
@@ -13,8 +12,7 @@
 - posted by: [Matiss](https://stackexchange.com/users/1819512/matiss) on 2015-07-20
 - score: 1
 
-<p>To even think about closing in on investment at this stage is the worst mistake you could possibly do. I suggest you to first develop a working prototype of your idea by whatever means available to you right now, and only when you are already spolling up some visitor base, then seek for outside support, if you actually need it at that point. Investors are usually reluctant to invest in ideas authors of which have yet to put a serious effort in them.  </p>
-
+To even think about closing in on investment at this stage is the worst mistake you could possibly do. I suggest you to first develop a working prototype of your idea by whatever means available to you right now, and only when you are already spolling up some visitor base, then seek for outside support, if you actually need it at that point. Investors are usually reluctant to invest in ideas authors of which have yet to put a serious effort in them.  
 
 
 ## Answer 6112
@@ -35,12 +33,11 @@
 - posted by: [JCA](https://stackexchange.com/users/6822638/jca) on 2015-08-22
 - score: 0
 
-<p>I've seen this come up time and again, do not let funding limit or stop you from launching your product. Apple, Facebook, and others were able to launch with little to no investment what so ever. </p>
+I've seen this come up time and again, do not let funding limit or stop you from launching your product. Apple, Facebook, and others were able to launch with little to no investment what so ever. 
 
-<p>As mentioned above, focus on creating a MVP, validate your idea/MVP by having people interact with your product and then you may possibly be able to prove that based on X user count and Y metrics that the product has traction.</p>
+As mentioned above, focus on creating a MVP, validate your idea/MVP by having people interact with your product and then you may possibly be able to prove that based on X user count and Y metrics that the product has traction.
 
-<p>In sum, focus on MVP, validate, do not let funding stop you.</p>
-
+In sum, focus on MVP, validate, do not let funding stop you.
 
 
 

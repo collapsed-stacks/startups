@@ -4,10 +4,9 @@
 - tagged: `legal`, `partnership`
 - score: 7
 
-<p>I am developing a software that uses Google search but accesses it in a way that violates its terms of service. I have done an extensive research and test to confirm its user value. I believe in it with all my heart and have invested years of my life into it. My initial plan was to launch it regardless; when it flies and gets big enough to be noticed by Google, we can talk business. However, answers in this forum have heavily discouraged this plan because of the risk of Google shutting it down even before it takes off and suggested talking to Google directly. </p>
+I am developing a software that uses Google search but accesses it in a way that violates its terms of service. I have done an extensive research and test to confirm its user value. I believe in it with all my heart and have invested years of my life into it. My initial plan was to launch it regardless; when it flies and gets big enough to be noticed by Google, we can talk business. However, answers in this forum have heavily discouraged this plan because of the risk of Google shutting it down even before it takes off and suggested talking to Google directly. 
 
-<p>So now I have a new plan: I will present my idea to Google and propose to build the software together. However, the problem is how to get a meeting with them. In fact, I have already tried this before. I went to Google Campus and talked to some mentors but they could do nothing for me. My incubator tried to contact Google but was just ignored.  Forget emailing them--may as well talk to a dead man. So how do I get their attention? Should I just walk into their headquarters? </p>
-
+So now I have a new plan: I will present my idea to Google and propose to build the software together. However, the problem is how to get a meeting with them. In fact, I have already tried this before. I went to Google Campus and talked to some mentors but they could do nothing for me. My incubator tried to contact Google but was just ignored.  Forget emailing them--may as well talk to a dead man. So how do I get their attention? Should I just walk into their headquarters? 
 
 
 ## Answer 9262
@@ -15,18 +14,17 @@
 - posted by: [Dawny33](https://stackexchange.com/users/6444670/dawny33) on 2016-05-20
 - score: 5
 
-<p>This involves a lot of risk for your startup if Google realises this and plans to put in a legal case on you.</p>
+This involves a lot of risk for your startup if Google realises this and plans to put in a legal case on you.
 
-<p>Companies generally respond quickly and certainly to legal support and requests. However, they only pay heed to mails from qualified lawyers, over non-lawyers.</p>
+Companies generally respond quickly and certainly to legal support and requests. However, they only pay heed to mails from qualified lawyers, over non-lawyers.
 
-<p>So, you can appoint a lawyer(preferably an experienced and a proper qualified one), and mail the legal support department of Google through him, to this id: <code>legal-support at google.com</code></p>
+So, you can appoint a lawyer(preferably an experienced and a proper qualified one), and mail the legal support department of Google through him, to this id: `legal-support at google.com`
 
-<hr>
 
-<p>After revision:</p>
+----------
+After revision:
 
-<p>Getting in touch with Google's core product team is also very tough. You can try approaching them personally on twitter or email. However, as it is a company-wide decision, it needs to be approved by the management, and that's why you need to mail to the legal department, which is the closest you can get to the management without getting ignored.</p>
-
+Getting in touch with Google's core product team is also very tough. You can try approaching them personally on twitter or email. However, as it is a company-wide decision, it needs to be approved by the management, and that's why you need to mail to the legal department, which is the closest you can get to the management without getting ignored.
 
 
 ## Answer 9276
@@ -51,21 +49,18 @@
 - posted by: [Alejandro G](https://stackexchange.com/users/8265496/alejandro-g) on 2016-05-27
 - score: 0
 
-<p>Clearly, you are wasting your time and money.</p>
+Clearly, you are wasting your time and money.
 
-<p>You have two choices:</p>
+You have two choices:
 
-<ul>
-<li>Throw everything into the trashcan and forget you ever build the thing and START OVER. This time build something legal and potentially profitable. This is like building a weapon of mass destruction on your backyard. You prove the entire world that you are smarter than everybody else but the investors can write you any checks and your cannot sell it either because they will throw you in prison.</li>
-<li>Find a Google competitor with more flexibility and sell them your technology.</li>
-</ul>
+ - Throw everything into the trashcan and forget you ever build the thing and START OVER. This time build something legal and potentially profitable. This is like building a weapon of mass destruction on your backyard. You prove the entire world that you are smarter than everybody else but the investors can write you any checks and your cannot sell it either because they will throw you in prison.
+ - Find a Google competitor with more flexibility and sell them your technology.
 
-<p>Sometimes we get bad ideas like Steven Spielberg and Hook.</p>
+Sometimes we get bad ideas like Steven Spielberg and Hook.
 
-<p>This is your Hook.</p>
+This is your Hook.
 
-<p>Move on.</p>
-
+Move on.
 
 
 

@@ -4,20 +4,17 @@
 - tagged: `customer-service`, `service`
 - score: 1
 
-<p>What are different types of support services when It comes to products that include hardware and software systems? I have the below list so far: </p>
+What are different types of support services when It comes to products that include hardware and software systems? I have the below list so far: 
 
-<ol>
-<li>Phone Support </li>
-<li>on-site support </li>
-<li>Add New Features</li>
-<li>Add new Services </li>
-<li>Hardware Warranty </li>
-<li>Training new employees</li>
-<li>Providing solution for network systems</li>
-</ol>
+ 1. Phone Support 
+ 2. on-site support 
+ 3. Add New Features
+ 4. Add new Services 
+ 5. Hardware Warranty 
+ 6. Training new employees
+ 7. Providing solution for network systems
 
-<p>Are there other kinds of support services ?</p>
-
+Are there other kinds of support services ?
 
 ## No Answers
 

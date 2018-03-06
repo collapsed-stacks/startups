@@ -4,18 +4,17 @@
 - tagged: `website`
 - score: 6
 
-<p>I have a functioning website for buying, selling, and exchanging surfboards. Users can filter based on location, price, size, and similar attributes.</p>
+I have a functioning website for buying, selling, and exchanging surfboards. Users can filter based on location, price, size, and similar attributes.
 
-<p>We've accumulated over three thousand Facebook likes since we launched around two years ago, but I still only get thirty to fifty visitors per day.</p>
+We've accumulated over three thousand Facebook likes since we launched around two years ago, but I still only get thirty to fifty visitors per day.
 
-<p>I've tried running ads on Google and Facebook, but found very little success on either platform. I ran a variety of Google and Facebook ads. Some catered to buyers and some catered to sellers. I even went so far as creating a Facebook ad for each individual ad on my site to drive more traffic to the ad itself and to hopefully help the buyer sell their surfboard to show that the site works. The ads were targeted in Southern California with anyone interested in surfing between the age groups of 18-50.</p>
+I've tried running ads on Google and Facebook, but found very little success on either platform. I ran a variety of Google and Facebook ads. Some catered to buyers and some catered to sellers. I even went so far as creating a Facebook ad for each individual ad on my site to drive more traffic to the ad itself and to hopefully help the buyer sell their surfboard to show that the site works. The ads were targeted in Southern California with anyone interested in surfing between the age groups of 18-50.
 
-<p>We've been improving the site over the last couple years, and I'm finally happy to say that it's at its final stage in terms of functionality, and I'm ready for heavy traffic to hit it, but I cannot for the life of me figure out how startups get so many initial users. I'm not really too sure where to turn.</p>
+We've been improving the site over the last couple years, and I'm finally happy to say that it's at its final stage in terms of functionality, and I'm ready for heavy traffic to hit it, but I cannot for the life of me figure out how startups get so many initial users. I'm not really too sure where to turn.
 
-<p>What can I try to bring in initial traffic to my site and get users to post there surfboards?</p>
+What can I try to bring in initial traffic to my site and get users to post there surfboards?
 
-<p>For the record, the site is <a href="http://www.surfboardswap.com" rel="nofollow">www.surfboardswap.com</a>.</p>
-
+For the record, the site is [www.surfboardswap.com](http://www.surfboardswap.com).
 
 
 ## Answer 974
@@ -36,14 +35,13 @@
 - posted by: [Jeremy Parsons](https://stackexchange.com/users/497810/jeremy-parsons) on 2014-10-14
 - score: 2
 
-<p>If you've had relevant traffic, but aren't getting usage, that may be a signal that what you're offering just isn't of sufficient value to your community.</p>
+If you've had relevant traffic, but aren't getting usage, that may be a signal that what you're offering just isn't of sufficient value to your community.
 
-<p>I can think of two directions you can go from here.</p>
+I can think of two directions you can go from here.
 
-<p>First, if you want to press further in to surfboard transactions, you could swallow your pride and bring in listings from Amazon, eBay, Craigslist and the rest. That would help you evaluate the hypothesis, "if only I had <em>all</em> the surfboard.</p>
+First, if you want to press further in to surfboard transactions, you could swallow your pride and bring in listings from Amazon, eBay, Craigslist and the rest. That would help you evaluate the hypothesis, "if only I had *all* the surfboard.
 
-<p>Second, you can go talk to the people who have liked your page or given you their details by whatever means. Find out what bothers them, not about the site, but about life and surfing. Where are they wasting time, or money? Where are they disappointed? It could be that your site is a great preparation for a pivot. That's not a failure, it's well-applied learning.</p>
-
+Second, you can go talk to the people who have liked your page or given you their details by whatever means. Find out what bothers them, not about the site, but about life and surfing. Where are they wasting time, or money? Where are they disappointed? It could be that your site is a great preparation for a pivot. That's not a failure, it's well-applied learning.
 
 
 ## Answer 1002

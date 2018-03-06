@@ -4,13 +4,13 @@
 - tagged: `united-states`, `mobile-apps`, `taxes`
 - score: 5
 
-<p>we recently started selling apps through the Google Play Store. As we are pretty confused be the complex taxation system, I'm seeking for some help here.</p>
+we recently started selling apps through the Google Play Store. As we are pretty confused be the complex taxation system, I'm seeking for some help here.
 
-<p>We are a small business based in Germany, and we want to sell our apps to customers in the US, via the Google Play Store.</p>
+We are a small business based in Germany, and we want to sell our apps to customers in the US, via the Google Play Store.
 
-<p>I stumbled across this "nexus" thingy: so we don't have that. No people from us live in the US or have ever been there.</p>
+I stumbled across this "nexus" thingy: so we don't have that. No people from us live in the US or have ever been there.
 
-<p>Which taxes do we need pay? And how to register for a tax-number? Is there a certain limit under which you don't have to pay taxes?</p>
+Which taxes do we need pay? And how to register for a tax-number? Is there a certain limit under which you don't have to pay taxes?
 
 
 
@@ -19,18 +19,17 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2017-02-01
 - score: 4
 
-<p>The answer is murky best I can recollect. On paper it's no action needed. In practice there are a bunch of caveats.</p>
+The answer is murky best I can recollect. On paper it's no action needed. In practice there are a bunch of caveats.
 
-<p>In particular, your clients might require you to fill in a form when you're selling high ticket items to justify a foreign-based expense.</p>
+In particular, your clients might require you to fill in a form when you're selling high ticket items to justify a foreign-based expense.
 
-<p>Similarly, your US-based service provider (i.e. Google) will declare your income to the IRS when you're earning more than the revenue limit, unless you took prior steps by filling a form that warrants you're foreign-based.</p>
+Similarly, your US-based service provider (i.e. Google) will declare your income to the IRS when you're earning more than the revenue limit, unless you took prior steps by filling a form that warrants you're foreign-based.
 
-<p>Also note that this stuff changes year on year, and it's non-trivial to keep up with what you need to do exactly while worrying about a gazillion other things in a startup.</p>
+Also note that this stuff changes year on year, and it's non-trivial to keep up with what you need to do exactly while worrying about a gazillion other things in a startup.
 
-<p>Your best bet is to work with a accountant; ideally one who interacts with companies that deal with the US. They'll know the gory details and keep you up to date for a very reasonable fee. (Plus they can do your accounting and VAT and all that BS for you on top. You want this.)</p>
+Your best bet is to work with a accountant; ideally one who interacts with companies that deal with the US. They'll know the gory details and keep you up to date for a very reasonable fee. (Plus they can do your accounting and VAT and all that BS for you on top. You want this.)
 
-<p>(Aside -- This much you <em>don't</em> want: to create a US-based company until you've actual, genuine employees there, or investors who insist on you having one - typically for IP-related nonsense. If you ever do, <em>also</em> get a US-based accountant in the same state to make sure you comply on and stay on top of all of the US tax-related nonsense. And a US-based lawyer.)</p>
-
+(Aside -- This much you _don't_ want: to create a US-based company until you've actual, genuine employees there, or investors who insist on you having one - typically for IP-related nonsense. If you ever do, _also_ get a US-based accountant in the same state to make sure you comply on and stay on top of all of the US tax-related nonsense. And a US-based lawyer.)
 
 
 ## Answer 12038

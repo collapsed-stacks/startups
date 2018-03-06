@@ -4,17 +4,14 @@
 - tagged: `legal`, `lean-startup`, `finance`
 - score: 4
 
-<p>Is it common to have co-founders to sign a agreement to protect the early stage startups, e.g.</p>
+Is it common to have co-founders to sign a agreement to protect the early stage startups, e.g.
 
-<ul>
-<li>prevent selling of personal owned equity without board approval</li>
-<li>prevent diluting of share without all the people agree</li>
-<li>non-compete agreement if the co-founder leave the company</li>
-<li>..</li>
-</ul>
+- prevent selling of personal owned equity without board approval
+- prevent diluting of share without all the people agree
+- non-compete agreement if the co-founder leave the company
+- ..
 
-<p>Are there such a good template to follow?</p>
-
+Are there such a good template to follow?
 
 
 ## Answer 7884

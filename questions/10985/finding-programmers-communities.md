@@ -4,17 +4,16 @@
 - tagged: `programmers`, `community`
 - score: 1
 
-<p>We are working on a very cool visual, In-Browser HTML/CSS editor. It should eventually shorten and make the way people are working on their sites much more organized and effective.</p>
+We are working on a very cool visual, In-Browser HTML/CSS editor. It should eventually shorten and make the way people are working on their sites much more organized and effective.
 
-<p>We would like to find programmers communities to show them  our intro video and get their opinion, can you recommend on forums, groups, chats etc.
-Is there a community at SO that i can ask? </p>
+We would like to find programmers communities to show them  our intro video and get their opinion, can you recommend on forums, groups, chats etc.
+Is there a community at SO that i can ask? 
 
-<p>Would really appreciate your help!</p>
+Would really appreciate your help!
 
-<p>Thanks,</p>
+Thanks,
 
-<p>Ram</p>
-
+Ram
 
 
 ## Answer 10986
@@ -22,14 +21,11 @@ Is there a community at SO that i can ask? </p>
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2016-08-23
 - score: 1
 
-<p>Try three venues:</p>
+Try three venues:
 
-<ul>
-<li>Offline meeting-related venues like meetup.com, to meet with groups of end users offline.</li>
-<li>Online interest group-related venus like Facebook groups, to do the same online - and possibly offline as well.</li>
-<li>Online beta testing-related venues like erlibird.com, to do online-based feedback gathering and/or user experience tests.</li>
-</ul>
-
+- Offline meeting-related venues like meetup.com, to meet with groups of end users offline.
+- Online interest group-related venus like Facebook groups, to do the same online - and possibly offline as well.
+- Online beta testing-related venues like erlibird.com, to do online-based feedback gathering and/or user experience tests.
 
 
 ## Answer 11725

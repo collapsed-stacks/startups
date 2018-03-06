@@ -4,10 +4,9 @@
 - tagged: `business-registration`, `domain-name`
 - score: 2
 
-<p>I want to create a marketplace for subscriptions and I am currently looking for a good name, what would you prefer?</p>
+I want to create a marketplace for subscriptions and I am currently looking for a good name, what would you prefer?
 
-<p><code>uppays</code> or <code>sellpy</code></p>
-
+` uppays` or `sellpy`
 
 ## No Answers
 

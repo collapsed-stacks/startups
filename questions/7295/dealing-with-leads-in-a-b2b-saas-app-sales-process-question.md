@@ -4,16 +4,15 @@
 - tagged: `sales`, `crm`
 - score: 3
 
-<p>We have a SaaS application in the cloud space that targets small, medium and enterprise businesses.</p>
+We have a SaaS application in the cloud space that targets small, medium and enterprise businesses.
 
-<p>With approximately 50 signups (and growing) a week it is becoming harder and harder to manage the pipeline and ensure that every lead was properly connected with and handled</p>
+With approximately 50 signups (and growing) a week it is becoming harder and harder to manage the pipeline and ensure that every lead was properly connected with and handled
 
-<p>Currently using Contactually CRM and its Programs feature to generate follow ups.  However, it is consistently late with follow ups and its frustrating.</p>
+Currently using Contactually CRM and its Programs feature to generate follow ups.  However, it is consistently late with follow ups and its frustrating.
 
-<p>Ultimately, I need to have a system where incoming signups are easily categorized and managed as they become cold, or engage with support, or use the system or not use the system, etc.</p>
+Ultimately, I need to have a system where incoming signups are easily categorized and managed as they become cold, or engage with support, or use the system or not use the system, etc.
 
-<p>Is there a process that folks usually follow that works here or perhaps CRM that targets this specific need?</p>
-
+Is there a process that folks usually follow that works here or perhaps CRM that targets this specific need?
 
 
 ## Answer 11655
@@ -21,9 +20,9 @@
 - posted by: [Gabriella C.](https://stackexchange.com/users/9324351/gabriella-c) on 2016-12-07
 - score: 1
 
-<p>I recommend Hubspot's CRM. They offer a free version of their software that is highly competent, and can also integrate with their sales and marketing products for a cohesive management stack. You can upgrade as you go which is also nice.</p>
+I recommend Hubspot's CRM. They offer a free version of their software that is highly competent, and can also integrate with their sales and marketing products for a cohesive management stack. You can upgrade as you go which is also nice.
 
-<p>One of my favorite features is that you can easily send personalized email sequences for specific triggers. You can also track which emails perform the best, and keep detailed notes on every lead. Best of all you can sync your gmail to automatically upload prospects into your system. </p>
+One of my favorite features is that you can easily send personalized email sequences for specific triggers. You can also track which emails perform the best, and keep detailed notes on every lead. Best of all you can sync your gmail to automatically upload prospects into your system. 
 
 
 
@@ -32,8 +31,7 @@
 - posted by: [JJBee](https://stackexchange.com/users/6998558/jjbee) on 2016-10-03
 - score: 0
 
-<p>Salesforce comes to mind. You can also do this yourself, schedule different reports to be sent to a distribution list for action to be taken, as long as you're capturing the necessary data. If you have someone that manages your data or reporting, you can give them your report specs, and they may be able to.</p>
-
+Salesforce comes to mind. You can also do this yourself, schedule different reports to be sent to a distribution list for action to be taken, as long as you're capturing the necessary data. If you have someone that manages your data or reporting, you can give them your report specs, and they may be able to.
 
 
 ## Answer 11642

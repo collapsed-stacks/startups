@@ -4,23 +4,20 @@
 - tagged: `product`, `web-development`, `outsourcing`
 - score: 4
 
-<p>Our StartUp has two advantages:</p>
+Our StartUp has two advantages:
 
-<ul>
-<li>We are web developers and are able to develop our product by our own</li>
-<li>We have some connections and we know we could outsource our project</li>
-</ul>
+- We are web developers and are able to develop our product by our own
+- We have some connections and we know we could outsource our project
 
-<p>But we have one big problem: We lack of time and still are bound to other projects.</p>
+But we have one big problem: We lack of time and still are bound to other projects.
 
-<p>Now, we are from Germany and we would have to pay high wages to get someone with the potential to do our tasks. But this guy will sit next to us and we would have full control over him. Problem is, we only need him for the time of development, after that, we would have no task for him.</p>
+Now, we are from Germany and we would have to pay high wages to get someone with the potential to do our tasks. But this guy will sit next to us and we would have full control over him. Problem is, we only need him for the time of development, after that, we would have no task for him.
 
-<p>We also build up some contacts to partners outside of Germany, which are able to develop way cheaper, then we could do. (Think of it as: If I develop one hour on this project, i will loose one hour on an other, paid project. Which is about twice the amount, i would pay to our partner)</p>
+We also build up some contacts to partners outside of Germany, which are able to develop way cheaper, then we could do. (Think of it as: If I develop one hour on this project, i will loose one hour on an other, paid project. Which is about twice the amount, i would pay to our partner)
 
-<p>What would you suggest in such a situation? We have the capabilities, but also have way cheaper alternatives. We also only have few experience with outsourcing, but still are into the topic of web development, so we can distinguish between good and bad quality.</p>
+What would you suggest in such a situation? We have the capabilities, but also have way cheaper alternatives. We also only have few experience with outsourcing, but still are into the topic of web development, so we can distinguish between good and bad quality.
 
-<p>We thought about some kind of mixture, but we are really stuck on this topic.</p>
-
+We thought about some kind of mixture, but we are really stuck on this topic.
 
 
 ## Answer 6206
@@ -81,12 +78,11 @@ Doing everything by yourself makes sense till you do not have steady flow of cus
 - posted by: [Michael Doran](https://stackexchange.com/users/6964956/michael-doran) on 2015-09-16
 - score: 0
 
-<p>It sounds to me like you guys need an additional founder who can be focused on the business aspects of what you do.</p>
+It sounds to me like you guys need an additional founder who can be focused on the business aspects of what you do.
 
-<p>The good news is that the world has many more of those then people who are able to develop products online well. </p>
+The good news is that the world has many more of those then people who are able to develop products online well. 
 
-<p>So be very selective, try to find someone who is ambitious, has good ideas, and who is a giver or matcher and not a taker, and then give these problems to him or her.</p>
-
+So be very selective, try to find someone who is ambitious, has good ideas, and who is a giver or matcher and not a taker, and then give these problems to him or her.
 
 
 

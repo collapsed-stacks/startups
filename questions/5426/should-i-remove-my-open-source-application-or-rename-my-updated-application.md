@@ -4,18 +4,17 @@
 - tagged: `software`, `business-model`, `open-source`
 - score: 2
 
-<p>I wrote an open source application back in 2011 which I spent all of a month to build with a few enhancements I added over the next month or two.  I have since then done some significant enhancements to my application.  I own, will own or will rewrite all of the source code, images, etc.  If I leave my application with the same name as my open source app, there might be confusion.  I really like the name I gave it, so renaming my app is not my first choice.  My application is a desktop application which I intend to sell for 10-20 dollars.  This is intended for general consumers, not businesses, so a support model doesn't likely make much sense.</p>
+I wrote an open source application back in 2011 which I spent all of a month to build with a few enhancements I added over the next month or two.  I have since then done some significant enhancements to my application.  I own, will own or will rewrite all of the source code, images, etc.  If I leave my application with the same name as my open source app, there might be confusion.  I really like the name I gave it, so renaming my app is not my first choice.  My application is a desktop application which I intend to sell for 10-20 dollars.  This is intended for general consumers, not businesses, so a support model doesn't likely make much sense.
 
-<p>While my enhancements are significant, a fair number of users might be able to get along with the older product.  It's not polished, it lacks some useful features, but it might be acceptable.  In looking at the old site I used, I have about 3000 downloads, but no way of contacting those people for marketing purposes.</p>
+While my enhancements are significant, a fair number of users might be able to get along with the older product.  It's not polished, it lacks some useful features, but it might be acceptable.  In looking at the old site I used, I have about 3000 downloads, but no way of contacting those people for marketing purposes.
 
-<p>It is not valuable to suggest that I just keep my application open source. I have tried multiple times to do donations and it doesn't work for me.  I don't want to try the support model.  I'm strongly opposed to building in advertising, so that is not something I am willing to try.</p>
+It is not valuable to suggest that I just keep my application open source. I have tried multiple times to do donations and it doesn't work for me.  I don't want to try the support model.  I'm strongly opposed to building in advertising, so that is not something I am willing to try.
 
-<p>What are the advantages of pull my app from the various sites hosting it?  How can I put the cat back into the bag?</p>
+What are the advantages of pull my app from the various sites hosting it?  How can I put the cat back into the bag?
 
-<p>What advantages do I get if I just leave my old program around?</p>
+What advantages do I get if I just leave my old program around?
 
-<p>Is there is any other pro-open source methods I have failed to consider?</p>
-
+Is there is any other pro-open source methods I have failed to consider?
 
 
 ## Answer 5550
@@ -34,14 +33,13 @@
 - posted by: [Malekai](https://stackexchange.com/users/5820495/malekai) on 2015-06-01
 - score: 1
 
-<p>Personally I would say your best bet is to remove any trace of your old project and then use the same name for your new project. I would avoid referencing the old project on your website or when marketing the new one as this would only draw attention that you're moving from free to paid.</p>
+Personally I would say your best bet is to remove any trace of your old project and then use the same name for your new project. I would avoid referencing the old project on your website or when marketing the new one as this would only draw attention that you're moving from free to paid.
 
-<p>Assuming you own the IP for your old project that is but it would be worth speaking to an IP lawyer if you are concerned that someone would have claim to your work.</p>
+Assuming you own the IP for your old project that is but it would be worth speaking to an IP lawyer if you are concerned that someone would have claim to your work.
 
-<p>Leaving your old program around in the public would only harm your new efforts as it would stand as a free version of your paid software. If you were to offer both then it would draw attention that you are now charging for your once free service. That being said, make sure you take a copy of your original work incase you want it for any future works.</p>
+Leaving your old program around in the public would only harm your new efforts as it would stand as a free version of your paid software. If you were to offer both then it would draw attention that you are now charging for your once free service. That being said, make sure you take a copy of your original work incase you want it for any future works.
 
-<p>You may not be able to put the cat fully back in the bag, as your old project is open source, anyone with a copy of your work CURRENTLY can then reuse/resell it. However if you are confident that your new version is much better then that shouldn't discourage you as any competition based from your previous work would not be much competition. A quality paid solution is always better than a free partial solution.</p>
-
+You may not be able to put the cat fully back in the bag, as your old project is open source, anyone with a copy of your work CURRENTLY can then reuse/resell it. However if you are confident that your new version is much better then that shouldn't discourage you as any competition based from your previous work would not be much competition. A quality paid solution is always better than a free partial solution.
 
 
 ## Answer 11109
@@ -49,29 +47,30 @@
 - posted by: [paulzag](https://stackexchange.com/users/5451744/paulzag) on 2016-09-10
 - score: 0
 
-<p>I  will argue the other side of the coin from the other replies. You should keep your open source heritage. </p>
+I  will argue the other side of the coin from the other replies. You should keep your open source heritage. 
 
-<p>3000 downloads is not a lot. It's nothing to scoff at, but ultimately it's not a lot of trial users.</p>
+3000 downloads is not a lot. It's nothing to scoff at, but ultimately it's not a lot of trial users.
 
-<p>I'm assuming there is not a single line of code belonging to someone else or another Free Software project. If this is not the case you'll have to recode your app from scratch (if you haven't already done so since asking this question in 2015).</p>
+I'm assuming there is not a single line of code belonging to someone else or another Free Software project. If this is not the case you'll have to recode your app from scratch (if you haven't already done so since asking this question in 2015).
 
-<p>Release a bugfix version of the last open source version and rename it to FooBar GPL 1.1 (or whatever version your up to). </p>
+Release a bugfix version of the last open source version and rename it to FooBar GPL 1.1 (or whatever version your up to). 
 
-<p>FooBar 2.0 (or OpenSource version x+1) is proprietary and for pay. Maybe you'll offer a trial version or nagware.</p>
+FooBar 2.0 (or OpenSource version x+1) is proprietary and for pay. Maybe you'll offer a trial version or nagware.
 
-<p>How will you feel when your software shows up on a torrent site?</p>
+How will you feel when your software shows up on a torrent site?
 
-<p>Whatever the feelings you now market FooBar 2.0 as the new direction of the software. </p>
+Whatever the feelings you now market FooBar 2.0 as the new direction of the software. 
 
-<p>Open source purists are free to fork the old version of the software, but with 3000 downloads it's unlikely there are developers among them.</p>
+Open source purists are free to fork the old version of the software, but with 3000 downloads it's unlikely there are developers among them.
 
-<p>You are not obligated to maintain your open source software. You can cease development whenever you choose. But you own the name, even if you haven't registered a trademark yet.</p>
+You are not obligated to maintain your open source software. You can cease development whenever you choose. But you own the name, even if you haven't registered a trademark yet.
 
-<p>The initial brand awareness is worth a bit of potentially helpful controversy of moving to closed source.</p>
+The initial brand awareness is worth a bit of potentially helpful controversy of moving to closed source.
 
-<p>For the record I don't think you'll get enough sales to work on it full time. But I suspect your motivated to work on it now as a closed source app. </p>
+For the record I don't think you'll get enough sales to work on it full time. But I suspect your motivated to work on it now as a closed source app. 
 
-<p>I also think selling a great updated desktop version for $47 or more will generate more revenue than your current price point.</p>
+I also think selling a great updated desktop version for $47 or more will generate more revenue than your current price point.
+
 
 
 

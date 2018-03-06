@@ -4,16 +4,13 @@
 - tagged: `legal`, `equity`, `united-states`
 - score: -1
 
-<p>I'm using Stripe Atlas for creating a new company in Delaware.
-They ask me if I want:</p>
+I'm using Stripe Atlas for creating a new company in Delaware.
+They ask me if I want:
 
-<ul>
-<li>A new company, owned by individuals and investors</li>
-<li>A subsidiary of an already existing company</li>
-</ul>
+- A new company, owned by individuals and investors
+- A subsidiary of an already existing company
 
-<p>What is the pros &amp; cons of a new company vs a subsidiary company?</p>
-
+What is the pros & cons of a new company vs a subsidiary company?
 
 
 ## Answer 13188
@@ -21,15 +18,12 @@ They ask me if I want:</p>
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2017-08-14
 - score: 0
 
-<p>It's not about advantages of one or the other, they're basically asking you if this is:</p>
+It's not about advantages of one or the other, they're basically asking you if this is:
 
-<ul>
-<li>A new business, in which case the future owners will own the new business.</li>
-<li>An existing business that is incorporating a new one in the US-DE (for any reason, including but not limited to opening a branch in the US), in which case the existing business will own the new business.</li>
-</ul>
+- A new business, in which case the future owners will own the new business.
+- An existing business that is incorporating a new one in the US-DE (for any reason, including but not limited to opening a branch in the US), in which case the existing business will own the new business.
 
-<p>(There likely are some arcane and subtle tax-related differences too, but from a practical standpoint you shouldn't be worrying about those until you can afford an army of lawyers.)</p>
-
+(There likely are some arcane and subtle tax-related differences too, but from a practical standpoint you shouldn't be worrying about those until you can afford an army of lawyers.)
 
 
 

@@ -4,9 +4,9 @@
 - tagged: `legal`, `website`, `web-development`
 - score: 0
 
-<p>I saw a cool design template like a WordPress theme <strong>not</strong> a website and I just couldn't buy it, So is it illegal for me to create a website designed in the same way but using my own custom css,html and javascript.</p>
+I saw a cool design template like a WordPress theme **not** a website and I just couldn't buy it, So is it illegal for me to create a website designed in the same way but using my own custom css,html and javascript.
 
-<p>Thanks.</p>
+Thanks.
 
 
 

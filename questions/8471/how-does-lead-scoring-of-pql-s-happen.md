@@ -4,20 +4,20 @@
 - tagged: `marketing`, `sales`, `growth`
 - score: 1
 
-<p>PQL: Product Qualified Lead</p>
+PQL: Product Qualified Lead
 
-<p>From <a href="http://tomtunguz.com/the-new-sales-hotness-the-product-qualified-lead-pql/" rel="nofollow">this article</a>:</p>
+From [this article][1]:
 
-<blockquote>
-  <p>PQLs are potential customers who have used a product and reached
-  pre-defined triggers that signify a strong likelihood to become a
-  paying customer.</p>
-</blockquote>
+> PQLs are potential customers who have used a product and reached
+> pre-defined triggers that signify a strong likelihood to become a
+> paying customer.
 
-<p>So, are there any commonly used practices for scoring PQL's, or are they completely company and segment dependent?</p>
+So, are there any commonly used practices for scoring PQL's, or are they completely company and segment dependent?
 
-<p>And how does PQL scoring generally happen at companies where they do it?</p>
+And how does PQL scoring generally happen at companies where they do it?
 
+
+  [1]: http://tomtunguz.com/the-new-sales-hotness-the-product-qualified-lead-pql/
 
 ## No Answers
 

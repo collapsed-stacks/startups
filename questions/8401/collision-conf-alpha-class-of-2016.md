@@ -4,12 +4,11 @@
 - tagged: `startup-costs`, `funding`, `investors`, `angel-investors`, `startup-weekend`
 - score: 3
 
-<p>Applied to Collision Conf, had a phone interview and a few days later received an email saying - congrats, we selected your startup to be in Collision Conf ALPHA class. </p>
+Applied to Collision Conf, had a phone interview and a few days later received an email saying - congrats, we selected your startup to be in Collision Conf ALPHA class. 
 
-<p>It all looks legit except the ticket costs $2000. Being a month old self-funded startup, we definitely can't just throw two grant left and right.</p>
+It all looks legit except the ticket costs $2000. Being a month old self-funded startup, we definitely can't just throw two grant left and right.
 
-<p>Did anyone have a solid experience with this Collision Conf, what exactly is ALPHA class, how valuable is it and what will we miss if we won't go this time? Thank you!</p>
-
+Did anyone have a solid experience with this Collision Conf, what exactly is ALPHA class, how valuable is it and what will we miss if we won't go this time? Thank you!
 
 
 ## Answer 8412
@@ -42,9 +41,8 @@
 - posted by: [Frrank](https://stackexchange.com/users/7699745/frrank) on 2016-01-28
 - score: 1
 
-<p>like you I also selected for the Alpha Rise 2016 but that is in Hong-long and currently I am also dealing with the same issue. But it will be highly worth full as you will meet investors and potential advisors who may not do anything regarding money but they will be good connections.
-Give some more details how long alpha, etc. I have many friends who got experienced in this field. as my start-up advisor, he is ex-Facebook, marketing giant-he is really helping fuel.</p>
-
+like you I also selected for the Alpha Rise 2016 but that is in Hong-long and currently I am also dealing with the same issue. But it will be highly worth full as you will meet investors and potential advisors who may not do anything regarding money but they will be good connections.
+Give some more details how long alpha, etc. I have many friends who got experienced in this field. as my start-up advisor, he is ex-Facebook, marketing giant-he is really helping fuel.
 
 
 

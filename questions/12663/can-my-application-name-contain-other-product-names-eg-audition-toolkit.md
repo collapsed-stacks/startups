@@ -4,9 +4,8 @@
 - tagged: `trademark`, `applications`
 - score: -1
 
-<p>I have developed an application and its in closed beta testing for android.
-I have named my application Audition ToolKit. It performs some of the actions of Adobe Audition. Is there a copyright infringement or offence in using a similar name. For now, I have given a bold disclaimer saying, the application is not affiliated or related to Adobe Audition.</p>
-
+I have developed an application and its in closed beta testing for android.
+I have named my application Audition ToolKit. It performs some of the actions of Adobe Audition. Is there a copyright infringement or offence in using a similar name. For now, I have given a bold disclaimer saying, the application is not affiliated or related to Adobe Audition.
 
 
 ## Answer 12665

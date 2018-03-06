@@ -4,21 +4,19 @@
 - tagged: `business-plan`, `customer-development`, `customer-service`
 - score: 2
 
-<p>Not sure if this is the right place to ask this question but I am looking to have a comment card printed out for my new store. I want to have a comment card where i can easily judge how my business is doing in the eyes of the customer. For now i am adding following metrics:-</p>
+Not sure if this is the right place to ask this question but I am looking to have a comment card printed out for my new store. I want to have a comment card where i can easily judge how my business is doing in the eyes of the customer. For now i am adding following metrics:-
 
-<ul>
-<li><strong>Atmosphere</strong></li>
-<li><strong>Value for money</strong></li>
-<li><strong>Quality of products</strong></li>
-<li><strong>variety of products</strong></li>
-<li><strong>friendly service</strong></li>
-</ul>
+ - **Atmosphere**
+ - **Value for money**
+ - **Quality of products**
+ - **variety of products**
+ - **friendly service**
 
-<p>[all of these will have values - bad - normal - good - excellent]</p>
+[all of these will have values - bad - normal - good - excellent]
 
-<p>I am not sure this covers all of bases. And want to make sure i didn't miss anything. </p>
+I am not sure this covers all of bases. And want to make sure i didn't miss anything. 
 
-<p><strong>Nature of business</strong>: it would be a shop for ladies, gents clothes + accessories, etc.</p>
+**Nature of business**: it would be a shop for ladies, gents clothes + accessories, etc.
 
 
 
@@ -27,32 +25,31 @@
 - posted by: [Uxbridge](https://stackexchange.com/users/7359632/uxbridge) on 2016-05-13
 - score: 2
 
-<p>You could consider adapting Google's HEART metrics: </p>
+You could consider adapting Google's HEART metrics: 
 
-<blockquote>
-  <p><strong>Happiness</strong>: measures of user attitudes, often collected via survey. For example: satisfaction, perceived ease of use, and net-promoter
-  score.</p>
-  
-  <p><strong>Engagement</strong>: level of user involvement, typically measured via behavioral proxies such as frequency, intensity, or depth of
-  interaction over some time period. Examples might include the number
-  of visits per user per week or the number of photos uploaded per user
-  per day.</p>
-  
-  <p><strong>Adoption</strong>: new users of a product or feature. For example: the number of accounts created in the last seven days or the percentage of
-  Gmail users who use labels.</p>
-  
-  <p><strong>Retention</strong>: the rate at which existing users are returning. For example: how many of the active users from a given time period are
-  still present in some later time period? You may be more interested in
-  failure to retain, commonly known as “churn.”</p>
-  
-  <p><strong>Task success</strong>: this includes traditional behavioral metrics of user experience, such as efficiency (e.g. time to complete a task),
-  effectiveness (e.g. percent of tasks completed), and error rate. This
-  category is most applicable to areas of your product that are very
-  task-focused, such as search or an upload flow.</p>
-</blockquote>
 
-<p>See <a href="https://library.gv.com/how-to-choose-the-right-ux-metrics-for-your-product-5f46359ab5be#.mxg8w3jhs" rel="nofollow">https://library.gv.com/how-to-choose-the-right-ux-metrics-for-your-product-5f46359ab5be#.mxg8w3jhs</a></p>
 
+> **Happiness**: measures of user attitudes, often collected via survey. For example: satisfaction, perceived ease of use, and net-promoter
+> score.
+> 
+> **Engagement**: level of user involvement, typically measured via behavioral proxies such as frequency, intensity, or depth of
+> interaction over some time period. Examples might include the number
+> of visits per user per week or the number of photos uploaded per user
+> per day.
+> 
+> **Adoption**: new users of a product or feature. For example: the number of accounts created in the last seven days or the percentage of
+> Gmail users who use labels.
+> 
+> **Retention**: the rate at which existing users are returning. For example: how many of the active users from a given time period are
+> still present in some later time period? You may be more interested in
+> failure to retain, commonly known as “churn.”
+> 
+> **Task success**: this includes traditional behavioral metrics of user experience, such as efficiency (e.g. time to complete a task),
+> effectiveness (e.g. percent of tasks completed), and error rate. This
+> category is most applicable to areas of your product that are very
+> task-focused, such as search or an upload flow.
+
+See https://library.gv.com/how-to-choose-the-right-ux-metrics-for-your-product-5f46359ab5be#.mxg8w3jhs
 
 
 ## Answer 11434

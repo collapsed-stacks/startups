@@ -4,8 +4,7 @@
 - tagged: `equity`, `angel-investors`, `crowd-funding`, `young-entrepreneurs`
 - score: -1
 
-<p>I want to startup a web service for a recruiting company but I need funding to pay staff members. Are there any crowd funding groups or angel investors who are specifically looking to invest in these sorts of startups ?</p>
-
+I want to startup a web service for a recruiting company but I need funding to pay staff members. Are there any crowd funding groups or angel investors who are specifically looking to invest in these sorts of startups ?
 
 
 ## Answer 12537

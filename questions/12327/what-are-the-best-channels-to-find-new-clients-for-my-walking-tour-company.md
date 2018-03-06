@@ -4,13 +4,12 @@
 - tagged: `social-networking`, `networking`, `ceo`
 - score: 2
 
-<p>i am looking to find more clients for my walking tour,travel &amp; tourism company based in NYC.
-Social medias and my website are a good way to get some, word of mouth is another one but i am looking to get more.</p>
+i am looking to find more clients for my walking tour,travel & tourism company based in NYC.
+Social medias and my website are a good way to get some, word of mouth is another one but i am looking to get more.
 
-<p>What are the best channels or companies/structures i could contact to get more clients or collaborations?</p>
+What are the best channels or companies/structures i could contact to get more clients or collaborations?
 
-<p>Thank you very much!</p>
-
+Thank you very much!
 
 
 ## Answer 12329
@@ -18,20 +17,17 @@ Social medias and my website are a good way to get some, word of mouth is anothe
 - posted by: [Smit](https://stackexchange.com/users/7665731/smit) on 2017-03-16
 - score: 1
 
-<p>This is mainly about your marketing strategy. </p>
+This is mainly about your marketing strategy. 
 
-<blockquote>
-  <p>How convincing are you?</p>
-</blockquote>
+> How convincing are you?
 
-<p>Agree websites and word-of-mouth are a way to get clients, but they all are secondary. The important is that you take part in conferencing, setup booths and may be go tourism places and market.</p>
+Agree websites and word-of-mouth are a way to get clients, but they all are secondary. The important is that you take part in conferencing, setup booths and may be go tourism places and market.
 
-<p>Conferencing mainly about Travel! and also make sure to have enough materials to promote your idea/product. Materials also include appropriate content.</p>
+Conferencing mainly about Travel! and also make sure to have enough materials to promote your idea/product. Materials also include appropriate content.
 
-<p>There are companies that help you get clients for your company, but my personal view is that clients form that companies don't last longer. </p>
+There are companies that help you get clients for your company, but my personal view is that clients form that companies don't last longer. 
 
-<p>FYI: Travel is huge market, you may want to target very specific and then expand. Or else your product my get lost with others.</p>
-
+FYI: Travel is huge market, you may want to target very specific and then expand. Or else your product my get lost with others.
 
 
 

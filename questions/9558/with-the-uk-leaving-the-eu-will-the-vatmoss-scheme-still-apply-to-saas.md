@@ -4,10 +4,9 @@
 - tagged: `saas`, `vat`
 - score: 2
 
-<p>As you all know, the UK has voted to leave the EU. I'm just wondering how, if at all, the VATMOSS scheme will be affected as it's an EU law?</p>
+As you all know, the UK has voted to leave the EU. I'm just wondering how, if at all, the VATMOSS scheme will be affected as it's an EU law?
 
-<p>Thanks for any info, I am aware that nothing is changing in regards to the UK for a while yet ;)</p>
-
+Thanks for any info, I am aware that nothing is changing in regards to the UK for a while yet ;)
 
 
 ## Answer 9561

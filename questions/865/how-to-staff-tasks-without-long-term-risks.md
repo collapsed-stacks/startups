@@ -4,13 +4,13 @@
 - tagged: `tech-company`, `legal`, `intellectual-property`, `taxes`, `software`
 - score: 3
 
-<p>Looking for a fresh look at how to source, staff, and manage tasks on a short-term basis, without long-term liabilities such as payroll.</p>
+Looking for a fresh look at how to source, staff, and manage tasks on a short-term basis, without long-term liabilities such as payroll.
 
-<p>In an attempt to limit the scope of the question, I'm looking for coders that are able to write custom code remotely with well defined acceptance tests. </p>
+In an attempt to limit the scope of the question, I'm looking for coders that are able to write custom code remotely with well defined acceptance tests. 
 
-<p>A good answer, per possible solution, will cover how issues related to taxes, legal agreements, and IP might be addressed.</p>
+A good answer, per possible solution, will cover how issues related to taxes, legal agreements, and IP might be addressed.
 
-<p>(Please note that if you haven't sourced at least 2000 hours in a way that relates to this answer, then it very possible you lack the experience to provide advice of this topic.)</p>
+(Please note that if you haven't sourced at least 2000 hours in a way that relates to this answer, then it very possible you lack the experience to provide advice of this topic.)
 
 
 

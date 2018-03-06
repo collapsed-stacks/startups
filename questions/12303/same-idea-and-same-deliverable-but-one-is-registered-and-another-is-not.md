@@ -4,14 +4,13 @@
 - tagged: `tech-company`
 - score: 3
 
-<p>I have been working on this project for two months. With very minimal research. I am happy with what i have achieved and will continue to pursue further.</p>
+I have been working on this project for two months. With very minimal research. I am happy with what i have achieved and will continue to pursue further.
 
-<p>But late last week, I came across a company who is registered and have their MVP out and rolling. They have similar concept. They also have got some funding. </p>
+But late last week, I came across a company who is registered and have their MVP out and rolling. They have similar concept. They also have got some funding. 
 
-<p>Now the product i am working on, only me and my friend knows. And the company already has their MVP out. Which means they should have already started with main-release prep. </p>
+Now the product i am working on, only me and my friend knows. And the company already has their MVP out. Which means they should have already started with main-release prep. 
 
-<p>Should I put my hand forward for collaboration(share) or should I stand against(competitors) the company?</p>
-
+Should I put my hand forward for collaboration(share) or should I stand against(competitors) the company?
 
 
 ## Answer 12304

@@ -4,12 +4,11 @@
 - tagged: `crowd-funding`
 - score: -1
 
-<p>I want to start a fashion brand by using crowdfunding. What's the best way to go about doing this? How do I build an audience? How do I find and validate the beachhead product?</p>
+I want to start a fashion brand by using crowdfunding. What's the best way to go about doing this? How do I build an audience? How do I find and validate the beachhead product?
 
-<p>I would appreciate it if you could also mention online courses, books and articles that I can refer to.</p>
+I would appreciate it if you could also mention online courses, books and articles that I can refer to.
 
-<p>Thanks :)</p>
-
+Thanks :)
 
 
 ## Answer 13663

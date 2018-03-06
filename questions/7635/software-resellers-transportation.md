@@ -4,8 +4,7 @@
 - tagged: `software`, `sales`, `product`
 - score: 1
 
-<p>I was wondering if there are any software resellers or software brokers out there that sell cloud based transportation systems?  Who may they be?  Additionally, what does a typical fair compensation plan look like?</p>
-
+I was wondering if there are any software resellers or software brokers out there that sell cloud based transportation systems?  Who may they be?  Additionally, what does a typical fair compensation plan look like?
 
 ## No Answers
 

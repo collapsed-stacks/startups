@@ -4,8 +4,10 @@
 - tagged: `united-states`, `leadership`
 - score: 1
 
-<p>Within the United States, when using an <a href="http://en.wikipedia.org/wiki/Advisory_board" rel="nofollow">advisory board</a>, how does one structure these advisory relationships?</p>
+Within the United States, when using an [advisory board][1], how does one structure these advisory relationships?
 
+
+  [1]: http://en.wikipedia.org/wiki/Advisory_board
 
 
 ## Answer 1023

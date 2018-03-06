@@ -4,12 +4,11 @@
 - tagged: `funding`, `canada`, `game-studio`, `grants`
 - score: 5
 
-<p>I live in Canada and I am planning to create my own startup in the next years (a small indie game studio). I think I've heard somewhere that the government helps startups by giving them money so they don't go bankrupt from the start, but I am not sure this is true or not.</p>
+I live in Canada and I am planning to create my own startup in the next years (a small indie game studio). I think I've heard somewhere that the government helps startups by giving them money so they don't go bankrupt from the start, but I am not sure this is true or not.
 
-<p>If it is true, what would I need to do to get help from the government.</p>
+If it is true, what would I need to do to get help from the government.
 
-<p>P.S. If it can help, I am living in the province of Quebec.</p>
-
+P.S. If it can help, I am living in the province of Quebec.
 
 
 ## Answer 207

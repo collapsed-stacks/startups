@@ -4,14 +4,13 @@
 - tagged: `product`, `funding`
 - score: 3
 
-<p>I want my primary source of raising funds to be through crowdfunding. However, many startups make the mistake of launching with promises, and not any actual product. I wish to launch with something to show, not just promises.</p>
+I want my primary source of raising funds to be through crowdfunding. However, many startups make the mistake of launching with promises, and not any actual product. I wish to launch with something to show, not just promises.
 
-<p>The issue is that my startup is in a loop: I have no product because I have no income; I have no income because I have no product. </p>
+The issue is that my startup is in a loop: I have no product because I have no income; I have no income because I have no product. 
 
-<p>How can I secure funding to build a product, when I don't have a product to show? How do I explain to investors and lenders that I will make the money back once I furnish the office, put together the team, and produce a prototype - and not before?</p>
+How can I secure funding to build a product, when I don't have a product to show? How do I explain to investors and lenders that I will make the money back once I furnish the office, put together the team, and produce a prototype - and not before?
 
-<p>(NB: I do have income from contributors, but it's insubstantial)</p>
-
+(NB: I do have income from contributors, but it's insubstantial)
 
 
 ## Answer 1044
@@ -59,11 +58,11 @@
 - posted by: [John Looker](https://stackexchange.com/users/5196682/john-looker) on 2014-10-19
 - score: 0
 
-<p>Seems like you have the funding model backwards.</p>
+Seems like you have the funding model backwards.
 
-<p>You want: Funding -> office -> team -> prototype -> product -> deliver.</p>
+You want: Funding -> office -> team -> prototype -> product -> deliver.
 
-<p>Whereas crowd funding tends to be more like: Concept -> Prototype -> Social network -> Funding Campaign -> Product -> Deliver.</p>
+Whereas crowd funding tends to be more like: Concept -> Prototype -> Social network -> Funding Campaign -> Product -> Deliver.
 
 
 

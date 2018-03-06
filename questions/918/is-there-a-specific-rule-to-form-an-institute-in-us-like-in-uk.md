@@ -4,10 +4,9 @@
 - tagged: `united-states`, `legal`
 - score: 1
 
-<p>In the UK the term "institute" is a protected word and companies or other organizations may only use the word if they are "organisations which are carrying out research at the highest level or to professional bodies of the highest standing", and use of the title "institute" requires approval from the Secretary of State. Failure to seek approval is a criminal offence. </p>
+In the UK the term "institute" is a protected word and companies or other organizations may only use the word if they are "organisations which are carrying out research at the highest level or to professional bodies of the highest standing", and use of the title "institute" requires approval from the Secretary of State. Failure to seek approval is a criminal offence. 
 
-<p>Is there any similar rule in US?</p>
-
+Is there any similar rule in US?
 
 
 ## Answer 919

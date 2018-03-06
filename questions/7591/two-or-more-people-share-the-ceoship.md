@@ -4,10 +4,9 @@
 - tagged: `ceo`
 - score: 2
 
-<p>Is it possible that several people share the CEO title of a new company? For example, three people at the same time are the CEO. </p>
+Is it possible that several people share the CEO title of a new company? For example, three people at the same time are the CEO. 
 
-<p>If yes, what the title for each person would be in communications? A "shared CEO"?! Or what?</p>
-
+If yes, what the title for each person would be in communications? A "shared CEO"?! Or what?
 
 
 ## Answer 7592
@@ -30,10 +29,9 @@
 - posted by: [Saif Al Falah](https://stackexchange.com/users/1405882/saif-al-falah) on 2015-10-20
 - score: 0
 
-<p>Yes. And for years, Blackberry had two CEOs. Both of these CEOs had different focus which didn't overlap. Under the original organization, Mike Lazardis oversaw technical functions, while Jim Balsillie oversaw sales/marketing functions.</p>
+Yes. And for years, Blackberry had two CEOs. Both of these CEOs had different focus which didn't overlap. Under the original organization, Mike Lazardis oversaw technical functions, while Jim Balsillie oversaw sales/marketing functions.
 
-<p>Whether this is recommended or not is another matter.</p>
-
+Whether this is recommended or not is another matter.
 
 
 

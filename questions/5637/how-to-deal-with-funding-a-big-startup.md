@@ -4,19 +4,18 @@
 - tagged: `funding`
 - score: 2
 
-<p>Some ideas &amp; companies can start up from nearly nothing, an idea, clever marketing, snowball effect etc.</p>
+Some ideas & companies can start up from nearly nothing, an idea, clever marketing, snowball effect etc.
 
-<p>However How should one go about funding a startup that requires a LARGE cash injection (circa £250k) just to setup and cover running costs until profitable?
-(for reference a large video/photo studio)</p>
+However How should one go about funding a startup that requires a LARGE cash injection (circa £250k) just to setup and cover running costs until profitable?
+(for reference a large video/photo studio)
 
-<p>I see reference to "rounds" of funding, but what happens if you run out of cash before being either profitable or finding a second cash injection?</p>
+I see reference to "rounds" of funding, but what happens if you run out of cash before being either profitable or finding a second cash injection?
 
-<p>The first "round" in my case would have to be a corporate loan, but I find myself upping the amount needed every time I calculate it, pretty much JUST to cover its own repayments!!
-I have put the idea out there in investment/angel land and got no bites at all. I dont have any assets significant ENOUGH to fund this myself.</p>
+The first "round" in my case would have to be a corporate loan, but I find myself upping the amount needed every time I calculate it, pretty much JUST to cover its own repayments!!
+I have put the idea out there in investment/angel land and got no bites at all. I dont have any assets significant ENOUGH to fund this myself.
 
-<p><strong>So enough rambling:
-How should one go about funding a big startup?</strong></p>
-
+**So enough rambling:
+How should one go about funding a big startup?**
 
 
 ## Answer 8452
@@ -57,8 +56,7 @@ How should one go about funding a big startup?</strong></p>
 - posted by: [Learned Man](https://stackexchange.com/users/7236940/learned-man) on 2015-11-04
 - score: -1
 
-<p>Your best bet is to scale your idea down to a level you can afford. If you have no takers on your big idea, do it on a smaller scale and be successful. Then, it is more likely you will find investors to grow your business (note - not start). If you are not interested in scaling down, you might rewrite your business plan to directly focus on the interests of an investor. Additionally, if you can find a popular business person who believes in your idea, that person might help you market your project.</p>
-
+Your best bet is to scale your idea down to a level you can afford. If you have no takers on your big idea, do it on a smaller scale and be successful. Then, it is more likely you will find investors to grow your business (note - not start). If you are not interested in scaling down, you might rewrite your business plan to directly focus on the interests of an investor. Additionally, if you can find a popular business person who believes in your idea, that person might help you market your project.
 
 
 

@@ -4,8 +4,7 @@
 - tagged: `hiring`, `design`
 - score: 4
 
-<p>It's really hard to find a top designer. There's a lot of mediocrity out there. Budgets are a concern. Aside from 99designs, is there an alternative? What strategies have you used?</p>
-
+It's really hard to find a top designer. There's a lot of mediocrity out there. Budgets are a concern. Aside from 99designs, is there an alternative? What strategies have you used?
 
 
 ## Answer 412
@@ -37,16 +36,15 @@
 - posted by: [Jeremy Parsons](https://stackexchange.com/users/497810/jeremy-parsons) on 2014-08-20
 - score: 3
 
-<p>There's no shortage of design talent, but there's a <em>serious</em> shortage of talented customers.</p>
+There's no shortage of design talent, but there's a *serious* shortage of talented customers.
 
-<p>So first, you need to decide, <strong>am I willing to invest the time it takes to become a great customer?</strong></p>
+So first, you need to decide, **am I willing to invest the time it takes to become a great customer?**
 
-<p>If you are, then all the usual crowdsourced design sites, plus all the usual design and art showcase sites, plus all the people you can bump into in your area, are great. My only advice to great buyers using these sites for the first time is, break down the work into small chunks, and set out expecting to pay for some work you don't use. To put it another way, if you're asking people to invest time in your project, make it either a small amount of time, or ask just a small handful of people whose work you've seen and like.</p>
+If you are, then all the usual crowdsourced design sites, plus all the usual design and art showcase sites, plus all the people you can bump into in your area, are great. My only advice to great buyers using these sites for the first time is, break down the work into small chunks, and set out expecting to pay for some work you don't use. To put it another way, if you're asking people to invest time in your project, make it either a small amount of time, or ask just a small handful of people whose work you've seen and like.
 
-<p>If you aren't, then go with the grain of the sites you use. If it's a logo site, ask for a logo. If the questions you're asked in building a brief don't make sense to you, then don't use that site because you're likely to be disappointed. Or if it's a site oriented to hiring freelancers by the hour or by the project, don't hire a designer who you're not able to manage, start by hiring a project manager.</p>
+If you aren't, then go with the grain of the sites you use. If it's a logo site, ask for a logo. If the questions you're asked in building a brief don't make sense to you, then don't use that site because you're likely to be disappointed. Or if it's a site oriented to hiring freelancers by the hour or by the project, don't hire a designer who you're not able to manage, start by hiring a project manager.
 
-<p>Good luck. I can't tell you which is the right choice for you, but it's good to spend time working out your best choice before you wade into the market.</p>
-
+Good luck. I can't tell you which is the right choice for you, but it's good to spend time working out your best choice before you wade into the market.
 
 
 ## Answer 434

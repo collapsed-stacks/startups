@@ -4,10 +4,9 @@
 - tagged: `tech-company`
 - score: 2
 
-<p>One of my startup proposals was rejected by an investor for the reason that we may lose support from American IT companies.  From what I've read, VoatCo has also had a problem where people got angry at them and decided to convince the company hosting them to eliminate them (look it up; Voat had to migrate).  I realize this is a concern and it's one reason that I'm planning to start a business outside of the US, but originally was planning to host the services through Microsoft or Amazon (both US companies).</p>
+One of my startup proposals was rejected by an investor for the reason that we may lose support from American IT companies.  From what I've read, VoatCo has also had a problem where people got angry at them and decided to convince the company hosting them to eliminate them (look it up; Voat had to migrate).  I realize this is a concern and it's one reason that I'm planning to start a business outside of the US, but originally was planning to host the services through Microsoft or Amazon (both US companies).
 
-<p>But this isn't making my investor easy and she's wanting a non-American IT company.  Do any foreign IT companies have a reputation for respecting and upholding free expression in the startup community?</p>
-
+But this isn't making my investor easy and she's wanting a non-American IT company.  Do any foreign IT companies have a reputation for respecting and upholding free expression in the startup community?
 
 
 ## Answer 5596
@@ -15,18 +14,17 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-06-26
 - score: 0
 
-<p>If being out of reach of 1st-world countries counts, and if I may recommend my own host, try <a href="http://hub.org" rel="nofollow">hub.org</a>. It's FreeBSD-based rather than Linux, and the site and the control panel are minimalist, but it's based in Panama and run by Marc Fournier.</p>
+If being out of reach of 1st-world countries counts, and if I may recommend my own host, try [hub.org](http://hub.org). It's FreeBSD-based rather than Linux, and the site and the control panel are minimalist, but it's based in Panama and run by Marc Fournier.
 
-<p>Panama offers free speech as long as you're not doing anything outright dumb (e.g. child porn).</p>
+Panama offers free speech as long as you're not doing anything outright dumb (e.g. child porn).
 
-<p>And Marc, who I know personally, is one of the original four behind Postgres. He's an awesome chap who is as proactive and experienced as system admins can get.</p>
+And Marc, who I know personally, is one of the original four behind Postgres. He's an awesome chap who is as proactive and experienced as system admins can get.
 
-<p>In stark contrast to every host I had run into until I switched in 2005 or since through clients, I've yet to throw a problem at him that he didn't solve in just about no time. Need NDB set up? Done. Need pg_shard? Done. Some bizarre multi-VPS setup? Done. Site's down for some weird reason you can't figure out? He'll find what's wrong in no time.</p>
+In stark contrast to every host I had run into until I switched in 2005 or since through clients, I've yet to throw a problem at him that he didn't solve in just about no time. Need NDB set up? Done. Need pg_shard? Done. Some bizarre multi-VPS setup? Done. Site's down for some weird reason you can't figure out? He'll find what's wrong in no time.
 
-<p>That's truly where he shines, in fact. He's able to liaise with his clients' dev teams to plan ahead and do proactive system administration, rather than (semi-)reactive work when things are down (which is basically what all other hosts do in practice).</p>
+That's truly where he shines, in fact. He's able to liaise with his clients' dev teams to plan ahead and do proactive system administration, rather than (semi-)reactive work when things are down (which is basically what all other hosts do in practice).
 
-<p>Anyway, I hope that didn't sound too sales'y -- it's not meant that way, and again, he's a buddy. But I sincerely cannot recommend <a href="http://hub.org" rel="nofollow">hub.org</a> strongly enough.</p>
-
+Anyway, I hope that didn't sound too sales'y -- it's not meant that way, and again, he's a buddy. But I sincerely cannot recommend [hub.org](http://hub.org) strongly enough.
 
 
 

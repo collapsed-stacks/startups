@@ -4,8 +4,7 @@
 - tagged: `outsourcing`
 - score: 2
 
-<p>I own a small accounting firm and I'd like to grow my business. How can outsourcing help small businesses?</p>
-
+I own a small accounting firm and I'd like to grow my business. How can outsourcing help small businesses?
 
 
 ## Answer 11744
@@ -13,16 +12,15 @@
 - posted by: [Jeremy Parsons](https://stackexchange.com/users/497810/jeremy-parsons) on 2016-12-20
 - score: 1
 
-<p><strong>Outsourcing is just a way you're working, not a benefit.</strong> Your question is, what problems can you solve for business owners/managers?</p>
+**Outsourcing is just a way you're working, not a benefit.** Your question is, what problems can you solve for business owners/managers?
 
-<p>I tend to think of financial management as having four tiers: strategy (the CFO role), direction (a financial director or senior manager), bookkeeping (where at least some training/qualification is needed) and admin.</p>
+I tend to think of financial management as having four tiers: strategy (the CFO role), direction (a financial director or senior manager), bookkeeping (where at least some training/qualification is needed) and admin.
 
-<p>So in your shoes, I'd be asking, which tier or tiers do I want to deliver? Your customer is the next highest role, and so <strong>what problems you should tackle will vary with your decision</strong>. If your chosen market is small businesses, the distinction is still useful, but you're likely to find that some of those tiers are hard to map. That's a challenge, but also an opportunity, because you may be able to bring in a level of capability above, or supporting, existing staff. </p>
+So in your shoes, I'd be asking, which tier or tiers do I want to deliver? Your customer is the next highest role, and so **what problems you should tackle will vary with your decision**. If your chosen market is small businesses, the distinction is still useful, but you're likely to find that some of those tiers are hard to map. That's a challenge, but also an opportunity, because you may be able to bring in a level of capability above, or supporting, existing staff. 
 
-<p><strong>Wherever you've decided to focus, that's where you dig deep.</strong> Find out what keeps your customers awake at night, work out how you can help, and find ways to tell your story that make some aspect of outsourcing (distance, objectivity, professional accountability, breadth of regular experience etc) a significant reason why you can make life better. </p>
+**Wherever you've decided to focus, that's where you dig deep.** Find out what keeps your customers awake at night, work out how you can help, and find ways to tell your story that make some aspect of outsourcing (distance, objectivity, professional accountability, breadth of regular experience etc) a significant reason why you can make life better. 
 
-<p>One last tip. In general, <strong>outsourcing is a trade of risk</strong>. It's financially sustainable where each risk has moved towards the party who can handle it better - that's the win/win you're usually seeking. So beware the sales instinct ("if I move <em>everything</em> off-site, I'll keep that customer forever") and find ways to build your service around the value and profit-maximising approach of optimising the location of each responsibility and its risks.</p>
-
+One last tip. In general, **outsourcing is a trade of risk**. It's financially sustainable where each risk has moved towards the party who can handle it better - that's the win/win you're usually seeking. So beware the sales instinct ("if I move *everything* off-site, I'll keep that customer forever") and find ways to build your service around the value and profit-maximising approach of optimising the location of each responsibility and its risks.
 
 
 ## Answer 12798

@@ -4,12 +4,11 @@
 - tagged: `software`, `united-kingdom`, `insurance`, `liability-insurance`
 - score: 1
 
-<p>Would a startup selling software as a service require public liability / other related insurance? </p>
+Would a startup selling software as a service require public liability / other related insurance? 
 
-<p>For example, if server outages made the service unavailable and a customer decided to sue for loss of earnings, would the company be liable? If so, would public liability insurance cover this?</p>
+For example, if server outages made the service unavailable and a customer decided to sue for loss of earnings, would the company be liable? If so, would public liability insurance cover this?
 
-<p>Is there any form of liability insurance for this type of scenario?</p>
-
+Is there any form of liability insurance for this type of scenario?
 
 
 ## Answer 3508

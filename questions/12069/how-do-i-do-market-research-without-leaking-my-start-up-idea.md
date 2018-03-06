@@ -4,22 +4,20 @@
 - tagged: `market-research`
 - score: 3
 
-<p>I have a start-up idea that I have begun planning. It involves buying sports supplements, private labelling them, and selling to shops and gyms for resale into a <strong>niche</strong> market.</p>
+I have a start-up idea that I have begun planning. It involves buying sports supplements, private labelling them, and selling to shops and gyms for resale into a **niche** market.
 
-<p>So far I have costs from the suppliers that seem reasonable. I have an idea of the branding I want to apply to the products to appeal to the niche. I can guess the order volumes that the vendors may take but I'd like to approach them to ask:</p>
+So far I have costs from the suppliers that seem reasonable. I have an idea of the branding I want to apply to the products to appeal to the niche. I can guess the order volumes that the vendors may take but I'd like to approach them to ask:
 
-<ol>
-<li>If they'd be actually be interested in stocking my product?</li>
-<li>What margins would they look for?</li>
-<li>What volumes they'd take? etc. etc.</li>
-</ol>
+ 1. If they'd be actually be interested in stocking my product?
+ 2. What margins would they look for?
+ 3. What volumes they'd take? etc. etc.
 
-<p>However I'm scared my new idea would then be revealed to the community and someone better connected could poach my idea and possibly beat me to market - this would be a side-hustle for me to begin with. </p>
+However I'm scared my new idea would then be revealed to the community and someone better connected could poach my idea and possibly beat me to market - this would be a side-hustle for me to begin with. 
 
-<p>How do I get around this problem? Shall I launch 'blind', without market research? I would be hesitant to do this because it would involve some financial commitment to do so. </p>
+How do I get around this problem? Shall I launch 'blind', without market research? I would be hesitant to do this because it would involve some financial commitment to do so. 
 
-<p>Thank you</p>
-
+Thank you
+ 
 
 
 ## Answer 12078
@@ -71,16 +69,15 @@
 - posted by: [fiprojects](https://stackexchange.com/users/5370155/fiprojects) on 2017-02-09
 - score: 0
 
-<p>Start small - create some samples, get feedback.</p>
+Start small - create some samples, get feedback.
 
-<p>Let's say your research tells you what you want to know - your risks pretty much stay the same - You still won't be able to launch a million batches from day one. From the moment you launch, your product will be seen by others and unless you can somehow protect the receipe, it will be up for grabs.</p>
+Let's say your research tells you what you want to know - your risks pretty much stay the same - You still won't be able to launch a million batches from day one. From the moment you launch, your product will be seen by others and unless you can somehow protect the receipe, it will be up for grabs.
 
-<p>Also... The idea of an investor supporting you without a trial is slim.</p>
+Also... The idea of an investor supporting you without a trial is slim.
 
-<p>One method for your trial is approaching a club - for example a running club or football team. Approach them, don't share the magic spice to your product, but you can explain your goal (health product aimed at sports people that is produced locally).</p>
+One method for your trial is approaching a club - for example a running club or football team. Approach them, don't share the magic spice to your product, but you can explain your goal (health product aimed at sports people that is produced locally).
 
-<p>You ought to examine liability insurance - and since you are in effect producing a food stuff, you should make sure you are walking the safe side of food rules/laws.</p>
-
+You ought to examine liability insurance - and since you are in effect producing a food stuff, you should make sure you are walking the safe side of food rules/laws.
 
 
 

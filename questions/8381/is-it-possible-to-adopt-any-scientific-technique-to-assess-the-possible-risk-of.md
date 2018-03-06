@@ -4,14 +4,13 @@
 - tagged: `startup-costs`, `online-store`
 - score: 2
 
-<p>Suppose, I want to import product from China and sell it to the local market through an online business.</p>
+Suppose, I want to import product from China and sell it to the local market through an online business.
 
-<p>First, I establish an web-site. Then, I import product from China and keep it in my store hoping to sell.</p>
+First, I establish an web-site. Then, I import product from China and keep it in my store hoping to sell.
 
-<p>How can I assess various types of risks of my startup before starting my business?</p>
+How can I assess various types of risks of my startup before starting my business?
 
-<p>Is it possible to adopt any scientific technique to systematically assess the risk beforehand?</p>
-
+Is it possible to adopt any scientific technique to systematically assess the risk beforehand?
 
 ## No Answers
 

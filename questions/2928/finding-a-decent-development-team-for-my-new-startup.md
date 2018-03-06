@@ -4,12 +4,11 @@
 - tagged: `software`, `team`, `hiring`, `android-development`, `cto`
 - score: 17
 
-<p>My friend and I are working on a social networking app idea, but we both don't know enough coding to develop such a complex app.</p>
+My friend and I are working on a social networking app idea, but we both don't know enough coding to develop such a complex app.
 
-<p>We decided to hire a development team of approximately 5-10 developers which has developers for both, frontend and backend development, and also designers for UI design. While I tried to find such a team on oDesk and Elance, I can't trust those people but don't know why. I have a limited budget which is enough for a prototype app and I plan to try to get some investment or loan later on.</p>
+We decided to hire a development team of approximately 5-10 developers which has developers for both, frontend and backend development, and also designers for UI design. While I tried to find such a team on oDesk and Elance, I can't trust those people but don't know why. I have a limited budget which is enough for a prototype app and I plan to try to get some investment or loan later on.
 
-<p>Do you know a decent development team that fulfills my qualifications? Or can you give me some advice on what I should do?</p>
-
+Do you know a decent development team that fulfills my qualifications? Or can you give me some advice on what I should do?
 
 
 ## Answer 2945
@@ -67,20 +66,19 @@
 - posted by: [jdero](https://stackexchange.com/users/1972448/jdero) on 2015-01-09
 - score: 9
 
-<p>I could share with you a myriad of secrets, but I'll stick to the topic here and just name a few which are incredibly valuable.</p>
+I could share with you a myriad of secrets, but I'll stick to the topic here and just name a few which are incredibly valuable.
 
-<p>If you follow these steps, I truly believe you (and your product) are in good hands:</p>
+If you follow these steps, I truly believe you (and your product) are in good hands:
 
-<ol>
-<li><p>Start the project yourself. This builds credibility by showing you have the capacity to manage effectively, and not just make absurd deadlines. If you can't begin to comprehend the efforts and struggles of your dev team, you are going to have a hard time meeting deadlines (and making them realistically in the first place)</p></li>
-<li><p>Use eLance, but remember to interview. It's important to practice building a personal relationship with the people (notice I didn't say objects) who will form your team. I've been working largely with just one person from India for almost 6 months now. He is going to finally visit our office sometime this year!</p></li>
-<li><p>In building your system, isolate components of your application to build a self-securing gateway. Think of your software as a huge government building with different access cards pertaining to different doorways with restricted access requirements. Trust is hard to gain and easily broken. Always start off by trusting people, or you'll never get far. The moment you have reason to distrust them, don't "fear" your feelings - they're probably right. Just start at the lowest clearance and slowly move up and monitor their progressive responses.</p></li>
-</ol>
+1. Start the project yourself. This builds credibility by showing you have the capacity to manage effectively, and not just make absurd deadlines. If you can't begin to comprehend the efforts and struggles of your dev team, you are going to have a hard time meeting deadlines (and making them realistically in the first place)
 
-<p>Believe in yourself, and believe in the team you put yourself into.</p>
+2. Use eLance, but remember to interview. It's important to practice building a personal relationship with the people (notice I didn't say objects) who will form your team. I've been working largely with just one person from India for almost 6 months now. He is going to finally visit our office sometime this year!
 
-<p>P.S. Building an app can be long and stressful. Just remember what you're trying to do and don't just give up if things aren't working out. Never stop the car - just adjust the direction it's moving.</p>
+3. In building your system, isolate components of your application to build a self-securing gateway. Think of your software as a huge government building with different access cards pertaining to different doorways with restricted access requirements. Trust is hard to gain and easily broken. Always start off by trusting people, or you'll never get far. The moment you have reason to distrust them, don't "fear" your feelings - they're probably right. Just start at the lowest clearance and slowly move up and monitor their progressive responses.
 
+Believe in yourself, and believe in the team you put yourself into.
+
+P.S. Building an app can be long and stressful. Just remember what you're trying to do and don't just give up if things aren't working out. Never stop the car - just adjust the direction it's moving.
 
 
 ## Answer 7361
@@ -88,8 +86,7 @@
 - posted by: [Rachel Collier](https://stackexchange.com/users/6961464/rachel-collier) on 2015-09-16
 - score: 1
 
-<p>Outsource it. There are many outsourcing companies available in country's India and Philippines. They're good at it. You can entrust those works to external vendors. You will have some benefits when you outsource. That would include the cost advantages, increased efficiency, your focus on core areas, you can save on infrastructure and technology, accessed to skilled resources, timezone advantages and lastly better and faster advantages. I know that it would be a hard decision for you. It may take you to some risks but at least you've taken the challenge and surpassed it by next take. </p>
-
+Outsource it. There are many outsourcing companies available in country's India and Philippines. They're good at it. You can entrust those works to external vendors. You will have some benefits when you outsource. That would include the cost advantages, increased efficiency, your focus on core areas, you can save on infrastructure and technology, accessed to skilled resources, timezone advantages and lastly better and faster advantages. I know that it would be a hard decision for you. It may take you to some risks but at least you've taken the challenge and surpassed it by next take. 
 
 
 ## Answer 2952
@@ -97,8 +94,7 @@
 - posted by: [János](https://stackexchange.com/users/85903/j-nos) on 2015-01-10
 - score: 0
 
-<p>I think software development changes year by year rapidly. The trends are that backend programmer does not need anymore. mBaas platforms, RESTful and subscription based backend makes impementation much faster. I made only by myself an MVP of an iOS community / dating site in 1 week, somewhat like Tinder. If you work with less enthusiastic guys, programming can take months, years, and the quality can be even worse. I have seen many times. But I can talk only about iOS.</p>
-
+I think software development changes year by year rapidly. The trends are that backend programmer does not need anymore. mBaas platforms, RESTful and subscription based backend makes impementation much faster. I made only by myself an MVP of an iOS community / dating site in 1 week, somewhat like Tinder. If you work with less enthusiastic guys, programming can take months, years, and the quality can be even worse. I have seen many times. But I can talk only about iOS.
 
 
 

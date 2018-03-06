@@ -4,26 +4,23 @@
 - tagged: `tech-company`, `valuation`
 - score: 2
 
-<blockquote>
-  <p>A period of significant increase in the stock market due to a rise in
-  speculation of technology stocks. Such stocks in the bubble may be
-  categorized in one particular industry or encompass an entire sector
-  of technology depending on investor demand. Investors start
-  considering the potential for a huge profit opportunity and then
-  proceed to purchase stocks that they would not typically consider.
-  During this time, new technology companies will look to go public
-  through initial public offers to capitalize on the demands of investor
-  interest. An example of a tech bubble was the dot com boom in 1999 and
-  subsequent collapse in 2000.</p>
-  
-  <p>Read more:
-  <a href="http://www.investorwords.com/11778/tech_bubble.html#ixzz3NDCAz9iS" rel="nofollow">http://www.investorwords.com/11778/tech_bubble.html#ixzz3NDCAz9iS</a></p>
-</blockquote>
+> A period of significant increase in the stock market due to a rise in
+> speculation of technology stocks. Such stocks in the bubble may be
+> categorized in one particular industry or encompass an entire sector
+> of technology depending on investor demand. Investors start
+> considering the potential for a huge profit opportunity and then
+> proceed to purchase stocks that they would not typically consider.
+> During this time, new technology companies will look to go public
+> through initial public offers to capitalize on the demands of investor
+> interest. An example of a tech bubble was the dot com boom in 1999 and
+> subsequent collapse in 2000.
+> 
+> Read more:
+> http://www.investorwords.com/11778/tech_bubble.html#ixzz3NDCAz9iS
 
-<p>There has been a lot of debate about if we are in a tech bubble at the moment or not. On one side a lot of the old classic industries are integrating with technology. On the other side everyday month new web/mobile startups worth billions of dollars emerging. </p>
+There has been a lot of debate about if we are in a tech bubble at the moment or not. On one side a lot of the old classic industries are integrating with technology. On the other side everyday month new web/mobile startups worth billions of dollars emerging. 
 
-<p>Are we in another bubble?</p>
-
+Are we in another bubble?
 
 
 ## Answer 1902
@@ -59,20 +56,19 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-01-06
 - score: 0
 
-<p>We've technically been in a bubble for the past 30 years or so if you look at the debt:gdp ratio. The 2000 and 2008 crisis were mere hiccups in the bigger picture.</p>
+We've technically been in a bubble for the past 30 years or so if you look at the debt:gdp ratio. The 2000 and 2008 crisis were mere hiccups in the bigger picture.
 
-<p>Here's a chart for the US <a href="http://www.debtdeflation.com/blogs/2014/01/08/secular-stagnation-iii-minus-the-irony/" rel="nofollow noreferrer">compiled by Steve Keen</a>:</p>
+Here's a chart for the US [compiled by Steve Keen](http://www.debtdeflation.com/blogs/2014/01/08/secular-stagnation-iii-minus-the-irony/):
 
-<p><a href="http://www.debtdeflation.com/blogs/wp-content/uploads/2014/01/010814_0559_Secularstag4.png" rel="nofollow noreferrer">debt to gdp http://www.debtdeflation.com/blogs/wp-content/uploads/2014/01/010814_0559_Secularstag4.png</a></p>
+![debt to gdp](http://www.debtdeflation.com/blogs/wp-content/uploads/2014/01/010814_0559_Secularstag4.png)
 
-<p>(Note that this is private non-financial debt, i.e. it's minus Wall Street. Public debt is smaller, and financial debt is larger.)</p>
+(Note that this is private non-financial debt, i.e. it's minus Wall Street. Public debt is smaller, and financial debt is larger.)
 
-<p>These lectures on behavioral finance, by the same author, are pretty good if you've some time:</p>
+These lectures on behavioral finance, by the same author, are pretty good if you've some time:
 
-<p><a href="http://www.debtdeflation.com/blogs/lectures/" rel="nofollow noreferrer">http://www.debtdeflation.com/blogs/lectures/</a></p>
+http://www.debtdeflation.com/blogs/lectures/
 
-<p>Now, as to whether tech sector itself is in a bubble, well... sure, but hey, everything else is in a bubble as well. Is tech more in a bubble than other sectors? Probably, if P/E ratios are an indicator. Does it really matter whether it is more so or not? Probably not, seeing the underlying fundamentals.</p>
-
+Now, as to whether tech sector itself is in a bubble, well... sure, but hey, everything else is in a bubble as well. Is tech more in a bubble than other sectors? Probably, if P/E ratios are an indicator. Does it really matter whether it is more so or not? Probably not, seeing the underlying fundamentals.
 
 
 

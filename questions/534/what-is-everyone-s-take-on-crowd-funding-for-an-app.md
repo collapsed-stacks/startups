@@ -4,8 +4,7 @@
 - tagged: `tech-company`, `mobile-apps`, `startup-costs`, `crowd-funding`
 - score: 2
 
-<p>I am planning to startup an app company. I have never started a business before. Is crowdfunding a good way to raise money because you don't start in debt or is bank funding a better alternative. Thanks!</p>
-
+I am planning to startup an app company. I have never started a business before. Is crowdfunding a good way to raise money because you don't start in debt or is bank funding a better alternative. Thanks!
 
 
 ## Answer 535
@@ -30,22 +29,21 @@
 - posted by: [Jeremy Parsons](https://stackexchange.com/users/497810/jeremy-parsons) on 2014-08-29
 - score: 1
 
-<p>Crowdfunding can be a great way to raise money from people who already know you, or know of you. In the cases where it's a viable and direct alternative to borrowing money from the bank, it's often going to be a better choice.</p>
+Crowdfunding can be a great way to raise money from people who already know you, or know of you. In the cases where it's a viable and direct alternative to borrowing money from the bank, it's often going to be a better choice.
 
-<p>Why better? Here are the main reasons. (And I'm assuming you have in mind the crowdfunding model where people contribute cash which entitles them not to that cash back with interest, nor to an equity stake, but to some other reward.)</p>
+Why better? Here are the main reasons. (And I'm assuming you have in mind the crowdfunding model where people contribute cash which entitles them not to that cash back with interest, nor to an equity stake, but to some other reward.)
 
-<p>First, <strong>money you borrow from a bank has to be paid back, crowdfunding money doesn't</strong>. Yes, your funders are expecting something, and you have an obligation to use the money to further the project. But even if you fail, you're not left in debt. Your crowdfunders are choosing to take over your cash risk.</p>
+First, **money you borrow from a bank has to be paid back, crowdfunding money doesn't**. Yes, your funders are expecting something, and you have an obligation to use the money to further the project. But even if you fail, you're not left in debt. Your crowdfunders are choosing to take over your cash risk.
 
-<p>Second, <strong>crowdfunding delivers a ready-made community around a project, bank loans don't.</strong> The bank just wants its money back, but crowdfunders want you to be successful.</p>
+Second, **crowdfunding delivers a ready-made community around a project, bank loans don't.** The bank just wants its money back, but crowdfunders want you to be successful.
 
-<p>Third, <strong>time spent trying to get a loan has no productive value, while time spent building a crowdfunding campaign is an investment in marketing.</strong></p>
+Third, **time spent trying to get a loan has no productive value, while time spent building a crowdfunding campaign is an investment in marketing.**
 
-<p>All this sounds great. But we're assuming that crowdfunding is <em>viable</em> for the project. Too many people expect that Kickstarter will introduce them to investors, but that's rarely the case. </p>
+All this sounds great. But we're assuming that crowdfunding is *viable* for the project. Too many people expect that Kickstarter will introduce them to investors, but that's rarely the case. 
 
-<p>Kickstarter provides a low-friction way for people to give you money. If you have a community that already trusts you, if you are offering something they would value, and if the story you tell stacks up for them, crowdfunding could be viable. </p>
+Kickstarter provides a low-friction way for people to give you money. If you have a community that already trusts you, if you are offering something they would value, and if the story you tell stacks up for them, crowdfunding could be viable. 
 
-<p>If not, you need to <strong>invest the time to build your reputation</strong>. Or maybe, if you are confident about the risks, that low-involvement bank loan may be looking attractive after all!</p>
-
+If not, you need to **invest the time to build your reputation**. Or maybe, if you are confident about the risks, that low-involvement bank loan may be looking attractive after all!
 
 
 ## Answer 554
@@ -53,18 +51,17 @@
 - posted by: [Matthew Higgins](https://stackexchange.com/users/439334/matthew-higgins) on 2014-08-29
 - score: 0
 
-<p>I've not used Kickstarter for this purpose, but I've seen campaigns on other sites from both sides, although only where equity is being sold, which is not how it's done on Kickstarter.</p>
+I've not used Kickstarter for this purpose, but I've seen campaigns on other sites from both sides, although only where equity is being sold, which is not how it's done on Kickstarter.
 
-<p>In my experience, very few people seem interested in backing something that's not mostly built yet. It's a bit of a vicious circle, especially if you need the funding for the costs of developing something.</p>
+In my experience, very few people seem interested in backing something that's not mostly built yet. It's a bit of a vicious circle, especially if you need the funding for the costs of developing something.
 
-<p>Unfortunately as you say you don't have experience of running a business, many investors will be unlikely to take your work for how great the idea is on it's own.</p>
+Unfortunately as you say you don't have experience of running a business, many investors will be unlikely to take your work for how great the idea is on it's own.
 
-<p>It's quite a risk for potential investors, especially if the developer/team behind the project hasn't proven their technical or business skills publicly before. Investors are predominantly looking for things that will maintain a user base, and the most reliable way to test this is with it in the wild.</p>
+It's quite a risk for potential investors, especially if the developer/team behind the project hasn't proven their technical or business skills publicly before. Investors are predominantly looking for things that will maintain a user base, and the most reliable way to test this is with it in the wild.
 
-<p>The best bet <em>may</em> be to try and get a <em>small</em> loan from a bank or another source and develop a basic beta, or work on it in your spare time until you do have something to show for it, once you have users regularly using it, then explore crowdfunding to try and really get it tidied up/internationalised/multi-platform'ed and properly launched. </p>
+The best bet *may* be to try and get a *small* loan from a bank or another source and develop a basic beta, or work on it in your spare time until you do have something to show for it, once you have users regularly using it, then explore crowdfunding to try and really get it tidied up/internationalised/multi-platform'ed and properly launched. 
 
-<p>Investors will be looking for something that's very likely to get a return, and the easiest way to convince them is with solid, indisputable numbers, "we have n users already, after one month on the app store, x% of them use the app every day", will sound a lot better than "so, here's an idea that <em>I think</em> n people might use...".</p>
-
+Investors will be looking for something that's very likely to get a return, and the easiest way to convince them is with solid, indisputable numbers, "we have n users already, after one month on the app store, x% of them use the app every day", will sound a lot better than "so, here's an idea that *I think* n people might use...".
 
 
 

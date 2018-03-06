@@ -4,21 +4,19 @@
 - tagged: `legal`, `partnership`, `freelancing`
 - score: 5
 
-<p>I'm currently working on a mobile game as an independent freelancer and I recently got in touch with a talented designer for eventual partnership.</p>
+I'm currently working on a mobile game as an independent freelancer and I recently got in touch with a talented designer for eventual partnership.
 
-<p>I'm willing to pay the designer for his collaboration (we'll probably use oDesk for that), but I'm also offering him partnership (we'll share any potential revenue the game might generate once released) for a couple reasons: </p>
-
+I'm willing to pay the designer for his collaboration (we'll probably use oDesk for that), but I'm also offering him partnership (we'll share any potential revenue the game might generate once released) for a couple reasons: 
 <ul>
 <li>I want the designer to consider the project as his own and give his best</li>
 <li>The budget I'm assigning to graphic design is relatively tight</li>
 </ul>
 
-<p>The problem is that the designer and I did not know each other before this arose, we live in different countries, and we obviously cannot trust each other on simple promise.</p>
+The problem is that the designer and I did not know each other before this arose, we live in different countries, and we obviously cannot trust each other on simple promise.
 
-<p>Is there any kind of contract or legal procedure that I can follow to prove to my eventual partner that I'm serious about the deal and that I'm willing to share revenue with him in the future?</p>
+Is there any kind of contract or legal procedure that I can follow to prove to my eventual partner that I'm serious about the deal and that I'm willing to share revenue with him in the future?
 
-<p>I'm an independent iOS developer at the moment, and I intend to release an android version at a later stage.</p>
-
+I'm an independent iOS developer at the moment, and I intend to release an android version at a later stage.
 
 
 ## Answer 3827

@@ -4,12 +4,12 @@
 - tagged: `website`, `e-commerce`
 - score: 0
 
-<p>I have frequently seen, when shopping online, that websites say "enter promotional code" to get a discount. These promo codes are available at websites such as retailmenot.com and coupnduniya.in.</p>
+I have frequently seen, when shopping online, that websites say "enter promotional code" to get a discount. These promo codes are available at websites such as retailmenot.com and coupnduniya.in.
 
-<ol>
-<li><p>How are these companies able to get their promotional codes on these websites?</p></li>
-<li><p>How would I go about contacting them to add a promo-code for my business?</p></li>
-</ol>
+1. How are these companies able to get their promotional codes on these websites?
+
+2. How would I go about contacting them to add a promo-code for my business?
+
 
 
 
@@ -18,8 +18,7 @@
 - posted by: [rob](https://stackexchange.com/users/19190/rob) on 2015-02-18
 - score: 1
 
-<p>Typically users of the site submit the promo codes to sites like retailmenot.com. Codes may be obtained through whatever channels the seller uses to disseminate the codes--for example, magazine ads, email lists, facebook, and twitter.</p>
-
+Typically users of the site submit the promo codes to sites like retailmenot.com. Codes may be obtained through whatever channels the seller uses to disseminate the codes--for example, magazine ads, email lists, facebook, and twitter.
 
 
 

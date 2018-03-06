@@ -4,9 +4,9 @@
 - tagged: `legal`, `website`
 - score: 1
 
-<p>I am currently building a website. It is similar to a price comparison, being a table showing courses by different companies and their costs. </p>
+I am currently building a website. It is similar to a price comparison, being a table showing courses by different companies and their costs. 
 
-<p>Legally, do I need the company's permission to feature them on the site? </p>
+Legally, do I need the company's permission to feature them on the site? 
 
 
 ## No Answers

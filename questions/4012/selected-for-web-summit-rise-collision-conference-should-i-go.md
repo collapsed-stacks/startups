@@ -4,14 +4,13 @@
 - tagged: `startup-costs`
 - score: 4
 
-<p>My startup have been selected for the Alpha program for the rise conference (from the same organisers as Web summit, collision conference etc...)</p>
+My startup have been selected for the Alpha program for the rise conference (from the same organisers as Web summit, collision conference etc...)
 
-<p>Alas, the booth + ticket package is not free ! It is 1400 usd + vat for a booth and 3 tickets.</p>
+Alas, the booth + ticket package is not free ! It is 1400 usd + vat for a booth and 3 tickets.
 
-<p>I have two days to decide.</p>
+I have two days to decide.
 
-<p>Should I go ?</p>
-
+Should I go ?
 
 
 ## Answer 4014
@@ -19,8 +18,7 @@
 - posted by: [blunders](https://stackexchange.com/users/216182/blunders) on 2015-04-15
 - score: 6
 
-<p>In my opinion, anyone running a marketing campaign like this knows it might seem deceptive and anyone with a bit of common sense would think it's a scam without proof it is not.  As such, even if it's not a scam, who would want to be part of an event that is marketed like this: (1) people that want to scam people; (2) people that are able to be scammed; (3) people that don't see how attending an event like this is a bad idea.</p>
-
+In my opinion, anyone running a marketing campaign like this knows it might seem deceptive and anyone with a bit of common sense would think it's a scam without proof it is not.  As such, even if it's not a scam, who would want to be part of an event that is marketed like this: (1) people that want to scam people; (2) people that are able to be scammed; (3) people that don't see how attending an event like this is a bad idea.
 
 
 ## Answer 8882
@@ -51,18 +49,18 @@
 - posted by: [Taiko](https://stackexchange.com/users/334941/taiko) on 2015-04-15
 - score: 2
 
-<p>I finally decided not to go, for several reasons.</p>
+I finally decided not to go, for several reasons.
 
-<p>First. I don't want to encourage the practice of making people "win" something that is expensive. (And give two days to decide)
-Especially when their website is so vague about what's free and what isn't. It is purely unethical and should not be encouraged.</p>
+First. I don't want to encourage the practice of making people "win" something that is expensive. (And give two days to decide)
+Especially when their website is so vague about what's free and what isn't. It is purely unethical and should not be encouraged.
 
-<p>"Each week we're selecting 25 early stage startups from around the world to exhibit for free as part of our Alpha Program."
-Actually mean : Each week, we sell tickets for a high price to startups and give them a small booth for "free"</p>
+"Each week we're selecting 25 early stage startups from around the world to exhibit for free as part of our Alpha Program."
+Actually mean : Each week, we sell tickets for a high price to startups and give them a small booth for "free"
 
-<p>Second. I wasn't tempted to buy any tickets in the first place. The only reason I hesitated is because I was "selected" to do so. But I wouldn't have bought any tickets for that price if I saw this one their website directly.</p>
+Second. I wasn't tempted to buy any tickets in the first place. The only reason I hesitated is because I was "selected" to do so. But I wouldn't have bought any tickets for that price if I saw this one their website directly.
 
-<p>I'm not saying that this event is useless, but don't apply to their "free program" unless you wanted to buy some tickets in the first place.</p>
 
+I'm not saying that this event is useless, but don't apply to their "free program" unless you wanted to buy some tickets in the first place.
 
 
 

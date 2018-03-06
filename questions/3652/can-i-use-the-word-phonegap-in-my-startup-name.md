@@ -4,8 +4,11 @@
 - tagged: `copyright`, `trademark`
 - score: 2
 
-<p>I checked out the <a href="http://phonegap.com/about/license/" rel="nofollow">License page</a> but am not sure. I see <a href="http://phonegapexperts.com/" rel="nofollow">Phonegap Experts</a> doing it, is that legal?</p>
+I checked out the [License page][1] but am not sure. I see [Phonegap Experts][2] doing it, is that legal?
 
+
+  [1]: http://phonegap.com/about/license/
+  [2]: http://phonegapexperts.com/
 
 
 ## Answer 3661
@@ -30,10 +33,9 @@
 - posted by: [blunders](https://stackexchange.com/users/216182/blunders) on 2015-03-07
 - score: 1
 
-<p>PhoneGap is a trademark owned by Adobe, as such, terms of it's use are subject to change at their will unless otherwise agreed to in writing. </p>
+PhoneGap is a trademark owned by Adobe, as such, terms of it's use are subject to change at their will unless otherwise agreed to in writing. 
 
-<p>Highly suggest you don't violate their rights or build a brand on a trademark you don't own.</p>
-
+Highly suggest you don't violate their rights or build a brand on a trademark you don't own.
 
 
 

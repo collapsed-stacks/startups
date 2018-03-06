@@ -4,7 +4,8 @@
 - tagged: `venture-capital`
 - score: 1
 
-<p>Are there any templates that startups can use for Venture capital presentations? I am looking into presenting my Software to VCs, I want my presentation to be in line with today's startups.</p>
+Are there any templates that startups can use for Venture capital presentations? I am looking into presenting my Software to VCs, I want my presentation to be in line with today's startups.
+
 
 
 
@@ -13,25 +14,20 @@
 - posted by: [Okyasoft](https://stackexchange.com/users/294248/okyasoft) on 2015-03-25
 - score: 2
 
-<p>For a very good structure and template to present to VCs have a look at Dave McClure's <a href="http://theupstart.co/2761/dave-mcclure-how-to-pitch-a-vc-or-angel-investor/" rel="nofollow">How to Pitch a VC (or Angel)</a>. He suggests the following 10 sections -</p>
+For a very good structure and template to present to VCs have a look at Dave McClure's [How to Pitch a VC (or Angel)](http://theupstart.co/2761/dave-mcclure-how-to-pitch-a-vc-or-angel-investor/). He suggests the following 10 sections -
 
-<blockquote>
-  <ol>
-  <li>Elevator Pitch</li>
-  <li>The Problem</li>
-  <li>Your Solution</li>
-  <li>Market Size</li>
-  <li>Business Model</li>
-  <li>Proprietary Tech</li>
-  <li>Competition</li>
-  <li>Marketing Plan</li>
-  <li>Team/Hires</li>
-  <li>Money/Milestones</li>
-  </ol>
-</blockquote>
+>1. Elevator Pitch
+>2. The Problem
+>3. Your Solution
+>4. Market Size
+>5. Business Model
+>6. Proprietary Tech
+>7. Competition
+>8. Marketing Plan
+>9. Team/Hires
+>10. Money/Milestones
 
-<p>In addition, I found the following <a href="http://nextviewventures.com/blog/free-startup-pitch-decks-template/" rel="nofollow">link</a> which contains two kinds of templates. One which follows a more conversation style (for private pitches of 1on1 meeting) and another which is a more show style (for demo days or large audience).</p>
-
+In addition, I found the following [link](http://nextviewventures.com/blog/free-startup-pitch-decks-template/) which contains two kinds of templates. One which follows a more conversation style (for private pitches of 1on1 meeting) and another which is a more show style (for demo days or large audience).
 
 
 

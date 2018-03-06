@@ -4,23 +4,23 @@
 - tagged: `hours`
 - score: 0
 
-<p>I know it's not the "real question" it's not how much time your work, but how much is done, but I'm still curious. (And probably others are as well)</p>
+I know it's not the "real question" it's not how much time your work, but how much is done, but I'm still curious. (And probably others are as well)
 
-<p>To my surprise I didn't find a similar question on this site.</p>
+To my surprise I didn't find a similar question on this site.
 
-<p>Do startup founders usually (as in, not when there's a rush) work on Saturday ? On Sunday ?</p>
+Do startup founders usually (as in, not when there's a rush) work on Saturday ? On Sunday ?
 
-<p>How many hours do they work on an average day ?</p>
+How many hours do they work on an average day ?
 
-<p>I've heard 18h, from the founder of airbnb (ok, tried it. From a health point of view. It doesn't work)
-The founder of Wufoo said 8-10 hours, 5 days a week. Which seems a bit low.</p>
+I've heard 18h, from the founder of airbnb (ok, tried it. From a health point of view. It doesn't work)
+The founder of Wufoo said 8-10 hours, 5 days a week. Which seems a bit low.
 
-<p>I personally do 12+ hours a day (including quick meals, so more like 11+) and work most Saturdays as a half day.
-It is average ? Am I a lazy founder ?</p>
+I personally do 12+ hours a day (including quick meals, so more like 11+) and work most Saturdays as a half day.
+It is average ? Am I a lazy founder ?
 
-<p>Again, I know it's not a deep truth about your startup, but I'm curious.</p>
+Again, I know it's not a deep truth about your startup, but I'm curious.
 
-<p>So, how much did <strong>you</strong> work in the early days ?</p>
+So, how much did **you** work in the early days ?
 
 
 
@@ -29,20 +29,17 @@ It is average ? Am I a lazy founder ?</p>
 - posted by: [demiculus](https://stackexchange.com/users/5264485/demiculus) on 2015-03-15
 - score: 3
 
-<p>As a startup founder, you should have your startup and 1 other thing.</p>
+As a startup founder, you should have your startup and 1 other thing.
 
-<ul>
-<li>Startup + games + gf/bf != well</li>
-<li>Startup + hobby + games + gf != well</li>
-<li>Startup + gf/bf = well</li>
-</ul>
+* Startup + games + gf/bf != well
+* Startup + hobby + games + gf != well
+* Startup + gf/bf = well
 
-<p>This means that whenever you are not doing your hobby or spending time with your family etc you should be thinking about your startup/your project. </p>
+This means that whenever you are not doing your hobby or spending time with your family etc you should be thinking about your startup/your project. 
 
-<p>This doesn't mean force yourself to think about your startup all the time. This means that you are so excited that all you can think about is your startup. So, don't force yourself to work 18hrs or 10hrs a day, work as much as you feel like.</p>
+This doesn't mean force yourself to think about your startup all the time. This means that you are so excited that all you can think about is your startup. So, don't force yourself to work 18hrs or 10hrs a day, work as much as you feel like.
 
-<p>There is no optimal, it differs from people to people.</p>
-
+There is no optimal, it differs from people to people.
 
 
 ## Answer 3749
@@ -63,8 +60,7 @@ It is average ? Am I a lazy founder ?</p>
 - posted by: [Igorek](https://stackexchange.com/users/215022/igorek) on 2015-03-16
 - score: 1
 
-<p>80hrs a week but of different intensity. About 40hrs of intense work (coding). Other work is more light weight,  ie research, writing, emails</p>
-
+80hrs a week but of different intensity. About 40hrs of intense work (coding). Other work is more light weight,  ie research, writing, emails
 
 
 

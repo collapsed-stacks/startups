@@ -4,10 +4,9 @@
 - tagged: `prototyping`
 - score: 1
 
-<p>I have an idea of a website the client submits his website url and pays $5. 4 quality assurance engineers review his website and provide 13 tips each reviewer to improve the site. In total the person gets 52 quality assurance tips for $5. I want to talk to customers about the idea and make sure people are going to pay for this service. Where can I find the clients?</p>
+I have an idea of a website the client submits his website url and pays $5. 4 quality assurance engineers review his website and provide 13 tips each reviewer to improve the site. In total the person gets 52 quality assurance tips for $5. I want to talk to customers about the idea and make sure people are going to pay for this service. Where can I find the clients?
 
-<p>Thanks.</p>
-
+Thanks.
 
 
 ## Answer 11074
@@ -61,10 +60,7 @@
 - posted by: [GirishBabuC](https://stackexchange.com/users/4092955/girishbabuc) on 2016-09-04
 - score: 0
 
-<blockquote>
-  <p>The Best possible way to find People(clients and employees) your looking are available at freelancer.com, There are lots of ways to project your idea and bid individuals. </p>
-</blockquote>
-
+>The Best possible way to find People(clients and employees) your looking are available at freelancer.com, There are lots of ways to project your idea and bid individuals. 
 
 
 

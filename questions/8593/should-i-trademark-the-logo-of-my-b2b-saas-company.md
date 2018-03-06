@@ -4,25 +4,20 @@
 - tagged: `saas`, `trademark`, `b2b`
 - score: 0
 
-<p>Briefly:</p>
+Briefly:
 
-<ul>
-<li>The logo is a word in a fancy font. </li>
-<li>It's a B2B SaaS product, and it's niche and expensive, offered
-worldwide - so there's little possibility of counterfeiting.</li>
-</ul>
+ - The logo is a word in a fancy font. 
+ - It's a B2B SaaS product, and it's niche and expensive, offered
+   worldwide - so there's little possibility of counterfeiting.
 
-<p>I'm concerned about:</p>
+I'm concerned about:
 
-<ul>
-<li>confusion and false association</li>
-<li>whatever the equivalent of patent trolling is, but for trademarks</li>
-</ul>
+ - confusion and false association
+ - whatever the equivalent of patent trolling is, but for trademarks
 
-<p>Registering a trademark worldwide is a pain - especially since the places most likely to troll generally have the worst IP law. I guess the security/protection of IP should be proportional to its probability and consequences of theft - so in my case, how much should I be worrying?</p>
+Registering a trademark worldwide is a pain - especially since the places most likely to troll generally have the worst IP law. I guess the security/protection of IP should be proportional to its probability and consequences of theft - so in my case, how much should I be worrying?
 
-<p>Edit: Thanks for the answers. Like much professional services advice and insurance, I'm being told spend some money on it so that I sleep better at night.  My purpose is not obtain emotional comfort, but to assess if trademarking actually represents value for money in a situation where counterfeiting is almost impossible. I'm trying to better understand the risk - what are some of the bad things that could happen that I have overlooked and how likely are they? For example, could someone register and squat on the trademark in a "first to file" jurisdiction like China, and then demand that I not use it for business within that jurisdiction in the hope of extorting a settlement?</p>
-
+Edit: Thanks for the answers. Like much professional services advice and insurance, I'm being told spend some money on it so that I sleep better at night.  My purpose is not obtain emotional comfort, but to assess if trademarking actually represents value for money in a situation where counterfeiting is almost impossible. I'm trying to better understand the risk - what are some of the bad things that could happen that I have overlooked and how likely are they? For example, could someone register and squat on the trademark in a "first to file" jurisdiction like China, and then demand that I not use it for business within that jurisdiction in the hope of extorting a settlement?
 
 
 ## Answer 8595
@@ -46,12 +41,11 @@ worldwide - so there's little possibility of counterfeiting.</li>
 - posted by: [Marcus D](https://stackexchange.com/users/258531/marcus-d) on 2016-02-23
 - score: -1
 
-<p>Since this is an SAAS business, and you are concerned about "confusion and false association" you should focus on your online presence, I would secure as many domain roots as I can, which will assist in your protection. Though some countries have restrictions on domain ownership by nationals, like Austria.</p>
+Since this is an SAAS business, and you are concerned about "confusion and false association" you should focus on your online presence, I would secure as many domain roots as I can, which will assist in your protection. Though some countries have restrictions on domain ownership by nationals, like Austria.
 
-<p>Also, I would probably perform trademarking in countries/territories that will enforce your trademark if it is relatively inexpensive. </p>
+Also, I would probably perform trademarking in countries/territories that will enforce your trademark if it is relatively inexpensive. 
 
-<p>It may not matter, but it will also add value to your brand as having slightly more legal protection on some things; in the same way having various forms of IP protection on your IP gives your company value.</p>
-
+It may not matter, but it will also add value to your brand as having slightly more legal protection on some things; in the same way having various forms of IP protection on your IP gives your company value.
 
 
 

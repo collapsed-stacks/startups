@@ -4,8 +4,7 @@
 - tagged: `sales`, `advertising`, `internet`
 - score: 1
 
-<p>I am starting a new social networking website with a better idea. But I need direct advertisements to make that idea successful. How can I get direct advertisements to my website? Whom do I need to hire to get direct advertisements to my website by convincing advertisers with my idea?</p>
-
+I am starting a new social networking website with a better idea. But I need direct advertisements to make that idea successful. How can I get direct advertisements to my website? Whom do I need to hire to get direct advertisements to my website by convincing advertisers with my idea?
 
 
 ## Answer 12975

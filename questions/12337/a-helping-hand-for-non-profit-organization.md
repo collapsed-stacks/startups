@@ -4,12 +4,11 @@
 - tagged: `idea`, `non-profit`
 - score: 0
 
-<p>I have an idea that can help organisations specially the non-profit.</p>
+I have an idea that can help organisations specially the non-profit.
 
-<p>How Can I proceed? I am still doing my market research and running errands to improve the business modal.</p>
+How Can I proceed? I am still doing my market research and running errands to improve the business modal.
 
-<p>Before I start contacting organisation, I will like to know what are the pointers I will need to know when dealing with non-profit organisation.</p>
-
+Before I start contacting organisation, I will like to know what are the pointers I will need to know when dealing with non-profit organisation.
 
 ## No Answers
 

@@ -4,8 +4,7 @@
 - tagged: `website`, `software`, `patent`
 - score: 2
 
-<p>Can you get a patent on a website since a larger competitor could easily replicate it?</p>
-
+Can you get a patent on a website since a larger competitor could easily replicate it?
 
 
 ## Answer 10972

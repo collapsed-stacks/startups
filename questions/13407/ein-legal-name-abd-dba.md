@@ -4,8 +4,7 @@
 - tagged: `business-registration`
 - score: -1
 
-<p>My EIN is registered under my legal name.  Do I use that EIN for my DBA also?  Someone said the EIN must be in the business name</p>
-
+My EIN is registered under my legal name.  Do I use that EIN for my DBA also?  Someone said the EIN must be in the business name
 
 
 ## Answer 13412
@@ -13,8 +12,7 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2017-09-29
 - score: 0
 
-<p>You got good advice. You technically can operate using the EIN under your name. But that'll mean <em>you</em>, as in your <em>unlimited</em> liability pseudo-company, will be employing those you hire rather than the <em>limited</em> liability company you (presumably) created.</p>
-
+You got good advice. You technically can operate using the EIN under your name. But that'll mean _you_, as in your _unlimited_ liability pseudo-company, will be employing those you hire rather than the _limited_ liability company you (presumably) created.
 
 
 

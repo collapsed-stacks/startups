@@ -4,15 +4,14 @@
 - tagged: `taxes`, `employees`, `employee-compensation`, `hardware`
 - score: 0
 
-<p>I read a few years ago about that model, that a company bought laptops for their employees. And the employees own this laptops after 3 years, while they pay for them from their salary.</p>
+I read a few years ago about that model, that a company bought laptops for their employees. And the employees own this laptops after 3 years, while they pay for them from their salary.
 
-<p>But they do not pay the whole price, just (I do not know exactly) 75% of the price. And after the three years it is their laptop.
-On the other hand the company has the full tax depreciation.</p>
+But they do not pay the whole price, just (I do not know exactly) 75% of the price. And after the three years it is their laptop.
+On the other hand the company has the full tax depreciation.
 
-<p>So it is a win win - developers have their own dream laptops and the company almost doesn't pay anything for it.</p>
+So it is a win win - developers have their own dream laptops and the company almost doesn't pay anything for it.
 
-<p>I am looking for a working model of this ... or a better specification. </p>
-
+I am looking for a working model of this ... or a better specification. 
 
 ## No Answers
 

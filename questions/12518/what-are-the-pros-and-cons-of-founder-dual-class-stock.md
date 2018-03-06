@@ -4,9 +4,10 @@
 - tagged: `investors`, `founder`, `stock`
 - score: 0
 
-<p>I would like to have a Dual class stock structure for my common stock to have super voting rights.</p>
+I would like to have a Dual class stock structure for my common stock to have super voting rights.
 
-<p>Can someone explain what are the pros and cons if I go with such structure?</p>
+Can someone explain what are the pros and cons if I go with such structure?
+
 
 
 

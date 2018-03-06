@@ -4,24 +4,28 @@
 - tagged: `marketing`, `business-plan`, `legal`, `business-model`, `growth`
 - score: 2
 
-<p>Only 50% of start-ups survive past the first 5 years (<a href="http://www.bls.gov/bdm/entrepreneurship/entrepreneurship.htm" rel="nofollow noreferrer">US Bureau of Labor Statistics</a>). However, there are factors that make start-ups more likely to survive and thrive.</p>
+Only 50% of start-ups survive past the first 5 years ([US Bureau of Labor Statistics][1]). However, there are factors that make start-ups more likely to survive and thrive.
 
-<p>What determines entrepreneurial success?</p>
+What determines entrepreneurial success?
 
-<hr>
+----
 
-<p><em>What is entrepreneurial success?</em></p>
+*What is entrepreneurial success?*
 
-<p>As noted by <a href="https://startups.stackexchange.com/a/1050/1141">@daOnlyBG</a>, in the context of this question, I'll offer a broad definition of success. I understand there may be other definitions of success which will produce different answers. I realize my definition of success may be naive, but a definition is in order. Let's define entrepreneurial success as (1) firm survival, (2) firm revenue growth, and (3) firm employment growth.</p>
+As noted by [@daOnlyBG][2], in the context of this question, I'll offer a broad definition of success. I understand there may be other definitions of success which will produce different answers. I realize my definition of success may be naive, but a definition is in order. Let's define entrepreneurial success as (1) firm survival, (2) firm revenue growth, and (3) firm employment growth.
 
-<p><em>What kind of answer do I expect?</em></p>
+*What kind of answer do I expect?*
 
-<p>There are plenty of opinions on what makes start-ups successful. These opinions are found in popular press business books, online, TV, radio, magazines, etc... I am <strong>not</strong> looking for another opinion. I am looking for <strong>data</strong>. By data I mean, <strong>academic research published in a reputable peer-reviewed journal or an academic book by a team of professors from a reputable, accredited university</strong>. The accepted answer should have a description of the factors that make a start-up successful along with a link to the original academic study, following my example. Additionally, avoid creating a new answer. Instead, add to the most comprehensive answer below. </p>
+There are plenty of opinions on what makes start-ups successful. These opinions are found in popular press business books, online, TV, radio, magazines, etc... I am **not** looking for another opinion. I am looking for **data**. By data I mean, **academic research published in a reputable peer-reviewed journal or an academic book by a team of professors from a reputable, accredited university**. The accepted answer should have a description of the factors that make a start-up successful along with a link to the original academic study, following my example. Additionally, avoid creating a new answer. Instead, add to the most comprehensive answer below. 
 
-<p><em>Why did I answer my own question?</em></p>
+*Why did I answer my own question?*
 
-<p>I'm going to answer my own question with the research that I have done, with the intention of the answer becoming a <strong>master list of entrepreneurial success factors</strong>. I intend for this answer to be continually updated as new academic research is published. In other words, the answer I provide below is NOT meant to be exhaustive. It is meant to be a start for a <strong>community wiki</strong>, similar to this <a href="https://quant.stackexchange.com/questions/141/what-data-sources-are-available-online">question</a>. I'm going to provide a short answer to get the ball rolling and add to it as I find new research and hope that you add your own research to this answer.</p>
+I'm going to answer my own question with the research that I have done, with the intention of the answer becoming a **master list of entrepreneurial success factors**. I intend for this answer to be continually updated as new academic research is published. In other words, the answer I provide below is NOT meant to be exhaustive. It is meant to be a start for a **community wiki**, similar to this [question][3]. I'm going to provide a short answer to get the ball rolling and add to it as I find new research and hope that you add your own research to this answer.
 
+
+  [1]: http://www.bls.gov/bdm/entrepreneurship/entrepreneurship.htm
+  [2]: https://startups.stackexchange.com/a/1050/1141
+  [3]: https://quant.stackexchange.com/questions/141/what-data-sources-are-available-online
 
 
 ## Answer 1629
@@ -29,20 +33,20 @@
 - posted by: [Tim](https://stackexchange.com/users/6405/tim) on 2014-12-13
 - score: 2
 
-<p>It is impossible to answer this question, but a few factors that affect outcome are:</p>
+It is impossible to answer this question, but a few factors that affect outcome are:
 
-<ul>
-<li>funds</li>
-<li>luck</li>
-<li>talented people</li>
-<li>focus</li>
-<li>perseverance</li>
-<li>timing</li>
-</ul>
+ - funds
+ - luck
+ - talented people
+ - focus
+ - perseverance
+ - timing
 
-<p>But this is not a formula.  You can't force all these things into one place and then expect a successful company.  </p>
+But this is not a formula.  You can't force all these things into one place and then expect a successful company.  
 
-<p>Another problem in the "study" of successful startups is that of survivor bias.  Just because one set of people were wildly successful does not mean that it will be beneficial to copy their their strategy or experience.</p>
+Another problem in the "study" of successful startups is that of survivor bias.  Just because one set of people were wildly successful does not mean that it will be beneficial to copy their their strategy or experience.
+
+
 
 
 

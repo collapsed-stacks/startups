@@ -4,9 +4,8 @@
 - tagged: `marketing`, `content`
 - score: 1
 
-<p>What is the best way to distribute our content to the niche websites/blogs?
-Looking for blog marketplaces where we can get in touch with publishers?</p>
-
+What is the best way to distribute our content to the niche websites/blogs?
+Looking for blog marketplaces where we can get in touch with publishers?
 
 ## No Answers
 

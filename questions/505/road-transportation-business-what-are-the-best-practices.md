@@ -4,16 +4,15 @@
 - tagged: `marketing`, `india`, `management`
 - score: 1
 
-<p>Recently my retired father had started a road transportation business (goods carrier) located in India.<br>
+Recently my retired father had started a road transportation business (goods carrier) located in India.  
 He managed to buy a truck with financial support from the bank. 
-We both have limited experience in logistics and transport management. </p>
+We both have limited experience in logistics and transport management. 
 
-<p>I am writing now to ask for your suggestions, best practices, tips and advice for us to improve our business.</p>
+I am writing now to ask for your suggestions, best practices, tips and advice for us to improve our business.
 
-<p>Also please recommend good starter books for logistic and transport management. </p>
+Also please recommend good starter books for logistic and transport management. 
 
-<p>Thanks in advance.</p>
-
+Thanks in advance.
 
 
 ## Answer 506
@@ -21,21 +20,18 @@ We both have limited experience in logistics and transport management. </p>
 - posted by: [Avestron](https://stackexchange.com/users/4364057/avestron) on 2014-08-27
 - score: 2
 
-<p>As with any business it is important to be able to accurately assess:</p>
+As with any business it is important to be able to accurately assess:
 
-<ul>
-<li>the projected revenues against the projected expenses.</li>
-<li>the projected level of demand for the service being provided (it is good to have expressions of interest in your services from customers earlier rather than later)</li>
-<li>the obstacles that might either prevent you from delivering your service or cause you to render it at lower efficiency (weather, regulations, road conditions, cargo transport requirements, etc.)</li>
-<li>The cargo requirements (example - if you are transporting sheep then fallen sheep might be smothered to death, also the time-line before perishable goods run the risk of turning bad in what temperatures (presuming not refrigerated - and if it is - calculate how that affects costs))</li>
-</ul>
+ - the projected revenues against the projected expenses.
+ - the projected level of demand for the service being provided (it is good to have expressions of interest in your services from customers earlier rather than later)
+ - the obstacles that might either prevent you from delivering your service or cause you to render it at lower efficiency (weather, regulations, road conditions, cargo transport requirements, etc.)
+ - The cargo requirements (example - if you are transporting sheep then fallen sheep might be smothered to death, also the time-line before perishable goods run the risk of turning bad in what temperatures (presuming not refrigerated - and if it is - calculate how that affects costs))
 
-<p>Since your business is transportation then it is also important to study the road network to determine the most effective routes that may be taken (always have a secondary route - your primary route might, for instance, be afflicted with a 10-car-pileup).</p>
+Since your business is transportation then it is also important to study the road network to determine the most effective routes that may be taken (always have a secondary route - your primary route might, for instance, be afflicted with a 10-car-pileup).
 
-<p>Also, an awareness of the trends in prices and availability not only of fuel but vehicle repair parts/ services is to be considered an asset.</p>
+Also, an awareness of the trends in prices and availability not only of fuel but vehicle repair parts/ services is to be considered an asset.
 
-<p>I am afraid that I am not in a position to recommend any logistics-related books but hope that the above gives food for thought.</p>
-
+I am afraid that I am not in a position to recommend any logistics-related books but hope that the above gives food for thought.
 
 
 

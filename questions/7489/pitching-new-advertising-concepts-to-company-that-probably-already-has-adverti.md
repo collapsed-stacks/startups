@@ -4,29 +4,29 @@
 - tagged: `marketing`, `intellectual-property`, `advertising`, `pitch`
 - score: 3
 
-<p>Say I had a few ideas for advertising campaigns/tactics especially using interactive technology.</p>
+Say I had a few ideas for advertising campaigns/tactics especially using interactive technology.
 
-<p>(as opposed to standard print/web content/TVC/traditional advertising).</p>
+(as opposed to standard print/web content/TVC/traditional advertising).
 
-<p>Being interested in this kind of thing, I think of an idea, implement it, and then apply it as follows: </p>
+Being interested in this kind of thing, I think of an idea, implement it, and then apply it as follows: 
 
-<p><em>'With a small tweak here and there to align strategy, this could be <strong>great</strong> for company X to sell its product B'</em></p>
+*'With a small tweak here and there to align strategy, this could be **great** for company X to sell its product B'*
 
-<p>Naively my approach would be direct, approach them relatively 'off the street' - pitch it - see what happens...</p>
+Naively my approach would be direct, approach them relatively 'off the street' - pitch it - see what happens...
 
-<p>Ah but questions:</p>
+Ah but questions:
 
-<ul>
-<li><p>How best to go about this?</p></li>
-<li><p>What, if anything, am I not considering?</p></li>
-<li><p>By 'them', would I do best to approach the company, or it's
-advertising co. ? (and what is the job title in general of the person I would address?)</p></li>
-<li><p>Assuming I'm on target, how do I protect my concept from them just running with it or some
-version of it without me?</p></li>
-</ul>
+ - How best to go about this?
+   
+ - What, if anything, am I not considering?
+   
+ -  By 'them', would I do best to approach the company, or it's
+   advertising co. ? (and what is the job title in general of the person I would address?)
+   
+ - Assuming I'm on target, how do I protect my concept from them just running with it or some
+   version of it without me?
 
-<p>Getting a contract with an advertising company would be an acceptable outcome, as long as I was given share in the creative credit so I could move forward in establishing my position later down the line.</p>
-
+Getting a contract with an advertising company would be an acceptable outcome, as long as I was given share in the creative credit so I could move forward in establishing my position later down the line.
 
 
 ## Answer 8207
@@ -62,14 +62,13 @@ version of it without me?</p></li>
 - posted by: [fiprojects](https://stackexchange.com/users/5370155/fiprojects) on 2016-03-27
 - score: 1
 
-<p>You risk the idea being offloaded to their agreed partner. They might have a legal contract that prevents them seriously considering your proposal. They could forward your idea on, the contracted partner could take your idea and nothing you can do about it. Case in point are chocolate maltesers. Some years ago someone wrote an idea to the company and months later seen their idea on tv. The BBC news website did a piece on it I think. Its a risk.</p>
+You risk the idea being offloaded to their agreed partner. They might have a legal contract that prevents them seriously considering your proposal. They could forward your idea on, the contracted partner could take your idea and nothing you can do about it. Case in point are chocolate maltesers. Some years ago someone wrote an idea to the company and months later seen their idea on tv. The BBC news website did a piece on it I think. Its a risk.
 
-<p>An alternative solution is fund the idea yourself and try market it as a solution to the existing marketing company. I have a Brazilian friend who part owned a company in Rio tat did just this. They created their own ideas, put together professional video and approached a number of existing marketing companies. They made a small fortune and won recognition at Cannes film festival!</p>
+An alternative solution is fund the idea yourself and try market it as a solution to the existing marketing company. I have a Brazilian friend who part owned a company in Rio tat did just this. They created their own ideas, put together professional video and approached a number of existing marketing companies. They made a small fortune and won recognition at Cannes film festival!
 
-<p><em>Confessions of an Advertising Man</em> by a chap called David Ogilvy.. Its old but excellent. There is an hour long documentary which is also excellent but will offer you fewer lessons than the book.</p>
+*Confessions of an Advertising Man* by a chap called David Ogilvy.. Its old but excellent. There is an hour long documentary which is also excellent but will offer you fewer lessons than the book.
 
-<p>Best of luck!</p>
-
+Best of luck!
 
 
 

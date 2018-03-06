@@ -4,10 +4,9 @@
 - tagged: `united-states`, `taxes`, `pennsylvania`, `new-york`
 - score: 4
 
-<p>My company is registered in the state of Pennsylvania in the US and I plan to open a Post Office box for my company in the state of New York.</p>
+My company is registered in the state of Pennsylvania in the US and I plan to open a Post Office box for my company in the state of New York.
 
-<p>Will this count as physical presence in New York for the purposes of taxes?</p>
-
+Will this count as physical presence in New York for the purposes of taxes?
 
 
 ## Answer 42
@@ -32,10 +31,9 @@
 - posted by: [Matthew Haugen](https://stackexchange.com/users/1325646/matthew-haugen) on 2014-07-30
 - score: 0
 
-<p>This is a difficult question to answer. Having the P.O. box alone would <em>probably</em> not be sufficient to constitute an in-state physical presence, but the box in conjunction with a lot of business done in New York might be.</p>
+This is a difficult question to answer. Having the P.O. box alone would *probably* not be sufficient to constitute an in-state physical presence, but the box in conjunction with a lot of business done in New York might be.
 
-<p>You'd have to do arguably-extensive research into New York case-law to really come to a conclusive answer on that. It's a fairly subjective matter, law, so it's hard to say, but your best bet might be to speak with an attorney, or even perhaps a tax accountant with specific experience with New York laws.</p>
-
+You'd have to do arguably-extensive research into New York case-law to really come to a conclusive answer on that. It's a fairly subjective matter, law, so it's hard to say, but your best bet might be to speak with an attorney, or even perhaps a tax accountant with specific experience with New York laws.
 
 
 

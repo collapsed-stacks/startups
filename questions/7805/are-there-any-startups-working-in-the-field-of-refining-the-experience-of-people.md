@@ -4,8 +4,7 @@
 - tagged: `market-research`
 - score: 2
 
-<p>For example any startup that helps a user to locate stores of his/her interest in a shopping mall.</p>
-
+For example any startup that helps a user to locate stores of his/her interest in a shopping mall.
 
 
 ## Answer 7807
@@ -13,12 +12,11 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-11-11
 - score: 1
 
-<p>There are, yes. Think data plays.</p>
+There are, yes. Think data plays.
 
-<p><a href="http://wi-fi-fo-fum.com" rel="nofollow noreferrer">Wi Fi Fo Fum</a> comes to mind, for instance. It provides free Wifi in exchange for an email - for marketing purposes. It's run by <a href="https://startups.stackexchange.com/users/91/brad-rhoads">@BradRhoads</a>.</p>
+[Wi Fi Fo Fum](http://wi-fi-fo-fum.com) comes to mind, for instance. It provides free Wifi in exchange for an email - for marketing purposes. It's run by [@BradRhoads](https://startups.stackexchange.com/users/91/brad-rhoads).
 
-<p>Another colorful example off the top of my head would be cloud-based video monitoring startups. They're trying to analyze the video data to optimize store layouts.</p>
-
+Another colorful example off the top of my head would be cloud-based video monitoring startups. They're trying to analyze the video data to optimize store layouts.
 
 
 ## Answer 8922
@@ -26,10 +24,9 @@
 - posted by: [fiprojects](https://stackexchange.com/users/5370155/fiprojects) on 2016-04-09
 - score: 0
 
-<p>Like others have said - there are many.</p>
+Like others have said - there are many.
 
-<p>I read of one on Bloomberg recently - a startup - in order to respect privacy, they have video cameras pointed at feet. Based on analysis they can get an amazingly high success rate in identifying people (couples, parents with kids or two adults, and identify men/women). The duration they spend in various parts of the store all adds up to some creative powerpoints being born.</p>
-
+I read of one on Bloomberg recently - a startup - in order to respect privacy, they have video cameras pointed at feet. Based on analysis they can get an amazingly high success rate in identifying people (couples, parents with kids or two adults, and identify men/women). The duration they spend in various parts of the store all adds up to some creative powerpoints being born.
 
 
 

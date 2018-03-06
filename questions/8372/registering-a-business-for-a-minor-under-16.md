@@ -4,20 +4,21 @@
 - tagged: `legal`, `taxes`, `business-registration`, `united-kingdom`, `business-structure`
 - score: 4
 
-<p>I have recently started making a business to earn some money and was looking through the legal implications before I launch the business , however , I was looking at the HMRC website for registering as a sole trader and it says I need a National Insurance Number (<a href="https://www.gov.uk/set-up-business-uk/register-your-business-in-the-uk" rel="nofollow">Found Here</a>):</p>
+I have recently started making a business to earn some money and was looking through the legal implications before I launch the business , however , I was looking at the HMRC website for registering as a sole trader and it says I need a National Insurance Number ([Found Here][1]):
 
-<blockquote>
-  <p>To become a sole trader you must:
-   have a National Insurance number
-  register for self-assessment with HM Revenue and Customs (HMRC)
-  trade under your own name or choose a business name</p>
-</blockquote>
+> To become a sole trader you must:
+ have a National Insurance number
+register for self-assessment with HM Revenue and Customs (HMRC)
+trade under your own name or choose a business name
 
-<p>However I am a minor (under 16) so I thought maybe my dad could register and I could operate the business.
+
+However I am a minor (under 16) so I thought maybe my dad could register and I could operate the business.
 I have looked through the HMRC website and can't see anything about it.
 Is this legal?
-And if it is; What do I do about taxes?</p>
+And if it is; What do I do about taxes?
 
+
+  [1]: https://www.gov.uk/set-up-business-uk/register-your-business-in-the-uk
 
 
 ## Answer 12553

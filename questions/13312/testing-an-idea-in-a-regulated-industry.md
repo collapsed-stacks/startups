@@ -4,13 +4,12 @@
 - tagged: `investment`, `idea`, `customer-development`, `strategy`, `testing`
 - score: 0
 
-<p>I am validating my idea currently, and I just realised once I have validated the problem I will need to test it - However there is 1 big challenge, it is in a regulated industry like pharma, finance etc.  </p>
+I am validating my idea currently, and I just realised once I have validated the problem I will need to test it - However there is 1 big challenge, it is in a regulated industry like pharma, finance etc.  
 
-<p>How can one test ideas in a regulated industry, without the need to attain expensive licenses? any suggestions?</p>
+How can one test ideas in a regulated industry, without the need to attain expensive licenses? any suggestions?
 
-<p>Thanks,
-Stan</p>
-
+Thanks,
+Stan
 
 
 ## Answer 13314
@@ -18,10 +17,9 @@ Stan</p>
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2017-09-09
 - score: 0
 
-<p>The same way you test most if not all markets. That is, by asking some variation of: "Would you buy this? If so how much would you pay for it?" And plenty of subtle follow-up questions to figure out what they'd actually buy if not or pay for more.</p>
+The same way you test most if not all markets. That is, by asking some variation of: "Would you buy this? If so how much would you pay for it?" And plenty of subtle follow-up questions to figure out what they'd actually buy if not or pay for more.
 
-<p>You won't get firm pre-orders (since you'd need a license) but you can still do your market study.</p>
-
+You won't get firm pre-orders (since you'd need a license) but you can still do your market study.
 
 
 ## Answer 13383
@@ -29,12 +27,11 @@ Stan</p>
 - posted by: [h22](https://stackexchange.com/users/167824/h22) on 2017-09-25
 - score: 0
 
-<p>If it is pharma, then, I assume, first on frogs, then on dogs, then on CEO. Jokes away, most of medicine we use have just pasted tests of this kind, since ancient times. Researchers infected themselves to test if they medical approaches work, they were taking obvious responsibility if the approaches did not. This is a well known history for any researcher.</p>
+If it is pharma, then, I assume, first on frogs, then on dogs, then on CEO. Jokes away, most of medicine we use have just pasted tests of this kind, since ancient times. Researchers infected themselves to test if they medical approaches work, they were taking obvious responsibility if the approaches did not. This is a well known history for any researcher.
 
-<p>If it is aviation, first aviators just tried they planes themselves. They were ready to accept consequences of they design being not yet perfect, and many did.</p>
+If it is aviation, first aviators just tried they planes themselves. They were ready to accept consequences of they design being not yet perfect, and many did.
 
-<p>I do not know how it is in other industries, but most likely everywhere the same - after there is a reason to believe this may work and acceptably safe, the initiators test on themselves. Do not call for volunteers over the whole web to accept your risks.</p>
-
+I do not know how it is in other industries, but most likely everywhere the same - after there is a reason to believe this may work and acceptably safe, the initiators test on themselves. Do not call for volunteers over the whole web to accept your risks.
 
 
 ## Answer 13679

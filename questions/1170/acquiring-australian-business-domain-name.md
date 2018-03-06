@@ -4,20 +4,19 @@
 - tagged: `taxes`, `business-registration`, `startup-costs`, `website`, `united-kingdom`
 - score: 3
 
-<p>I am a UK business owner. I'm looking to register a .com.au domain name. Having spoken to Go Daddy and research I have done myself, the .com.au domain name can only be registered to an Australian business.</p>
+I am a UK business owner. I'm looking to register a .com.au domain name. Having spoken to Go Daddy and research I have done myself, the .com.au domain name can only be registered to an Australian business.
 
-<blockquote>
-  <p>According to auDA's regulations, .com.au or .net.au domains may only be registered to Australian sole traders, businesses or companies. This means that during the registration process, you will be asked to supply an Australian Business Number (ABN), Australian Company Number (ACN), State Business Number, Trademark Number or Incorporated Association Number to prove eligibility.</p>
-</blockquote>
+> According to auDA's regulations, .com.au or .net.au domains may only be registered to Australian sole traders, businesses or companies. This means that during the registration process, you will be asked to supply an Australian Business Number (ABN), Australian Company Number (ACN), State Business Number, Trademark Number or Incorporated Association Number to prove eligibility.
 
-<p><a href="http://www.netregistry.com.au/domain-names/registration/faq/what-do-i-need-to-register-a-au-domain/" rel="nofollow">Source</a></p>
+[Source][1]
 
-<p>I am registered for tax in the UK and have a UK accountant who handles all my tax affairs and he is not trained in Australian taxation. I do not want to have to set up an Australian company and incur additional expenses before I know my business is viable.</p>
+I am registered for tax in the UK and have a UK accountant who handles all my tax affairs and he is not trained in Australian taxation. I do not want to have to set up an Australian company and incur additional expenses before I know my business is viable.
 
-<p>I know that certain other countries top level commercial domains can be registered by a non-resident through trustees, but I cannot seem to find such a service in this case.</p>
+I know that certain other countries top level commercial domains can be registered by a non-resident through trustees, but I cannot seem to find such a service in this case.
 
-<p>What is the most cost effective way to be able to register a .com.au domain name as a UK business owner?</p>
+What is the most cost effective way to be able to register a .com.au domain name as a UK business owner?
 
+  [1]: http://www.netregistry.com.au/domain-names/registration/faq/what-do-i-need-to-register-a-au-domain/
 
 
 ## Answer 1172
@@ -25,8 +24,7 @@
 - posted by: [seanyt123](https://stackexchange.com/users/4954085/seanyt123) on 2014-10-28
 - score: 1
 
-<p>You can only register it if you are an Australian company. If your main concern is the viability of your business in regards to Australia you could research how high demand is for your business type and apply effective market research techniques to fully guess, but business is always part risk, I assume (there are no outlined rules anywhere I can find) that it won't have to be a completely seperate business and can be within the same group as your company and under the same name (so technically an Australian branch that is registered as an Australian company) which would incur taxes in Australia, you can not avoid these taxes (well you can, but I recommend not doing such illegal activities!!!) There is no way you can avoid the tax and hold that domain name.</p>
-
+You can only register it if you are an Australian company. If your main concern is the viability of your business in regards to Australia you could research how high demand is for your business type and apply effective market research techniques to fully guess, but business is always part risk, I assume (there are no outlined rules anywhere I can find) that it won't have to be a completely seperate business and can be within the same group as your company and under the same name (so technically an Australian branch that is registered as an Australian company) which would incur taxes in Australia, you can not avoid these taxes (well you can, but I recommend not doing such illegal activities!!!) There is no way you can avoid the tax and hold that domain name.
 
 
 ## Answer 1187

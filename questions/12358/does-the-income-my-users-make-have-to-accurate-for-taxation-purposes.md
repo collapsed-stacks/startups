@@ -4,10 +4,9 @@
 - tagged: `legal`, `taxes`
 - score: 0
 
-<p>I have a SaaS that shows income/expenses however it's not accurate and users are able to modify the values. This means they have the ability to lie on their income. Currently there is no Income/Expense reporting functionality because that is not the main feature of the service, but now users are asking for it. </p>
+I have a SaaS that shows income/expenses however it's not accurate and users are able to modify the values. This means they have the ability to lie on their income. Currently there is no Income/Expense reporting functionality because that is not the main feature of the service, but now users are asking for it. 
 
-<p>My question is if I provide that am I legally responsible for ensuring it is accurate or is it just a courtesty service that my clients can use to assist with their income? Is that basically up to me?</p>
-
+My question is if I provide that am I legally responsible for ensuring it is accurate or is it just a courtesty service that my clients can use to assist with their income? Is that basically up to me?
 
 ## No Answers
 

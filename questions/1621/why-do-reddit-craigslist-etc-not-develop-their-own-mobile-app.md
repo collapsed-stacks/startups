@@ -4,10 +4,9 @@
 - tagged: `tech-company`, `mobile-apps`
 - score: 2
 
-<p>All the apps in the store are made by third party people. Why don't they make their own apps? </p>
+All the apps in the store are made by third party people. Why don't they make their own apps? 
 
-<p>There are lots of other companies like these which don't have an app of their own.</p>
-
+There are lots of other companies like these which don't have an app of their own.
 
 
 ## Answer 1624

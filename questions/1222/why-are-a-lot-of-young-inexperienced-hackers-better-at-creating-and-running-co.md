@@ -4,9 +4,9 @@
 - tagged: `tech-company`, `founder`, `growth`, `young-entrepreneurs`
 - score: 31
 
-<p>We see a lot of examples where young &amp; inexperienced programmer teams creating tech startups and than taking it to multi millions of net worth. We don't see a lot of business/finance/MBA guys doing this and when think about it they were explicitly trained to run and grow companies (maybe not start companies but still).</p>
+We see a lot of examples where young & inexperienced programmer teams creating tech startups and than taking it to multi millions of net worth. We don't see a lot of business/finance/MBA guys doing this and when think about it they were explicitly trained to run and grow companies (maybe not start companies but still).
 
-<p>Is there a secret advantage programmers have when running companies?</p>
+Is there a secret advantage programmers have when running companies?
 
 
 
@@ -34,16 +34,15 @@
 - posted by: [eyedar](https://stackexchange.com/users/976190/eyedar) on 2014-10-31
 - score: 23
 
-<p>I am a computer scientist and someone that was an early employee of a newsworthy startup in my mid-20s. Like another answer said, there is definitely selection bias and reporter bias at work here, and that's probably the biggest contributing factor. </p>
+I am a computer scientist and someone that was an early employee of a newsworthy startup in my mid-20s. Like another answer said, there is definitely selection bias and reporter bias at work here, and that's probably the biggest contributing factor. 
 
-<p>However, the young types that are successful have two other advantages that haven't yet been mentioned:</p>
+However, the young types that are successful have two other advantages that haven't yet been mentioned:
 
-<p>(1) When you're young you don't know what's impossible. As you get older and come up with ideas, you more easily dismiss them because your life experience gives you a broad perspective on why an idea might not work. When you're young you don't have that perspective and you just do it. When you hit those roadblocks that an older person might have thought of, you either fail or creatively overcome them. Those that overcome roadblocks obviously can reach a point where their older counterparts would not because older folks would not have even started in the first place.</p>
+(1) When you're young you don't know what's impossible. As you get older and come up with ideas, you more easily dismiss them because your life experience gives you a broad perspective on why an idea might not work. When you're young you don't have that perspective and you just do it. When you hit those roadblocks that an older person might have thought of, you either fail or creatively overcome them. Those that overcome roadblocks obviously can reach a point where their older counterparts would not because older folks would not have even started in the first place.
 
-<p>(2) A young person is fresh out of school or still in school. They are learning the latest and greatest technologies, methods, recent research, etc. When they're thinking about ideas their perspective is naturally focused on what's possible with these new emerging technologies because that's all they know. Older folks have to take the time to learn new stuff themselves, if they even have the time. Most of the time we're concerned with leveraging what we already know or leveraging the cumulative effect of what we know, not on new stuff. If you look at the companies who have had young "geeks" as founders, they have all leveraged something new, either technologically or conceptually new.</p>
+(2) A young person is fresh out of school or still in school. They are learning the latest and greatest technologies, methods, recent research, etc. When they're thinking about ideas their perspective is naturally focused on what's possible with these new emerging technologies because that's all they know. Older folks have to take the time to learn new stuff themselves, if they even have the time. Most of the time we're concerned with leveraging what we already know or leveraging the cumulative effect of what we know, not on new stuff. If you look at the companies who have had young "geeks" as founders, they have all leveraged something new, either technologically or conceptually new.
 
-<p>The combination of these to factors gives younger people an advantage. But don't fall for the selection bias -- most still fail, you just don't hear about it.</p>
-
+The combination of these to factors gives younger people an advantage. But don't fall for the selection bias -- most still fail, you just don't hear about it.
 
 
 ## Answer 1241
@@ -66,9 +65,11 @@
 - posted by: [Henry Taylor](https://stackexchange.com/users/1734959/henry-taylor) on 2014-10-31
 - score: 3
 
-<p>Also note that your question's definition of a successful company is based on its monetary net worth (the amount that a buyer is willing to pay for it).  You are not taking into account the non-financial metrics of a company's success, such as the consistency of its revenue stream, the sustainability of its infrastructure, its preparedness for rapid customer-base growth, or the profitability of its business model.  You're using an evaluating method which is more appropriate for judging a static product than a living company.</p>
+Also note that your question's definition of a successful company is based on its monetary net worth (the amount that a buyer is willing to pay for it).  You are not taking into account the non-financial metrics of a company's success, such as the consistency of its revenue stream, the sustainability of its infrastructure, its preparedness for rapid customer-base growth, or the profitability of its business model.  You're using an evaluating method which is more appropriate for judging a static product than a living company.
 
-<p>The news-worthy moment, which we often read about, when a professional business person acquires control of a lucky start-up, is not the moment when that start-up company becomes a success.  It is more often, the moment when a product and its business-illiterate creators get their first chance of becoming a real company.</p>
+The news-worthy moment, which we often read about, when a professional business person acquires control of a lucky start-up, is not the moment when that start-up company becomes a success.  It is more often, the moment when a product and its business-illiterate creators get their first chance of becoming a real company.
+
+
 
 
 
@@ -77,14 +78,13 @@
 - posted by: [Jivan](https://stackexchange.com/users/2391382/jivan) on 2015-01-09
 - score: 3
 
-<p>I'm quite late in the parade, but I'd like to mention a simple probabilistic approach.</p>
+I'm quite late in the parade, but I'd like to mention a simple probabilistic approach.
 
-<p>People in their 30-40s are simply too busy, committed in something else, have too much at risk, know other ways to make money, don't pursue the dream of being famous and outrageously rich anymore (because they know life is made of something else), so they're quite few to take the risk. When they build something, it brings them the kind of success they want: substantial money, accomplishment, a reasonable amount of adrenaline. And they succeed, most of the time.</p>
+People in their 30-40s are simply too busy, committed in something else, have too much at risk, know other ways to make money, don't pursue the dream of being famous and outrageously rich anymore (because they know life is made of something else), so they're quite few to take the risk. When they build something, it brings them the kind of success they want: substantial money, accomplishment, a reasonable amount of adrenaline. And they succeed, most of the time.
 
-<p>People in their early 20s are hundreds of thousands to take that kind of risk each year. And for every Facebook or Dropbox, hundreds of thousands will do exactly the same thing but fail. And you'll never hear from them. When they build something, they're going for big, huge success and do it without much anticipation. And they fail. Except some of them for which the stars get aligned.</p>
+People in their early 20s are hundreds of thousands to take that kind of risk each year. And for every Facebook or Dropbox, hundreds of thousands will do exactly the same thing but fail. And you'll never hear from them. When they build something, they're going for big, huge success and do it without much anticipation. And they fail. Except some of them for which the stars get aligned.
 
-<p>In a certain way, your question is pretty similar to asking <em>why elderly and lonely people are so much better at winning at the national lottery?</em></p>
-
+In a certain way, your question is pretty similar to asking *why elderly and lonely people are so much better at winning at the national lottery?*
 
 
 ## Answer 3194
@@ -92,10 +92,9 @@
 - posted by: [colmde](https://stackexchange.com/users/1618945/colmde) on 2015-01-26
 - score: 3
 
-<p>Older people have families!  </p>
+Older people have families!  
 
-<p>So they don't have the time or inclination to spend 16 hours a day for a month locked away coding their brilliant idea on a diet of nothing but pizza and chocolate! </p>
-
+So they don't have the time or inclination to spend 16 hours a day for a month locked away coding their brilliant idea on a diet of nothing but pizza and chocolate! 
 
 
 ## Answer 1235
@@ -103,10 +102,9 @@
 - posted by: [blunders](https://stackexchange.com/users/216182/blunders) on 2014-10-31
 - score: 2
 
-<p>"Hackers" are not better than anyone else at starting startups in my opinion. </p>
+"Hackers" are not better than anyone else at starting startups in my opinion. 
 
-<p>In fact, I would claim no one is better at starting startups, who succeeds is random; if you disagree, you should be in VC, PE, etc., since within a short-time, you'd be very wealthy. </p>
-
+In fact, I would claim no one is better at starting startups, who succeeds is random; if you disagree, you should be in VC, PE, etc., since within a short-time, you'd be very wealthy. 
 
 
 ## Answer 3197
@@ -114,14 +112,13 @@
 - posted by: [Jason ](https://stackexchange.com/users/5270470/jason) on 2015-01-26
 - score: 2
 
-<p>Younger people are able to take more risks. Their sense of responsibilities are far less than those who are 30s, 40s, etc. Young people can then take risks to try to build things without a sense of any significant downside.</p>
+Younger people are able to take more risks. Their sense of responsibilities are far less than those who are 30s, 40s, etc. Young people can then take risks to try to build things without a sense of any significant downside.
 
-<p>However, not everyone who is an independent developer can run a business. For example, Larry Page and Sergin Brin from Google hired Eric Schmidt to help run the company(a decade) before Larry Page eventually took over as CEO once he had enough experience.</p>
+However, not everyone who is an independent developer can run a business. For example, Larry Page and Sergin Brin from Google hired Eric Schmidt to help run the company(a decade) before Larry Page eventually took over as CEO once he had enough experience.
 
-<p>Mark Zuckerberg from FaceBook has a very well organized management team that he surrounds himself with. Sheryl Sandburg (Harvard grad), Mike Schroepfer (CTO of Sun Microsystems and graduated from Stanford) Mark also learned a lot from shadowing other successful and well known CEOs for the experience that they have.</p>
+Mark Zuckerberg from FaceBook has a very well organized management team that he surrounds himself with. Sheryl Sandburg (Harvard grad), Mike Schroepfer (CTO of Sun Microsystems and graduated from Stanford) Mark also learned a lot from shadowing other successful and well known CEOs for the experience that they have.
 
-<p>Therefore, it isn't necessary that young people who happen to hack can run a company better. If you look at the most prominent companies that have young CEOs, they have gotten experience from those around them and have been able to adopt to their own company. </p>
-
+Therefore, it isn't necessary that young people who happen to hack can run a company better. If you look at the most prominent companies that have young CEOs, they have gotten experience from those around them and have been able to adopt to their own company. 
 
 
 

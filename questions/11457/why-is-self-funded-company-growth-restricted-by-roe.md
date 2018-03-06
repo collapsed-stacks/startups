@@ -4,14 +4,13 @@
 - tagged: `equity`, `growth`
 - score: 2
 
-<p>For a company that is self funded, it's growth is based on the Sustainable Growth Rate: <a href="https://strategiccfo.com/sustainable-growth-rate/" rel="nofollow">https://strategiccfo.com/sustainable-growth-rate/</a>.</p>
+For a company that is self funded, it's growth is based on the Sustainable Growth Rate: https://strategiccfo.com/sustainable-growth-rate/.
 
-<p>Does this apply to a company that is not public and doesn't pay out a dividend?</p>
+Does this apply to a company that is not public and doesn't pay out a dividend?
 
-<p>For a boot strapped company that has a successful info product that sells at $100, why is the company's growth rate dependent on ROE?</p>
+For a boot strapped company that has a successful info product that sells at $100, why is the company's growth rate dependent on ROE?
 
-<p>If someone has deposited $1000 of equity over 3 months and then starts selling $5000 of the above product per month, which falls to the bottom line, this far surpasses the amount of equity and doesn't have any dependency on it. Or am I missing something?</p>
-
+If someone has deposited $1000 of equity over 3 months and then starts selling $5000 of the above product per month, which falls to the bottom line, this far surpasses the amount of equity and doesn't have any dependency on it. Or am I missing something?
 
 
 ## Answer 11458
@@ -60,26 +59,19 @@
 - posted by: [Mowzer](https://stackexchange.com/users/1803081/mowzer) on 2016-10-29
 - score: 1
 
-<blockquote>
-  <p>Does this apply to a company that is not public and doesn't pay out a dividend?</p>
-</blockquote>
+> Does this apply to a company that is not public and doesn't pay out a dividend?
 
-<p>No.</p>
+No.
 
-<blockquote>
-  <p>For a boot strapped company that has a successful info product that sells at $100, why is the company's growth rate dependent on ROE?</p>
-</blockquote>
+> For a boot strapped company that has a successful info product that sells at $100, why is the company's growth rate dependent on ROE?
 
-<p>It isn't. The premise of your question is faulty.</p>
+It isn't. The premise of your question is faulty.
 
-<blockquote>
-  <p>Or am I missing something?</p>
-</blockquote>
+> Or am I missing something?
 
-<p>No.</p>
+No.
 
-<p>In my opinion, the article you reference should be discarded as an interesting theory with no practical application. It seems to be at best a mathematical exercise and has nothing to do with how a real company operates in the real world. Businesses on paper and theory are one thing. A real company with real products and real people are something else entirely.</p>
-
+In my opinion, the article you reference should be discarded as an interesting theory with no practical application. It seems to be at best a mathematical exercise and has nothing to do with how a real company operates in the real world. Businesses on paper and theory are one thing. A real company with real products and real people are something else entirely.
 
 
 

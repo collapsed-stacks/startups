@@ -4,27 +4,25 @@
 - tagged: `finance`, `community`
 - score: 3
 
-<p>I'm in the early stages of developing an idea for a community resource site.</p>
+I'm in the early stages of developing an idea for a community resource site.
 
-<p>The site will be a friendly place for people within the community to get information and ask questions.<br /> 
-Similar to <em>StackExchange</em> or <em>Quora</em> but very focused on a relatively small community.</p>
+The site will be a friendly place for people within the community to get information and ask questions.<br /> 
+Similar to *StackExchange* or *Quora* but very focused on a relatively small community.
 
-<p>There are forums already serving the community but there are issues with these. One of the biggest issues is that these forum seem to have their standards compromised by financial interests - advertisers.</p>
+There are forums already serving the community but there are issues with these. One of the biggest issues is that these forum seem to have their standards compromised by financial interests - advertisers.
 
-<p>I want to avoid this so I'm looking at alternative ways to make money with the site.</p>
+I want to avoid this so I'm looking at alternative ways to make money with the site.
 
-<p>I'd love to hear some ideas about how to do this. I'd appreciate any feedback as I realise that without advertising this job will be difficult however it should be possible.</p>
+I'd love to hear some ideas about how to do this. I'd appreciate any feedback as I realise that without advertising this job will be difficult however it should be possible.
 
-<p>Some ideas I've come up with initially are :</p>
+Some ideas I've come up with initially are :
 
-<ul>
-<li>Crowdfunding to get the site off the ground</li>
-<li>Donations (The community can be quite generous)</li>
-<li>A Groupon type scheme for rewards to active users (How to turn this into money for the site though currently escapes me plus the rewards will need to be provided by businesses which is close to being advertising)</li>
-<li>Live ticketed events</li>
-</ul>
+ - Crowdfunding to get the site off the ground
+ - Donations (The community can be quite generous)
+ - A Groupon type scheme for rewards to active users (How to turn this into money for the site though currently escapes me plus the rewards will need to be provided by businesses which is close to being advertising)
+ - Live ticketed events
 
-<p>Again, I'd love to hear any ideas or suggestions you may have.</p>
+Again, I'd love to hear any ideas or suggestions you may have.
 
 
 
@@ -33,8 +31,7 @@ Similar to <em>StackExchange</em> or <em>Quora</em> but very focused on a relati
 - posted by: [David 'mArm' Ansermot](https://stackexchange.com/users/412499/david-marm-ansermot) on 2015-05-04
 - score: 2
 
-<p>You can also implement some type of paid subscription, giving access to additional contents and/or advanced functionalities (on the content and/or the forum usability).</p>
-
+You can also implement some type of paid subscription, giving access to additional contents and/or advanced functionalities (on the content and/or the forum usability).
 
 
 

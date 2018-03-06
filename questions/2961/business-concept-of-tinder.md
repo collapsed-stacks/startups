@@ -4,8 +4,10 @@
 - tagged: `tech-company`, `business-plan`, `mobile-apps`
 - score: 4
 
-<p>I am curious what is the business model of <a href="https://itunes.apple.com/us/app/tinder/id547702041?mt=8" rel="nofollow">Tinder the dating app for iOS</a>. I have Tinder on my iPhone and they do not charge users in the app there are no ads and it is the most popular dating app in App Store. Do they earn money now? What is their business model?</p>
+I am curious what is the business model of [Tinder the dating app for iOS][1]. I have Tinder on my iPhone and they do not charge users in the app there are no ads and it is the most popular dating app in App Store. Do they earn money now? What is their business model?
 
+
+  [1]: https://itunes.apple.com/us/app/tinder/id547702041?mt=8
 
 
 ## Answer 2963
@@ -29,9 +31,9 @@ With the massive user base (10 million MAUs), they can introduce <a href="http:/
 - posted by: [Alon Bilu](https://stackexchange.com/users/6599046/alon-bilu) on 2015-07-12
 - score: 2
 
-<p>Few months ago Tinder launched their "TinderPlus" plan, for example allowing users to have the "Undo" feature (suppose you UnLiked someone and now you want to have them back). The really interesting fact about the new "Plus" plan - is that its Age-Based, meaning if you're 30+ you'll be charge more than if you're under 30 - which makes sense as usually the 30+ make more money (hopefully).</p>
+Few months ago Tinder launched their "TinderPlus" plan, for example allowing users to have the "Undo" feature (suppose you UnLiked someone and now you want to have them back). The really interesting fact about the new "Plus" plan - is that its Age-Based, meaning if you're 30+ you'll be charge more than if you're under 30 - which makes sense as usually the 30+ make more money (hopefully).
 
-<p>Spotify for example has a similar pricing model where they charge Students less than the Non-Student users - guess they know who can make or break their service and going for the young crowd.</p>
+Spotify for example has a similar pricing model where they charge Students less than the Non-Student users - guess they know who can make or break their service and going for the young crowd.
 
 
 
@@ -49,9 +51,10 @@ With the massive user base (10 million MAUs), they can introduce <a href="http:/
 - posted by: [daneyh](https://stackexchange.com/users/5609549/daneyh) on 2015-01-11
 - score: -2
 
-<p>Another form of advertising which I believe could generate additional revenue for tinder is ability to offer passporting or chosen location as a premium feature and the ability to 'replay' past dismissals.</p>
+Another form of advertising which I believe could generate additional revenue for tinder is ability to offer passporting or chosen location as a premium feature and the ability to 'replay' past dismissals.
 
-<p>I've also thought the idea of placing advertisements in the photo stream would be another method of generating revenue.</p>
+I've also thought the idea of placing advertisements in the photo stream would be another method of generating revenue.
+
 
 
 

@@ -4,12 +4,11 @@
 - tagged: `saas`, `data`, `analytics`
 - score: 4
 
-<p>I'm struggling to find a better term for when a predictive analytics solution becomes embedded into an automated workflow. </p>
+I'm struggling to find a better term for when a predictive analytics solution becomes embedded into an automated workflow. 
 
-<p>Our APIs can drive everything from product recommendations to machine repair calls, but saying analytics sells it short. The term "operationalize" seems quite dull to me, but it does encapsulate the process.</p>
+Our APIs can drive everything from product recommendations to machine repair calls, but saying analytics sells it short. The term "operationalize" seems quite dull to me, but it does encapsulate the process.
 
-<p>In describing a software that employs graph theory to discover the complex predictive rules to trigger events and alerts, what term  would be more accessible and relatable to describe the end to end process than "operationalize" or "operationalized" analytics? </p>
-
+In describing a software that employs graph theory to discover the complex predictive rules to trigger events and alerts, what term  would be more accessible and relatable to describe the end to end process than "operationalize" or "operationalized" analytics? 
 
 
 ## Answer 9404
@@ -37,15 +36,15 @@
 - posted by: [Neil](https://stackexchange.com/users/2711480/neil) on 2016-06-13
 - score: 0
 
-<p>Some options.</p>
+Some options.
 
-<p>"Embedded automated recursive algorithms"</p>
+"Embedded automated recursive algorithms"
 
-<p>"autonomous application decision making"</p>
+"autonomous application decision making"
 
-<p>"Self-directed learning APIs"</p>
+"Self-directed learning APIs"
 
-<p>I would then suggest making these into an acronym (EARA, AADM, or SDLA). Then you can use the phrase once then just use the acronym.</p>
+I would then suggest making these into an acronym (EARA, AADM, or SDLA). Then you can use the phrase once then just use the acronym.
 
 
 

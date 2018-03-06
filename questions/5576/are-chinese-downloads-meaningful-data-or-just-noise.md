@@ -4,12 +4,11 @@
 - tagged: `mobile-apps`
 - score: 4
 
-<p>About a year ago we released an small app on the App Store as a side project. We also released a limited 'lite' version for free.</p>
+About a year ago we released an small app on the App Store as a side project. We also released a limited 'lite' version for free.
 
-<p>For the free version, 98% of the downloads are from China, while China only makes up 2% of the downloads for the paid version.</p>
+For the free version, 98% of the downloads are from China, while China only makes up 2% of the downloads for the paid version.
 
-<p>Such a high percentage of downloads from China seems suspect to me. The app is in English only. Is this a known pattern or is it possible the app is actually more popular in China and we could take advantage of that? </p>
-
+Such a high percentage of downloads from China seems suspect to me. The app is in English only. Is this a known pattern or is it possible the app is actually more popular in China and we could take advantage of that? 
 
 
 ## Answer 6160

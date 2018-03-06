@@ -4,18 +4,17 @@
 - tagged: `legal`, `business-structure`, `buisness-model`
 - score: 5
 
-<p>I would like to create an offshore structure with Private Interest Foundation and underlying business corporation.</p>
+I would like to create an offshore structure with Private Interest Foundation and underlying business corporation.
 
-<p>There are two main offshore jurisdictions for foundations: Panama and Seychelles.</p>
+There are two main offshore jurisdictions for foundations: Panama and Seychelles.
 
-<p>But what are the benefits of using one or another?</p>
+But what are the benefits of using one or another?
 
-<p>I know that in Seychelles it is stated in the Foundation Act itself that a foundation has no owners and that the foundation itself is the beneficial owner of the foundation assets.</p>
+I know that in Seychelles it is stated in the Foundation Act itself that a foundation has no owners and that the foundation itself is the beneficial owner of the foundation assets.
 
-<p>Is this a big advantage for Seychelles foundations?</p>
+Is this a big advantage for Seychelles foundations?
 
-<p>Are there any other advantages of one or another jurisdiction?</p>
-
+Are there any other advantages of one or another jurisdiction?
 
 
 ## Answer 5264
@@ -23,26 +22,21 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-05-12
 - score: 1
 
-<p>Insofar as I'm aware it's basically the same in both jurisdictions:</p>
+Insofar as I'm aware it's basically the same in both jurisdictions:
 
-<ul>
-<li>Both are tax havens.</li>
-<li>Both allow to form a foundation with no owners.</li>
-<li>Both allow foundations to hold assets and own companies.</li>
-</ul>
+- Both are tax havens.
+- Both allow to form a foundation with no owners.
+- Both allow foundations to hold assets and own companies.
 
-<p>So on paper they enable the same thing from a tax avoidance standpoint.</p>
+So on paper they enable the same thing from a tax avoidance standpoint.
 
-<p>In practice you want to open a business in neither, or in any other tax haven for that matter:</p>
+In practice you want to open a business in neither, or in any other tax haven for that matter:
 
-<ul>
-<li>Their banks <em>do</em> communicate with tax authorities.</li>
-<li>As such, you <em>will</em> get caught if you dodge your taxes.</li>
-<li>Doing business with companies in tax havens is a big red flag for tax authorities -- they'll investigate your clients and suppliers.</li>
-</ul>
+- Their banks *do* communicate with tax authorities.
+- As such, you *will* get caught if you dodge your taxes.
+- Doing business with companies in tax havens is a big red flag for tax authorities -- they'll investigate your clients and suppliers.
 
-<p>Tax havens are convenient for large businesses (and indeed, super rich individuals) who can field armies of lawyers. You cannot.</p>
-
+Tax havens are convenient for large businesses (and indeed, super rich individuals) who can field armies of lawyers. You cannot.
 
 
 

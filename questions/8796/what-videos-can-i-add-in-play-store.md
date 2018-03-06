@@ -4,12 +4,15 @@
 - tagged: `legal`
 - score: 1
 
-<p>I created a Music Slots game, that shows youtube videos on the game screen. Now I am afraid to create a video of my app as it will include other videos from youtube.</p>
+I created a Music Slots game, that shows youtube videos on the game screen. Now I am afraid to create a video of my app as it will include other videos from youtube.
 
-<p>I want to place game video in my app page on play store, what does Google policy says about it? Can I post my game screen video if it includes youtube window in it? </p>
+I want to place game video in my app page on play store, what does Google policy says about it? Can I post my game screen video if it includes youtube window in it? 
 
-<p><a href="https://play.google.com/store/apps/details?id=com.gazman.musicSlots26" rel="nofollow noreferrer">[<img src="https://i.stack.imgur.com/2Q8GO.jpg" alt="Music Slots">]<a href="https://i.stack.imgur.com/2Q8GO.jpg" rel="nofollow noreferrer">1</a></a></p>
+[[![Music Slots][1]][1]][2]
 
+
+  [1]: http://i.stack.imgur.com/2Q8GO.jpg
+  [2]: https://play.google.com/store/apps/details?id=com.gazman.musicSlots26
 
 
 ## Answer 8803

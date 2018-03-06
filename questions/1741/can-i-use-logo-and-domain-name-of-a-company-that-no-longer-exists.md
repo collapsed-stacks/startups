@@ -4,12 +4,11 @@
 - tagged: `trademark`, `canada`, `domain-name`
 - score: 7
 
-<p>Is it possible to use the logo and domain name of an old company that went out of business? Specifically, would that be legal?</p>
+Is it possible to use the logo and domain name of an old company that went out of business? Specifically, would that be legal?
 
-<p>I already own the domain name that the previous company dropped.</p>
+I already own the domain name that the previous company dropped.
 
-<p>The previous business was registered in France and I'm going to register new business in Canada, and the type of business will be different.</p>
-
+The previous business was registered in France and I'm going to register new business in Canada, and the type of business will be different.
 
 
 ## Answer 1742
@@ -17,19 +16,16 @@
 - posted by: [Matthew Haugen](https://stackexchange.com/users/1325646/matthew-haugen) on 2014-12-25
 - score: 3
 
-<p>The answer is <em>probably</em> yes. It depends a bit on how long it's been since the first company went under, but you should be fine anyway since you're in different places geographically (unless they did business in Canada, maybe). The fact that the business type is different helps, too.</p>
+The answer is *probably* yes. It depends a bit on how long it's been since the first company went under, but you should be fine anyway since you're in different places geographically (unless they did business in Canada, maybe). The fact that the business type is different helps, too.
 
-<p>I'm not too familiar with Canadian trademark law, admittedly, but essentially the general goal is to protect consumers from confusion. The fact that your business is in a different region and specialty will help with that. If you grabbed up the name of the previous business within days of it going under, that might be confusing, but it sounds like that isn't the case here.</p>
+I'm not too familiar with Canadian trademark law, admittedly, but essentially the general goal is to protect consumers from confusion. The fact that your business is in a different region and specialty will help with that. If you grabbed up the name of the previous business within days of it going under, that might be confusing, but it sounds like that isn't the case here.
 
-<p>So from a legality standpoint, it sounds fine.</p>
+So from a legality standpoint, it sounds fine.
 
-<p>That said, I'd watch out for two little things. I'm sure you've thought of these, but I figure they're worth mentioning.</p>
+That said, I'd watch out for two little things. I'm sure you've thought of these, but I figure they're worth mentioning.
 
-<ul>
-<li>Careful that the previous business doesn't have too much of a reputation (good or bad) that you'll be competing against. If people hear your name and know of the previous one, you don't want them expecting something that isn't you.</li>
-<li>Note that the previous business may have blogs or websites pointing at its website. So by taking their domain name, there's a good chance that you'll get a lot of hits to your site from people looking for the other business. Since it sounds like you do different things, that could be frustrating for anyone looking for the other business. On the other hand, it's awkward and not ideal for you to mention "hey, this isn't <em>[other company]</em> on your 404 page."</li>
-</ul>
-
+* Careful that the previous business doesn't have too much of a reputation (good or bad) that you'll be competing against. If people hear your name and know of the previous one, you don't want them expecting something that isn't you.
+* Note that the previous business may have blogs or websites pointing at its website. So by taking their domain name, there's a good chance that you'll get a lot of hits to your site from people looking for the other business. Since it sounds like you do different things, that could be frustrating for anyone looking for the other business. On the other hand, it's awkward and not ideal for you to mention "hey, this isn't *[other company]* on your 404 page."
 
 
 ## Answer 1749

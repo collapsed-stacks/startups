@@ -4,14 +4,13 @@
 - tagged: `online-store`
 - score: 2
 
-<p>Based on Wikipedia definition, a Customer is the recipient for a good or service.</p>
+Based on Wikipedia definition, a Customer is the recipient for a good or service.
 
-<p>Let's take an example: I'm selling online drugs really hard to find for Doctor. Giving access to this drug to doctors will help them get them more patients. But on the other hand, the patient is paying online for the drug prescribed by the doctor.
+Let's take an example: I'm selling online drugs really hard to find for Doctor. Giving access to this drug to doctors will help them get them more patients. But on the other hand, the patient is paying online for the drug prescribed by the doctor.
 So my product is the drug, but the value of my product is "access to rare drug"
-So who is my customer: The doctor or the patient ?</p>
+So who is my customer: The doctor or the patient ?
 
-<p>And on another example, on Facebook, who is the customer: The user or the advertiser ?</p>
-
+And on another example, on Facebook, who is the customer: The user or the advertiser ?
 
 
 ## Answer 9820
@@ -19,38 +18,40 @@ So who is my customer: The doctor or the patient ?</p>
 - posted by: [CJ Cornell](https://stackexchange.com/users/526591/cj-cornell) on 2016-07-30
 - score: 3
 
-<blockquote>
-  <p>Your customer is the one who pulls out their checkbook.</p>
-</blockquote>
+> Your customer is the one who pulls out their checkbook.
 
-<p>This is 95% correct.</p>
+This is 95% correct.
 
-<p>Older business models were simple:  You have a customer, who has a need/want, and buys the product/solution with their checkbook, and uses the product.</p>
+Older business models were simple:  You have a customer, who has a need/want, and buys the product/solution with their checkbook, and uses the product.
 
-<p>More modern business models recognize that there is a decoupling of </p>
+More modern business models recognize that there is a decoupling of 
 
-<ul>
-<li>Users of the product (the one who has the need) </li>
-<li>Customer (one who buys/pays) </li>
-<li>Sellers(the ones with the actual product or service used
-by the user) </li>
-<li>Intermediary Gatekeepers</li>
-<li>Influencers</li>
-</ul>
+ - Users of the product (the one who has the need) 
+ - Customer (one who buys/pays) 
+ - Sellers(the ones with the actual product or service used
+   by the user) 
+ - Intermediary Gatekeepers
+ - Influencers
 
-<p>and - the exchange of VALUE between those 5.</p>
+and - the exchange of VALUE between those 5.
 
-<p>Without writing a marketing text book, with Drugs, the typical model in the USA is:</p>
 
-<ul>
-<li>Users = patients</li>
-<li>Gatekeepers  = doctors </li>
-<li>Customers = insurance companies (money flows from them to the Seller)</li>
-<li>Sellers = Pharma companies</li>
-<li>Influencers = Doctors, TV, Other Patients, Internet etc ...</li>
-</ul>
+Without writing a marketing text book, with Drugs, the typical model in the USA is:
 
-<p>Ideally if you are the seller - you are focusing on any of the others that cause friction between you and the customer.</p>
+ - Users = patients
+ - Gatekeepers  = doctors 
+ - Customers = insurance companies (money flows from them to the Seller)
+ - Sellers = Pharma companies
+ - Influencers = Doctors, TV, Other Patients, Internet etc ...
+
+
+Ideally if you are the seller - you are focusing on any of the others that cause friction between you and the customer.
+
+
+
+
+
+
 
 
 
@@ -59,15 +60,12 @@ by the user) </li>
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2016-07-30
 - score: 2
 
-<p>Your customer is the one who pulls out their checkbook.</p>
+Your customer is the one who pulls out their checkbook.
 
-<ul>
-<li>For drug companies it's patients: they're buying wellbeing.</li>
-<li>For Facebook it's advertisers: they're buying access to pairs of eyeballs.</li>
-</ul>
+- For drug companies it's patients: they're buying wellbeing.
+- For Facebook it's advertisers: they're buying access to pairs of eyeballs.
 
-<p>As Daniel pointed out already, the purpose of drug-related ads is to get patients to nag doctors about this or that (usually pricey) drug.</p>
-
+As Daniel pointed out already, the purpose of drug-related ads is to get patients to nag doctors about this or that (usually pricey) drug.
 
 
 ## Answer 9814
@@ -75,12 +73,11 @@ by the user) </li>
 - posted by: [Daniel Anderson](https://stackexchange.com/users/8398759/daniel-anderson) on 2016-07-30
 - score: 0
 
-<p>If you look at all of the drug advertising on television, it is aimed at the consumer, not doctors.  The idea is to get people thinking about the drug and what it can do for them so that they'll bring it up to their doctor at their next visit.</p>
+If you look at all of the drug advertising on television, it is aimed at the consumer, not doctors.  The idea is to get people thinking about the drug and what it can do for them so that they'll bring it up to their doctor at their next visit.
 
-<p>I hope this helps.</p>
+I hope this helps.
 
-<p>Good luck!</p>
-
+Good luck!
 
 
 

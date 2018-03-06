@@ -4,17 +4,14 @@
 - tagged: `funding`, `contracts`, `ycombinator`
 - score: 8
 
-<p><a href="https://www.ycombinator.com/handshake/">This Y Combinator page</a> names 4 example deals:</p>
+[This Y Combinator page](https://www.ycombinator.com/handshake/) names 4 example deals:
 
-<ul>
-<li>$100k at $5 million pre-money.</li>
-<li>$100k at a $5 million cap.</li>
-<li>$100k uncapped.</li>
-<li>$100k uncapped with a %10 discount.</li>
-</ul>
+* $100k at $5 million pre-money.
+* $100k at a $5 million cap.
+* $100k uncapped.
+* $100k uncapped with a %10 discount.
 
-<p>What is the difference between these deals?</p>
-
+What is the difference between these deals?
 
 
 ## Answer 4005
@@ -22,54 +19,45 @@
 - posted by: [demiculus](https://stackexchange.com/users/5264485/demiculus) on 2015-04-14
 - score: 10
 
-<ol>
-<li><p>$100k at $5 million pre-money.</p>
+1.  $100k at $5 million pre-money.
 
-<p>Your company is worth $5M you take $100k now your company is worth $5.1M</p>
+    Your company is worth $5M you take $100k now your company is worth $5.1M
 
-<ul>
-<li>Investor owns 1.96% ($100k at $5.1M valuation)</li>
-<li>You own 98.04% </li>
-</ul></li>
-<li><p>$100k at a $5 million cap.</p>
+    - Investor owns 1.96% ($100k at $5.1M valuation)
+    - You own 98.04% 
 
-<p>You &amp; the investor don't know the value of the company. So the investment doesn't have a % specified yet and the % will be specified on your next round of investment.</p>
+2.  $100k at a $5 million cap.
 
-<p>You get $100k(seed) from investor A at a valuation X which will be determined later.
-If you work meh for 10 months and get series A from investor B $200k at a valuation of $3M.</p>
+    You & the investor don't know the value of the company. So the investment doesn't have a % specified yet and the % will be specified on your next round of investment.
 
-<ul>
-<li>Investor A will own 3.33% ($100k at $3M valuation)</li>
-<li>Investor B will own 6.66% ($200k at $3M valuation)</li>
-<li>You will own 90%</li>
-</ul>
+    You get $100k(seed) from investor A at a valuation X which will be determined later.
+    If you work meh for 10 months and get series A from investor B $200k at a valuation of $3M.
 
-<p>If you work really well and get series A from investor B $1M at a valuation of $10M (you have gone over your cap $5M)</p>
+    - Investor A will own 3.33% ($100k at $3M valuation)
+    - Investor B will own 6.66% ($200k at $3M valuation)
+    - You will own 90%
 
-<ul>
-<li>Investor A will own 2% ($100k at $5M valuation)</li>
-<li>Investor B will own 10% ($1M at $10M valuation)</li>
-<li>You will own 88% </li>
-</ul></li>
-<li><p>$100k uncapped</p>
+    If you work really well and get series A from investor B $1M at a valuation of $10M (you have gone over your cap $5M)
 
-<p>You get $100k from investor A, work for sometime. When you get series A for $900k for $10M valuation.</p>
+    - Investor A will own 2% ($100k at $5M valuation)
+    - Investor B will own 10% ($1M at $10M valuation)
+    - You will own 88% 
 
-<ul>
-<li>Investor A will own 1% ($100k at $10M valuation)</li>
-<li>Investor B will own 9% ($900k at $10M valuation)</li>
-<li>You will own 90%</li>
-</ul></li>
-<li><p>$100k uncapped with a %10 discount.</p>
+3. $100k uncapped
 
-<p>You get $100k from investor A, work for sometime. When you get series A for $900k for $10M valuation.</p>
+    You get $100k from investor A, work for sometime. When you get series A for $900k for $10M valuation.
 
-<ul>
-<li>Investor A will own 1.11% ($100k at $9M valuation)    </li>
-<li>Investor B will own 9% ($900K at $10M valuation) </li>
-<li>You will own 89.89%</li>
-</ul></li>
-</ol>
+    - Investor A will own 1% ($100k at $10M valuation)
+    - Investor B will own 9% ($900k at $10M valuation)
+    - You will own 90%
+
+4. $100k uncapped with a %10 discount.
+
+    You get $100k from investor A, work for sometime. When you get series A for $900k for $10M valuation.
+
+    - Investor A will own 1.11% ($100k at $9M valuation)    
+    - Investor B will own 9% ($900K at $10M valuation) 
+    - You will own 89.89%
 
 
 

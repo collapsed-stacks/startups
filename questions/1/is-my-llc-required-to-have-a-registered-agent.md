@@ -4,12 +4,11 @@
 - tagged: `llc`, `new-hampshire`, `united-states`
 - score: 21
 
-<p>After registering my small LLC, I signed up for a registered agent service because it is required for businesses in New Hampshire. I later heard that a member or manager of an LLC can also serve as a registered agent.</p>
+After registering my small LLC, I signed up for a registered agent service because it is required for businesses in New Hampshire. I later heard that a member or manager of an LLC can also serve as a registered agent.
 
-<p>From reading sites offering these services it seems the main purpose of a registered agent is to receive service of process. That way you won't be embarassed if you are served in front of customers or partners. It's also useful if you can't hold regular business hours. Not having a representative of the company receive service of process could result in your company losing by default.</p>
+From reading sites offering these services it seems the main purpose of a registered agent is to receive service of process. That way you won't be embarassed if you are served in front of customers or partners. It's also useful if you can't hold regular business hours. Not having a representative of the company receive service of process could result in your company losing by default.
 
-<p>I'm not worried about being embarassed in front of customers (it's an online business), but is it really risky to be your own registered agent? Would someone really knock once, fail to serve papers, and not attempt to make any more contact? It seems that it's mostly the registered agent services promoting this mindset, so I'm sure if I should listen to them.</p>
-
+I'm not worried about being embarassed in front of customers (it's an online business), but is it really risky to be your own registered agent? Would someone really knock once, fail to serve papers, and not attempt to make any more contact? It seems that it's mostly the registered agent services promoting this mindset, so I'm sure if I should listen to them.
 
 
 ## Answer 9
@@ -17,10 +16,9 @@
 - posted by: [TJC](https://stackexchange.com/users/1600285/tjc) on 2014-07-30
 - score: 10
 
-<p>A registered agent is only required when you do not have an address in the state you are filing in, OR if you do not want to receive legal documents at your home address.</p>
+A registered agent is only required when you do not have an address in the state you are filing in, OR if you do not want to receive legal documents at your home address.
 
-<p>My internet company has a RA in Delaware because our offices are in MA but we are registered as a Delaware C-Corp. </p>
-
+My internet company has a RA in Delaware because our offices are in MA but we are registered as a Delaware C-Corp. 
 
 
 ## Answer 300

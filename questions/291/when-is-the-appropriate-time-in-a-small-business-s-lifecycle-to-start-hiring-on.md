@@ -4,18 +4,17 @@
 - tagged: `united-states`, `employees`, `growth`
 - score: 12
 
-<p>Speaking more specifically about my situation, I'm a developer with an increasing workload. These days I'm finding myself too busy to even chase new leads. As my reputation seems to be growing, I've had a number of potential clients actively approach me looking for work to be done, but I just don't have the time. However, cash-flow can be inconsistent. Are there any good guidelines that more experienced entrepreneurs have come up with about when is appropriate to make the leap and try to find a business partner to disperse the work? And even beyond that, <em>how</em> to find someone who's willing to work on an uneasy basis? I need, in essence, a hybrid between a freelance contractor and a part-time employee.</p>
+Speaking more specifically about my situation, I'm a developer with an increasing workload. These days I'm finding myself too busy to even chase new leads. As my reputation seems to be growing, I've had a number of potential clients actively approach me looking for work to be done, but I just don't have the time. However, cash-flow can be inconsistent. Are there any good guidelines that more experienced entrepreneurs have come up with about when is appropriate to make the leap and try to find a business partner to disperse the work? And even beyond that, *how* to find someone who's willing to work on an uneasy basis? I need, in essence, a hybrid between a freelance contractor and a part-time employee.
 
-<p>I see lots of questions on here about equity, but equity in a company like mine would be worth very little, at least to start. My company does have a couple of flagship, branded products, but I've so far focused more on the approach of developing and consulting on contract for other startups.</p>
+I see lots of questions on here about equity, but equity in a company like mine would be worth very little, at least to start. My company does have a couple of flagship, branded products, but I've so far focused more on the approach of developing and consulting on contract for other startups.
 
-<p>This question can easily be adapted to a similar situation I've seen a friend go through: he has a business and <em>does</em> have active, part-time employees do work on the side, but is unsure of when to hire a full-time employee to share work with, or even more abstractly, when to start thinking about hiring a marketing person, or someone of a similar profession to cover an aspect of the business that's currently left more or less unaddressed.</p>
+This question can easily be adapted to a similar situation I've seen a friend go through: he has a business and *does* have active, part-time employees do work on the side, but is unsure of when to hire a full-time employee to share work with, or even more abstractly, when to start thinking about hiring a marketing person, or someone of a similar profession to cover an aspect of the business that's currently left more or less unaddressed.
 
-<p>There's a temptation to hold off until I'm in a more financially stable position, but then I fear that waiting could take years, and perhaps being able to accept more work would, in fact, warrant enough stability. It's an indisputable fact that I would be making more money today if I had some help, but I just worry that that might not be the case come a couple months from now.</p>
+There's a temptation to hold off until I'm in a more financially stable position, but then I fear that waiting could take years, and perhaps being able to accept more work would, in fact, warrant enough stability. It's an indisputable fact that I would be making more money today if I had some help, but I just worry that that might not be the case come a couple months from now.
 
-<p>I've also thought about the idea of hiring on a paid or unpaid intern, but that still has some of the same issues behind it.</p>
+I've also thought about the idea of hiring on a paid or unpaid intern, but that still has some of the same issues behind it.
 
-<p>Just for the record, I do have office space. So the mechanics of working as a team wouldn't be disrupted.</p>
-
+Just for the record, I do have office space. So the mechanics of working as a team wouldn't be disrupted.
 
 
 ## Answer 299
@@ -44,12 +43,11 @@
 - posted by: [sendbits](https://stackexchange.com/users/311929/sendbits) on 2014-08-19
 - score: 3
 
-<p>My standard rule on team expansion is based on when the lack of expansion is causing us to lose customers or preventing us from acquiring new customers.</p>
+My standard rule on team expansion is based on when the lack of expansion is causing us to lose customers or preventing us from acquiring new customers.
 
-<p>That guideline can have multiple interpretations. For instance, if you can't develop a critical feature that's preventing you from gaining new customers, perhaps you should temporarily contract a developer. Similarly, if you lack the sales force to actively close deals, that's another good application of the rule.</p>
+That guideline can have multiple interpretations. For instance, if you can't develop a critical feature that's preventing you from gaining new customers, perhaps you should temporarily contract a developer. Similarly, if you lack the sales force to actively close deals, that's another good application of the rule.
 
-<p>Bottom line, determine what growth rate makes sense for your company and hire to meet that growth rate. Also, always have enough staff to sustain a vibrant R&amp;D program.</p>
-
+Bottom line, determine what growth rate makes sense for your company and hire to meet that growth rate. Also, always have enough staff to sustain a vibrant R&D program.
 
 
 ## Answer 3916
@@ -94,20 +92,18 @@
 - posted by: [a20](https://stackexchange.com/users/54595/a20) on 2014-08-11
 - score: 1
 
-<p>If you can handle the risk for 2 months or more, I think that's enough time to get the employee on board, train him/her and figure out if it's working out for the business.</p>
+If you can handle the risk for 2 months or more, I think that's enough time to get the employee on board, train him/her and figure out if it's working out for the business.
 
-<p>Assess your risks:</p>
+Assess your risks:
 
-<ol>
-<li>Mthly cost of hiring the employee + a buffer (2 mths)</li>
-<li>Cost of training the employee - time, money etc. Can I spare that?</li>
-<li>Cost of equipping the employee - best equipment provided or bring your own laptop? Cost to me?</li>
-<li>If the arrangement doesn't work out, notice period etc, how much do I spend?</li>
-<li>Legal stuff - employee tax etc, am I ready to take that on?</li>
-<li>Financial and other costs of hiring a bad employee. Am I prepared for that?</li>
-</ol>
+1. Mthly cost of hiring the employee + a buffer (2 mths)
+2. Cost of training the employee - time, money etc. Can I spare that?
+3. Cost of equipping the employee - best equipment provided or bring your own laptop? Cost to me?
+4. If the arrangement doesn't work out, notice period etc, how much do I spend?
+5. Legal stuff - employee tax etc, am I ready to take that on?
+6. Financial and other costs of hiring a bad employee. Am I prepared for that?
 
-<p>HTH</p>
+HTH
 
 
 
@@ -116,9 +112,8 @@
 - posted by: [Matas Vaitkevicius](https://stackexchange.com/users/1636408/matas-vaitkevicius) on 2014-08-18
 - score: 1
 
-<p>If you can hire someone at such a rate that he will do the work that you can't handle while making the profit to you then I don't see how can you not hire that person. Hiring people is key to successful business as one can only do so much work himself (unless it's one of job and contractors cost more than you would get from clients). On the other hand if type of ignored work does not produce any gains (It would help if you would be more specific here) I do not see why you would spend your time or pay someone to do something of questionable value.<br>
- The bottom line would be '<strong>Yes if it's worth doing</strong>'.</p>
-
+If you can hire someone at such a rate that he will do the work that you can't handle while making the profit to you then I don't see how can you not hire that person. Hiring people is key to successful business as one can only do so much work himself (unless it's one of job and contractors cost more than you would get from clients). On the other hand if type of ignored work does not produce any gains (It would help if you would be more specific here) I do not see why you would spend your time or pay someone to do something of questionable value.  
+ The bottom line would be '**Yes if it's worth doing**'.
 
 
 ## Answer 3914
@@ -126,8 +121,7 @@
 - posted by: [SeanOCVN](https://stackexchange.com/users/6070348/seanocvn) on 2015-04-01
 - score: 0
 
-<p>If you hire someone on the cheap, don't expect it to work out.  If they are good they will be gone in a few months, if they are bad likewise. If you are making the money to pay someone a competitive salary then sure go ahead. It sounds like you can only half afford to pay someone though.</p>
-
+If you hire someone on the cheap, don't expect it to work out.  If they are good they will be gone in a few months, if they are bad likewise. If you are making the money to pay someone a competitive salary then sure go ahead. It sounds like you can only half afford to pay someone though.
 
 
 

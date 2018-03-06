@@ -4,8 +4,7 @@
 - tagged: `llc`, `business-registration`, `new-york`, `delaware`
 - score: 4
 
-<p>I have a Delaware LLC, but I currently live in the NYC area because of my full time job. The LLC was created before I ever got to NYC. What I am trying to do is figure out whether I should get rid of my Delaware LLC and create an NYC LLC or just register my LLC to do business in NYC (while having a virtual office)? Which one is better and why?</p>
-
+I have a Delaware LLC, but I currently live in the NYC area because of my full time job. The LLC was created before I ever got to NYC. What I am trying to do is figure out whether I should get rid of my Delaware LLC and create an NYC LLC or just register my LLC to do business in NYC (while having a virtual office)? Which one is better and why?
 
 
 ## Answer 1031

@@ -4,10 +4,9 @@
 - tagged: `product`, `naming`
 - score: 0
 
-<p>Is there a category name for a company like Dollar Shave Club or Warby Parker? Where they deliver an incumbent product at a better price with a de-emphasis of traditional distribution models. </p>
+Is there a category name for a company like Dollar Shave Club or Warby Parker? Where they deliver an incumbent product at a better price with a de-emphasis of traditional distribution models. 
 
-<p>Similar to "marketplace" for Ebay, Reverb, etc…</p>
-
+Similar to "marketplace" for Ebay, Reverb, etc…
 
 
 ## Answer 9773
@@ -15,8 +14,7 @@
 - posted by: [Desmond](https://stackexchange.com/users/1761262/desmond) on 2016-07-25
 - score: 1
 
-<p>At its core, DSC is a subscription-based business. But more specifically, it could be categorized under the subscription box model.</p>
-
+At its core, DSC is a subscription-based business. But more specifically, it could be categorized under the subscription box model.
 
 
 

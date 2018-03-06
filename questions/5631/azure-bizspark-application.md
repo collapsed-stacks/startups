@@ -4,14 +4,16 @@
 - tagged: `website`, `web-development`, `canada`, `bizspark`
 - score: 2
 
-<p>I want to apply to <a href="https://www.microsoft.com/bizspark/" rel="nofollow noreferrer">BizSpark</a> to get free Azure for 3 years. </p>
+I want to apply to [BizSpark][1] to get free Azure for 3 years. 
 
-<p>Do I need to register a company or can I apply as self-employed? In Canada I can work as self-employed without registration, but on the BizSpark page you should enter company name, email and so on:</p>
+Do I need to register a company or can I apply as self-employed? In Canada I can work as self-employed without registration, but on the BizSpark page you should enter company name, email and so on:
 
-<p><img src="https://i.stack.imgur.com/0mjZm.png" alt="enter image description here"></p>
+![enter image description here][2]
 
-<p>I have project url, but don't have company name.</p>
+I have project url, but don't have company name.
 
+  [1]: https://www.microsoft.com/bizspark/
+  [2]: http://i.stack.imgur.com/0mjZm.png
 
 
 ## Answer 5667
@@ -19,24 +21,19 @@
 - posted by: [Alexan](https://stackexchange.com/users/86534/alexan) on 2015-07-06
 - score: 1
 
-<p>I contacted Microsoft Evangelist and got the following answer:</p>
+I contacted Microsoft Evangelist and got the following answer:
 
-<blockquote>
-  <p>Hi Alex, </p>
-  
-  <p>You don't have to have a company registered.</p>
-</blockquote>
+> Hi Alex, 
+> 
+> You don't have to have a company registered.
 
-<p>They have the following requirements: </p>
+They have the following requirements: 
 
-<blockquote>
-  <p>in order to audit the applications, we ask for a corporate email that
-  matches your domain name, a valid website and a solid Business
-  description.</p>
-</blockquote>
+> in order to audit the applications, we ask for a corporate email that
+> matches your domain name, a valid website and a solid Business
+> description.
 
-<p>I applied and was rejected :(.</p>
-
+I applied and was rejected :(.
 
 
 

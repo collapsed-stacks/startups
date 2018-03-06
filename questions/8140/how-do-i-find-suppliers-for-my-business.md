@@ -4,8 +4,7 @@
 - tagged: `tech-company`, `startup-costs`
 - score: 1
 
-<p>I am planning on producing a product and starting a small tech startup but, I am unsure how to find suppliers for certain parts that I will need in mass quantity; for electronics, ceramics, or metals, that are already designed. What would something like this cost, and how do I find suppliers?</p>
-
+I am planning on producing a product and starting a small tech startup but, I am unsure how to find suppliers for certain parts that I will need in mass quantity; for electronics, ceramics, or metals, that are already designed. What would something like this cost, and how do I find suppliers?
 
 
 ## Answer 8144
@@ -13,16 +12,13 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-12-17
 - score: 3
 
-<blockquote>
-  <p>What would something like this cost, and how do I find suppliers?</p>
-</blockquote>
+> What would something like this cost, and how do I find suppliers?
 
-<p>Cost depends on the goods.</p>
+Cost depends on the goods.
 
-<p>To find suppliers, the usual way is to do some googling, send emails, pick up your telephone, go to trade shows, etc. Ask vendors for suggestions as you do, and a tip or three will eventually get you to the right people.</p>
+To find suppliers, the usual way is to do some googling, send emails, pick up your telephone, go to trade shows, etc. Ask vendors for suggestions as you do, and a tip or three will eventually get you to the right people.
 
-<p>Once you're there, use google to find their competitors using "Foo vs" types of queries.</p>
-
+Once you're there, use google to find their competitors using "Foo vs" types of queries.
 
 
 ## Answer 8182
@@ -30,12 +26,11 @@
 - posted by: [SRDC](https://stackexchange.com/users/5438059/srdc) on 2015-12-24
 - score: 0
 
-<p>Start looking (searching) for industrial suppliers in each area - to get you started, you can try places like ThomasNet (a supplier 'phonebook'), Design2Part (they have a good industry address book by category), and then of course online searches - electronics places like DigiKey are popular, metals are typically better finding a local supplier.</p>
+Start looking (searching) for industrial suppliers in each area - to get you started, you can try places like ThomasNet (a supplier 'phonebook'), Design2Part (they have a good industry address book by category), and then of course online searches - electronics places like DigiKey are popular, metals are typically better finding a local supplier.
 
-<p>Then you can always find a contract manufacturer (using internet search, Design2Part, etc) - be prepared with drawings, specifications, TOLERANCES, etc. ... or they won't take you seriously and can be a bit abrupt. Sometimes a local product design firm can help you (find in phonebook, inventor meetup / incubator, chamber of commerce, internet search, etc).</p>
+Then you can always find a contract manufacturer (using internet search, Design2Part, etc) - be prepared with drawings, specifications, TOLERANCES, etc. ... or they won't take you seriously and can be a bit abrupt. Sometimes a local product design firm can help you (find in phonebook, inventor meetup / incubator, chamber of commerce, internet search, etc).
 
-<p>Like Denis said ... you haven't given anywhere near enough info to begin even getting a ballpark idea on cost.</p>
-
+Like Denis said ... you haven't given anywhere near enough info to begin even getting a ballpark idea on cost.
 
 
 

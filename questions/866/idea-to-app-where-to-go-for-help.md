@@ -4,8 +4,7 @@
 - tagged: `tech-company`, `website`, `pitch`
 - score: 4
 
-<p>I have an idea for a website app that wouldn't necessarily make money but might make waves. How can I find developers and analysts interested in creating cool things so I can pitch my idea to them and find some partners? I only have enough skills to make a basic version and not the nice looking, fully functioning thing we'd want.</p>
-
+I have an idea for a website app that wouldn't necessarily make money but might make waves. How can I find developers and analysts interested in creating cool things so I can pitch my idea to them and find some partners? I only have enough skills to make a basic version and not the nice looking, fully functioning thing we'd want.
 
 
 ## Answer 867
@@ -22,24 +21,29 @@
 - posted by: [Corbin](https://stackexchange.com/users/5129216/corbin) on 2014-10-05
 - score: 2
 
-<p>You could create it yourself? The internet is one heck of a place to learn skills now and there are plenty of sites that will teach you code and what you need to know!</p>
+You could create it yourself? The internet is one heck of a place to learn skills now and there are plenty of sites that will teach you code and what you need to know!
 
-<p>If it's a website based app, an app that's basically just a website, you can use wordpress and one of the many converters now offered to create phone apps out of wordpress sites.</p>
+If it's a website based app, an app that's basically just a website, you can use wordpress and one of the many converters now offered to create phone apps out of wordpress sites.
 
-<p>It may take you an hour a night for 6 months to get the knowledge to be able to develop this app yourself!</p>
+It may take you an hour a night for 6 months to get the knowledge to be able to develop this app yourself!
 
-<p>If this seems like a reasonable idea here are some resources for you:</p>
+If this seems like a reasonable idea here are some resources for you:
 
-<p><strong>Code</strong>
-codecademy.com</p>
+**Code**
+codecademy.com
 
-<p><strong>Wordpress</strong>
+**Wordpress**
 lynda.com
 teamtreehouse.com
-udemy.com</p>
+udemy.com
 
-<p>Hope this helps!</p>
+Hope this helps!
 
+
+  [1]: http://codecademy.com
+  [2]: http://lynda.com
+  [3]: http://teamtreehouse
+  [4]: http://udemy.com
 
 
 ## Answer 874
@@ -71,11 +75,12 @@ udemy.com</p>
 - posted by: [Iunknown](https://stackexchange.com/users/217932/iunknown) on 2014-10-01
 - score: 0
 
-<p>Shipping good software takes someone who knows what they are doing. Everything from Spec writing, use cases, architecture, design, art work, coding, testing, documentation...all of it.  </p>
+Shipping good software takes someone who knows what they are doing. Everything from Spec writing, use cases, architecture, design, art work, coding, testing, documentation...all of it.  
 
-<p>I recommend that you find someone <strong>who's shipped software before</strong> to build it for you.</p>
+I recommend that you find someone **who's shipped software before** to build it for you.
 
-<p>To get this person, you'll need money or be lucky enough to have a friend that can help.</p>
+To get this person, you'll need money or be lucky enough to have a friend that can help.
+
 
 
 

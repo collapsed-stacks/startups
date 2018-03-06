@@ -4,15 +4,14 @@
 - tagged: `open-source`
 - score: 0
 
-<p>I am currently trying to come up with a senior project for college and would like to make something that is marketable to help recoup costs of school and projects.</p>
+I am currently trying to come up with a senior project for college and would like to make something that is marketable to help recoup costs of school and projects.
 
-<p>One of the biggest suggestions I have had throughout college is to not do something that somebody else has already done.</p>
+One of the biggest suggestions I have had throughout college is to not do something that somebody else has already done.
 
-<p>This makes me wonder, what are the barriers on using freely posted code/circuits in a product to be marketed?  It seems it would be wrong to use code posted publicly or open for use and make money off of it.</p>
+This makes me wonder, what are the barriers on using freely posted code/circuits in a product to be marketed?  It seems it would be wrong to use code posted publicly or open for use and make money off of it.
 
-<p>Are there written or unwritten rules on what I can use for a marketable product, how much freely posted code or circuits, a ratio, anything of that sort?
-Code on GitHub usually has releases on it that I could read for that specific topic, but what about blogs or Instructables, or stuff of that type?</p>
-
+Are there written or unwritten rules on what I can use for a marketable product, how much freely posted code or circuits, a ratio, anything of that sort?
+Code on GitHub usually has releases on it that I could read for that specific topic, but what about blogs or Instructables, or stuff of that type?
 
 
 ## Answer 11249
@@ -33,8 +32,7 @@ Code on GitHub usually has releases on it that I could read for that specific to
 - posted by: [BrettFromLA](https://stackexchange.com/users/2813127/brettfromla) on 2016-09-30
 - score: 1
 
-<p>Note that MANY ecommerce websites use free code like JQuery and WordPress. The whole language of PHP is written by someone else but is completely open source and free. As Chiragh Dewan said in his answer, it depends on the license that the developer has claimed for the software (or platform or language).</p>
-
+Note that MANY ecommerce websites use free code like JQuery and WordPress. The whole language of PHP is written by someone else but is completely open source and free. As Chiragh Dewan said in his answer, it depends on the license that the developer has claimed for the software (or platform or language).
 
 
 

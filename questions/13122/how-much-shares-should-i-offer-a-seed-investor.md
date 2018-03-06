@@ -4,20 +4,19 @@
 - tagged: `startup-costs`, `investment`, `investors`, `angel-investors`, `seed`
 - score: 1
 
-<p>We are soon gonna start a website and we will be forming a company before the launch.</p>
+We are soon gonna start a website and we will be forming a company before the launch.
 
-<p>We are a team of two and we both are programmers. We are just passed out students and inorder to start the business, we need some initial funding for hosting, company formation, email marketing and other things. We would require a small sum to start up.</p>
+We are a team of two and we both are programmers. We are just passed out students and inorder to start the business, we need some initial funding for hosting, company formation, email marketing and other things. We would require a small sum to start up.
 
-<p>Anything more will be a boon for us. If we get good amount, we could actually rent a place for office and hire people to work on our code and make it even better before we launch.</p>
+Anything more will be a boon for us. If we get good amount, we could actually rent a place for office and hire people to work on our code and make it even better before we launch.
 
-<p>As we both have spend equal amount of time coding it, we will be having equal parts after what we need to give to the seed investor.</p>
+As we both have spend equal amount of time coding it, we will be having equal parts after what we need to give to the seed investor.
 
-<p>But what % should we give the seed investor?</p>
+But what % should we give the seed investor?
 
-<p>Considering the fact that, if by worst case the idea fails, there is no reimbursement we can give to the investor.</p>
+Considering the fact that, if by worst case the idea fails, there is no reimbursement we can give to the investor.
 
-<p>We have been working on the website since few months, and we are still work in progress. We only intend to raise money when we complete about 80% of our total development for the alpha version of our website, so that we can show our investor that it is not just an idea, but an almost complete website.</p>
-
+We have been working on the website since few months, and we are still work in progress. We only intend to raise money when we complete about 80% of our total development for the alpha version of our website, so that we can show our investor that it is not just an idea, but an almost complete website.
 
 ## No Answers
 

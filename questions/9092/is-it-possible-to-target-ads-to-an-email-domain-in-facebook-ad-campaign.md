@@ -4,8 +4,7 @@
 - tagged: `marketing`, `advertising`
 - score: 2
 
-<p>I am wishing to target Facebook users who have a specific email domain. For example I only want ads to be shown to people with an @funsite.com (just an example). To be clear I do not have any of the full emails, so I do not have the option to just use a list of custom emails.</p>
-
+I am wishing to target Facebook users who have a specific email domain. For example I only want ads to be shown to people with an @funsite.com (just an example). To be clear I do not have any of the full emails, so I do not have the option to just use a list of custom emails.
 
 
 ## Answer 9098

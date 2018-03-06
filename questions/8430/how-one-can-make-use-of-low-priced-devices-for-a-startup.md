@@ -4,9 +4,8 @@
 - tagged: `startup-costs`, `idea`, `low-capital`
 - score: 1
 
-<p>How one can make use of low priced devices (for example Rpi2) for a startup idea? Can we make a complete product with these low priced devices?
-I'm particularly interested to know whether a start-up with low priced device (may be a better idea that incorporated along with the device) can really succeed with market trends or not.</p>
-
+How one can make use of low priced devices (for example Rpi2) for a startup idea? Can we make a complete product with these low priced devices?
+I'm particularly interested to know whether a start-up with low priced device (may be a better idea that incorporated along with the device) can really succeed with market trends or not.
 
 ## No Answers
 

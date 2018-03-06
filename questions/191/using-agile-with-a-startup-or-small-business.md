@@ -4,10 +4,9 @@
 - tagged: `tech-company`, `mobile-apps`, `agile`, `project-management`
 - score: 5
 
-<p>At my small business, the developers have been a using scrum-like, agile development strategy. Since most of us in the company are developers, we've started adding general business tasks to the project board in addition to coding tasks.</p>
+At my small business, the developers have been a using scrum-like, agile development strategy. Since most of us in the company are developers, we've started adding general business tasks to the project board in addition to coding tasks.
 
-<p>We'd like to start using a new board just for these business tasks, so we can better include everyone in the company and separate the business tasks from the coding tasks. Some of the scrum roles such as product-owner don't really fit into this model easily though. Are there any scrum adaptations or other agile methodologies that work well for running a startup or small business?</p>
-
+We'd like to start using a new board just for these business tasks, so we can better include everyone in the company and separate the business tasks from the coding tasks. Some of the scrum roles such as product-owner don't really fit into this model easily though. Are there any scrum adaptations or other agile methodologies that work well for running a startup or small business?
 
 
 ## Answer 199
@@ -42,11 +41,10 @@
 - posted by: [Rick Holstorm](https://stackexchange.com/users/10057164/rick-holstorm) on 2017-01-18
 - score: 1
 
-<p>We use kanban for both our development tasks and general business activities. Some boards combine both, while others are strictly business or deve stuff. It seems to be working perfectly. 
+We use kanban for both our development tasks and general business activities. Some boards combine both, while others are strictly business or deve stuff. It seems to be working perfectly. 
 Also, we don't have a dedicated board manager - as in just one man doing all task creation. All jobs are addded to the backlog and if the manager or anyone else feels there are issues with a task from the backlog - they make a comment on it and the task creator addresses this. This often helps to reduce unnecessary work and to avoid doubled tasks. 
-I've just seen an article on agile adoptions for small companies - take a look, it may also help: <a href="https://kanbantool.com/blog/agile-for-a-small-business" rel="nofollow noreferrer">https://kanbantool.com/blog/agile-for-a-small-business</a>
-My personal opinion is that it's best to try all approaches you think may work and choose a combo of methods and tools that suit your unique business. </p>
-
+I've just seen an article on agile adoptions for small companies - take a look, it may also help: https://kanbantool.com/blog/agile-for-a-small-business
+My personal opinion is that it's best to try all approaches you think may work and choose a combo of methods and tools that suit your unique business. 
 
 
 

@@ -4,15 +4,15 @@
 - tagged: `stock`, `data`
 - score: 0
 
-<p>There are many stock trading apps that provide free stock price quotes.</p>
+There are many stock trading apps that provide free stock price quotes.
 
-<p>I am developing a stock app but find that it is very expensive to get the stock price data from the Australian Stock Exchange.</p>
+I am developing a stock app but find that it is very expensive to get the stock price data from the Australian Stock Exchange.
 
-<p>I don't think the free apps pay for the stock price quotes as they are offering the stock apps for free.</p>
+I don't think the free apps pay for the stock price quotes as they are offering the stock apps for free.
 
-<p>Can anyone tell me how I can get free access to stock price data for my app?</p>
+Can anyone tell me how I can get free access to stock price data for my app?
 
-<p>Let me know.</p>
+Let me know.
 
 
 

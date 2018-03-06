@@ -4,7 +4,7 @@
 - tagged: `business-registration`
 - score: 0
 
-<p>When applying for business licenses do you need to get a license in every county/city you do business even without physical locations. My business is only a service business and would have no physical presence in other counties and cities... Do I still need to pay their licenses?</p>
+When applying for business licenses do you need to get a license in every county/city you do business even without physical locations. My business is only a service business and would have no physical presence in other counties and cities... Do I still need to pay their licenses?
 
 
 
@@ -13,16 +13,16 @@
 - posted by: [zazaalaza](https://stackexchange.com/users/4672194/zazaalaza) on 2017-01-14
 - score: 1
 
-<p>No.</p>
+No.
 
-<p>However if you have customers in the European Union you have to be aware of the VAT compliance rules.</p>
+However if you have customers in the European Union you have to be aware of the VAT compliance rules.
 
-<p>The gist of the issue is that the tax on your product should go to the country you sold your service or product to. </p>
+The gist of the issue is that the tax on your product should go to the country you sold your service or product to. 
 
-<p>Majority of businesses still ignore this rule as it is very hard for the EU to go after companies outside of their borders.</p>
+Majority of businesses still ignore this rule as it is very hard for the EU to go after companies outside of their borders.
 
-<p>More info here:
-<a href="https://ec.europa.eu/growth/tools-databases/dem/watify/selling-online/how-can-i-comply-vat-obligations?language=en" rel="nofollow noreferrer">https://ec.europa.eu/growth/tools-databases/dem/watify/selling-online/how-can-i-comply-vat-obligations?language=en</a></p>
+More info here:
+https://ec.europa.eu/growth/tools-databases/dem/watify/selling-online/how-can-i-comply-vat-obligations?language=en
 
 
 

@@ -4,7 +4,7 @@
 - tagged: `software`
 - score: -1
 
-<p>Im developing a Web+iOS app called <strong>Newtonian</strong>,yet I am very confused in which direction I should proceed in.First of all,I need some back-end devs up with me to develop the app,yet I have no contacts.Also,besides hiring the right people,Newtonian also needs lots of professional equipment(think Radon Gas detectors,Seismometers),etc.What should I do?</p>
+Im developing a Web+iOS app called **Newtonian**,yet I am very confused in which direction I should proceed in.First of all,I need some back-end devs up with me to develop the app,yet I have no contacts.Also,besides hiring the right people,Newtonian also needs lots of professional equipment(think Radon Gas detectors,Seismometers),etc.What should I do?
 
 
 

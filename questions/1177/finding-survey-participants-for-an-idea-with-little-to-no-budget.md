@@ -4,10 +4,9 @@
 - tagged: `marketing`, `market-research`
 - score: 4
 
-<p>I recently graduated college and finally decided to pursue an idea I've had for awhile. I created a survey in Google and have been using my friends and their friends as my pool of respondents. I'm looking for at least 100 responses, but so far, my contacts have only yielded about 30 responses. I've looked into some of the paid survey resources online, such as Google surveys and SurveyMonkey, but I really don't have a lot of money to pay people. </p>
+I recently graduated college and finally decided to pursue an idea I've had for awhile. I created a survey in Google and have been using my friends and their friends as my pool of respondents. I'm looking for at least 100 responses, but so far, my contacts have only yielded about 30 responses. I've looked into some of the paid survey resources online, such as Google surveys and SurveyMonkey, but I really don't have a lot of money to pay people. 
 
-<p>What can I do, with little to no budget, to find more participants for my survey? </p>
-
+What can I do, with little to no budget, to find more participants for my survey? 
 
 
 ## Answer 1180
@@ -15,14 +14,13 @@
 - posted by: [Jeremy Parsons](https://stackexchange.com/users/497810/jeremy-parsons) on 2014-10-28
 - score: 5
 
-<p>Two words: <strong>follow up</strong>. Your friends, and their friends, mean well, but they're busy. So an invitation, a friendly reminder, a progress update, a request for help - everything you can do to nudge without getting spammy will tip your responses up a little. 30 responses is a good start, and you can probably get near or past your 100 target. If people are positive but don't follow through, call them and fill their responses in for them.</p>
+Two words: **follow up**. Your friends, and their friends, mean well, but they're busy. So an invitation, a friendly reminder, a progress update, a request for help - everything you can do to nudge without getting spammy will tip your responses up a little. 30 responses is a good start, and you can probably get near or past your 100 target. If people are positive but don't follow through, call them and fill their responses in for them.
 
-<p>However, it's possible that your survey itself is the problem. Have you made it too long? Is it confusing? Have you made it clear whether it's named or anonymous? Have you spelled out a "no spam" promise?</p>
+However, it's possible that your survey itself is the problem. Have you made it too long? Is it confusing? Have you made it clear whether it's named or anonymous? Have you spelled out a "no spam" promise?
 
-<p>So first, go through your survey super carefully, and be critical. It might be worth breaking it up into a one page, 1-3 question form that is asking people whether they're willing to help, and then another that goes just to people who respond positively.</p>
+So first, go through your survey super carefully, and be critical. It might be worth breaking it up into a one page, 1-3 question form that is asking people whether they're willing to help, and then another that goes just to people who respond positively.
 
-<p>There are plenty of other ways to get surveys out there, further out into your social networks. So invest a little more time with the first target group, both to push the responses up and to refine the survey to reduce attrition between good intentions and completion. Then take the improved survey out via LinkedIn, Twitter and the rest. You'll get there.</p>
-
+There are plenty of other ways to get surveys out there, further out into your social networks. So invest a little more time with the first target group, both to push the responses up and to refine the survey to reduce attrition between good intentions and completion. Then take the improved survey out via LinkedIn, Twitter and the rest. You'll get there.
 
 
 ## Answer 1179
@@ -30,10 +28,9 @@
 - posted by: [Nick Wilde](https://stackexchange.com/users/454046/nick-wilde) on 2014-10-28
 - score: 2
 
-<p>There are many places that you can advertise with no charge. What places would actually yield you results of course depends on what the idea is. Facebook groups, forums, LinkedIn groups all <em>may</em> be ideal. You should make sure that posting advertising/advertising type posts would not be against the TOC/forum/group rules especially since in some places that is a banning offense. </p>
+There are many places that you can advertise with no charge. What places would actually yield you results of course depends on what the idea is. Facebook groups, forums, LinkedIn groups all *may* be ideal. You should make sure that posting advertising/advertising type posts would not be against the TOC/forum/group rules especially since in some places that is a banning offense. 
 
-<p>Those same places are also great for getting deeper involvement/knowledge/networking with your target audience and or fellow businesses which can lead to benefits.</p>
-
+Those same places are also great for getting deeper involvement/knowledge/networking with your target audience and or fellow businesses which can lead to benefits.
 
 
 ## Answer 1182
@@ -54,15 +51,12 @@
 - posted by: [DP_](https://stackexchange.com/users/171799/dp) on 2014-10-29
 - score: 0
 
-<p>You may offer your respondents something useful (incentive) in return for participating in the survey.</p>
+You may offer your respondents something useful (incentive) in return for participating in the survey.
 
-<p>Two obvious things, which you could give them are </p>
+Two obvious things, which you could give them are 
 
-<ol>
-<li>the results of the survey (sometimes people are interested in how their answer relate to the average person in the group) or</li>
-<li>some piece of content, which you can easily produce or find, and which is useful to your target audience.</li>
-</ol>
-
+  1. the results of the survey (sometimes people are interested in how their answer relate to the average person in the group) or
+  1. some piece of content, which you can easily produce or find, and which is useful to your target audience.
 
 
 

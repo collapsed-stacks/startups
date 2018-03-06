@@ -4,21 +4,30 @@
 - tagged: `legal`, `tech-company`, `equity`, `vesting`
 - score: 2
 
-<p><strong>TLDR; built an app, business co-founder wants to start a new app right when I just built the MVP, didnt sign equity, no pay, don't know what future steps to make</strong></p>
+**TLDR; built an app, business co-founder wants to start a new app right when I just built the MVP, didnt sign equity, no pay, don't know what future steps to make**
 
-<p>So I'm a bit dumb in a sense. I'm working on a startup with a business partner and I'm the only developer and he thought of the idea. He was introduced by a friend. </p>
+So I'm a bit dumb in a sense. I'm working on a startup with a business partner and I'm the only developer and he thought of the idea. He was introduced by a friend. 
 
-<p>When summer started I didn't feel right to ask for signed equity right away because I didn't know if I could fully build the app. Fast forward a month and a half later I was able to build it. Right when I finish the MVP he said he was interested in another idea he came up with and asked if I was interested in building the app for that. </p>
+When summer started I didn't feel right to ask for signed equity right away because I didn't know if I could fully build the app. Fast forward a month and a half later I was able to build it. Right when I finish the MVP he said he was interested in another idea he came up with and asked if I was interested in building the app for that. 
 
-<p>Essentially my job was to build the app, his was to grab businesses and users. Turns out he thought of the new idea because he thinks it's "easier to grab users and businesses" which I'm kind of disappointed at this point because he told me before building the app that lots of businesses he talked to were interested in the first app.</p>
+Essentially my job was to build the app, his was to grab businesses and users. Turns out he thought of the new idea because he thinks it's "easier to grab users and businesses" which I'm kind of disappointed at this point because he told me before building the app that lots of businesses he talked to were interested in the first app.
 
-<p>So. I told him I was not interested in creating a new app without launching the first app. He said he wanted to build two apps so he can see which one grows faster -_-. </p>
 
-<p>At this point I just feel kind of jerked around. This isn't my first time trying to start a personal project so I know how hard it is to start a startup, and the possibility of failure. The first idea is good or I wouldn't have joined or worked for free, but it's basically his first time so I think he's just overly optimistic ( he's a good guy ). </p>
 
-<p>He's offering to pay me for the second app to be built, but we haven't signed the equity for the first app. So I was looking into vesting, because at this point his focus is divided between two apps and if one app launches I don't know if he'll just leave. </p>
+So. I told him I was not interested in creating a new app without launching the first app. He said he wanted to build two apps so he can see which one grows faster -_-. 
 
-<p>I don't want to make this too long, but there are two other members (sales and data analyst) who haven't really worked on the startup because obviously the app has to be made before they can fulfill their roles. So overall I basically spent the most time on the startup so far, and I don't know how to make it fair for all of us</p>
+At this point I just feel kind of jerked around. This isn't my first time trying to start a personal project so I know how hard it is to start a startup, and the possibility of failure. The first idea is good or I wouldn't have joined or worked for free, but it's basically his first time so I think he's just overly optimistic ( he's a good guy ). 
+
+He's offering to pay me for the second app to be built, but we haven't signed the equity for the first app. So I was looking into vesting, because at this point his focus is divided between two apps and if one app launches I don't know if he'll just leave. 
+
+I don't want to make this too long, but there are two other members (sales and data analyst) who haven't really worked on the startup because obviously the app has to be made before they can fulfill their roles. So overall I basically spent the most time on the startup so far, and I don't know how to make it fair for all of us
+
+ 
+
+
+
+
+
 
 
 

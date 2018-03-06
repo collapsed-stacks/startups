@@ -4,8 +4,7 @@
 - tagged: `legal`, `e-commerce`, `germany`
 - score: 1
 
-<p>Is it necessary to provide legal information in German if one runs an online shop based in Germany, but mainly ships to foreign countries?</p>
-
+Is it necessary to provide legal information in German if one runs an online shop based in Germany, but mainly ships to foreign countries?
 
 
 ## Answer 11117
@@ -13,20 +12,19 @@
 - posted by: [Alari Truuts](https://stackexchange.com/users/5357302/alari-truuts) on 2016-09-12
 - score: 1
 
-<p>Writing what I commented also here as an answer.</p>
+Writing what I commented also here as an answer.
 
-<p>What was meant by the question is, whether the terms and conditions have to be provided in German, when an online shop is based in Germany.</p>
+What was meant by the question is, whether the terms and conditions have to be provided in German, when an online shop is based in Germany.
 
-<p>The answer:</p>
+The answer:
 
-<p>Common internet law dictates that all legal agreements (such as terms and conditions) have to be made available to understand to your users. If you provide a website only in English and no translations, you have the right to assume, that your website is intended for people, who speak English and hence your users will understand English terms or any other agreement.</p>
+Common internet law dictates that all legal agreements (such as terms and conditions) have to be made available to understand to your users. If you provide a website only in English and no translations, you have the right to assume, that your website is intended for people, who speak English and hence your users will understand English terms or any other agreement.
 
-<p>For every translation you enable for your multilingual site, you also have to provide the legal materials along with that language (but I'd assume this goes along with any translation anyway)</p>
+For every translation you enable for your multilingual site, you also have to provide the legal materials along with that language (but I'd assume this goes along with any translation anyway)
 
-<p>Conclusion: For every translation you make, translate the Terms along, and you'll stay clear of any legal problems :)</p>
+Conclusion: For every translation you make, translate the Terms along, and you'll stay clear of any legal problems :)
 
-<p>Cheers!</p>
-
+Cheers!
 
 
 ## Answer 11101
@@ -34,8 +32,7 @@
 - posted by: [Craig](https://stackexchange.com/users/4487973/craig) on 2016-09-08
 - score: 0
 
-<p>"Mainly" suggests you still ship within Germany. So if it's a legal requirement then I would lean towards yes.</p>
-
+"Mainly" suggests you still ship within Germany. So if it's a legal requirement then I would lean towards yes.
 
 
 

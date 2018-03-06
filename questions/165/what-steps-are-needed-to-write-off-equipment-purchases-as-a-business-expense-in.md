@@ -4,13 +4,10 @@
 - tagged: `united-states`, `taxes`
 - score: 9
 
-<p>I've found <a href="http://www.irs.gov/publications/p535/index.html" rel="nofollow">this IRS document</a> that provides a lot of details on business expenses, but didn't find the following information after skimming through it.</p>
+I've found [this IRS document](http://www.irs.gov/publications/p535/index.html) that provides a lot of details on business expenses, but didn't find the following information after skimming through it.
 
-<ul>
-<li>Is any paperwork required before purchase?</li>
-<li>Is it necessary to have the business registered before making a qualified purchase? For example, would a development computer purchased before officially forming the business retroactively qualify?</li>
-</ul>
-
+* Is any paperwork required before purchase?
+* Is it necessary to have the business registered before making a qualified purchase? For example, would a development computer purchased before officially forming the business retroactively qualify?
 
 
 ## Answer 167

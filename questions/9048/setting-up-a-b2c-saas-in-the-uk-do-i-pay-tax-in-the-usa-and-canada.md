@@ -4,11 +4,11 @@
 - tagged: `tech-company`, `saas`, `tax-structure`
 - score: 1
 
-<p>I'll be setting up a B2C SaaS system in the coming months, and only really offering it to those who live in the USA, Canada or the UK.</p>
+I'll be setting up a B2C SaaS system in the coming months, and only really offering it to those who live in the USA, Canada or the UK.
 
-<p>I understand paying tax here in the UK on my earnings, but what about the earnings from people living in the USA and/or Canada?</p>
+I understand paying tax here in the UK on my earnings, but what about the earnings from people living in the USA and/or Canada?
 
-<p>I have tried Googling this but I didn't really find any information that was helpful.</p>
+I have tried Googling this but I didn't really find any information that was helpful.
 
 
 
@@ -17,15 +17,16 @@
 - posted by: [Alari Truuts](https://stackexchange.com/users/5357302/alari-truuts) on 2016-04-27
 - score: 1
 
-<p>If you're talking about VAT, then UK being in European Economic Area and USA not, means you can sell products and services to companies and customers outside of EEA tax-free 0% VAT and they are usually reliable for declaring the taxes themselves.</p>
+If you're talking about VAT, then UK being in European Economic Area and USA not, means you can sell products and services to companies and customers outside of EEA tax-free 0% VAT and they are usually reliable for declaring the taxes themselves.
 
-<p>This is a great UK specific article: <a href="https://www.gov.uk/online-and-distance-selling-for-businesses/selling-overseas" rel="nofollow">https://www.gov.uk/online-and-distance-selling-for-businesses/selling-overseas</a></p>
+This is a great UK specific article: https://www.gov.uk/online-and-distance-selling-for-businesses/selling-overseas
 
-<p>However if you sell to customers in other EU countries, then due to a recent tax scheme change it's a bit more complicated and you basically have to work with a system allowing you to pay the VAT to the customers residence country.</p>
+ However if you sell to customers in other EU countries, then due to a recent tax scheme change it's a bit more complicated and you basically have to work with a system allowing you to pay the VAT to the customers residence country.
 
-<p>See also:</p>
+See also:
 
-<p><a href="http://www.forbes.com/sites/janetnovack/2014/05/15/european-vat-10-things-online-sellers-need-to-know-about-taxes-on-digital-goods-and-services/#7dc6636c4290" rel="nofollow">http://www.forbes.com/sites/janetnovack/2014/05/15/european-vat-10-things-online-sellers-need-to-know-about-taxes-on-digital-goods-and-services/#7dc6636c4290</a></p>
+http://www.forbes.com/sites/janetnovack/2014/05/15/european-vat-10-things-online-sellers-need-to-know-about-taxes-on-digital-goods-and-services/#7dc6636c4290
+
 
 
 

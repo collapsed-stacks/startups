@@ -4,18 +4,19 @@
 - tagged: `website`, `software`, `product`, `web-development`
 - score: 4
 
-<p>we are a software company which has successfully build a doctors-software for Mac- and iOS and we are looking to enhance the learning curve of our new customers in a intuitive/effective/self-teaching manner.</p>
+we are a software company which has successfully build a doctors-software for Mac- and iOS and we are looking to enhance the learning curve of our new customers in a intuitive/effective/self-teaching manner.
 
-<p>We are looking for a service where we can provide video-courses, interactive-walkthroughs (click one of the links on <a href="https://university.atlassian.com/uac/2.0/courses/end-user/confluence/v50" rel="nofollow">https://university.atlassian.com/uac/2.0/courses/end-user/confluence/v50</a> to see what I mean) and helpful documents. The sofware-solution should meet several other requirements:</p>
+We are looking for a service where we can provide video-courses, interactive-walkthroughs (click one of the links on https://university.atlassian.com/uac/2.0/courses/end-user/confluence/v50 to see what I mean) and helpful documents. The sofware-solution should meet several other requirements:
 
-<ul>
-<li>Browser-based </li>
-<li>Clean/Modern and slightly-customizable UI</li>
-<li>We would be best suited with a self-hosted service which is open-source or paid once.</li>
-<li>Optional: Supervisor accounts for team leaders which can keep track of the progress of their employees. </li>
-</ul>
+ - Browser-based 
+ - Clean/Modern and slightly-customizable UI
+ - We would be best suited with a self-hosted service which is open-source or paid once.
+ - Optional: Supervisor accounts for team leaders which can keep track of the progress of their employees. 
 
-<p>Thanks for every link and other hints in advance, Dennis</p>
+
+Thanks for every link and other hints in advance, Dennis
+
+ 
 
 
 

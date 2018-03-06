@@ -4,10 +4,9 @@
 - tagged: `business-plan`, `b2b`, `e-commerce`
 - score: 2
 
-<p>I am planning to open a eCommerce site. I am looking for any good resource on how to negotiate / contract with the wholesalers so that I can offer free shipping.</p>
+I am planning to open a eCommerce site. I am looking for any good resource on how to negotiate / contract with the wholesalers so that I can offer free shipping.
 
-<p>is there any specific business model or are there any consulting companies which help in accomplishing this?</p>
-
+is there any specific business model or are there any consulting companies which help in accomplishing this?
 
 
 ## Answer 619

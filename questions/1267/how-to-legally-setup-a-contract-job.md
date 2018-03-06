@@ -4,12 +4,11 @@
 - tagged: `contracts`, `contractors`
 - score: 2
 
-<p>I want to make some tutorial video. For the context, I can handle them. However, I am not a native speaker. I want to find a person to use his/her voice in the video. At this point, I  think it will take 6 hours for me to teach the person the context of the tutorial video and another 6 hours for him/her to present the context, so that I can record it.</p>
+I want to make some tutorial video. For the context, I can handle them. However, I am not a native speaker. I want to find a person to use his/her voice in the video. At this point, I  think it will take 6 hours for me to teach the person the context of the tutorial video and another 6 hours for him/her to present the context, so that I can record it.
 
-<p>However, I don't know exactly the amount of time. I could not easily judge a person of his/her ability of learning at the 1st time we meet. At the same time, I don't want that he/she only finish the half of the project. If I only paid to pay $120 for the whole project and it takes more than 20 hours to finish, how I can protect the whole project would fall into my budget? Can I set up a contact with a person for $120 to get everything done? Even if he/she needs to spend 20 hours, I don't need to worry about the minimum wage in California? </p>
+However, I don't know exactly the amount of time. I could not easily judge a person of his/her ability of learning at the 1st time we meet. At the same time, I don't want that he/she only finish the half of the project. If I only paid to pay $120 for the whole project and it takes more than 20 hours to finish, how I can protect the whole project would fall into my budget? Can I set up a contact with a person for $120 to get everything done? Even if he/she needs to spend 20 hours, I don't need to worry about the minimum wage in California? 
 
-<p>Note: I do NOT have a company</p>
-
+Note: I do NOT have a company
 
 
 ## Answer 1310

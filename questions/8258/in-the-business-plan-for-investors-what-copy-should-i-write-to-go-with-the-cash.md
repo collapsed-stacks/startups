@@ -4,10 +4,9 @@
 - tagged: `business-plan`, `investors`
 - score: 2
 
-<p>I'm in the process of finalising my Business plan before seeing investors. I've done the financial forecast spreadsheet and now, I need to add it into my business plan.</p>
+I'm in the process of finalising my Business plan before seeing investors. I've done the financial forecast spreadsheet and now, I need to add it into my business plan.
 
-<p>All the examples I've seen show a table and a chart, none with any descriptive text. Are there any recommendations regarding what I should write?</p>
-
+All the examples I've seen show a table and a chart, none with any descriptive text. Are there any recommendations regarding what I should write?
 
 
 ## Answer 8267
@@ -15,28 +14,27 @@
 - posted by: [Mruf](https://stackexchange.com/users/3246202/mruf) on 2016-01-05
 - score: 1
 
-<p>First thing is: Which kind of investor do you want to adress?</p>
+First thing is: Which kind of investor do you want to adress?
 
-<p>Business Angels, Accelerators, VC's etc.?</p>
+Business Angels, Accelerators, VC's etc.?
 
-<p>Second thing is: What stage is you business in?</p>
+Second thing is: What stage is you business in?
 
-<p>Seed, prototype, first revenues etc.?</p>
+Seed, prototype, first revenues etc.?
 
-<p>Metrics without experience are just assumptions and that's the point. Depending on the uncertainties and risks you should prepare corresponding numbers. Graphs should be easy comprehensible and always be explained afterwards.</p>
+Metrics without experience are just assumptions and that's the point. Depending on the uncertainties and risks you should prepare corresponding numbers. Graphs should be easy comprehensible and always be explained afterwards.
 
-<p>At the early stages, a very simple P&amp;L with reasonable arguments should be enough. But what about later on?</p>
+At the early stages, a very simple P&L with reasonable arguments should be enough. But what about later on?
 
-<p>Well, this topic is always a bit tricky. It's very depended on the marketed you are in. You prepared a long statement on how to realize your idea. Now you need to emphasis your financial needs and some kind of value proposition for your investors.</p>
+Well, this topic is always a bit tricky. It's very depended on the marketed you are in. You prepared a long statement on how to realize your idea. Now you need to emphasis your financial needs and some kind of value proposition for your investors.
 
-<p>Let's say you build up an community: "If we invest 100.000€ our community will grow at rate X, with each member increasing the value of our company by Y. By year Z, we should reach a company value of J." May add a graph with shows the value growth corresponding to the community growth.</p>
+Let's say you build up an community: "If we invest 100.000€ our community will grow at rate X, with each member increasing the value of our company by Y. By year Z, we should reach a company value of J." May add a graph with shows the value growth corresponding to the community growth.
 
-<p>VC's want to exit on a certain point, so they like to read something about: "On Exit Date the company has a value of X. Revenues will be reinvested.". May add some values and information on milestones. Growth and scalability are the driving factors.</p>
+VC's want to exit on a certain point, so they like to read something about: "On Exit Date the company has a value of X. Revenues will be reinvested.". May add some values and information on milestones. Growth and scalability are the driving factors.
 
-<p>So again, it depends on the investor you adress and in which stage you are.</p>
+So again, it depends on the investor you adress and in which stage you are.
 
-<p>Does this answer your question? If not feel free to ask.</p>
-
+Does this answer your question? If not feel free to ask.
 
 
 

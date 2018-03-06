@@ -4,14 +4,13 @@
 - tagged: `customer-development`
 - score: 2
 
-<p>So today I did soft launch of my SaaS tool by sending out to my mailing list.</p>
+So today I did soft launch of my SaaS tool by sending out to my mailing list.
 
-<p>36 opens (36% open rate). 18 clicks. 13 people signed up from older mailing list. 1 engaged.</p>
+36 opens (36% open rate). 18 clicks. 13 people signed up from older mailing list. 1 engaged.
 
-<p>21 opens (50% open rate). 11 clicks. 8 people signed up from latest mailing list. 4 engaged.</p>
+21 opens (50% open rate). 11 clicks. 8 people signed up from latest mailing list. 4 engaged.
 
-<p>However, even the engagement was short lasting, after they created some jobs, they stopped. What is my next move here? I already emailed them to see if they need any help. Am I approaching this problem right?</p>
-
+However, even the engagement was short lasting, after they created some jobs, they stopped. What is my next move here? I already emailed them to see if they need any help. Am I approaching this problem right?
 
 
 ## Answer 750

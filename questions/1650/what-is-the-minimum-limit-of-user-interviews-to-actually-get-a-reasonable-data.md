@@ -4,18 +4,17 @@
 - tagged: `human-resources`
 - score: 3
 
-<p>For a mobile app social network
-like swarm or instagram, we are interviewing a bunch of people.</p>
+For a mobile app social network
+like swarm or instagram, we are interviewing a bunch of people.
 
-<p>To understand what our product is, which customer segment does it address, is the idea a need or does it need pivot etc.</p>
+To understand what our product is, which customer segment does it address, is the idea a need or does it need pivot etc.
 
-<p>To answer such questions what is the minimum limit of interviews should one make? </p>
+To answer such questions what is the minimum limit of interviews should one make? 
 
-<p>There are two criteria which I'm looking.</p>
+There are two criteria which I'm looking.
 
-<p>1 - How different should the groups be?   (Engineers, high school students, university students, gamers etc.)<br>
-2 - How many people will represent the general idea of that group?</p>
-
+1 - How different should the groups be?   (Engineers, high school students, university students, gamers etc.)   
+2 - How many people will represent the general idea of that group?
 
 ## No Answers
 

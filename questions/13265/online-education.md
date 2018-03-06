@@ -4,10 +4,9 @@
 - tagged: `education`
 - score: 1
 
-<p>What are the prerequisites for offering online education services using specific software? Can I offer online courses with a student software version or do I need a specific version?</p>
+What are the prerequisites for offering online education services using specific software? Can I offer online courses with a student software version or do I need a specific version?
 
-<p>I think this depends a lot on the type of software, but in general, what information should I look for?</p>
-
+I think this depends a lot on the type of software, but in general, what information should I look for?
 
 ## No Answers
 

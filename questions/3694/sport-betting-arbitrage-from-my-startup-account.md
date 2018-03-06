@@ -4,17 +4,20 @@
 - tagged: `legal`, `cashflow`
 - score: 2
 
-<p>I have some spare cash in my startup company account. I would like to generate some yield by doing <a href="http://en.wikipedia.org/wiki/Arbitrage_betting" rel="nofollow">sport betting arbitrage</a>. (<em>Please note that sport betting arbitrage is different from gambling as you make a profit regardless of the outcome</em>)</p>
+I have some spare cash in my startup company account. I would like to generate some yield by doing [sport betting arbitrage][1]. (*Please note that sport betting arbitrage is different from gambling as you make a profit regardless of the outcome*)
 
-<p>The activity involves:</p>
+The activity involves:
 
-<ol>
-<li>Opening different accounts in the sport betting sites in my name, as they don't allow to put them in the company name</li>
-<li>Transfer the money from my company account, to an intermediate e-wallet company, where I have an account at the company name</li>
-<li>Transfer the money from e-wallet company to the betting websites (which are in my personal name), and all the profits back to e-wallet company and to my company account</li>
-</ol>
+ 1. Opening different accounts in the sport betting sites in my name, as they don't allow to put them in the company name
+ 2. Transfer the money from my company account, to an intermediate e-wallet company, where I have an account at the company name
+ 3. Transfer the money from e-wallet company to the betting websites (which are in my personal name), and all the profits back to e-wallet company and to my company account
 
-<p><strong>My company is in UK</strong>. I was wondering if there is any issue in doing that from a legal perspective, <strong><em>and if there is, how to do it legally.</em></strong></p>
+**My company is in UK**. I was wondering if there is any issue in doing that from a legal perspective, ***and if there is, how to do it legally.***
+
+
+
+
+  [1]: http://en.wikipedia.org/wiki/Arbitrage_betting
 
 
 
@@ -23,9 +26,9 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-03-10
 - score: 2
 
-<p>Pay yourself, and bet your own cash.</p>
+Pay yourself, and bet your own cash.
 
-<p>Legally, what you described looks suspiciously like it may fall under "misuse of company assets" -- which can basically land you with a fine if a taxman or an investor looks into the gory details.</p>
+Legally, what you described looks suspiciously like it may fall under "misuse of company assets" -- which can basically land you with a fine if a taxman or an investor looks into the gory details.
 
 
 
@@ -34,16 +37,15 @@
 - posted by: [a20](https://stackexchange.com/users/54595/a20) on 2015-03-11
 - score: 2
 
-<p>In the worst case scenario, you could become target for investigation as a gambling addict who misappropriated company funds. </p>
+In the worst case scenario, you could become target for investigation as a gambling addict who misappropriated company funds. 
 
-<p>To avoid this, be explicitly authorised by the company to place bets - e.g "Gaming accounts manager". </p>
+To avoid this, be explicitly authorised by the company to place bets - e.g "Gaming accounts manager". 
 
-<p>This would allow you to place under your name but you could track emails, payments etc properly back to the company. </p>
+This would allow you to place under your name but you could track emails, payments etc properly back to the company. 
 
-<p>Secondly, research on laws regarding gambling as corporate investment in the UK.</p>
+Secondly, research on laws regarding gambling as corporate investment in the UK.
 
-<p>Finally, a bit of personal advice - gambling is addictive and insanely risky. Do you have a plan and discipline for cutting losses when you incur them? I suggest you don't risk your company money and your reputation in gambling at all. Rather you could check out stock market or invest in other companies.</p>
-
+Finally, a bit of personal advice - gambling is addictive and insanely risky. Do you have a plan and discipline for cutting losses when you incur them? I suggest you don't risk your company money and your reputation in gambling at all. Rather you could check out stock market or invest in other companies.
 
 
 ## Answer 3707

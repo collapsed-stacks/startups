@@ -4,10 +4,9 @@
 - tagged: `investment`
 - score: 0
 
-<p>It's quite confusing. Investor invests money in the startups in order to get some profits. But how do they get profit.
+It's quite confusing. Investor invests money in the startups in order to get some profits. But how do they get profit.
 There are very low profits for a startup in the beginning. Supposing a small start-up  is made $100 profit in one month.
-Will investor get some part from this?</p>
-
+Will investor get some part from this?
 
 
 ## Answer 13329
@@ -15,12 +14,11 @@ Will investor get some part from this?</p>
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2017-09-13
 - score: 1
 
-<p>That depends on what the shareholders decide.</p>
+That depends on what the shareholders decide.
 
-<p>At the end of each fiscal period, shareholders must agree on what to do with the surplus money (assuming any). They can decide to keep in the company so it has larger cash reserves, or to distribute it to themselves as a dividend.</p>
+At the end of each fiscal period, shareholders must agree on what to do with the surplus money (assuming any). They can decide to keep in the company so it has larger cash reserves, or to distribute it to themselves as a dividend.
 
-<p>The shareholders cast a vote to make the decision itself. In its simplest form shareholders get one vote per share. But there are quite a few other scenarios in the wild. Some classes of shares could carry more voting weight than others, or even have no votes at all.</p>
-
+The shareholders cast a vote to make the decision itself. In its simplest form shareholders get one vote per share. But there are quite a few other scenarios in the wild. Some classes of shares could carry more voting weight than others, or even have no votes at all.
 
 
 ## Answer 13334
@@ -28,19 +26,16 @@ Will investor get some part from this?</p>
 - posted by: [BrettFromLA](https://stackexchange.com/users/2813127/brettfromla) on 2017-09-13
 - score: 1
 
-<p>I agree with Denis de Bernardy, and he probably has more real-life experience than I do. But I have also seen that you can create a variety of different "deals" with investors. For example:</p>
+I agree with Denis de Bernardy, and he probably has more real-life experience than I do. But I have also seen that you can create a variety of different "deals" with investors. For example:
 
-<ul>
-<li>They might take a percentage of sales.</li>
-<li>They might take a percentage of profits.</li>
-<li>The investor might get 100% of profits until their original investment is paid off, after which they continue to get a small percentage of profits.</li>
-<li>Or the deal might be that the investor takes no money until the business has been active for some period of time, like 6 months, after which the investor gets a percentage of sales or profits.</li>
-</ul>
+ - They might take a percentage of sales.
+ - They might take a percentage of profits.
+ - The investor might get 100% of profits until their original investment is paid off, after which they continue to get a small percentage of profits.
+ - Or the deal might be that the investor takes no money until the business has been active for some period of time, like 6 months, after which the investor gets a percentage of sales or profits.
 
-<p>Deals can be structured almost any way that you can imagine. The deal just needs to make sense for both the you and the investor.</p>
+Deals can be structured almost any way that you can imagine. The deal just needs to make sense for both the you and the investor.
 
-<p>(Note: This is my "armchair philosopher" answer, based on articles I've read and shows like Shark Tank and The Profit. If I'm completely wrong, I'll remove my answer.)</p>
-
+(Note: This is my "armchair philosopher" answer, based on articles I've read and shows like Shark Tank and The Profit. If I'm completely wrong, I'll remove my answer.)
 
 
 

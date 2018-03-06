@@ -4,10 +4,9 @@
 - tagged: `united-states`, `tech-company`, `business-registration`, `delaware`
 - score: 7
 
-<p>I've heard most tech startups officially incorporate in Delaware. I know facebook incorporated in Delaware, but operated out of California in its early days. </p>
+I've heard most tech startups officially incorporate in Delaware. I know facebook incorporated in Delaware, but operated out of California in its early days. 
 
-<p>Why has Delaware become a standard state to incorporate in? What are the advantages to incorporating in Delaware versus the state your startup is based in? Do these advantages apply to all startups, or only ones like facebook that are looking for huge growth and investment?</p>
-
+Why has Delaware become a standard state to incorporate in? What are the advantages to incorporating in Delaware versus the state your startup is based in? Do these advantages apply to all startups, or only ones like facebook that are looking for huge growth and investment?
 
 
 ## Answer 586

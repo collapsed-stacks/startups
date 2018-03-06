@@ -4,21 +4,20 @@
 - tagged: `employees`, `e-commerce`, `employee-compensation`, `affiliate-marketing`, `commissions`
 - score: 1
 
-<p>We have started an affiliate program at our company. Some of our employees reached out to promote our products at their sites or blogs and earn commision from each sale. </p>
+We have started an affiliate program at our company. Some of our employees reached out to promote our products at their sites or blogs and earn commision from each sale. 
 
-<p>Will it be a Conflicts of Interest if we allow them to participate? 
-Do you think that companies should generally ban participation in its affiliate programs to employees and family members of employees? </p>
+Will it be a Conflicts of Interest if we allow them to participate? 
+Do you think that companies should generally ban participation in its affiliate programs to employees and family members of employees? 
 
-<p>Similar restrictions are often placed on prize giveaways or lotteries. </p>
+Similar restrictions are often placed on prize giveaways or lotteries. 
 
-<p>Our concern is - that some of our software developers will have access to company website and theoretically can "adjust" the affilate conversion results. </p>
+Our concern is - that some of our software developers will have access to company website and theoretically can "adjust" the affilate conversion results. 
 
-<p>Secondly, could the money earned from affiliate marketing of company products make employees less motivated to work for the company, but simply worry about bringing the traffic to company site. </p>
+Secondly, could the money earned from affiliate marketing of company products make employees less motivated to work for the company, but simply worry about bringing the traffic to company site. 
 
-<p>We couldnt find a simple answer since there is obviously pros and cons in having our employees as affiliates. </p>
+We couldnt find a simple answer since there is obviously pros and cons in having our employees as affiliates. 
 
-<p>I would appreciate to hear your opinion on this matter. </p>
-
+I would appreciate to hear your opinion on this matter. 
 
 
 ## Answer 11269
@@ -26,8 +25,7 @@ Do you think that companies should generally ban participation in its affiliate 
 - posted by: [JJBee](https://stackexchange.com/users/6998558/jjbee) on 2016-10-03
 - score: 3
 
-<p>Yes, this is generally avoided because it can be abused. There are many ways for internal employees (in various departments) to cannibalize sales you would have gotten without having to pay any commission. They can use existing customers as leads for redundant accounts/sales--in this case, you lose commission and gain no revenue. If you offer special discounts for affiliate offers, you may even lose revenue on top of commission. External partners do not have this ability/advantage, so there is less risk.</p>
-
+Yes, this is generally avoided because it can be abused. There are many ways for internal employees (in various departments) to cannibalize sales you would have gotten without having to pay any commission. They can use existing customers as leads for redundant accounts/sales--in this case, you lose commission and gain no revenue. If you offer special discounts for affiliate offers, you may even lose revenue on top of commission. External partners do not have this ability/advantage, so there is less risk.
 
 
 ## Answer 11204

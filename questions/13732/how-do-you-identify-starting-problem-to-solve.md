@@ -4,19 +4,17 @@
 - tagged: `business-plan`, `idea`
 - score: 0
 
-<p>When you want to make your own start-up, you should identify a specific problem. And then try to make a solution for that problem.</p>
+When you want to make your own start-up, you should identify a specific problem. And then try to make a solution for that problem.
 
-<p>My question is:</p>
+My question is:
 
-<pre><code>How do you find a given problem to solve?
-</code></pre>
+    How do you find a given problem to solve?
 
-<p>One solution is to look around my atmosphere, and track the people's complain. The situation is, i know few people, with limited difficulties. </p>
+One solution is to look around my atmosphere, and track the people's complain. The situation is, i know few people, with limited difficulties. 
 
-<p><strong>How can i identify more and more problems?</strong></p>
+**How can i identify more and more problems?**
 
-<p>At this point, i am not interested in solutions, but the questions. <em>I would like to make a pool of problems</em>, which all of them have the potentiality to be an start-up. In other word, <strong><em>from where do you collect your problems?</em></strong></p>
-
+At this point, i am not interested in solutions, but the questions. *I would like to make a pool of problems*, which all of them have the potentiality to be an start-up. In other word, ***from where do you collect your problems?***
 
 
 ## Answer 13736
@@ -24,8 +22,7 @@
 - posted by: [Mike](https://stackexchange.com/users/4546119/mike) on 2017-12-08
 - score: 0
 
-<p>Observation, Research, Experiment, Creativity and Imagination</p>
-
+Observation, Research, Experiment, Creativity and Imagination
 
 
 ## Answer 13738

@@ -4,12 +4,11 @@
 - tagged: `marketing`, `advertising`
 - score: 2
 
-<p>If someone looks at my ad on Facebook but doesn't click on it, but then later on navigates to my site in another way, it seems that Facebook can still attribute that sale, because they know who the person viewing the ad is AND know that the conversion is from that same person, as I have a Facebook pixel on my site.</p>
+If someone looks at my ad on Facebook but doesn't click on it, but then later on navigates to my site in another way, it seems that Facebook can still attribute that sale, because they know who the person viewing the ad is AND know that the conversion is from that same person, as I have a Facebook pixel on my site.
 
-<p>However with YouTube preroll ads, it seems that this is not happening. I am showing my ads to thousands of people and have some customers who claim to have found my site through them. Yet AdWords is showing zero conversions for the campaign.</p>
+However with YouTube preroll ads, it seems that this is not happening. I am showing my ads to thousands of people and have some customers who claim to have found my site through them. Yet AdWords is showing zero conversions for the campaign.
 
-<p>Is there a way to get attribution to work on YouTube as well? </p>
-
+Is there a way to get attribution to work on YouTube as well? 
 
 
 ## Answer 11365

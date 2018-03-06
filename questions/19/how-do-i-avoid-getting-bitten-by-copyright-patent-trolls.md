@@ -4,10 +4,9 @@
 - tagged: `intellectual-property`
 - score: 8
 
-<p>I'm a bit afraid of opening my own company. I have a great idea but it's hardly revolutionary. I'd rather not spend loads of money on lawyers or go broke early on if a patent already exists for my product, but I'm not sure how I can protect myself. </p>
+I'm a bit afraid of opening my own company. I have a great idea but it's hardly revolutionary. I'd rather not spend loads of money on lawyers or go broke early on if a patent already exists for my product, but I'm not sure how I can protect myself. 
 
-<p>What steps can I take to stay safe from patent trolls, and does it matter what country I'm based in? Could I, for example, be sued in the UK for unintentionally infringing a US patent?</p>
-
+What steps can I take to stay safe from patent trolls, and does it matter what country I'm based in? Could I, for example, be sued in the UK for unintentionally infringing a US patent?
 
 
 ## Answer 23
@@ -26,8 +25,7 @@
 - posted by: [Filip Haglund](https://stackexchange.com/users/292965/filip-haglund) on 2014-07-30
 - score: 1
 
-<p>One way is to create a joint-stock company (translation by wikipedia, I'm Swedish). That way you invest a amount, and that's all you can lose. If you get sued you will at most lose your initial investment (since your stock might lose all their value). Also, EU does have quite good protection against patent trolls(compared to the US), but simply avoid the risk if you can.</p>
-
+One way is to create a joint-stock company (translation by wikipedia, I'm Swedish). That way you invest a amount, and that's all you can lose. If you get sued you will at most lose your initial investment (since your stock might lose all their value). Also, EU does have quite good protection against patent trolls(compared to the US), but simply avoid the risk if you can.
 
 
 

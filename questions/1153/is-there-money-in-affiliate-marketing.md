@@ -4,19 +4,18 @@
 - tagged: `marketing`, `affiliate-marketing`
 - score: 2
 
-<p>I've known a few "major" affiliate marketers over the years, but never had access to their books. Appears that the eBay's average affiliate likely makes almost nothing:</p>
+I've known a few "major" affiliate marketers over the years, but never had access to their books. Appears that the eBay's average affiliate likely makes almost nothing:
 
-<blockquote>
-  <p>The problem with affiliate marketing is that there isn't much money in
-  it. eBay pays about $70 million annually to its 26,000 affiliate
-  marketers, according to court papers.</p>
-  
-  <p>Source: <a href="http://www.businessinsider.com/ebay-the-fbi-shawn-hogan-and-brian-dunning-2013-4#ixzz3HGgqaAIb" rel="nofollow">How eBay Worked With The FBI To Put Its Top Affiliate
-  Marketers In Prison</a></p>
-</blockquote>
+> The problem with affiliate marketing is that there isn't much money in
+> it. eBay pays about $70 million annually to its 26,000 affiliate
+> marketers, according to court papers.
+> 
+> Source: [How eBay Worked With The FBI To Put Its Top Affiliate
+> Marketers In Prison][1]
 
-<p><strong>Is there money in affiliate marketing?</strong> My gut says no, but looking for a notable source that provides a bit more analysis of the industry.</p>
+**Is there money in affiliate marketing?** My gut says no, but looking for a notable source that provides a bit more analysis of the industry.
 
+  [1]: http://www.businessinsider.com/ebay-the-fbi-shawn-hogan-and-brian-dunning-2013-4#ixzz3HGgqaAIb
 
 
 ## Answer 1156

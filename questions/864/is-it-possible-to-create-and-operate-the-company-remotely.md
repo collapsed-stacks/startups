@@ -4,10 +4,9 @@
 - tagged: `united-states`, `llc`, `international`
 - score: 7
 
-<p>For example, I have an application or a website that brings me income. As far as I understand I need to have a company behind this so everything would be official. But what if the country I'm living is poor and corrupted and it is not very safe to create a company in it? Can I create and operate a company in another country while still being a citizen of my current one? Are there some preferred options?</p>
+For example, I have an application or a website that brings me income. As far as I understand I need to have a company behind this so everything would be official. But what if the country I'm living is poor and corrupted and it is not very safe to create a company in it? Can I create and operate a company in another country while still being a citizen of my current one? Are there some preferred options?
 
-<p>I'm in Ukraine, and the foreign country I would like to run the business from would be the United States. For at least the first year the business is in operation, I would remain in the Ukraine, and it's possible that this would remain the case for the duration of the business's operations.</p>
-
+I'm in Ukraine, and the foreign country I would like to run the business from would be the United States. For at least the first year the business is in operation, I would remain in the Ukraine, and it's possible that this would remain the case for the duration of the business's operations.
 
 
 ## Answer 886
@@ -31,12 +30,11 @@
 - posted by: [Nick Bolton](https://stackexchange.com/users/20131/nick-bolton) on 2014-10-01
 - score: 4
 
-<p>I live in the UK and founded and operated a company in Croatia. I found that the biggest issue with running a company remotely is communication. I had to fly over there frequently (at <em>least</em> once every 2 or 3 months) to keep the team motivated and focused, but the effect wears off quickly.</p>
+I live in the UK and founded and operated a company in Croatia. I found that the biggest issue with running a company remotely is communication. I had to fly over there frequently (at *least* once every 2 or 3 months) to keep the team motivated and focused, but the effect wears off quickly.
 
-<p>So, yes you can create the company, and you can also hire people. However, to effectively lead and manage a team remotely, you need to have a solid preexisting relationship with the people you hire, or at least one with the manager that will lead the team for you.</p>
+So, yes you can create the company, and you can also hire people. However, to effectively lead and manage a team remotely, you need to have a solid preexisting relationship with the people you hire, or at least one with the manager that will lead the team for you.
 
-<p>In the end I closed the company and let my remote workers go because we couldn't remain as an effective team.</p>
-
+In the end I closed the company and let my remote workers go because we couldn't remain as an effective team.
 
 
 

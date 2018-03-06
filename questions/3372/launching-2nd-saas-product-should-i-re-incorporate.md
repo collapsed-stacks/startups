@@ -4,18 +4,17 @@
 - tagged: `llc`, `delaware`, `c-corporation`
 - score: 3
 
-<p>I've launched my first SaaS product 4 years ago as LLC in Illinois. I didn't know much back then about incorporating correctly.</p>
+I've launched my first SaaS product 4 years ago as LLC in Illinois. I didn't know much back then about incorporating correctly.
 
-<p>Over the years, I've clearly heard that everyone is recommending that a corporation is started in Delaware as a C-corp, if one is hoping to eventually bring on investors and/or sell the business, I'm now considering this before launching my 2nd SaaS product.</p>
+Over the years, I've clearly heard that everyone is recommending that a corporation is started in Delaware as a C-corp, if one is hoping to eventually bring on investors and/or sell the business, I'm now considering this before launching my 2nd SaaS product.
 
-<p>So far, I've been financing development of the 2nd SaaS product from revenues of the first by the IL LLC.  I would prefer to keep finances for both products together (don't want to maintain 2 bank accounts, Quickbooks subscriptions, Authorize.net subscriptions, and bunch of other subscriptions and services that can be shared across multiple products), if possible.</p>
+So far, I've been financing development of the 2nd SaaS product from revenues of the first by the IL LLC.  I would prefer to keep finances for both products together (don't want to maintain 2 bank accounts, Quickbooks subscriptions, Authorize.net subscriptions, and bunch of other subscriptions and services that can be shared across multiple products), if possible.
 
-<p>So, if I keep finances together an in the original LLC, does it even make sense to start a Delaware C-corp that only "owns" the product?  Is it even legal?</p>
+So, if I keep finances together an in the original LLC, does it even make sense to start a Delaware C-corp that only "owns" the product?  Is it even legal?
 
-<p>If I don't start an DE C-Corp right now, and say some years from now someone wants to buy my 2nd product, can I easily incorporate a DE C-Corp and transfer the product to it?  </p>
+If I don't start an DE C-Corp right now, and say some years from now someone wants to buy my 2nd product, can I easily incorporate a DE C-Corp and transfer the product to it?  
 
-<p>I'm a solo founder and own 100% of my company and products.</p>
-
+I'm a solo founder and own 100% of my company and products.
 
 
 ## Answer 3373
@@ -23,18 +22,17 @@
 - posted by: [littleadv](https://stackexchange.com/users/307221/littleadv) on 2015-02-08
 - score: 6
 
-<p>Doing what you've clearly heard people recommend and doing the right thing are too unrelated things.</p>
+Doing what you've clearly heard people recommend and doing the right thing are too unrelated things.
 
-<p>There's no necessity whatsoever to open a DE C-Corp if you intend to later sell your company. You can transfer ownership of the LLC just as well, or reincorporate <em>then</em> if required.</p>
+There's no necessity whatsoever to open a DE C-Corp if you intend to later sell your company. You can transfer ownership of the LLC just as well, or reincorporate *then* if required.
 
-<p>Since you already commingled two products, I <em>personally</em> see no reason why not to keep the second product under the same roof.</p>
+Since you already commingled two products, I *personally* see no reason why not to keep the second product under the same roof.
 
-<p>When the time comes to sell - you'll have to talk to an attorney and a tax adviser about how to properly separate them, and whether an additional entity is needed. But you don't <em>have to</em> go through the process ahead of time.</p>
+When the time comes to sell - you'll have to talk to an attorney and a tax adviser about how to properly separate them, and whether an additional entity is needed. But you don't *have to* go through the process ahead of time.
 
-<p>If you do <em>want to</em> - you'll need to talk to a lawyer and a tax adviser (EA/CPA licensed in your State) on how to properly do that.</p>
+If you do *want to* - you'll need to talk to a lawyer and a tax adviser (EA/CPA licensed in your State) on how to properly do that.
 
-<p>Keep in mind that using C-Corp means double taxation and mandatory payroll expenses, so you really need to think twice if you want to listen to all the talking heads on the Internet when it is your money on the line.</p>
-
+Keep in mind that using C-Corp means double taxation and mandatory payroll expenses, so you really need to think twice if you want to listen to all the talking heads on the Internet when it is your money on the line.
 
 
 ## Answer 3388

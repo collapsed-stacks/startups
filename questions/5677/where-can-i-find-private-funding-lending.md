@@ -4,13 +4,12 @@
 - tagged: `startup-costs`, `funding`
 - score: 3
 
-<p>Asides from the obvious few options with a quick google search. 
+Asides from the obvious few options with a quick google search. 
 1. SBA 
 2. Banks
-3. Friends and Family</p>
+3. Friends and Family
 
-<p>How can a person find start up monies to get a business off the ground. under 100k is not to difficult however as soon as you pass that point it is much more difficult. Is there locations where investors can find about ideas and projects and get directly in touch with the individual. </p>
-
+How can a person find start up monies to get a business off the ground. under 100k is not to difficult however as soon as you pass that point it is much more difficult. Is there locations where investors can find about ideas and projects and get directly in touch with the individual. 
 
 
 ## Answer 5953

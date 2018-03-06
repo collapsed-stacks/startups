@@ -4,16 +4,13 @@
 - tagged: `marketing`, `business-model`, `growth`, `target-market`, `lean-startup`
 - score: 5
 
-<p><a href="http://en.wikipedia.org/wiki/Growth_hacking" rel="nofollow">Wikipedia defines</a> the term as follows</p>
+[Wikipedia defines](http://en.wikipedia.org/wiki/Growth_hacking) the term as follows
 
-<blockquote>
-  <p>Growth hacking is a marketing technique developed by technology startups which uses creativity, analytical thinking, and social metrics to sell products and gain exposure.</p>
-</blockquote>
+> Growth hacking is a marketing technique developed by technology startups which uses creativity, analytical thinking, and social metrics to sell products and gain exposure.
 
-<p>My question is how does it differ from activities that come under digital marketing like search engine advertising, banner advertising, social media marketing, viral marketing etc. </p>
+My question is how does it differ from activities that come under digital marketing like search engine advertising, banner advertising, social media marketing, viral marketing etc. 
 
-<p>I understand that growth hacking may of course include some aspects of digital marketing but my question is on what are the unique characteristics (or "hacks") of a campaign run with growth hacking as compared to digital marketing.</p>
-
+I understand that growth hacking may of course include some aspects of digital marketing but my question is on what are the unique characteristics (or "hacks") of a campaign run with growth hacking as compared to digital marketing.
 
 
 ## Answer 1819
@@ -21,40 +18,35 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2014-12-31
 - score: 4
 
-<p>The difference between the two is fuzzy at best.</p>
+The difference between the two is fuzzy at best.
 
-<p>At a somewhat superficial level, a marketer and a growth hacker worry about the same things:</p>
+At a somewhat superficial level, a marketer and a growth hacker worry about the same things:
 
-<ul>
-<li>Generating <em>and qualifying</em> leads</li>
-<li>Converting leads to prospects (= e.g. signed up for a trial)</li>
-<li>Converting prospects to clients</li>
-<li>Converting clients to repeat-clients</li>
-</ul>
+- Generating *and qualifying* leads
+- Converting leads to prospects (= e.g. signed up for a trial)
+- Converting prospects to clients
+- Converting clients to repeat-clients
 
-<p>They do this by:</p>
+They do this by:
 
-<ol>
-<li>Creating awareness</li>
-<li>Highlighting benefits</li>
-<li>Conveying trust</li>
-<li>Cross-, up-, and repeat-selling</li>
-</ol>
+1. Creating awareness
+2. Highlighting benefits
+3. Conveying trust
+4. Cross-, up-, and repeat-selling
 
-<p>Every single tool and technique available to the marketer is also available to the growth hacker -- and pretty much vice versa. To me the two are the exact same thing, and Growth Hacker is just a buzzword that could apply to any competent marketer with enough technical skills.</p>
+Every single tool and technique available to the marketer is also available to the growth hacker -- and pretty much vice versa. To me the two are the exact same thing, and Growth Hacker is just a buzzword that could apply to any competent marketer with enough technical skills.
 
-<p><strong>This technical component is where some would argue there's a slight difference. The resulting focus ends up on the lead generation part of the conversion funnel, by "borrowing" traffic or devising viral growth strategies that one cannot execute using off the shelf products.</strong></p>
+**This technical component is where some would argue there's a slight difference. The resulting focus ends up on the lead generation part of the conversion funnel, by "borrowing" traffic or devising viral growth strategies that one cannot execute using off the shelf products.**
 
-<p>A canonical example to illustrate this could be AirBnB. What they did, basically, to bootstrap their growth and user-base was reverse engineer the web forms used by Craigslist. They then automatically posted AirBnB ads to Craigslist in order to skim its traffic.</p>
+A canonical example to illustrate this could be AirBnB. What they did, basically, to bootstrap their growth and user-base was reverse engineer the web forms used by Craigslist. They then automatically posted AirBnB ads to Craigslist in order to skim its traffic.
 
-<p>As you can imagine, a marketer who isn't technically oriented wouldn't have the skills to pull that off -- nor, possibly, even have the idea to do so. Nor could he mine stats, or create viral sharing forms, or what have you.</p>
+As you can imagine, a marketer who isn't technically oriented wouldn't have the skills to pull that off -- nor, possibly, even have the idea to do so. Nor could he mine stats, or create viral sharing forms, or what have you.
 
-<p>My reply to that, though, is that a marketer with technical skills can, will, and indeed did consider this kind of stuff long before growth hacking was a thing. (And when you think about it, black hat SEO and related dubious marketing practices are growth hacking in all but name.)</p>
+My reply to that, though, is that a marketer with technical skills can, will, and indeed did consider this kind of stuff long before growth hacking was a thing. (And when you think about it, black hat SEO and related dubious marketing practices are growth hacking in all but name.)
 
-<p>Now, in my own experience (I tell my prospects I'm a marketer or a growth hacker depending on who I talk to), actively searching for huge growth opportunities such as what AirBnB pulled off amounts to trying to search for things about as rare as unicorns. There are some here and there, but if you're hiring someone with the explicit job of trying to find them upon reaching "industry standard" conversion rates, you're basically wasting your money.</p>
+Now, in my own experience (I tell my prospects I'm a marketer or a growth hacker depending on who I talk to), actively searching for huge growth opportunities such as what AirBnB pulled off amounts to trying to search for things about as rare as unicorns. There are some here and there, but if you're hiring someone with the explicit job of trying to find them upon reaching "industry standard" conversion rates, you're basically wasting your money.
 
-<p>Because in practice, the single-most effecting thing one can do to increase growth in a startup or a small business, is to get the very down to earth basics right (they usually aren't), and set up a proper and efficient sales process. Doing so yields less but more qualified leads (decreasing costs) and significantly increases conversion rates (increasing revenue).</p>
-
+Because in practice, the single-most effecting thing one can do to increase growth in a startup or a small business, is to get the very down to earth basics right (they usually aren't), and set up a proper and efficient sales process. Doing so yields less but more qualified leads (decreasing costs) and significantly increases conversion rates (increasing revenue).
 
 
 ## Answer 11536

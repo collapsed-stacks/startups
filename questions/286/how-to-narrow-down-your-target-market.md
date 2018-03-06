@@ -4,10 +4,9 @@
 - tagged: `business-plan`, `target-market`
 - score: 5
 
-<p>I'm working on an idea where the potential market is all consumers who go on vacation; It's a travel related business.</p>
+I'm working on an idea where the potential market is all consumers who go on vacation; It's a travel related business.
 
-<p>Are there any processes or best practices for narrowing down your total potential market to a target market. So far, I've only come up with starting geographically.</p>
-
+Are there any processes or best practices for narrowing down your total potential market to a target market. So far, I've only come up with starting geographically.
 
 
 ## Answer 288
@@ -15,18 +14,17 @@
 - posted by: [a20](https://stackexchange.com/users/54595/a20) on 2014-08-10
 - score: 3
 
-<p>Narrowing down your customer base comes down to "who should I spend most of my efforts on", which means, "who will make me the most money", correct?</p>
+Narrowing down your customer base comes down to "who should I spend most of my efforts on", which means, "who will make me the most money", correct?
 
-<p>So for one, I would assess which segments give me the most profit vs effort and zoom in there.</p>
+So for one, I would assess which segments give me the most profit vs effort and zoom in there.
 
-<p>Second, I would also consider risk. Is it risky to just focus on this narrow segment? What if there are some seasonal factors which mean that I won't have business from this segment in winter months, for example? </p>
+Second, I would also consider risk. Is it risky to just focus on this narrow segment? What if there are some seasonal factors which mean that I won't have business from this segment in winter months, for example? 
 
-<p>So while zooming in on the most profitable segment, I would also have smaller level commitments with other segments, to spread the risk - roughly 70% - 30%.</p>
+So while zooming in on the most profitable segment, I would also have smaller level commitments with other segments, to spread the risk - roughly 70% - 30%.
 
-<p>The caveat is that if you feel that you know that lucrative segment (and risks) in and out, you should try to scale down on the other less profitable segments. When there's space to grow or innovate in your core segment, you should focus on developing more product/service lines to increase revenue.</p>
+The caveat is that if you feel that you know that lucrative segment (and risks) in and out, you should try to scale down on the other less profitable segments. When there's space to grow or innovate in your core segment, you should focus on developing more product/service lines to increase revenue.
 
-<p>As a side note, CNBC's "profit", is a great show that focuses a lot on how to zoom in on your most vital/profitable segments. Much recommended.</p>
-
+As a side note, CNBC's "profit", is a great show that focuses a lot on how to zoom in on your most vital/profitable segments. Much recommended.
 
 
 ## Answer 287
@@ -58,15 +56,14 @@
 - posted by: [ATrubka](https://stackexchange.com/users/1052629/atrubka) on 2014-08-24
 - score: 1
 
-<p>Please consider getting Travel Handbook that is released annually and contains tremendous amount of data as to where travelers go and what they do.
-For instance, I was shocked to learn how many people travel for primary reason of bird watching and butterflying.</p>
+Please consider getting Travel Handbook that is released annually and contains tremendous amount of data as to where travelers go and what they do.
+For instance, I was shocked to learn how many people travel for primary reason of bird watching and butterflying.
 
-<p>Most of the travel money goes to food, which is expected.</p>
+Most of the travel money goes to food, which is expected.
 
-<p>I have version from 2009 and can get you some numbers if needed, but you better use most recent. You'll be pleasantly surprised with the amount of data.</p>
+I have version from 2009 and can get you some numbers if needed, but you better use most recent. You'll be pleasantly surprised with the amount of data.
 
-<p><a href="http://www.rkma.com/report-detail.cfm?report_id=105" rel="nofollow">http://www.rkma.com/report-detail.cfm?report_id=105</a></p>
-
+http://www.rkma.com/report-detail.cfm?report_id=105
 
 
 

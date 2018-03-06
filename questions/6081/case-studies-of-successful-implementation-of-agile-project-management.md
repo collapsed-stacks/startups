@@ -4,8 +4,7 @@
 - tagged: `market-research`
 - score: 2
 
-<p>I'm starting a business that offers agile training and I'm looking for case studies about successful implementation of agile project management. Any suggestions welcome.</p>
-
+I'm starting a business that offers agile training and I'm looking for case studies about successful implementation of agile project management. Any suggestions welcome.
 
 ## No Answers
 

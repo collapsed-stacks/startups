@@ -4,12 +4,12 @@
 - tagged: `website`, `software`, `web-development`, `remote`
 - score: 0
 
-<p>I am a developer, how can I get a parttime or fulltime remote job? I have more than 10 years experience with software development. My skills very well in:
+I am a developer, how can I get a parttime or fulltime remote job? I have more than 10 years experience with software development. My skills very well in:
 - Java: primefaces, jsf, spring, spring, jpa, hibernate. Openfire(xmpp chat system), xml
 - Php: yii framework.
-- front end: vuejs, jquery, minifiedjs, HTML, xhtml, json.</p>
+- front end: vuejs, jquery, minifiedjs, HTML, xhtml, json.
 
-<p>My English enough to work but not enough to pass interview. Any body give me some idea?</p>
+My English enough to work but not enough to pass interview. Any body give me some idea?
 
 
 
@@ -18,12 +18,11 @@
 - posted by: [Daniel Anderson](https://stackexchange.com/users/8398759/daniel-anderson) on 2016-07-02
 - score: 0
 
-<p>You need to take a look at sites like UpWork.com, FreeLancer.com, and Guru.com.  There you can post a listing for yourself and bid on freelance jobs with companies and individuals around the world.  It isn't an easy market to get into, because there's a tremendous amount of competition, but those sites will give you a better idea of how to go about it.</p>
+You need to take a look at sites like UpWork.com, FreeLancer.com, and Guru.com.  There you can post a listing for yourself and bid on freelance jobs with companies and individuals around the world.  It isn't an easy market to get into, because there's a tremendous amount of competition, but those sites will give you a better idea of how to go about it.
 
-<p>I hope this helps.</p>
+I hope this helps.
 
-<p>Good luck!</p>
-
+Good luck!
 
 
 

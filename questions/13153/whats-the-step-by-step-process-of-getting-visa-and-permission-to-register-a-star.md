@@ -4,10 +4,9 @@
 - tagged: `business-registration`, `silicon-valley`
 - score: 0
 
-<p>Lets assume you found an investor in the valley. How does it work to get a Visa that lets you set up a company and register it etc. ...</p>
+Lets assume you found an investor in the valley. How does it work to get a Visa that lets you set up a company and register it etc. ...
 
-<p>Hope someone could summarize.</p>
-
+Hope someone could summarize.
 
 
 ## Answer 13155
@@ -15,14 +14,13 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2017-08-09
 - score: 1
 
-<p>You don't need a Visa to set up and register a company in the US. The only things you need in practice are a lawyer and an accountant.</p>
+You don't need a Visa to set up and register a company in the US. The only things you need in practice are a lawyer and an accountant.
 
-<p>There are plenty of options to incorporate. It's usually done in Delaware, but also in Nevada, Florida, and other States.</p>
+There are plenty of options to incorporate. It's usually done in Delaware, but also in Nevada, Florida, and other States.
 
-<p>What you may need is proof of residency of some sort to open an account, but if it applies to the State you're incorporating in it's trivial to work around: have your lawyer incorporate and create the account, then transfer it all to you.</p>
+What you may need is proof of residency of some sort to open an account, but if it applies to the State you're incorporating in it's trivial to work around: have your lawyer incorporate and create the account, then transfer it all to you.
 
-<p>(Aside: there's an additional upside in incorporating in the US: should your investor ever sue, you're better protected as a founder, in that a US investor will have hell collecting in Europe if you're incorporated in the US instead of Europe.)</p>
-
+(Aside: there's an additional upside in incorporating in the US: should your investor ever sue, you're better protected as a founder, in that a US investor will have hell collecting in Europe if you're incorporated in the US instead of Europe.)
 
 
 ## Answer 13196

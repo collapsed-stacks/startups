@@ -4,22 +4,21 @@
 - tagged: `software`, `payment`, `difficult-client`
 - score: 3
 
-<p>We are a mISV that provides desktop software solutions.</p>
+We are a mISV that provides desktop software solutions.
 
-<p>We have a client in Qatar that has been using our solutions since the past 2 years at its various stores.</p>
+We have a client in Qatar that has been using our solutions since the past 2 years at its various stores.
 
-<p>While they always seem to be a bit late in paying our fees, we ignored it due to the long business relationship. </p>
+While they always seem to be a bit late in paying our fees, we ignored it due to the long business relationship. 
 
-<p>But this time the payment is almost 6 months overdue, and they haven't responded to our communication since the past 2 months.</p>
+But this time the payment is almost 6 months overdue, and they haven't responded to our communication since the past 2 months.
 
-<p>Being a mISV we can't hire a full time lawyer to deal with this problem, that too in Qatar. </p>
+Being a mISV we can't hire a full time lawyer to deal with this problem, that too in Qatar. 
 
-<p>So what options do we have to get this payment asap?</p>
+So what options do we have to get this payment asap?
 
-<p>Your help will be highly appreciated.</p>
+Your help will be highly appreciated.
 
-<p>Thank you.</p>
-
+Thank you.
 
 
 ## Answer 5448
@@ -27,14 +26,13 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-06-03
 - score: 3
 
-<p>There are no international small claims courts.</p>
+There are no international small claims courts.
 
-<p>Perhaps you could file a complaint at a small claims court if you're in the US. But frankly, there's little chance you'll collect. And for all you know the reason they're not paying because they can't at the moment.</p>
+Perhaps you could file a complaint at a small claims court if you're in the US. But frankly, there's little chance you'll collect. And for all you know the reason they're not paying because they can't at the moment.
 
-<p>In my opinion file this one as an uncollectible debt and move on.</p>
+In my opinion file this one as an uncollectible debt and move on.
 
-<p>Learn the lessons if applicable: try to get paid in advance (particularly when dealing with clients in developing countries), add some license management functionality to your software, whatever applies in your case.</p>
-
+Learn the lessons if applicable: try to get paid in advance (particularly when dealing with clients in developing countries), add some license management functionality to your software, whatever applies in your case.
 
 
 

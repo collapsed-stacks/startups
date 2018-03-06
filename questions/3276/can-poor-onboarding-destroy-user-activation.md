@@ -4,37 +4,30 @@
 - tagged: `customer-development`, `target-market`
 - score: 1
 
-<p>I'm bootstrapping a SaaS that lets users upload videos and do data mining on it. I had a few customers, so I know that it is working and providing value.</p>
+I'm bootstrapping a SaaS that lets users upload videos and do data mining on it. I had a few customers, so I know that it is working and providing value.
 
-<p>But the typical week is very stressful:</p>
+But the typical week is very stressful:
 
-<ul>
-<li>I see a bunch of trial sign ups and get excited.</li>
-<li>The user uploads videos but did not configure the settings correctly so they end up with bad data.</li>
-<li>The user tries a few more times or gives up or reaches out to me.
-<ul>
-<li>The majority of people are just giving up and never returning.</li>
-<li>The ones that try it a few more times ends up requiring extra features I need to build that will take a long time and they won't pay up front for it.</li>
-<li>The ones that reach out, I teach them how to use it properly. Only a few of these actually become a customer.</li>
-</ul></li>
-</ul>
+* I see a bunch of trial sign ups and get excited.
+* The user uploads videos but did not configure the settings correctly so they end up with bad data.
+* The user tries a few more times or gives up or reaches out to me.
+    * The majority of people are just giving up and never returning.
+    * The ones that try it a few more times ends up requiring extra features I need to build that will take a long time and they won't pay up front for it.
+    * The ones that reach out, I teach them how to use it properly. Only a few of these actually become a customer.
 
-<p>Is my onboarding broken and is it stopping users from becoming activated? Is the first experience enough to destroy the product's value proposition?</p>
+Is my onboarding broken and is it stopping users from becoming activated? Is the first experience enough to destroy the product's value proposition?
 
-<p>What about the people that ask for features so they can get what they want out of it but are unwilling to commit for it up front, expect me to work on it for weeks and still trust them to pay for it afterwards?</p>
+What about the people that ask for features so they can get what they want out of it but are unwilling to commit for it up front, expect me to work on it for weeks and still trust them to pay for it afterwards?
 
-<p>Or is this a completely different issue? Am I simply getting non-serious people signing up, draining my resources and causing stress?</p>
+Or is this a completely different issue? Am I simply getting non-serious people signing up, draining my resources and causing stress?
 
-<p>I do have some plans to address both:</p>
+I do have some plans to address both:
 
-<ol>
-<li>Hold webinars or do a screen share demo as a mandatory step after signing up</li>
-<li>Get rid of the free trial</li>
-<li>Identify new target customers and discover market channels to reach them.</li>
-</ol>
+1. Hold webinars or do a screen share demo as a mandatory step after signing up
+2. Get rid of the free trial
+3. Identify new target customers and discover market channels to reach them.
 
-<p>What do you think?</p>
-
+What do you think?
 
 
 ## Answer 3380
@@ -42,25 +35,22 @@
 - posted by: [saq7](https://stackexchange.com/users/4148647/saq7) on 2015-02-08
 - score: 2
 
-<blockquote>
-  <p>OR is this a completely different issue? am I simply getting non
-  serious people signing up and draining my resources and causing
-  stress?</p>
-</blockquote>
+> OR is this a completely different issue? am I simply getting non
+> serious people signing up and draining my resources and causing
+> stress?
 
-<p>There is no way anyone on stackexchage can know the answer to this. The only way to know is to ask your users. Do this via a questionnaire, some clever experiments, and talk to as many users directly as you can. They will tell you how and why they use your product and how they would like to use it. They will also tell you how much they would pay for it and what features they would pay for. Just ask them.  </p>
+There is no way anyone on stackexchage can know the answer to this. The only way to know is to ask your users. Do this via a questionnaire, some clever experiments, and talk to as many users directly as you can. They will tell you how and why they use your product and how they would like to use it. They will also tell you how much they would pay for it and what features they would pay for. Just ask them.  
 
-<blockquote>
-  <p>What about for the people that ask for features so they can get what
-  they want out of it but unwilling to commit up front for it and expect
-  me to work on it for weeks and still trust them to pay for it after?</p>
-</blockquote>
+> What about for the people that ask for features so they can get what
+> they want out of it but unwilling to commit up front for it and expect
+> me to work on it for weeks and still trust them to pay for it after?
 
-<p>You have to figure out if this feature will provide value to a significant number of your users. You can do this by polling your user base, or just by counting up the number of people who are asking for it. If there is enough demand for it, then it makes complete sense to aim to have that feature built and released. Don't worry about whether the people asking for it will pay or not, if there is demand, it will get used. I am not sure of your monetization strategy to advise you whether it will bring in more revenues. </p>
+You have to figure out if this feature will provide value to a significant number of your users. You can do this by polling your user base, or just by counting up the number of people who are asking for it. If there is enough demand for it, then it makes complete sense to aim to have that feature built and released. Don't worry about whether the people asking for it will pay or not, if there is demand, it will get used. I am not sure of your monetization strategy to advise you whether it will bring in more revenues. 
 
-<p>I agree with Igorek, no one wants to watch a webinar, and a mandatory webinar is the quickest way to drive users away.</p>
+I agree with Igorek, no one wants to watch a webinar, and a mandatory webinar is the quickest way to drive users away.
 
-<p>Remember, your users don't exist to use your product, your product exists for your users. </p>
+Remember, your users don't exist to use your product, your product exists for your users. 
+
 
 
 
@@ -69,9 +59,9 @@
 - posted by: [Igorek](https://stackexchange.com/users/215022/igorek) on 2015-01-31
 - score: 1
 
-<p>Why not make the onboarding process simpler?  Provide defaults, templates, pre-configured actions, wizards... anything to make the onboarding simple so that potential customer can see value right away.</p>
+Why not make the onboarding process simpler?  Provide defaults, templates, pre-configured actions, wizards... anything to make the onboarding simple so that potential customer can see value right away.
 
-<p>No one cares about webinars or reading more documentation unless their pain is really high and your solution is the only pill.</p>
+No one cares about webinars or reading more documentation unless their pain is really high and your solution is the only pill.
 
 
 
@@ -80,8 +70,7 @@
 - posted by: [Ben I.](https://stackexchange.com/users/5187045/ben-i) on 2015-02-04
 - score: 1
 
-<p>Depending on your setup, you could also do a built-in tutorial, where you have users go through a configuration process on a video that is already uploaded so that they can walk through some of the details.  The key to a tutorial is to keep them short and to the point - just get people started in the right direction.  You can't put in too much, or people will lose interest.</p>
-
+Depending on your setup, you could also do a built-in tutorial, where you have users go through a configuration process on a video that is already uploaded so that they can walk through some of the details.  The key to a tutorial is to keep them short and to the point - just get people started in the right direction.  You can't put in too much, or people will lose interest.
 
 
 ## Answer 12803

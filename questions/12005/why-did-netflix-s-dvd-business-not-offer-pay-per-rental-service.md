@@ -4,16 +4,15 @@
 - tagged: `business-model`
 - score: 1
 
-<p>I'm doing some random thought experiments on the DVD rental industry (what there is left of it, now that Blockbuster and Walmart are long-gone), and I got to thinking: <strong>among the various dvd-by-mail rental services out there, why is their go-to model the monthly subscription?</strong>  </p>
+I'm doing some random thought experiments on the DVD rental industry (what there is left of it, now that Blockbuster and Walmart are long-gone), and I got to thinking: **among the various dvd-by-mail rental services out there, why is their go-to model the monthly subscription?**  
 
-<p>For example, Netflix's lowest plan was 2 DVDs per month at a price of $2.50 per disc ($4.99/mo).  Why not offer to rent discs individually for $2.50 per disc, and maybe offer bulk discounts to encourage loyalty and reduce costs? </p>
+For example, Netflix's lowest plan was 2 DVDs per month at a price of $2.50 per disc ($4.99/mo).  Why not offer to rent discs individually for $2.50 per disc, and maybe offer bulk discounts to encourage loyalty and reduce costs? 
 
-<p>Any thoughts on this?  Is this to reduce friction in continued payments? e.g. if someone is paying monthly they're less likely to stop paying in general.  Or maybe this model reduced incentive for theft?</p>
+Any thoughts on this?  Is this to reduce friction in continued payments? e.g. if someone is paying monthly they're less likely to stop paying in general.  Or maybe this model reduced incentive for theft?
 
-<p>Is it possible they were missing out on some customers who only wanted to rent a movie once every 3 months?  </p>
+Is it possible they were missing out on some customers who only wanted to rent a movie once every 3 months?  
 
-<p>Thanks for indulging my questions :)</p>
-
+Thanks for indulging my questions :)
 
 
 ## Answer 12008
@@ -21,14 +20,13 @@
 - posted by: [Raitalt](https://stackexchange.com/users/10109352/raitalt) on 2017-01-28
 - score: 0
 
-<p>My first thought would be that their cost of customer acquisition was too high OR/AND they needed to cover high fixed costs from marketing, employees, and warehouses. A second thought is to ask "how much it cost to send one disc? And how much fixed cost does it include?" Maybe more than 2,50, in which case single orders were not profitable.</p>
+My first thought would be that their cost of customer acquisition was too high OR/AND they needed to cover high fixed costs from marketing, employees, and warehouses. A second thought is to ask "how much it cost to send one disc? And how much fixed cost does it include?" Maybe more than 2,50, in which case single orders were not profitable.
 
-<p>All businesses benefit from increased customer loyalty. By some estimates it is 6 times more expensive to acquire new customers than to keep them, but it depends on the business. Netflix had an intense rivalry with Blockbusters and price was king among consumer preferences so subscription model makes sense.</p>
+All businesses benefit from increased customer loyalty. By some estimates it is 6 times more expensive to acquire new customers than to keep them, but it depends on the business. Netflix had an intense rivalry with Blockbusters and price was king among consumer preferences so subscription model makes sense.
 
-<p>For the customers, cancelling their previous subscription and taking on a new subscription does create some switching costs. One-time rentals have nearly zero switching costs. Consumers' time and effort are valuable.</p>
+For the customers, cancelling their previous subscription and taking on a new subscription does create some switching costs. One-time rentals have nearly zero switching costs. Consumers' time and effort are valuable.
 
-<p>Edit: of course they were missing some potential customers. Nearly every business has to select which customers to serve and which customers not to serve. All are not equal. Serving different customer segments requires different strategy.</p>
-
+Edit: of course they were missing some potential customers. Nearly every business has to select which customers to serve and which customers not to serve. All are not equal. Serving different customer segments requires different strategy.
 
 
 ## Answer 12009
@@ -62,28 +60,25 @@ The licensing is much different.</p>
 - posted by: [PV22](https://stackexchange.com/users/8264469/pv22) on 2017-05-30
 - score: 0
 
-<p>One added benefit of the growing interest in subscription based pricing models is that it <strong>creates a consistent and reliable cash flow mechanism</strong>. The "on-off" nature of subscriptions creates easily trackable usage, which will help in resource planning and financial analysis. By tracking the number of active subscriptions, you can more readily provide user consumption insights and forecasts. Oppositely, in a pay-per-use model the multiple variables that affect individual consumption patterns makes modeling much more difficult.</p>
+One added benefit of the growing interest in subscription based pricing models is that it **creates a consistent and reliable cash flow mechanism**. The "on-off" nature of subscriptions creates easily trackable usage, which will help in resource planning and financial analysis. By tracking the number of active subscriptions, you can more readily provide user consumption insights and forecasts. Oppositely, in a pay-per-use model the multiple variables that affect individual consumption patterns makes modeling much more difficult.
 
-<blockquote>
-  <p><strong>Example 1: Subscription Model</strong>: Every month you pay $10.00 for access to 10 DVDs a month.</p>
-  
-  <p>Every month, the business owner knows that the number of active subscription and can multiply it by the price. (10 members = $100.00) This is regardless of whether the customer's consumption; whether the customer gets 1 DVD or 10 DVDs that month.</p>
-  
-  <p>Doing a segment analysis, the owner can see the metrics of actual usage per subscription, and create multiple subscription levels to encapsulate different user types, but still has a simplified metric to track, that has some level of consistent expect income (number of subscription multiplied by the price of the subscriptions).</p>
-  
-  <p><strong>Example 2: Pay-Per-Use Model</strong>: When you want a DVD, you pay $2.00 each time.</p>
-  
-  <p>Every month, the business owner tracks the number of sales and multiples is by the price per sale. However, as usage fluctuates more chaotically, the insights and modeling will be more volatile.</p>
-  
-  <p>Doing segment analysis, the owner will need to aggregate each customer's usage and then would need to do an additional analysis to decide how to segment it based on the data sets. The metrics are initially more granular and have a higher degree of volatility.</p>
-</blockquote>
+> **Example 1: Subscription Model**: Every month you pay $10.00 for access to 10 DVDs a month.
 
-<hr>
+> Every month, the business owner knows that the number of active subscription and can multiply it by the price. (10 members = $100.00) This is regardless of whether the customer's consumption; whether the customer gets 1 DVD or 10 DVDs that month.
 
-<p>Another added benefit to the subscription model is, <strong>capturing the unearned value</strong> in terms of users who do not maximize their subscription consumption; You pay to access 10 DVDs a month, but only use 5 DVDs. The subscription model pays out the same for the business owner, capturing the value for the 5 unused DVDs available to the customer. In the pay-per-use model, the business owner cannot acquire any more value than the specific customer usage allows.</p>
+> Doing a segment analysis, the owner can see the metrics of actual usage per subscription, and create multiple subscription levels to encapsulate different user types, but still has a simplified metric to track, that has some level of consistent expect income (number of subscription multiplied by the price of the subscriptions).
 
-<p>Lastly, I would agree that a subscription model has a certain advantage for <strong>customer retention and loyalty</strong>. Customers are less likely to purchase similar services from multiple vendors given a subscription model. Therefore you have the added benefit of retaining customers and preventing market share bleeding to competition. In the pay-per-usage model, there is no sunk cost for the customer, so switching between providers is simple and does not require the steps to cancel a subscription and initiate a new subscription with the competitor.</p>
 
+> **Example 2: Pay-Per-Use Model**: When you want a DVD, you pay $2.00 each time.
+
+> Every month, the business owner tracks the number of sales and multiples is by the price per sale. However, as usage fluctuates more chaotically, the insights and modeling will be more volatile.
+
+> Doing segment analysis, the owner will need to aggregate each customer's usage and then would need to do an additional analysis to decide how to segment it based on the data sets. The metrics are initially more granular and have a higher degree of volatility.
+
+-------
+Another added benefit to the subscription model is, **capturing the unearned value** in terms of users who do not maximize their subscription consumption; You pay to access 10 DVDs a month, but only use 5 DVDs. The subscription model pays out the same for the business owner, capturing the value for the 5 unused DVDs available to the customer. In the pay-per-use model, the business owner cannot acquire any more value than the specific customer usage allows.
+
+Lastly, I would agree that a subscription model has a certain advantage for **customer retention and loyalty**. Customers are less likely to purchase similar services from multiple vendors given a subscription model. Therefore you have the added benefit of retaining customers and preventing market share bleeding to competition. In the pay-per-usage model, there is no sunk cost for the customer, so switching between providers is simple and does not require the steps to cancel a subscription and initiate a new subscription with the competitor.
 
 
 ## Answer 12748
@@ -91,7 +86,7 @@ The licensing is much different.</p>
 - posted by: [ShestheFastest](https://stackexchange.com/users/9279546/shesthefastest) on 2017-05-30
 - score: -1
 
-<p>Because Netflix makes its money off of the lag time that mailing earns. Netflix does not want you to return the DVDs and wants long mail times. </p>
+Because Netflix makes its money off of the lag time that mailing earns. Netflix does not want you to return the DVDs and wants long mail times. 
 
 
 

@@ -4,8 +4,7 @@
 - tagged: `tech-company`, `united-states`, `legal`, `intellectual-property`, `lawyer`
 - score: 1
 
-<p>I need to get a document notarized by a US notary but I am not in US currently. Is it possible to get it notarized or I will need to visit US for it?</p>
-
+I need to get a document notarized by a US notary but I am not in US currently. Is it possible to get it notarized or I will need to visit US for it?
 
 
 ## Answer 2999

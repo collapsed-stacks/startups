@@ -4,16 +4,13 @@
 - tagged: `pricing`, `enterprise`
 - score: 3
 
-<p>It seems that many enterprise-focused sales pages for technology products don't show pricing. Here are some examples:</p>
+It seems that many enterprise-focused sales pages for technology products don't show pricing. Here are some examples:
 
-<ul>
-<li><a href="https://www.docker.com/support" rel="nofollow">https://www.docker.com/support</a> -- you have to contact sales to find out commercial support's pricing</li>
-<li><a href="https://getkong.org/enterprise/" rel="nofollow">https://getkong.org/enterprise/</a> -- ditto</li>
-<li><a href="https://www.hashicorp.com/consul.html" rel="nofollow">https://www.hashicorp.com/consul.html</a> -- ditto</li>
-</ul>
+ * https://www.docker.com/support -- you have to contact sales to find out commercial support's pricing
+ * https://getkong.org/enterprise/ -- ditto
+ * https://www.hashicorp.com/consul.html -- ditto
 
-<p>Why is this? What's wrong with displaying the price immediately? Don't customers get annoyed by this?</p>
-
+Why is this? What's wrong with displaying the price immediately? Don't customers get annoyed by this?
 
 
 ## Answer 8799
@@ -21,14 +18,12 @@
 - posted by: [fiprojects](https://stackexchange.com/users/5370155/fiprojects) on 2016-03-23
 - score: 3
 
-<ol>
-<li>Buying in bulk (as enterprise buyers would do - either hundreds of licenses or others of pieces of hardware or they might sign a contract saying they will buy a few hundred every month for 12months) will get discounts.</li>
-<li>Sometimes bulk is bought on credit, meaning the seller can charge interest. The interest might be taxed differently, so the seller might re-arrange the prices in order to take greater tax advantages.</li>
-<li>Buying something is not just buying something - Sometimes there are value added services. Because these can be taxed different than the purchase price, you could find the hardware is sold 'free' while a services contract is inflated. It would be a tax efficient sale (though the tax man in some regions might refer to it as tax avoidance). An example of this has been flagged for concern with the HP purchase of Autonmy. Supposedly Autonmy had booked a number of sales at a loss so that services could be offered at cost. <a href="https://en.wikipedia.org/wiki/HP_Autonomy" rel="nofollow">https://en.wikipedia.org/wiki/HP_Autonomy</a></li>
-</ol>
+ 1. Buying in bulk (as enterprise buyers would do - either hundreds of licenses or others of pieces of hardware or they might sign a contract saying they will buy a few hundred every month for 12months) will get discounts.
+ 2. Sometimes bulk is bought on credit, meaning the seller can charge interest. The interest might be taxed differently, so the seller might re-arrange the prices in order to take greater tax advantages.
+ 3. Buying something is not just buying something - Sometimes there are value added services. Because these can be taxed different than the purchase price, you could find the hardware is sold 'free' while a services contract is inflated. It would be a tax efficient sale (though the tax man in some regions might refer to it as tax avoidance). An example of this has been flagged for concern with the HP purchase of Autonmy. Supposedly Autonmy had booked a number of sales at a loss so that services could be offered at cost. https://en.wikipedia.org/wiki/HP_Autonomy
 
-<p>You will sometimes see deals like this for the ordinary consumer and not know it. For example, a croissant and coffee might be packaged whereby the coffee is free but the croissant is charged. Reason this might occur is some countries will apply a tax if food is heated. So if you charge $2 for the coffee/croissant, and the coffee is free, then no tax will be applied (just as an example) so the vendor can increase his profits without increasing the cost to the customer... The sale then becomes more attractive to the buyer, without any real cost.</p>
-
+You will sometimes see deals like this for the ordinary consumer and not know it. For example, a croissant and coffee might be packaged whereby the coffee is free but the croissant is charged. Reason this might occur is some countries will apply a tax if food is heated. So if you charge $2 for the coffee/croissant, and the coffee is free, then no tax will be applied (just as an example) so the vendor can increase his profits without increasing the cost to the customer... The sale then becomes more attractive to the buyer, without any real cost.
+ 
 
 
 ## Answer 8829

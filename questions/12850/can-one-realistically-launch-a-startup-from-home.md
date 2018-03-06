@@ -4,8 +4,7 @@
 - tagged: `tech-company`, `co-founder`
 - score: 1
 
-<p>I live in a place where tech startups are non-existent, thus I have no physical access to people with skills who might be willing to co-found. Can you realistically find co-founders/partners online? How successful such a path would be - when you don't have personal interactions with these people?</p>
-
+I live in a place where tech startups are non-existent, thus I have no physical access to people with skills who might be willing to co-found. Can you realistically find co-founders/partners online? How successful such a path would be - when you don't have personal interactions with these people?
 
 
 ## Answer 12854
@@ -82,23 +81,20 @@ Also it's very hard to spot if someone under-communicates and needs some encoura
 - posted by: [BrettFromLA](https://stackexchange.com/users/2813127/brettfromla) on 2017-06-16
 - score: 0
 
-<p>If you are willing to found the company yourself, and hire freelancers / consultants for specific business tasks, you can succeed. For example, you may hire online:</p>
+If you are willing to found the company yourself, and hire freelancers / consultants for specific business tasks, you can succeed. For example, you may hire online:
 
-<ul>
-<li>A business consultant to assist with your business plan.</li>
-<li>A person or team to program the website or app for you.</li>
-<li>1-2 people to maintain the website / app after it launches.</li>
-<li>A small firm to handle the marketing.</li>
-<li>A bookkeeping firm.</li>
-<li>Etc.</li>
-</ul>
+ - A business consultant to assist with your business plan.
+ - A person or team to program the website or app for you.
+ - 1-2 people to maintain the website / app after it launches.
+ - A small firm to handle the marketing.
+ - A bookkeeping firm.
+ - Etc.
 
-<p>You would be the one to envision the idea around which the business is formed. The business consultant would make sure the business is structured correctly, and the rest of your team would implement each of the aspects of the business. Your job would be to coordinate the activities of all the people and firms working for you, keep everybody moving in the same direction, hire new people as needed, let people go when needed (like the programmers after they finish the website/app), etc.</p>
+You would be the one to envision the idea around which the business is formed. The business consultant would make sure the business is structured correctly, and the rest of your team would implement each of the aspects of the business. Your job would be to coordinate the activities of all the people and firms working for you, keep everybody moving in the same direction, hire new people as needed, let people go when needed (like the programmers after they finish the website/app), etc.
 
-<p>EDIT:</p>
+EDIT:
 
-<p>The book "You Call the Shots", by Cameron Johnson, gives details of several successful online businesses Mr. Johnson started by working entirely with people he has never met. He has become a multimillionaire off of those businesses.</p>
-
+The book "You Call the Shots", by Cameron Johnson, gives details of several successful online businesses Mr. Johnson started by working entirely with people he has never met. He has become a multimillionaire off of those businesses.
 
 
 ## Answer 12856
@@ -106,32 +102,33 @@ Also it's very hard to spot if someone under-communicates and needs some encoura
 - posted by: [DukeZhou](https://stackexchange.com/users/4146639/dukezhou) on 2017-06-16
 - score: 0
 
-<p>I'd go so far as to say it should always start from home, (absent serious funding, of course.)</p>
+I'd go so far as to say it should always start from home, (absent serious funding, of course.)
 
-<p>My feeling is that "incubators" have become a hot trend, and rentable, shared spaces can be a profitable business. But I haven't seen data that startups located in an incubator or office are more likely to succeed.</p>
+My feeling is that "incubators" have become a hot trend, and rentable, shared spaces can be a profitable business. But I haven't seen data that startups located in an incubator or office are more likely to succeed.
 
-<p>In some sense, utilizing a non-home environment can convey the sense of "doing it".  This may well spur some individuals to be more productive, but anecdotally, I know of a few cases where individuals continue to "pursue" non-viable businesses, utilizing shared spaces to give the impression of seriousness.</p>
+In some sense, utilizing a non-home environment can convey the sense of "doing it".  This may well spur some individuals to be more productive, but anecdotally, I know of a few cases where individuals continue to "pursue" non-viable businesses, utilizing shared spaces to give the impression of seriousness.
 
-<p>Passion should be the primary motivator in launching a startup (because startups will fail) and if passion is the guide, it doesn't matter what the external environment is.</p>
+Passion should be the primary motivator in launching a startup (because startups will fail) and if passion is the guide, it doesn't matter what the external environment is.
 
-<p>I'll also note that <em>most startups fail because they run out of money</em>, so keeping overhead as low as possible is a very good strategy.  Home-based business is the soul of low overhead, and profoundly facilitated by information technology in the current era. (Plus, you can often write off the portion of your home used for the business;)</p>
+I'll also note that *most startups fail because they run out of money*, so keeping overhead as low as possible is a very good strategy.  Home-based business is the soul of low overhead, and profoundly facilitated by information technology in the current era. (Plus, you can often write off the portion of your home used for the business;)
 
-<hr>
+-----------------------------------------
 
-<p>In terms of partnering, you can find people online, but there is a much greater degree of risk in not working though a network of trusted peers.  (In my own scenario, we avoided this route because the project involved proprietary Intellectual property.)</p>
+In terms of partnering, you can find people online, but there is a much greater degree of risk in not working though a network of trusted peers.  (In my own scenario, we avoided this route because the project involved proprietary Intellectual property.)
 
-<p>As dan_kaufhold notes, trust is the most important thing.</p>
+As dan_kaufhold notes, trust is the most important thing.
 
-<p>Good contracts are the way to manage this issue.  You can tell a lot about a person by the type of deal they propose, or their reaction to your offer, assuming your offer is fair. </p>
+Good contracts are the way to manage this issue.  You can tell a lot about a person by the type of deal they propose, or their reaction to your offer, assuming your offer is fair. 
 
-<p>Good contracts will protect you, but it can still get expensive if money starts to come and things fall apart. (Certain people go crazy at the first hint of money, and some go crazy even before that, based on projections in a business plan;) The human factor is the trickiest.</p>
+Good contracts will protect you, but it can still get expensive if money starts to come and things fall apart. (Certain people go crazy at the first hint of money, and some go crazy even before that, based on projections in a business plan;) The human factor is the trickiest.
 
-<p>My advice here would be to find people with a shared interest in the project, get to know them as well as you can remotely, try to gauge their character by how they conduct themselves, and forge a win-win deal that protects all parties but avoids common pitfalls.*</p>
+My advice here would be to find people with a shared interest in the project, get to know them as well as you can remotely, try to gauge their character by how they conduct themselves, and forge a win-win deal that protects all parties but avoids common pitfalls.*
 
-<hr>
+------------------------------------------------------------
+*A very common pitfall are deadlocks that require the dissolution of the partnership. This can be problematic in a two partner, 50/50 situation.  If you go below 50%, you could also lose control of the company.  
 
-<p>*A very common pitfall are deadlocks that require the dissolution of the partnership. This can be problematic in a two partner, 50/50 situation.  If you go below 50%, you could also lose control of the company.  </p>
 
+ 
 
 
 

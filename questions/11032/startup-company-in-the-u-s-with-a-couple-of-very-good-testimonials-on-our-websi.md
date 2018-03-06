@@ -4,12 +4,11 @@
 - tagged: `sales`
 - score: 2
 
-<p>I have a startup company based in the US with couple of small projects I did for 2 medium size companies. I have a website where we present our services with an amazing feedback from clients.</p>
+I have a startup company based in the US with couple of small projects I did for 2 medium size companies. I have a website where we present our services with an amazing feedback from clients.
 
-<p>My questions is, how do sales people know how to contact a company? Whom do I contact in that company? Do I send them on LinkedIn? or do I call them at the office? Whom do I call, the highest manager? or the director? Who is the one taking decisions?</p>
+My questions is, how do sales people know how to contact a company? Whom do I contact in that company? Do I send them on LinkedIn? or do I call them at the office? Whom do I call, the highest manager? or the director? Who is the one taking decisions?
 
-<p>Any help is appreciated. </p>
-
+Any help is appreciated. 
 
 
 ## Answer 11037

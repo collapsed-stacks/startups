@@ -4,8 +4,7 @@
 - tagged: `equity`, `vesting`
 - score: 0
 
-<p>Can your start date be set arbitrarily or does it have to go into effect the same day you sign the contract?</p>
-
+Can your start date be set arbitrarily or does it have to go into effect the same day you sign the contract?
 
 
 ## Answer 7977
@@ -13,8 +12,7 @@
 - posted by: [Luke Gedeon](https://stackexchange.com/users/1119600/luke-gedeon) on 2015-11-30
 - score: 2
 
-<p>You can do anything that the bylaws of the LLP or corporation allows. If you are writing the bylaws, feel free to edit the question and we can discuss whether allowing this is a good idea or not.</p>
-
+You can do anything that the bylaws of the LLP or corporation allows. If you are writing the bylaws, feel free to edit the question and we can discuss whether allowing this is a good idea or not.
 
 
 ## Answer 7987
@@ -22,12 +20,11 @@
 - posted by: [Nirmal Shah](https://stackexchange.com/users/7398429/nirmal-shah) on 2015-12-02
 - score: 1
 
-<p>We have done this ourselves - so the short answer is "yes". The long answer is as what Luke Gedeon says.</p>
+We have done this ourselves - so the short answer is "yes". The long answer is as what Luke Gedeon says.
 
-<p>One of the reasons to make is retroactive could be that the company may been formed as a partnership, or S-corp or some some such structure, and when the time is right, founders and initial employees are brought into the stock option fold. In which case, the company may choose to make the options vest retroactively. This need not be just by a few days, but can even be by several months, depending on when the company was actually incorporated. </p>
+One of the reasons to make is retroactive could be that the company may been formed as a partnership, or S-corp or some some such structure, and when the time is right, founders and initial employees are brought into the stock option fold. In which case, the company may choose to make the options vest retroactively. This need not be just by a few days, but can even be by several months, depending on when the company was actually incorporated. 
 
-<p>It could mean additional paperwork through, and is best done by involving professionals.</p>
-
+It could mean additional paperwork through, and is best done by involving professionals.
 
 
 

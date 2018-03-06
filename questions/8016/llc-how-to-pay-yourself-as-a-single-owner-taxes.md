@@ -4,23 +4,21 @@
 - tagged: `taxes`, `llc`, `payment`
 - score: 6
 
-<p>So, I have recently created an LLC and although income is fairly limited from this, I'm wondering how I can legally and IRS-appropriately take money from the account for personal use. </p>
+So, I have recently created an LLC and although income is fairly limited from this, I'm wondering how I can legally and IRS-appropriately take money from the account for personal use. 
 
-<p>I would figure that I can make transfers (since the business bank account and my bank account are sort of linked) and record every transfer.  But when thinking about taxes, what does that mean for me or my company?</p>
+I would figure that I can make transfers (since the business bank account and my bank account are sort of linked) and record every transfer.  But when thinking about taxes, what does that mean for me or my company?
 
-<blockquote>
-  <p>The IRS by default considers a single-member LLC as a “disregarded entity” for tax purposes and treats it as a sole proprietorship.</p>
-</blockquote>
+> The IRS by default considers a single-member LLC as a “disregarded entity” for tax purposes and treats it as a sole proprietorship.
 
-<p>-<a href="http://smallbusiness.chron.com/pay-myself-llc-3658.html">http://smallbusiness.chron.com/pay-myself-llc-3658.html</a></p>
+-http://smallbusiness.chron.com/pay-myself-llc-3658.html
 
-<p>But unfortunately, I don't understand these words - it's not english to me! (I'm a web designer/developer... I understand many code languages, but not business talk!) </p>
 
-<p>I figure paying myself does not affect the bottom line of the business income, but does the business have to file a form for me with the amount given?  Do I have to file personal taxes showing that the business paid me?</p>
+But unfortunately, I don't understand these words - it's not english to me! (I'm a web designer/developer... I understand many code languages, but not business talk!) 
 
-<p>Any help (in small words) would be greatly appreciated!
-Thanks!</p>
+I figure paying myself does not affect the bottom line of the business income, but does the business have to file a form for me with the amount given?  Do I have to file personal taxes showing that the business paid me?
 
+Any help (in small words) would be greatly appreciated!
+Thanks!
 
 
 ## Answer 8018
@@ -28,14 +26,13 @@ Thanks!</p>
 - posted by: [Luke Gedeon](https://stackexchange.com/users/1119600/luke-gedeon) on 2015-12-06
 - score: 3
 
-<p>LLC provides some protection of your personal assets from the liabilities of the company. From the IRS perspective, though, all company income is yours immediately no matter what account it may be in, and all expenses are personally yours as well.</p>
+LLC provides some protection of your personal assets from the liabilities of the company. From the IRS perspective, though, all company income is yours immediately no matter what account it may be in, and all expenses are personally yours as well.
 
-<p>In other words, the limited liability company provides limited protection from creditors, customers, contractors and other organizations, but nothing... absolutely... nothing... protects you from the IRS.</p>
+In other words, the limited liability company provides limited protection from creditors, customers, contractors and other organizations, but nothing... absolutely... nothing... protects you from the IRS.
 
-<p>For tax purposes you will report your income and expenses on a Schedule C just as if there was no LLC.</p>
+For tax purposes you will report your income and expenses on a Schedule C just as if there was no LLC.
 
-<p>The only difference would be if you had a partner, but it sounds like you are a single member LLC. I can update the answer if that is not the case.</p>
-
+The only difference would be if you had a partner, but it sounds like you are a single member LLC. I can update the answer if that is not the case.
 
 
 ## Answer 8019
@@ -43,8 +40,7 @@ Thanks!</p>
 - posted by: [Paparazzi](https://stackexchange.com/users/300272/paparazzi) on 2015-12-07
 - score: 1
 
-<p>Paying yourself and paying taxes are different.  You pay taxes and then you transfer to you want you chose.  What you really need to be careful about is paying yourself too much and moving money back as that is commingling of funds.  What you need to do there is formally loan money to you company.  Consult an attorney and or CPA.  </p>
-
+Paying yourself and paying taxes are different.  You pay taxes and then you transfer to you want you chose.  What you really need to be careful about is paying yourself too much and moving money back as that is commingling of funds.  What you need to do there is formally loan money to you company.  Consult an attorney and or CPA.  
 
 
 ## Answer 8262

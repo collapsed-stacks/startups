@@ -4,8 +4,7 @@
 - tagged: `legal`, `international`, `e-commerce`, `merchant-services`
 - score: 1
 
-<p>I'am planning to start of putting up a startup e-commerce hosting site. Users will pay for the monthly subscription. I want to offer the service to people globally but I'm very concerned about the legal laws from some countries that I should adapt as well, I was about to start the process to register my planned business in our local government here to make it legal. If ever I make my services available international is the license I get from my local government enough to make my services available international?</p>
-
+I'am planning to start of putting up a startup e-commerce hosting site. Users will pay for the monthly subscription. I want to offer the service to people globally but I'm very concerned about the legal laws from some countries that I should adapt as well, I was about to start the process to register my planned business in our local government here to make it legal. If ever I make my services available international is the license I get from my local government enough to make my services available international?
 
 
 ## Answer 5599

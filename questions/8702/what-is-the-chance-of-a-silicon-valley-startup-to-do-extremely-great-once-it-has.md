@@ -4,10 +4,9 @@
 - tagged: `valuation`
 - score: 3
 
-<p>The probability of success of a startup is extremely small. What is the probability of success <strong>knowing that</strong> the startup had a few rounds of funding (~$100M) and already more than 100 employees ?
+The probability of success of a startup is extremely small. What is the probability of success **knowing that** the startup had a few rounds of funding (~$100M) and already more than 100 employees ?
 By success I mean see its valuation do 10x over the next few years
-Thanks!</p>
-
+Thanks!
 
 
 ## Answer 8703
@@ -15,15 +14,15 @@ Thanks!</p>
 - posted by: [Ron Beyer](https://stackexchange.com/users/6154727/ron-beyer) on 2016-03-10
 - score: 4
 
-<p>Funding and employees doesn't mean its necessarily a successful company. Some companies are great at convincing people to give them money but really bad at producing anything. </p>
+Funding and employees doesn't mean its necessarily a successful company. Some companies are great at convincing people to give them money but really bad at producing anything. 
 
-<p>Here are some prime examples:</p>
+Here are some prime examples:
 
-<p><a href="http://www.theverge.com/2015/11/17/9750890/rdio-shutdown-pandora" rel="nofollow">Rdio</a> - Streaming music service that raised about $200m in funding and closed its doors.</p>
+[Rdio](http://www.theverge.com/2015/11/17/9750890/rdio-shutdown-pandora) - Streaming music service that raised about $200m in funding and closed its doors.
 
-<p><a href="http://fortune.com/kior-vinod-khosla-clean-tech/" rel="nofollow">Kior</a> - Biofuel Tech Company, spent $600m then filed for bankruptcy. Was VC funded.</p>
+[Kior](http://fortune.com/kior-vinod-khosla-clean-tech/) - Biofuel Tech Company, spent $600m then filed for bankruptcy. Was VC funded.
 
-<p>In fact, I've found an entire article that lists <a href="https://www.cbinsights.com/blog/biggest-startup-failures/" rel="nofollow">77 of the Biggest Startup Failures of All-Time</a> which uses $100m in funding as its bottom-end.</p>
+In fact, I've found an entire article that lists [77 of the Biggest Startup Failures of All-Time](https://www.cbinsights.com/blog/biggest-startup-failures/) which uses $100m in funding as its bottom-end.
 
 
 

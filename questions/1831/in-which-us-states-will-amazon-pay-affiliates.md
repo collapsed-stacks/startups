@@ -4,8 +4,7 @@
 - tagged: `sales`, `e-commerce`
 - score: 3
 
-<p>An Amazon affiliate account enables you to receive a percentage of Amazon's sales revenue for buyers you refer to them. This also applies if you create an Amazon-based store on your site. However, some states in the US are not eligible for this payment. I'm looking for a list of states that <em>are</em>.</p>
-
+An Amazon affiliate account enables you to receive a percentage of Amazon's sales revenue for buyers you refer to them. This also applies if you create an Amazon-based store on your site. However, some states in the US are not eligible for this payment. I'm looking for a list of states that *are*.
 
 
 ## Answer 1833

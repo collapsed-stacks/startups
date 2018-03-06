@@ -4,15 +4,14 @@
 - tagged: `learning`
 - score: 2
 
-<p>I was reading about the CORe program at Harvard - and the buzz is pretty appealing. Plus, the name recognition doesn't hurt as I'm a job search. </p>
+I was reading about the CORe program at Harvard - and the buzz is pretty appealing. Plus, the name recognition doesn't hurt as I'm a job search. 
 
-<p><a href="http://hbx.hbs.edu/hbx-core/" rel="nofollow">http://hbx.hbs.edu/hbx-core/</a></p>
+http://hbx.hbs.edu/hbx-core/
 
-<p>Have any of you had experience with this program? Would appreciate any thoughts, opinions or input.</p>
+Have any of you had experience with this program? Would appreciate any thoughts, opinions or input.
 
-<p>Thanks!
-Matt</p>
-
+Thanks!
+Matt
 
 
 ## Answer 8092
@@ -20,14 +19,13 @@ Matt</p>
 - posted by: [Jimnotgym](https://stackexchange.com/users/7461839/jimnotgym) on 2015-12-12
 - score: 1
 
-<p>Lots of entrepreneurs never went to college</p>
+Lots of entrepreneurs never went to college
 
-<p>Lots of tech entrepreneurs never studied business</p>
+Lots of tech entrepreneurs never studied business
 
-<p>Lots of business people got their via accountancy, sales or law rather than MBA</p>
+Lots of business people got their via accountancy, sales or law rather than MBA
 
-<p>Depends really, what you really want to do with your life! You say you are looking for a job. Do you want a job or do you want to be an entrepreneur?</p>
-
+Depends really, what you really want to do with your life! You say you are looking for a job. Do you want a job or do you want to be an entrepreneur?
 
 
 

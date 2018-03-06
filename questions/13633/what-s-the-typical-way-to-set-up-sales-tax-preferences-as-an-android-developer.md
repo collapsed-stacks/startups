@@ -4,8 +4,7 @@
 - tagged: `taxes`, `android-development`
 - score: -1
 
-<p>I'm selling an app through the Android app store and there is a setting for the United States: "Use Google tax data for all states." Is this the correct thing to do by default, tax-wise, as a US-incorporated business?</p>
-
+I'm selling an app through the Android app store and there is a setting for the United States: "Use Google tax data for all states." Is this the correct thing to do by default, tax-wise, as a US-incorporated business?
 
 ## No Answers
 

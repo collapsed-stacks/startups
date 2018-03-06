@@ -4,10 +4,9 @@
 - tagged: `tech-company`, `software`
 - score: 2
 
-<p><strong>My background is as follows:</strong> I have almost no programming experience to speak of (I programmed a game mod in Jr. High and have since been dormant for 15 years).  I'm quite comfortable with both vim and emacs (having used them general purpose text editing in the past).   I have a graduate degree in mathematics with research experience in logic. I've read from cover to cover <em>The C Programming Language</em> (doing about 1/4 of the exercises) and <em>The Pragmatic Programmer</em>.  I felt that the concepts discussed in these books came quite natural to me, although I suspect <em>reading</em> about programming is akin to reading about how to have sex (i.e., next to worthless in practice).</p>
+**My background is as follows:** I have almost no programming experience to speak of (I programmed a game mod in Jr. High and have since been dormant for 15 years).  I'm quite comfortable with both vim and emacs (having used them general purpose text editing in the past).   I have a graduate degree in mathematics with research experience in logic. I've read from cover to cover *The C Programming Language* (doing about 1/4 of the exercises) and *The Pragmatic Programmer*.  I felt that the concepts discussed in these books came quite natural to me, although I suspect *reading* about programming is akin to reading about how to have sex (i.e., next to worthless in practice).
 
-<p><strong>My primary programming goal is to be able to construct rough software prototypes as rapidly as possible.</strong>  I'd also like to understand the big picture of how things are operating at the software level.   Unfortunately, I don't yet know if our first prototype is going to involve an iOS application or a web app.  With this in mind, what's the best technical content I can consume in the short-run (with an eye towards rapid prototyping) before I know what it is I'm actually trying to build and test?</p>
-
+**My primary programming goal is to be able to construct rough software prototypes as rapidly as possible.**  I'd also like to understand the big picture of how things are operating at the software level.   Unfortunately, I don't yet know if our first prototype is going to involve an iOS application or a web app.  With this in mind, what's the best technical content I can consume in the short-run (with an eye towards rapid prototyping) before I know what it is I'm actually trying to build and test?
 
 
 ## Answer 655
@@ -15,8 +14,7 @@
 - posted by: [Brad Rhoads](https://stackexchange.com/users/42121/brad-rhoads) on 2014-09-09
 - score: 3
 
-<p>If you can do math, you can code. I'm not a big fan of javascript, but you'll have to use it on the front end for a webapp. And you <em>can</em> use it on the backend with node.js. That gives you the advantage of only having to learn one language (along with HTML and CSS). And with PhoneGap or Appcelerator, you can target mobile with the same skills.</p>
-
+If you can do math, you can code. I'm not a big fan of javascript, but you'll have to use it on the front end for a webapp. And you *can* use it on the backend with node.js. That gives you the advantage of only having to learn one language (along with HTML and CSS). And with PhoneGap or Appcelerator, you can target mobile with the same skills.
 
 
 ## Answer 656

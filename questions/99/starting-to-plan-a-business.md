@@ -4,10 +4,9 @@
 - tagged: `business-plan`, `business-proposal`
 - score: 1
 
-<p>To develop an idea for a business, there are some things that I must be aware of. Not all ideas can be formed into a good business, others they may required some work or refurbishment in order to business sense. </p>
+To develop an idea for a business, there are some things that I must be aware of. Not all ideas can be formed into a good business, others they may required some work or refurbishment in order to business sense. 
 
-<p>How can I ensure that all of the basics concepts are analyzed? What tools/resources/models can I use that can agglomerate all the essential concepts?  </p>
-
+How can I ensure that all of the basics concepts are analyzed? What tools/resources/models can I use that can agglomerate all the essential concepts?  
 
 
 ## Answer 101

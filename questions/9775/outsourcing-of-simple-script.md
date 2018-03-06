@@ -4,16 +4,15 @@
 - tagged: `outsourcing`
 - score: 1
 
-<p>We are a small startup getting bogged down by paperwork as part of handling customer orders (requesting extra info, pulling customer info from online site A to template B, sending confirmation mails etc).</p>
+We are a small startup getting bogged down by paperwork as part of handling customer orders (requesting extra info, pulling customer info from online site A to template B, sending confirmation mails etc).
 
-<p>We are looking to further trim our processes and are considering creating a small script/program that eg takes an order ID and a few inputs and then cuts through multiple steps (eg create invoice, send mail, print xyz, ...).</p>
+We are looking to further trim our processes and are considering creating a small script/program that eg takes an order ID and a few inputs and then cuts through multiple steps (eg create invoice, send mail, print xyz, ...).
 
-<p>Do you have good sites for outsourcing small projects like this to programmers at fixed rate agreed costs?</p>
+Do you have good sites for outsourcing small projects like this to programmers at fixed rate agreed costs?
 
-<p>Also, if some of you have good suggestions for free/cheap software/tools that might help trim time in order handling, it would be highly valuable!</p>
+Also, if some of you have good suggestions for free/cheap software/tools that might help trim time in order handling, it would be highly valuable!
 
-<p>Thank you!</p>
-
+Thank you!
 
 
 ## Answer 9778

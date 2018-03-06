@@ -4,17 +4,16 @@
 - tagged: `software`, `advertising`
 - score: 1
 
-<p>Recently I've developed a program for desktop PC which creates backup of databases from site and saves it into numerous cloud storages with restore capability (call it Z). </p>
+Recently I've developed a program for desktop PC which creates backup of databases from site and saves it into numerous cloud storages with restore capability (call it Z). 
 
-<p>After that I've decided to start software business and my first software must be Z, but I faced with problems: 
-it's 2017 year on the street, now mobile and web applications are trendings, but desktop apps become a little bit outsiders. Where I can advertise my app (forums, sites, etc.), is this worth to use crowdfunding tools for advertise it, or exists a specific solution for desktop applications advertisement? </p>
+After that I've decided to start software business and my first software must be Z, but I faced with problems: 
+it's 2017 year on the street, now mobile and web applications are trendings, but desktop apps become a little bit outsiders. Where I can advertise my app (forums, sites, etc.), is this worth to use crowdfunding tools for advertise it, or exists a specific solution for desktop applications advertisement? 
 
-<p>Please, share your experience in promoting desktop application.</p>
+Please, share your experience in promoting desktop application.
 
-<p>Thank you for your advices and time.</p>
+Thank you for your advices and time.
 
-<p>P.S. Sorry if a selected hub for the question is wrong. The more acceptable i found only Freelancing hub.</p>
-
+P.S. Sorry if a selected hub for the question is wrong. The more acceptable i found only Freelancing hub.
 
 
 ## Answer 12523
@@ -50,12 +49,11 @@ your specific industry.</li>
 - posted by: [RyanFromGDSE](https://stackexchange.com/users/918629/ryanfromgdse) on 2017-07-12
 - score: 1
 
-<p>Network, network, and network some more. A product like yours sounds very much geared for industry and corporate usage. With that in mind you need to be cold calling, joining trade organizations, exhibiting at trade shows, and getting out there to networking events where your target audience is likely to be.</p>
+Network, network, and network some more. A product like yours sounds very much geared for industry and corporate usage. With that in mind you need to be cold calling, joining trade organizations, exhibiting at trade shows, and getting out there to networking events where your target audience is likely to be.
 
-<p>Start building a list of potential leads from these events and pursuing them. Don't harass them but do reach out. Schedule lunch meetings, webinars, demos to prove to them that what you're offering will have a positive impact on their revenue. It will take work and time.</p>
+Start building a list of potential leads from these events and pursuing them. Don't harass them but do reach out. Schedule lunch meetings, webinars, demos to prove to them that what you're offering will have a positive impact on their revenue. It will take work and time.
 
-<p>Running an ad would be incredibly wasteful right now. You need to focus on getting in front of buyers personally until you get more established. </p>
-
+Running an ad would be incredibly wasteful right now. You need to focus on getting in front of buyers personally until you get more established. 
 
 
 

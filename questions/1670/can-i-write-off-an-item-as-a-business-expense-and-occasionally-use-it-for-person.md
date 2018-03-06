@@ -4,16 +4,13 @@
 - tagged: `united-states`, `legal`, `taxes`
 - score: 7
 
-<p>As an example, I own a small business (just me) and purchased a new smart-phone and phone plan (with unlimited talk, text, and data) for the business with company funds. My rule for this phone and plan is for it to be "business use only", however, if I'm stuck in an unfortunate situation, I sometimes use my phone and plan for not-so-business needs such as:</p>
+As an example, I own a small business (just me) and purchased a new smart-phone and phone plan (with unlimited talk, text, and data) for the business with company funds. My rule for this phone and plan is for it to be "business use only", however, if I'm stuck in an unfortunate situation, I sometimes use my phone and plan for not-so-business needs such as:
 
-<ul>
-<li>Wifi hotspot to perform personal tasks</li>
-<li>Personal calls and texts</li>
-<li>Develop phone apps that aren't related to my business</li>
-</ul>
+ * Wifi hotspot to perform personal tasks
+ * Personal calls and texts
+ * Develop phone apps that aren't related to my business
 
-<p>Would I still be able to write this phone and phone plan off as a business expense?</p>
-
+Would I still be able to write this phone and phone plan off as a business expense?
 
 
 ## Answer 1671

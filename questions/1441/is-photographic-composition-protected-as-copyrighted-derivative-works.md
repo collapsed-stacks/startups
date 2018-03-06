@@ -4,15 +4,15 @@
 - tagged: `copyright`, `patent`
 - score: 2
 
-<p>Example:</p>
+Example:
 
-<p>In shooting photographs for the marketing of a product company A experiments with various arrangements and lighting techniques through A/B testing until a winning formula is found.  This includes the placement of the objects relative to each other as well as the lighting and effects applied (highlighting, darkening, blurring, etc.) during post-processing with tools such as Photoshop.  The company files for Copyright protection on these photographs.</p>
+In shooting photographs for the marketing of a product company A experiments with various arrangements and lighting techniques through A/B testing until a winning formula is found.  This includes the placement of the objects relative to each other as well as the lighting and effects applied (highlighting, darkening, blurring, etc.) during post-processing with tools such as Photoshop.  The company files for Copyright protection on these photographs.
 
-<p>A competitor, company B, copies the composition, arrangement, lighting and digital techniques.  They use all of this to effectively create images with the same "look and feel" except that instead of featuring company A's product it shows company B's product.</p>
+A competitor, company B, copies the composition, arrangement, lighting and digital techniques.  They use all of this to effectively create images with the same "look and feel" except that instead of featuring company A's product it shows company B's product.
 
-<p>When viewed side-by-side the images look strikingly similar in "look and feel" except for featuring different products.</p>
+When viewed side-by-side the images look strikingly similar in "look and feel" except for featuring different products.
 
-<p>Can company A protect it's "look and feel" based on their copyrighted images by reaching for the derivative works protection?</p>
+Can company A protect it's "look and feel" based on their copyrighted images by reaching for the derivative works protection?
 
 
 

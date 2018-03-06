@@ -4,8 +4,7 @@
 - tagged: `marketing`, `advertising`
 - score: -2
 
-<p>Can somebody give me a link to free fonts that I can use in the advertisement for the company? </p>
-
+Can somebody give me a link to free fonts that I can use in the advertisement for the company? 
 
 
 ## Answer 11184
@@ -13,10 +12,9 @@
 - posted by: [Yigit Cakar](https://stackexchange.com/users/4989760/yigit-cakar) on 2016-09-22
 - score: 2
 
-<p><a href="https://fonts.google.com" rel="nofollow">https://fonts.google.com</a> is always a good start. </p>
+https://fonts.google.com is always a good start. 
 
-<p>If you want something artsy then head on to <a href="https://www.behance.net/collection/4860923/Free-Fonts" rel="nofollow">https://www.behance.net/collection/4860923/Free-Fonts</a></p>
-
+If you want something artsy then head on to https://www.behance.net/collection/4860923/Free-Fonts
 
 
 

@@ -4,55 +4,57 @@
 - tagged: `vesting`, `yc-how-to-start-a-startup`
 - score: 7
 
-<p>Whats the difference between forward vesting and pyramid vesting?<br>
-Which one should an early startups and a late stage startups use and why?</p>
+Whats the difference between forward vesting and pyramid vesting?  
+Which one should an early startups and a late stage startups use and why?
 
-<p>This question is based on <a href="http://startupclass.samaltman.com/courses/lec20/" rel="nofollow">"How to Start a Startup" - Lecture 20: Later-Stage Advice</a>, by Sam Altman; following is the excerpted from the <a href="https://www.youtube.com/watch?v=59ZQ-rf6iIc" rel="nofollow">video presentation</a>:</p>
 
-<blockquote>
-  <p>One thing that I think is really important when it comes to HR is
-  equity. Most people get this right now for the early employees. They
-  give a lot of equity. But you should continue to give a lot of equity
-  all the way through. And this is one place that you investors will
-  always give you bad advice. I think - not YC. But all other investors
-  give bad advice here. Most do. You should be giving out a lot of
-  equity to your employees. Now this dilutes everyone.</p>
-  
-  <p>Right? This dilutes you as the founder and the investors equally. For
-  some reason founder usually understand this as good. Investors are
-  very short-sighted and don’t want to dilute themselves so they'll like
-  fight you over every equity grant. But, we've seen a lot of data at YC
-  now and the most successful companies - and the ones where the
-  investors do the best - end up given a lot of stock out to employees.
-  Year after year... After year.</p>
-  
-  <p>So I tell founders, "You should think about for the next ten years
-  you're going to be given out 3- 5 percent of the company every year
-  'cause you just get bigger and bigger. So the individual grants gets
-  smaller but in actuality it's a lot of stock. This is really important
-  to do if you value your people you should be doing this. Specifically,
-  you need to do this with refresher grants. And you should get a plan
-  in place for this early. You never want an employee in a place where
-  they vested 3 out of their four years in stock and they start thinking
-  about leaving. So you should ALWAYS stay in front of peoples vesting
-  schedules. And you know how they plan early where you have refresher
-  grants in place.</p>
-  
-  <p>There are a lot of new structures that people have been using here. I
-  personally like six year big grants - but six years of vesting. 'Cause
-  I think these companies take a while to build. There's <strong>pyramid vesting</strong>
-  where you back weight someone’s grant. In year four they get a lot
-  more of the vesting than year one. There's a concept - different names
-  for it, but something like <strong>continuous forward vesting</strong> where people's
-  grants are automatically re-upped. Every year. At the same number of
-  share. Whatever you decide, get an option management system in place
-  at about this point. The normal way people do this is just someone
-  keeps an Excel spreadsheet. I have seen mistakes that have cost
-  employees or companies tens of millions of dollars because they didn't
-  get this right.There's really good option management systems or
-  software and you should get those in place around this point.</p>
-</blockquote>
+This question is based on ["How to Start a Startup" - Lecture 20: Later-Stage Advice][1], by Sam Altman; following is the excerpted from the [video presentation][2]:
 
+> One thing that I think is really important when it comes to HR is
+> equity. Most people get this right now for the early employees. They
+> give a lot of equity. But you should continue to give a lot of equity
+> all the way through. And this is one place that you investors will
+> always give you bad advice. I think - not YC. But all other investors
+> give bad advice here. Most do. You should be giving out a lot of
+> equity to your employees. Now this dilutes everyone.
+> 
+> Right? This dilutes you as the founder and the investors equally. For
+> some reason founder usually understand this as good. Investors are
+> very short-sighted and don’t want to dilute themselves so they'll like
+> fight you over every equity grant. But, we've seen a lot of data at YC
+> now and the most successful companies - and the ones where the
+> investors do the best - end up given a lot of stock out to employees.
+> Year after year... After year.
+> 
+> So I tell founders, "You should think about for the next ten years
+> you're going to be given out 3- 5 percent of the company every year
+> 'cause you just get bigger and bigger. So the individual grants gets
+> smaller but in actuality it's a lot of stock. This is really important
+> to do if you value your people you should be doing this. Specifically,
+> you need to do this with refresher grants. And you should get a plan
+> in place for this early. You never want an employee in a place where
+> they vested 3 out of their four years in stock and they start thinking
+> about leaving. So you should ALWAYS stay in front of peoples vesting
+> schedules. And you know how they plan early where you have refresher
+> grants in place.
+> 
+> There are a lot of new structures that people have been using here. I
+> personally like six year big grants - but six years of vesting. 'Cause
+> I think these companies take a while to build. There's **pyramid vesting**
+> where you back weight someone’s grant. In year four they get a lot
+> more of the vesting than year one. There's a concept - different names
+> for it, but something like **continuous forward vesting** where people's
+> grants are automatically re-upped. Every year. At the same number of
+> share. Whatever you decide, get an option management system in place
+> at about this point. The normal way people do this is just someone
+> keeps an Excel spreadsheet. I have seen mistakes that have cost
+> employees or companies tens of millions of dollars because they didn't
+> get this right.There's really good option management systems or
+> software and you should get those in place around this point.
+
+
+  [1]: http://startupclass.samaltman.com/courses/lec20/
+  [2]: https://www.youtube.com/watch?v=59ZQ-rf6iIc
 
 
 ## Answer 1835

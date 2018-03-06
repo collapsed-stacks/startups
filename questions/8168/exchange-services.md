@@ -4,10 +4,9 @@
 - tagged: `tech-company`, `saas`
 - score: 1
 
-<p>We are a small startup company with a SaaS solution, I wonder if there is any place (website) where startups can exchange services between each other?</p>
+We are a small startup company with a SaaS solution, I wonder if there is any place (website) where startups can exchange services between each other?
 
-<p>Thank you!</p>
-
+Thank you!
 
 
 ## Answer 8185

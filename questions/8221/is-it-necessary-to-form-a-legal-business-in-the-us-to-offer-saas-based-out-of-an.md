@@ -4,8 +4,7 @@
 - tagged: `united-states`, `taxes`, `business-registration`, `international`, `saas`
 - score: 1
 
-<p>If I have a Saas business in my own country (Brazil), which is purely online and uses API licensing as the revenue model, would I have to set up a business in the US to be able to offer the service there? Or would it be necessary in order to advertise and get more business users?</p>
-
+If I have a Saas business in my own country (Brazil), which is purely online and uses API licensing as the revenue model, would I have to set up a business in the US to be able to offer the service there? Or would it be necessary in order to advertise and get more business users?
 
 
 ## Answer 8224

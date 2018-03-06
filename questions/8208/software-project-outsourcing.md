@@ -4,9 +4,8 @@
 - tagged: `software`, `outsourcing`
 - score: 2
 
-<p>I wonder how software start-ups manage to get projects.
-I have not been part of any software company, so I just wanted to know how software start-ups outsource projects. Is it possible for a person who doesn't have any experience in software to start a software company?</p>
-
+I wonder how software start-ups manage to get projects.
+I have not been part of any software company, so I just wanted to know how software start-ups outsource projects. Is it possible for a person who doesn't have any experience in software to start a software company?
 
 
 ## Answer 8211
@@ -14,25 +13,20 @@ I have not been part of any software company, so I just wanted to know how softw
 - posted by: [Mahabub Islam Prio](https://stackexchange.com/users/3971990/mahabub-islam-prio) on 2015-12-28
 - score: 1
 
-<p>You see , you need very basic idea about specific section of software service , that you are going to provide to your customer . thus , </p>
+You see , you need very basic idea about specific section of software service , that you are going to provide to your customer . thus , 
 
-<ul>
-<li>You can determine what is suitable for your customer.</li>
-<li>You can determine the cost for the service honestly.</li>
-<li>You can get the job done by your employee as per requirements .</li>
-<li>You can be a successful one in this field by this.</li>
-</ul>
+ - You can determine what is suitable for your customer.
+ - You can determine the cost for the service honestly.
+ - You can get the job done by your employee as per requirements .
+ - You can be a successful one in this field by this.
 
-<blockquote>
-  <p>Let me tell you something , do not run after customer service until
-  you see yourself fit . And please , you will not get anything done
-  until you start doing wrong thing .</p>
-</blockquote>
+> Let me tell you something , do not run after customer service until
+> you see yourself fit . And please , you will not get anything done
+> until you start doing wrong thing .
 
-<p><strong>“The best time to plant a tree was 20 years ago. The second best time is now.” – Chinese Proverb</strong></p>
+**“The best time to plant a tree was 20 years ago. The second best time is now.” – Chinese Proverb**
 
-<p>So , Start but cautiously .</p>
-
+So , Start but cautiously .
 
 
 ## Answer 8217
@@ -40,46 +34,39 @@ I have not been part of any software company, so I just wanted to know how softw
 - posted by: [Robert Byrne](https://stackexchange.com/users/5232876/robert-byrne) on 2015-12-29
 - score: 1
 
-<blockquote>
-  <p>Is it possible for a person who doesn't have any experience in software to start a software company?</p>
-</blockquote>
+> Is it possible for a person who doesn't have any experience in software to start a software company?
 
-<p>The <strong>short answer</strong> is...</p>
+The **short answer** is...
 
-<p>Yes, anything is possible.</p>
+Yes, anything is possible.
 
-<p>The <strong>long answer</strong> is a lot more complicated.</p>
+The **long answer** is a lot more complicated.
 
-<blockquote>
-  <p>how software start-ups outsource projects.</p>
-</blockquote>
+> how software start-ups outsource projects.
 
-<p>If the desire is to outsource the development work of your software, here are some sites that can facilitate this...</p>
+If the desire is to outsource the development work of your software, here are some sites that can facilitate this...
 
-<p><a href="https://www.upwork.com" rel="nofollow noreferrer">https://www.upwork.com</a></p>
+https://www.upwork.com
 
-<p>or</p>
+or
 
-<p><a href="https://www.elance.com" rel="nofollow noreferrer">https://www.elance.com</a></p>
+https://www.elance.com
 
-<p>The more important question to be asked is whether or not you should look to outsource development work. There has been plenty of discussion about this including...</p>
+The more important question to be asked is whether or not you should look to outsource development work. There has been plenty of discussion about this including...
 
-<p><a href="https://startups.stackexchange.com/questions/4149/outsourcing-and-startups">Outsourcing and startups</a></p>
+https://startups.stackexchange.com/questions/4149/outsourcing-and-startups
 
-<p><a href="https://startups.stackexchange.com/questions/5906/outsourcing-software-development">Outsourcing software development</a></p>
+https://startups.stackexchange.com/questions/5906/outsourcing-software-development
 
-<p><a href="https://blog.kissmetrics.com/in-house-or-outsource/" rel="nofollow noreferrer">https://blog.kissmetrics.com/in-house-or-outsource/</a></p>
+https://blog.kissmetrics.com/in-house-or-outsource/
 
-<p>There is too much information in these links to be fully discussed here but I will give you one important thing to consider before going down this road...</p>
+There is too much information in these links to be fully discussed here but I will give you one important thing to consider before going down this road...
 
-<p>If you have no experience in a software company, as you say, then can you expect yourself to be able to perform all of the jobs that will be required to make your outsourced work a success? Can you accurately set requirements to make sure your product is actually what you want? Do you have the knowledge to do code reviews and ensure that your outsourced developers are competent?</p>
+If you have no experience in a software company, as you say, then can you expect yourself to be able to perform all of the jobs that will be required to make your outsourced work a success? Can you accurately set requirements to make sure your product is actually what you want? Do you have the knowledge to do code reviews and ensure that your outsourced developers are competent?
 
-<p>If you cannot answer yes to all of those questions that my advice would be to not outsource, the risks will likely outweigh the gains in your case. You would likely be better trying to find a technical cofounder if you have an idea you want to make a reality.</p>
+If you cannot answer yes to all of those questions that my advice would be to not outsource, the risks will likely outweigh the gains in your case. You would likely be better trying to find a technical cofounder if you have an idea you want to make a reality.
 
-<ul>
-<li>RB</li>
-</ul>
-
+- RB
 
 
 ## Answer 9055
@@ -87,21 +74,18 @@ I have not been part of any software company, so I just wanted to know how softw
 - posted by: [Xenopax](https://stackexchange.com/users/306985/xenopax) on 2016-04-27
 - score: 0
 
-<p>While I don't know what you are building, I can tell you as an experienced software developer and manager outsourcing is probably not the answer, with a caveat.</p>
+While I don't know what you are building, I can tell you as an experienced software developer and manager outsourcing is probably not the answer, with a caveat.
 
-<p>Reasons it won't work:</p>
+Reasons it won't work:
 
-<ul>
-<li>The people building the software are not vested in its long term success</li>
-<li>Software is never as straight forward as you think it is</li>
-<li>Requirements can be interpreted a number of ways</li>
-<li>Quick and cheap is typically what outsourced developers are typically asked to provide</li>
-</ul>
+ * The people building the software are not vested in its long term success
+ * Software is never as straight forward as you think it is
+ * Requirements can be interpreted a number of ways
+ * Quick and cheap is typically what outsourced developers are typically asked to provide
 
-<p>Now for the caveat, you can use outsourcing to build a proof-of-concept that you plan to throw away, I would not however use it to build a long term solution. My experience is outsourcing for production software is always more expensive and lower quality over the long run.</p>
+Now for the caveat, you can use outsourcing to build a proof-of-concept that you plan to throw away, I would not however use it to build a long term solution. My experience is outsourcing for production software is always more expensive and lower quality over the long run.
 
-<p>Personally however I would say prove out the idea first in a low-tech way and don't waste too much money, for instance either use vanilla Wordpress or solve the problem you want to solve without software at all. It kind-of depends on what you are trying to do, but as an example if you wanted to create an apartment listing site then just listing apartments in Wordpress could give you a ballpark idea on if you can get it to work. This is of course assuming you are doing proper market research and not just throwing software out there and seeing if it sticks.</p>
-
+Personally however I would say prove out the idea first in a low-tech way and don't waste too much money, for instance either use vanilla Wordpress or solve the problem you want to solve without software at all. It kind-of depends on what you are trying to do, but as an example if you wanted to create an apartment listing site then just listing apartments in Wordpress could give you a ballpark idea on if you can get it to work. This is of course assuming you are doing proper market research and not just throwing software out there and seeing if it sticks.
 
 
 

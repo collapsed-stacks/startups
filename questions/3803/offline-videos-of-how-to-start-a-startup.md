@@ -4,14 +4,11 @@
 - tagged: `ycombinator`, `video`
 - score: 4
 
-<p>Y Combinator has a course titled "How to start a startup" available <a href="https://startupclass.co/" rel="nofollow">here</a>. The website claims:</p>
+Y Combinator has a course titled "How to start a startup" available [here](https://startupclass.co/). The website claims:
 
-<blockquote>
-  <p>we have enabled video downloads so you can download the video file easily and watch them offline</p>
-</blockquote>
+> we have enabled video downloads so you can download the video file easily and watch them offline
 
-<p>I cannot find the video download links. Where can I download the course "How to start a startup" for offline viewing?</p>
-
+I cannot find the video download links. Where can I download the course "How to start a startup" for offline viewing?
 
 
 ## Answer 3809
@@ -19,8 +16,7 @@
 - posted by: [Randomblue](https://stackexchange.com/users/363551/randomblue) on 2015-03-21
 - score: 4
 
-<p>Use <a href="http://rg3.github.io/youtube-dl/" rel="nofollow">youtube-dl</a> to download the videos. It can even do playlists.</p>
-
+Use [youtube-dl](http://rg3.github.io/youtube-dl/) to download the videos. It can even do playlists.
 
 
 ## Answer 3825
@@ -28,10 +24,9 @@
 - posted by: [Taiko](https://stackexchange.com/users/334941/taiko) on 2015-03-22
 - score: 1
 
-<p>All those videos are available on iTunes U : "How to start a startup by Stanford"</p>
+All those videos are available on iTunes U : "How to start a startup by Stanford"
 
-<p>If you have any Apple device, it's a really good way to watch them :-)</p>
-
+If you have any Apple device, it's a really good way to watch them :-)
 
 
 ## Answer 3872

@@ -4,14 +4,13 @@
 - tagged: `finance`, `security`
 - score: 0
 
-<p>We're an early-stage FinTech startup trying to figure out how we can affordably deal with both information security and physical security concerns. In this question, I'm specifically asking about physical security controls - we need to have this covered soon.</p>
+We're an early-stage FinTech startup trying to figure out how we can affordably deal with both information security and physical security concerns. In this question, I'm specifically asking about physical security controls - we need to have this covered soon.
 
-<p>One of my colleagues who was at Managed by Q suggested we use Kisi, but it seems kind of pricey given we're only 15 people. Of course, there's always ADP and Protection1, but they seem a little too enterprise-y for our small startup.</p>
+One of my colleagues who was at Managed by Q suggested we use Kisi, but it seems kind of pricey given we're only 15 people. Of course, there's always ADP and Protection1, but they seem a little too enterprise-y for our small startup.
 
-<p>Is there a best practice?</p>
+Is there a best practice?
 
-<p>Thanks in advance for the feedback and advice.</p>
-
+Thanks in advance for the feedback and advice.
 
 ## No Answers
 

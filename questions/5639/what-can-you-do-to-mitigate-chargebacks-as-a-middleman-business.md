@@ -4,10 +4,9 @@
 - tagged: `payment`
 - score: 2
 
-<p>When using paypal as the main means of processing payments there is always a risk of someone attempting a chargeback.</p>
+When using paypal as the main means of processing payments there is always a risk of someone attempting a chargeback.
 
-<p>What can I do to lower the chances of chargebacks from people who had every intention of scamming in the beginning?</p>
-
+What can I do to lower the chances of chargebacks from people who had every intention of scamming in the beginning?
 
 
 ## Answer 5640
@@ -15,8 +14,7 @@
 - posted by: [Alain](https://stackexchange.com/users/21866/alain) on 2015-07-02
 - score: 2
 
-<p>Fraud detection is a wide topic. The #1 improvement to reduce chargebacks is to only accept to ship items to the verified address of the buyer (the one that matches their billing address).</p>
-
+Fraud detection is a wide topic. The #1 improvement to reduce chargebacks is to only accept to ship items to the verified address of the buyer (the one that matches their billing address).
 
 
 ## Answer 11270
@@ -24,8 +22,7 @@
 - posted by: [JJBee](https://stackexchange.com/users/6998558/jjbee) on 2016-10-03
 - score: 0
 
-<p>If they have bad intentions, they will generally fall into patterns that ordinary innocent customers do not. You need to screen your transactions for fraud, or/and remove the incentive for bad guys.</p>
-
+If they have bad intentions, they will generally fall into patterns that ordinary innocent customers do not. You need to screen your transactions for fraud, or/and remove the incentive for bad guys.
 
 
 ## Answer 11272

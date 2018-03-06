@@ -4,16 +4,15 @@
 - tagged: `marketing`, `customer-service`
 - score: 3
 
-<p>I'm working in the marketing department of a 10 year old company that has me in constant interaction with their customers.</p>
+I'm working in the marketing department of a 10 year old company that has me in constant interaction with their customers.
 
-<p>I often reach situations where I just don't know what to do.</p>
+I often reach situations where I just don't know what to do.
 
-<p>What is a good site or forum that I can use like stackexchange that is solely for marketing? </p>
+What is a good site or forum that I can use like stackexchange that is solely for marketing? 
 
-<p>So far I've tried Stackexchange of course, Quora, and a forum I found online called FreshMarketingForum</p>
+So far I've tried Stackexchange of course, Quora, and a forum I found online called FreshMarketingForum
 
-<p>I need a solid source of marketing knowledge, do you guys know any?</p>
-
+I need a solid source of marketing knowledge, do you guys know any?
 
 ## No Answers
 

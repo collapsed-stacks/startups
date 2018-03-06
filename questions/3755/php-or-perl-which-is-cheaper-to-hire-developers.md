@@ -4,12 +4,11 @@
 - tagged: `startup-costs`, `saas`
 - score: 2
 
-<p>I am in the ultra beginning stage of a SaaS (two hours now) where I am documenting the product, features, frontend and backend and am stuck on should we go with PHP or Perl for the backend.</p>
+I am in the ultra beginning stage of a SaaS (two hours now) where I am documenting the product, features, frontend and backend and am stuck on should we go with PHP or Perl for the backend.
 
-<p>So the question I pose is in the long run are PHP or Perl developers cheaper? I know both pretty much in and out and I know Perl OOP is pretty bad and lord knows when Perl 6 will be out to fix said problem.</p>
+So the question I pose is in the long run are PHP or Perl developers cheaper? I know both pretty much in and out and I know Perl OOP is pretty bad and lord knows when Perl 6 will be out to fix said problem.
 
-<p>Perl is my first language so I have a certain bias on starting this so I ask this community pros and cons and cost of said language decisions.</p>
-
+Perl is my first language so I have a certain bias on starting this so I ask this community pros and cons and cost of said language decisions.
 
 
 ## Answer 3758
@@ -17,12 +16,11 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-03-16
 - score: 4
 
-<p>Your answer is laid out in your question: "Perl OOP is pretty bad and lord knows when Perl 6 will be out." You outline reasons to not use it, you don't seem to want to use it, and yet you conclude that you're still itching to use it. Get a grip on yourself, pick a language you're famliar with, and stop procrastinating.</p>
+Your answer is laid out in your question: "Perl OOP is pretty bad and lord knows when Perl 6 will be out." You outline reasons to not use it, you don't seem to want to use it, and yet you conclude that you're still itching to use it. Get a grip on yourself, pick a language you're famliar with, and stop procrastinating.
 
-<p>As to price, there are a ton more PHP programmers, so those tend to come cheaper on average. You can find folks who charge ridiculously low rates on eLance and similar sites, for instance. Whether you want to hire them is another question entirely -- because you tend to get what you pay for.</p>
+As to price, there are a ton more PHP programmers, so those tend to come cheaper on average. You can find folks who charge ridiculously low rates on eLance and similar sites, for instance. Whether you want to hire them is another question entirely -- because you tend to get what you pay for.
 
-<p>Truth is, good PHP programmers command rates that are every bit as high as other good programmers. If you intend to hire good developers, your choice of stack makes very little difference.</p>
-
+Truth is, good PHP programmers command rates that are every bit as high as other good programmers. If you intend to hire good developers, your choice of stack makes very little difference.
 
 
 ## Answer 3762

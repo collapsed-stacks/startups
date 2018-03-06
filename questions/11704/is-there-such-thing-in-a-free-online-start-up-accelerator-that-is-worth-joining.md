@@ -4,8 +4,7 @@
 - tagged: `accelerators`
 - score: 1
 
-<p>Is there such thing in a free online startup accelerator that is worth joining?</p>
-
+Is there such thing in a free online startup accelerator that is worth joining?
 
 ## No Answers
 

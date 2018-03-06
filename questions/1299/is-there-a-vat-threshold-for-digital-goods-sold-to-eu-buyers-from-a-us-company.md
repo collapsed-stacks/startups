@@ -4,10 +4,9 @@
 - tagged: `taxes`
 - score: 5
 
-<p>We're a small US company selling digital course material to a world wide audience. We have gotten conflicting advice about whether or not we need to register and collect VAT for EU buyers, even though our amounts for each country amount to just a few sales per month per EU state.</p>
+We're a small US company selling digital course material to a world wide audience. We have gotten conflicting advice about whether or not we need to register and collect VAT for EU buyers, even though our amounts for each country amount to just a few sales per month per EU state.
 
-<p>The overhead of setting up the infrastructure to collect, calculate and report EU VAT seems heavy compared to the number of sales we have. I have a hard time seeing it as even worth selling to EU buyers.</p>
-
+The overhead of setting up the infrastructure to collect, calculate and report EU VAT seems heavy compared to the number of sales we have. I have a hard time seeing it as even worth selling to EU buyers.
 
 
 ## Answer 3259
@@ -15,22 +14,21 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-01-30
 - score: 4
 
-<p>VAT rules have changed on Jan 1st 2015. <strong>VAT is now charged based on the location of the customer buying the goods</strong> if you're into telecommunications, broadcasting, or electronic services -- the EU definition of which includes all types of digital products or services.</p>
+VAT rules have changed on Jan 1st 2015. **VAT is now charged based on the location of the customer buying the goods** if you're into telecommunications, broadcasting, or electronic services -- the EU definition of which includes all types of digital products or services.
 
-<p>In a nutshell, <strong>you MUST charge VAT when selling digital goods and services to consumers and businesses located inside of the EU</strong>, whether your own business is located inside or outside of the EU, <strong><em>unless</em></strong> your customer is 1) a foreign business that 2) provides you with a valid VAT registration number.</p>
+In a nutshell, **you MUST charge VAT when selling digital goods and services to consumers and businesses located inside of the EU**, whether your own business is located inside or outside of the EU, ***unless*** your customer is 1) a foreign business that 2) provides you with a valid VAT registration number.
 
-<p>As an aside, businesses located outside of the EU have been expected to collect VAT in basically the same way since 2003. Possibly with some exemptions based on thresholds if Lef's answer is anything to go by. Frankly, I imagine most US startups will continue to shrug and not give it much thought until they're large enough to set up shop in the EU or to be on a taxman's radar.</p>
+As an aside, businesses located outside of the EU have been expected to collect VAT in basically the same way since 2003. Possibly with some exemptions based on thresholds if Lef's answer is anything to go by. Frankly, I imagine most US startups will continue to shrug and not give it much thought until they're large enough to set up shop in the EU or to be on a taxman's radar.
 
-<p>(By the way, you'll want to double check that the thresholds, if any ever existed, are still in place. I found some contradictory information on that topic, with some reporting that they no longer exist, others not reporting at all, and the EU's site offered little help here because the VAT rates are State-based in much the same way as some sales taxes in the US are.)</p>
+(By the way, you'll want to double check that the thresholds, if any ever existed, are still in place. I found some contradictory information on that topic, with some reporting that they no longer exist, others not reporting at all, and the EU's site offered little help here because the VAT rates are State-based in much the same way as some sales taxes in the US are.)
 
-<p>Some more reading:</p>
+Some more reading:
 
-<ul>
-<li><p><a href="http://ec.europa.eu/taxation_customs/taxation/vat/how_vat_works/telecom/index_en.htm" rel="nofollow">http://ec.europa.eu/taxation_customs/taxation/vat/how_vat_works/telecom/index_en.htm</a></p></li>
-<li><p><a href="http://ec.europa.eu/taxation_customs/resources/documents/taxation/vat/how_vat_works/telecom/one-stop-shop-guidelines_en.pdf" rel="nofollow">http://ec.europa.eu/taxation_customs/resources/documents/taxation/vat/how_vat_works/telecom/one-stop-shop-guidelines_en.pdf</a></p></li>
-<li><p><a href="http://thenextweb.com/dd/2015/01/01/need-know-2015-eu-vat-changes-implemented-tnw/" rel="nofollow">http://thenextweb.com/dd/2015/01/01/need-know-2015-eu-vat-changes-implemented-tnw/</a></p></li>
-</ul>
+- http://ec.europa.eu/taxation_customs/taxation/vat/how_vat_works/telecom/index_en.htm
 
+- http://ec.europa.eu/taxation_customs/resources/documents/taxation/vat/how_vat_works/telecom/one-stop-shop-guidelines_en.pdf
+
+- http://thenextweb.com/dd/2015/01/01/need-know-2015-eu-vat-changes-implemented-tnw/
 
 
 ## Answer 1589
@@ -38,8 +36,7 @@
 - posted by: [Lef](https://stackexchange.com/users/5464972/lef) on 2014-12-10
 - score: 3
 
-<p>Currently there is a threshold for you to collect and remit VAT. The threshold would be around 100k Euros I think, below which you don't have to collect taxes nor remit them. This is a law from 2003. Next year on the 1st of January you will have to collect and remit VAT. This is for every seller providing digital services to the EU. Do a google search about VAT MOSS and keep your tissues ready ;)</p>
-
+Currently there is a threshold for you to collect and remit VAT. The threshold would be around 100k Euros I think, below which you don't have to collect taxes nor remit them. This is a law from 2003. Next year on the 1st of January you will have to collect and remit VAT. This is for every seller providing digital services to the EU. Do a google search about VAT MOSS and keep your tissues ready ;)
 
 
 ## Answer 1323
@@ -47,16 +44,16 @@
 - posted by: [ArkadioG](https://stackexchange.com/users/5186869/arkadiog) on 2014-11-08
 - score: 0
 
-<p>Answer to this question is rather easy - your company is established in US, you're providing services from US, so:</p>
+Answer to this question is rather easy - your company is established in US, you're providing services from US, so:
 
-<ul>
-<li><p>if your company is established in US, and has no branches/agencies in any of EU members states - you pay no any EU tax - you are obliged only by US law.</p></li>
-<li><p>if your company have branch or agency in EU, you are obliged by this country's tax laws (CIT, VAT), but only to sells / incomes generated by this European branch.</p></li>
-</ul>
+ - if your company is established in US, and has no branches/agencies in any of EU members states - you pay no any EU tax - you are obliged only by US law.
 
-<p>Here are some information about EU Vat - but since you don't have any branch in Europe (you would not ask this question if you had), just save it for future.</p>
+ - if your company have branch or agency in EU, you are obliged by this country's tax laws (CIT, VAT), but only to sells / incomes generated by this European branch.
 
-<p>Europen Comission's information: <a href="http://ec.europa.eu/taxation_customs/taxation/gen_info/index_en.htm" rel="nofollow">http://ec.europa.eu/taxation_customs/taxation/gen_info/index_en.htm</a></p>
+Here are some information about EU Vat - but since you don't have any branch in Europe (you would not ask this question if you had), just save it for future.
+
+Europen Comission's information: http://ec.europa.eu/taxation_customs/taxation/gen_info/index_en.htm
+
 
 
 

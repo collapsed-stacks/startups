@@ -4,16 +4,15 @@
 - tagged: `untagged`
 - score: 0
 
-<p>I am trying to develop a small portable speaker unit with blue tooth capabilities, LED lighting, and ideally an app to manage it.   </p>
+I am trying to develop a small portable speaker unit with blue tooth capabilities, LED lighting, and ideally an app to manage it.   
 
-<p>How do I find a designer (engineer?) who can:<br>
-1) design the electronics,<br>
+How do I find a designer (engineer?) who can:   
+1) design the electronics,  
 2) design the case it will be mounted in
-3) build a prototype for evaluation</p>
+3) build a prototype for evaluation
 
-<p>Thank you!
-Ken</p>
-
+Thank you!
+Ken
 
 ## No Answers
 

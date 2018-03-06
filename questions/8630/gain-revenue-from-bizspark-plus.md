@@ -4,9 +4,10 @@
 - tagged: `marketing`, `idea`, `bizspark`
 - score: 7
 
-<p>My small company just got an offer to join Bizspark Plus, which gives $10,000 to use monthly on azure, that's great because most of our work is based on azure, but is more than what really need at the moment, is there a way to resell from azure, for example reselling virtual machines, storage or databases?  </p>
+My small company just got an offer to join Bizspark Plus, which gives $10,000 to use monthly on azure, that's great because most of our work is based on azure, but is more than what really need at the moment, is there a way to resell from azure, for example reselling virtual machines, storage or databases?  
 
-<p>I was thinking that creating a website and advertising for that online, but I am not sure a want to be a hosting company, is there any other ideas, or examples you know of anyone got the same offer?</p>
+I was thinking that creating a website and advertising for that online, but I am not sure a want to be a hosting company, is there any other ideas, or examples you know of anyone got the same offer?
+
 
 
 

@@ -4,28 +4,21 @@
 - tagged: `tech-company`, `employees`, `partners`, `interns`
 - score: 3
 
-<p>I have a project that I've been working on off and on for about a year now. My plan is to turn this into a business when I'm done, but I simply don't have the time that it requires, and have been thinking of adding on another person part time to help me. I have a few options and would like some advice as to which to take.</p>
+I have a project that I've been working on off and on for about a year now. My plan is to turn this into a business when I'm done, but I simply don't have the time that it requires, and have been thinking of adding on another person part time to help me. I have a few options and would like some advice as to which to take.
 
-<ol>
-<li><strong>Partner</strong></li>
-</ol>
+ 1. **Partner**
 
-<p>I have a good friend who is more than capable to handle what I need. I think if I asked him, he'd definitely be willing to help, and we could form a partnership. However I've had a lot of people about getting into business with a friend. </p>
+I have a good friend who is more than capable to handle what I need. I think if I asked him, he'd definitely be willing to help, and we could form a partnership. However I've had a lot of people about getting into business with a friend. 
 
-<ol start="2">
-<li><strong>Employee</strong></li>
-</ol>
+ 2. **Employee**
 
-<p>I live next to a university, and at any given time dozens of new graduates are looking for employment. I could easily hire one of them part-time, the problem becomes how to pay them. I haven't made any money yet, as this has just been a pet project.</p>
+I live next to a university, and at any given time dozens of new graduates are looking for employment. I could easily hire one of them part-time, the problem becomes how to pay them. I haven't made any money yet, as this has just been a pet project.
 
-<ol start="3">
-<li><strong>Intern</strong></li>
-</ol>
+ 3. **Intern**
 
-<p>The last option would be to get an unpaid intern. Lots of students are looking for an internship position at the university, and it is required for them to graduate. The problem with this approach is that anyone good will get a paid internship, so I would get someone who isn't qualified.</p>
+The last option would be to get an unpaid intern. Lots of students are looking for an internship position at the university, and it is required for them to graduate. The problem with this approach is that anyone good will get a paid internship, so I would get someone who isn't qualified.
 
-<p>Any help with making this decision would be greatly appriciated, Thanks!</p>
-
+Any help with making this decision would be greatly appriciated, Thanks!
 
 
 ## Answer 1381
@@ -33,16 +26,15 @@
 - posted by: [Riad C](https://stackexchange.com/users/5235555/riad-c) on 2014-11-14
 - score: 2
 
-<p>I speak from experience, and I have taken upon all three positions you have mentioned into my company.</p>
+I speak from experience, and I have taken upon all three positions you have mentioned into my company.
 
-<p>Be careful who you partner with, it may mean them doing a fair amount of the work that you could have possibly done yourself, or it may mean that your business operations excel to a stage at which wouldn't have been possible without them. Calculate this before making a decision.</p>
+Be careful who you partner with, it may mean them doing a fair amount of the work that you could have possibly done yourself, or it may mean that your business operations excel to a stage at which wouldn't have been possible without them. Calculate this before making a decision.
 
-<p>Employees, if they're not going to be taking too much capital out of the business, then definitely hire them. They work well if you correctly assess their skills and capabilities, so once again, calculate the risk and the benefits, and weight them accordingly.</p>
+Employees, if they're not going to be taking too much capital out of the business, then definitely hire them. They work well if you correctly assess their skills and capabilities, so once again, calculate the risk and the benefits, and weight them accordingly.
 
-<p>Finally, interns. My favourite. I'm a university startup for the gaming industry, so landing interns was a major breeze for me. Not only do they get to work on something "cool", they were getting work experience. These students are working for you for FREE, so be careful in how you handle it. People burn out quickly, especially if they feel devalued often. Nurture their growth and education, cater it to suit their schedules and skills, and make sure you keep the internship an enjoyable experience. I'm still a university student, and I know that students discuss companies where their experience was terrible (I would know, I was one of those students). One thing though, one of our interns contributed a significant amount of code to the project, and is being moved into a paid position as he has satisfactorily completed his internship.</p>
+Finally, interns. My favourite. I'm a university startup for the gaming industry, so landing interns was a major breeze for me. Not only do they get to work on something "cool", they were getting work experience. These students are working for you for FREE, so be careful in how you handle it. People burn out quickly, especially if they feel devalued often. Nurture their growth and education, cater it to suit their schedules and skills, and make sure you keep the internship an enjoyable experience. I'm still a university student, and I know that students discuss companies where their experience was terrible (I would know, I was one of those students). One thing though, one of our interns contributed a significant amount of code to the project, and is being moved into a paid position as he has satisfactorily completed his internship.
 
-<p>To summarise though, calculate all decisions and weight the benefits with the risks. You don't want to mess up bringing in someone, it's a major pain and can cause many problems down the line.</p>
-
+To summarise though, calculate all decisions and weight the benefits with the risks. You don't want to mess up bringing in someone, it's a major pain and can cause many problems down the line.
 
 
 ## Answer 1386
@@ -82,14 +74,13 @@
 - posted by: [George](https://stackexchange.com/users/3516499/george) on 2014-11-14
 - score: 0
 
-<p>In order to partner/hire someone, you need to have a company formed already which is actually not costly nor timely.  It can save you many headaches down the road because it can  protect your personal assets.  The easiest is a LLC and will only cost more than a corp if you are in NY where you are required to run an ad announcing your business for 2 weeks (I think 1 or 2 other states require this too).</p>
+In order to partner/hire someone, you need to have a company formed already which is actually not costly nor timely.  It can save you many headaches down the road because it can  protect your personal assets.  The easiest is a LLC and will only cost more than a corp if you are in NY where you are required to run an ad announcing your business for 2 weeks (I think 1 or 2 other states require this too).
 
-<p>If its not too time consuming, you could hire a student to work on it while they are still in school during the year vs for course credit.  You would need to be accredited with the school and that paperwork might cause you too many delays depending on the school.</p>
+If its not too time consuming, you could hire a student to work on it while they are still in school during the year vs for course credit.  You would need to be accredited with the school and that paperwork might cause you too many delays depending on the school.
 
-<p>A partner is the worst choice if you have to give up equity ownership or voting rights if you have done most of the idea creation and laid out the ground work.  Perhaps you can even hire your friend for a small fee and pay him a % of revenue the site generates.</p>
+A partner is the worst choice if you have to give up equity ownership or voting rights if you have done most of the idea creation and laid out the ground work.  Perhaps you can even hire your friend for a small fee and pay him a % of revenue the site generates.
 
-<p>In the end, it's always best to have a clearly written contract to prevent disputes down the road.</p>
-
+In the end, it's always best to have a clearly written contract to prevent disputes down the road.
 
 
 

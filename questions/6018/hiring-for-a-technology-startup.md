@@ -4,30 +4,29 @@
 - tagged: `tech-company`, `hiring`
 - score: 5
 
-<p><strong>Background</strong></p>
+**Background**
 
-<p>First of all, I am a software developer, with 12 plus years of commercial development experience. I have used a variety of development platforms over the years, and have used cloud computing services extensively over the past few years to develop scale-able software.</p>
+First of all, I am a software developer, with 12 plus years of commercial development experience. I have used a variety of development platforms over the years, and have used cloud computing services extensively over the past few years to develop scale-able software.
 
-<p><strong>Idea</strong></p>
+**Idea**
 
-<p>I am convinced that I have a good idea for a website. </p>
+I am convinced that I have a good idea for a website. 
 
-<p>I am facing a dilemma in that, I want to share this idea with someone who I can trust, who is experienced enough in the IT industry, to honestly say - whether it will work or not, but someone who will not run away with the idea behind my back :-)</p>
+I am facing a dilemma in that, I want to share this idea with someone who I can trust, who is experienced enough in the IT industry, to honestly say - whether it will work or not, but someone who will not run away with the idea behind my back :-)
 
-<p><strong>Hiring Help</strong></p>
+**Hiring Help**
 
-<p>I am a realist - I know that having a day job and a young family, mean that I need help, even to develop a prototype. Again, the person I hire for working on this website must be trustworthy.</p>
+I am a realist - I know that having a day job and a young family, mean that I need help, even to develop a prototype. Again, the person I hire for working on this website must be trustworthy.
 
-<p>My question is this: is there a way to employ a developer and only let him work on bits and pieces, so he/she does not get the whole picture/idea? I am pretty sure this would not work, as it will become pretty apparent what I am trying to do.</p>
+My question is this: is there a way to employ a developer and only let him work on bits and pieces, so he/she does not get the whole picture/idea? I am pretty sure this would not work, as it will become pretty apparent what I am trying to do.
 
-<p>What are the alternatives? Should I patent the idea (spend big bucks for something I do not know will be successful or not)? Should I contractually bind the developer in a non-disclosure agreement? Should I offer the developer a share of proceeds when they happen (maybe years into the future)? Or all of the above?</p>
+What are the alternatives? Should I patent the idea (spend big bucks for something I do not know will be successful or not)? Should I contractually bind the developer in a non-disclosure agreement? Should I offer the developer a share of proceeds when they happen (maybe years into the future)? Or all of the above?
 
-<p><strong>Side Notes</strong></p>
+**Side Notes**
 
-<p>Also note that while I have many friends in the IT industry, most of them do not have time for a side-project, certainly not the amount of time I would require for this project, so I cannot hire them.</p>
+Also note that while I have many friends in the IT industry, most of them do not have time for a side-project, certainly not the amount of time I would require for this project, so I cannot hire them.
 
-<p>In an ideal world, I would give up my day job, not rely on anyone for technical expertise to get the site up and running, but I do have bills to pay :-( so this is not an option.</p>
-
+In an ideal world, I would give up my day job, not rely on anyone for technical expertise to get the site up and running, but I do have bills to pay :-( so this is not an option.
 
 
 ## Answer 6022
@@ -62,18 +61,17 @@
 - posted by: [ATrubka](https://stackexchange.com/users/1052629/atrubka) on 2015-08-11
 - score: 2
 
-<p>Since you're obviously not willing to share the idea with entire stackexchange community I can only be guessing what your possibilities might be.</p>
+Since you're obviously not willing to share the idea with entire stackexchange community I can only be guessing what your possibilities might be.
 
-<p>As zazaalaza pointed out you have an option for a patent, but it usually does not work with websites and ideas. You've seen the movie Social Network I'm sure.</p>
+As zazaalaza pointed out you have an option for a patent, but it usually does not work with websites and ideas. You've seen the movie Social Network I'm sure.
 
-<p>While some kind of non-disclosure and non-compete are a must for any type of business relationship I wouldn't be so frightened to share your idea with even broader group of people. That's what most of the startups do.</p>
+While some kind of non-disclosure and non-compete are a must for any type of business relationship I wouldn't be so frightened to share your idea with even broader group of people. That's what most of the startups do.
 
-<p>Most likely your idea has come to mind to someone else by this time anyway. The good thing for you is the fact that 99% of people don't have desire, resources or ability to execute your idea. Thus you're pretty safe as long as you yourself are able to execute faster and better than others.</p>
+Most likely your idea has come to mind to someone else by this time anyway. The good thing for you is the fact that 99% of people don't have desire, resources or ability to execute your idea. Thus you're pretty safe as long as you yourself are able to execute faster and better than others.
 
-<p>If you won't be actively working on your idea then sooner or later someone will get ahead no matter what you do to protect your idea.</p>
+If you won't be actively working on your idea then sooner or later someone will get ahead no matter what you do to protect your idea.
 
-<p>Finally, to address your Side Notes, I'd like to suggest you'd consider an outsourcing option. While nothing is free that might be cheaper and better suited for your needs. Please take a look at our website <a href="http://www.varteq.com" rel="nofollow">http://www.varteq.com</a>. It's got some information and contact. We're US based with Eastern European development office. You can also find me on linkedin: <a href="https://www.linkedin.com/in/atrubka" rel="nofollow">https://www.linkedin.com/in/atrubka</a>.</p>
-
+Finally, to address your Side Notes, I'd like to suggest you'd consider an outsourcing option. While nothing is free that might be cheaper and better suited for your needs. Please take a look at our website http://www.varteq.com. It's got some information and contact. We're US based with Eastern European development office. You can also find me on linkedin: https://www.linkedin.com/in/atrubka.
 
 
 ## Answer 6019
@@ -81,11 +79,9 @@
 - posted by: [zazaalaza](https://stackexchange.com/users/4672194/zazaalaza) on 2015-08-11
 - score: 1
 
-<ol>
-<li><p>You can do this by entering into a contractual agreement with the person you decide to work with and placing a <a href="https://en.wikipedia.org/wiki/Non-compete_clause" rel="nofollow">Non Compete Clause</a> in the respective contract.</p></li>
-<li><p>File a <a href="https://en.wikipedia.org/wiki/Provisional_application" rel="nofollow">Provisional Patent</a>. A provisional patent will allow you to claim patent pending status for up to one year. Currently it only costs a little more than $100 to file a provisional patent. The only downside to the provisional patent is that at the end of the one year time period you will loose all patent rights to the invention if you do not file a utility patent application.</p></li>
-</ol>
+1. You can do this by entering into a contractual agreement with the person you decide to work with and placing a [Non Compete Clause](https://en.wikipedia.org/wiki/Non-compete_clause) in the respective contract.
 
+2. File a [Provisional Patent](https://en.wikipedia.org/wiki/Provisional_application). A provisional patent will allow you to claim patent pending status for up to one year. Currently it only costs a little more than $100 to file a provisional patent. The only downside to the provisional patent is that at the end of the one year time period you will loose all patent rights to the invention if you do not file a utility patent application.
 
 
 

@@ -4,8 +4,10 @@
 - tagged: `startup-costs`, `online-tool`
 - score: 2
 
-<p>IT Advisory firm Gartner has developed many methods and tools to view the development of a company. <a href="https://en.wikipedia.org/wiki/Hype_cycle" rel="nofollow">Hype Cycle</a> is one of these tools. How correct is it in predicting future of startups (considering them to be technologies) ?</p>
+IT Advisory firm Gartner has developed many methods and tools to view the development of a company. [Hype Cycle][1] is one of these tools. How correct is it in predicting future of startups (considering them to be technologies) ?
 
+
+  [1]: https://en.wikipedia.org/wiki/Hype_cycle
 
 
 ## Answer 8451
@@ -39,16 +41,15 @@
 - posted by: [Luke Gedeon](https://stackexchange.com/users/1119600/luke-gedeon) on 2015-12-07
 - score: 0
 
-<p>The Hype Cycle is a very general observation. It is roughly equivalent to saying that the majority of businesses will fail in the first year. All it gives you is a probability without telling you how to beat the odds. And cannot at all predict what will happen in an individual case.</p>
+The Hype Cycle is a very general observation. It is roughly equivalent to saying that the majority of businesses will fail in the first year. All it gives you is a probability without telling you how to beat the odds. And cannot at all predict what will happen in an individual case.
 
-<p>Also, while the cycle describes a typical trend for new technologies, the length of each stage is different for each; and the amplitude, if measurable at all, differs for each new technology.</p>
+Also, while the cycle describes a typical trend for new technologies, the length of each stage is different for each; and the amplitude, if measurable at all, differs for each new technology.
 
-<p>Now to address your question, "Can this be applied to individual start-up businesses?"</p>
+Now to address your question, "Can this be applied to individual start-up businesses?"
 
-<p>While the Hype Cycle can describe a macro-trend for all businesses and individuals promoting a new technology, it does not work at all to describe the behavior of the single entities that are part of that macro-environment.</p>
+While the Hype Cycle can describe a macro-trend for all businesses and individuals promoting a new technology, it does not work at all to describe the behavior of the single entities that are part of that macro-environment.
 
-<p>To the contrary, most startups follow quite different trajectories including a sudden take off and a quick crash, a slow start that does a sudden hockey stick, a slow start and agonizing death, or a parabolic take-off growing beyond all probability. The few that do follow the trend are the exception not the rule.</p>
-
+To the contrary, most startups follow quite different trajectories including a sudden take off and a quick crash, a slow start that does a sudden hockey stick, a slow start and agonizing death, or a parabolic take-off growing beyond all probability. The few that do follow the trend are the exception not the rule.
 
 
 

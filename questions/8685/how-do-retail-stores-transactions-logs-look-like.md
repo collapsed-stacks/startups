@@ -4,10 +4,9 @@
 - tagged: `data`
 - score: 2
 
-<p>I would like to build a service that does some predictive analysis for retail stores. However I have completely no idea how retail houses stores their data and what software they use. I have also no friends whatsoever in that business to ask them. Thus I'm asking here if you know how such logs look like. Do you know some of the most famous and used software? Is there some kind of a standard formatting for that data of how it looks like?</p>
+I would like to build a service that does some predictive analysis for retail stores. However I have completely no idea how retail houses stores their data and what software they use. I have also no friends whatsoever in that business to ask them. Thus I'm asking here if you know how such logs look like. Do you know some of the most famous and used software? Is there some kind of a standard formatting for that data of how it looks like?
 
-<p>Edit: in order for my service to work, it needs to have data inserted to it. Not knowing the format for retail stores data would mean the customers have to adapt their data to my service, which no customer would be willing to do.</p>
-
+Edit: in order for my service to work, it needs to have data inserted to it. Not knowing the format for retail stores data would mean the customers have to adapt their data to my service, which no customer would be willing to do.
 
 
 ## Answer 8701

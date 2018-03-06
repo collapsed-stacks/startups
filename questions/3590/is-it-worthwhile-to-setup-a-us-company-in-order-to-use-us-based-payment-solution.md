@@ -4,12 +4,11 @@
 - tagged: `united-states`, `taxes`, `payment`
 - score: 2
 
-<p>We would like to have a better payment solution and since we are offering services to the globe, is it worthwhile to setup a US company in order to use US based payment solution like Stripe? </p>
+We would like to have a better payment solution and since we are offering services to the globe, is it worthwhile to setup a US company in order to use US based payment solution like Stripe? 
 
-<p>Especially we need to use subscriptions based billing which none of our current local payment providers is doing (or very expensive)</p>
+Especially we need to use subscriptions based billing which none of our current local payment providers is doing (or very expensive)
 
-<p>Are there any caveats? e.g. tax </p>
-
+Are there any caveats? e.g. tax 
 
 
 ## Answer 3591

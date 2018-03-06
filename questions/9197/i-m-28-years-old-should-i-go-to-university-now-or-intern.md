@@ -4,20 +4,20 @@
 - tagged: `business-plan`, `business-model`, `growth`, `web-development`
 - score: 5
 
-<p><em>I'm posting this in startups, because my end goal is to start something on my own.</em></p>
+*I'm posting this in startups, because my end goal is to start something on my own.*
 
-<p>I've been living off online poker for the past 5 years. I decided to quit poker and pursue something more fulfilling. So, last year I enrolled in a web design (community college) program with the plan to transfer to university after 1 year and study CS. Now I'm unsure if I want to be spending the next 4 years of my life in university, because by the time I graduate I'll be 32yo. Although, without a CS degree I'll have less leverage over my employers, and my options are going to be limited if I later decide to work outside of web design.
-So here are my options:</p>
+I've been living off online poker for the past 5 years. I decided to quit poker and pursue something more fulfilling. So, last year I enrolled in a web design (community college) program with the plan to transfer to university after 1 year and study CS. Now I'm unsure if I want to be spending the next 4 years of my life in university, because by the time I graduate I'll be 32yo. Although, without a CS degree I'll have less leverage over my employers, and my options are going to be limited if I later decide to work outside of web design.
+So here are my options:
 
-<ul>
-<li><p>Build a portfolio and try to get an internship in front end, JS, or UX design.</p></li>
-<li><p>Complete 1 more year of community college, then intern.</p></li>
-<li><p>Start 4 year CS degree studies. I'm approved for grant money that would cover 2/3 of the costs.</p></li>
-<li><p>Continue learning on my own and build things. I have money saved up that I can live off of for 2 years.</p></li>
-</ul>
+- Build a portfolio and try to get an internship in front end, JS, or UX design.
 
-<p>Note: I have NO work experience, as I've been living off online poker for a long time. I'm interested in so many things (front end, back end, UX/UI), but the end goal would be to start my own thing or work remotely once I gain experience in the field. I've wanted to study CS for a long time now, because many areas of it interest me, but 4 years is a long time for someone who's starting at 28 years old.</p>
+- Complete 1 more year of community college, then intern.
 
+- Start 4 year CS degree studies. I'm approved for grant money that would cover 2/3 of the costs.
+
+- Continue learning on my own and build things. I have money saved up that I can live off of for 2 years.
+
+Note: I have NO work experience, as I've been living off online poker for a long time. I'm interested in so many things (front end, back end, UX/UI), but the end goal would be to start my own thing or work remotely once I gain experience in the field. I've wanted to study CS for a long time now, because many areas of it interest me, but 4 years is a long time for someone who's starting at 28 years old.
 
 
 ## Answer 9792
@@ -107,9 +107,10 @@ Hack Reactor</p>
 - posted by: [mrv](https://stackexchange.com/users/3179297/mrv) on 2016-05-20
 - score: 0
 
-<p>if you wanna build a company, better get used to doing all the things at the same time.</p>
+if you wanna build a company, better get used to doing all the things at the same time.
 
-<p>go get your cs degree and a job and continue learning on your own, building things. ;)</p>
+go get your cs degree and a job and continue learning on your own, building things. ;)
+
 
 
 
@@ -118,14 +119,13 @@ Hack Reactor</p>
 - posted by: [Fahad Uddin](https://stackexchange.com/users/160083/fahad-uddin) on 2016-05-28
 - score: 0
 
-<p>The best way to learn about building a technology company could be to start a Computer Science degree. While you are enrolled into the program, you will get a chance to meet like minded people. If you are enrolled into a University that promotes entrepreneurship, you will have access to mentors and probably investors.</p>
+The best way to learn about building a technology company could be to start a Computer Science degree. While you are enrolled into the program, you will get a chance to meet like minded people. If you are enrolled into a University that promotes entrepreneurship, you will have access to mentors and probably investors.
 
-<p>Another interesting thing is while you complete your degree, you will probably do multiple internships which will help you understand how companies work.</p>
+Another interesting thing is while you complete your degree, you will probably do multiple internships which will help you understand how companies work.
 
-<p>There aren't always jobs for people without a degree (the opposite isn't true either). If you want to start your own company, you will need a certain degree of financial independence which is the ability to take a year off from your job and pursue entrepreneurship. If I were you my strategy would have been to complete a degree, get a job and work for a great company for 2 years and save 50% of my monthly expense every month. After two years I will have 1 years expenses saved. This could be a great time to go and start my own company. If the company succeeds, well and good. On the other hand if the company fails, I will go get another job.</p>
+There aren't always jobs for people without a degree (the opposite isn't true either). If you want to start your own company, you will need a certain degree of financial independence which is the ability to take a year off from your job and pursue entrepreneurship. If I were you my strategy would have been to complete a degree, get a job and work for a great company for 2 years and save 50% of my monthly expense every month. After two years I will have 1 years expenses saved. This could be a great time to go and start my own company. If the company succeeds, well and good. On the other hand if the company fails, I will go get another job.
 
-<p>Good luck!</p>
-
+Good luck!
 
 
 ## Answer 9334
@@ -133,26 +133,25 @@ Hack Reactor</p>
 - posted by: [Alejandro G](https://stackexchange.com/users/8265496/alejandro-g) on 2016-05-28
 - score: -2
 
-<p>Actually, you will be 34 years old by the time you finish your MBA.</p>
+Actually, you will be 34 years old by the time you finish your MBA.
 
-<p>You cannot get a six-figures job in this day and age with only a college education.</p>
+You cannot get a six-figures job in this day and age with only a college education.
 
-<p>Today, the life expectancy of an individual currently living in the United States of America is 78.</p>
+Today, the life expectancy of an individual currently living in the United States of America is 78.
 
-<p>However, new drugs are being discovered daily and some of them can cure you from a lot of incurable diseases.</p>
+However, new drugs are being discovered daily and some of them can cure you from a lot of incurable diseases.
 
-<p>At the very least, you can live longer.</p>
+At the very least, you can live longer.
 
-<p>Also, there are many technological advances now helping you to live longer, my mother has a titanium hip. This was not possible 50 years ago.</p>
+Also, there are many technological advances now helping you to live longer, my mother has a titanium hip. This was not possible 50 years ago.
 
-<p>You can now buy a Mitsubhishi heart and replace your current heart with an artificial heart. Again, this was not possible 50 years ago.</p>
+You can now buy a Mitsubhishi heart and replace your current heart with an artificial heart. Again, this was not possible 50 years ago.
 
-<p>As you can see, you may live all way to 88 years old in the near future.</p>
+As you can see, you may live all way to 88 years old in the near future.
 
-<p>You can live in the ghetto or you can live in Bel Air.</p>
+You can live in the ghetto or you can live in Bel Air.
 
-<p>Choose wisely.</p>
-
+Choose wisely.
 
 
 

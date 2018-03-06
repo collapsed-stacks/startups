@@ -4,8 +4,7 @@
 - tagged: `united-states`, `service`, `data`
 - score: 2
 
-<p>I have a great database of contacts and skill list of USA. Its approximately 10 million rows of data with numbers and details. How can I get benefits from this data?</p>
-
+I have a great database of contacts and skill list of USA. Its approximately 10 million rows of data with numbers and details. How can I get benefits from this data?
 
 
 ## Answer 8609
@@ -37,18 +36,17 @@
 - posted by: [fiprojects](https://stackexchange.com/users/5370155/fiprojects) on 2016-03-07
 - score: 0
 
-<p>Ignore the email addresses... what other data is there?</p>
+Ignore the email addresses... what other data is there?
 
-<p>Company names, contact names at the company and their postal addresses might help industry publications gain new advertisers or subscribers via cold calls, or via posting via snail mail.</p>
+Company names, contact names at the company and their postal addresses might help industry publications gain new advertisers or subscribers via cold calls, or via posting via snail mail.
 
-<p>Legally, the email addresses are worthless by themselves as the owners have not have opted-in.  It is possible that the real owners behind the email addresses opted-in to someone else's mail, but they have not consented to your mail, or anyone who might receive the list from you. Many US states, UK and Europe have laws that prohibit unsolicited emails. </p>
+Legally, the email addresses are worthless by themselves as the owners have not have opted-in.  It is possible that the real owners behind the email addresses opted-in to someone else's mail, but they have not consented to your mail, or anyone who might receive the list from you. Many US states, UK and Europe have laws that prohibit unsolicited emails. 
 
-<p>Your unsolicited approach though to sell the list will be viewed with suspicion. The effort spent in selling the list might not cover any remuneration you win from a successful sale.</p>
+Your unsolicited approach though to sell the list will be viewed with suspicion. The effort spent in selling the list might not cover any remuneration you win from a successful sale.
 
-<p>Once sold to someone, there is little you can do to prevent them from selling the list on, so you could end up creating your own competition.</p>
+Once sold to someone, there is little you can do to prevent them from selling the list on, so you could end up creating your own competition.
 
-<p>Junk emailers and spammers might be interested.</p>
-
+Junk emailers and spammers might be interested.
 
 
 

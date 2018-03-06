@@ -4,14 +4,14 @@
 - tagged: `ceo`
 - score: 0
 
-<p>A Startup of a Fintech is redefining the role.  Need your valuable advice.</p>
+A Startup of a Fintech is redefining the role.  Need your valuable advice.
 
-<p>Two co-founders of the co. One holding bigger share than the other but both are major shareholders and key people in the establishment. They are directors in the board too. Need to define the role in the management, apart from the identity of co-founder and company director. Questions:-</p>
+Two co-founders of the co. One holding bigger share than the other but both are major shareholders and key people in the establishment. They are directors in the board too. Need to define the role in the management, apart from the identity of co-founder and company director. Questions:-
 
-<p>If the 1st man calls Chairman, can the 2nd man calls CEO?
-If the 1st man shd be the Chairman and CEO, what is the 2nd man?</p>
+If the 1st man calls Chairman, can the 2nd man calls CEO?
+If the 1st man shd be the Chairman and CEO, what is the 2nd man?
 
-<p>Many thanks.</p>
+Many thanks.
 
 
 
@@ -40,12 +40,11 @@ Also read this <a href="http://www.slate.com/articles/news_and_politics/explaine
 - posted by: [Jeff O'Neill](https://stackexchange.com/users/46273/jeff-o-neill) on 2017-05-12
 - score: 1
 
-<p>It is not uncommon at a small startup for the same person to be the Chairman of the Board of Directors and the CEO.</p>
+It is not uncommon at a small startup for the same person to be the Chairman of the Board of Directors and the CEO.
 
-<p>You could have the first person be the Chairman of the Board of Directors and the CEO.</p>
+You could have the first person be the Chairman of the Board of Directors and the CEO.
 
-<p>You could have the second person be a member of the Board of Directors and another C-level officer position, such as COO.</p>
-
+You could have the second person be a member of the Board of Directors and another C-level officer position, such as COO.
 
 
 

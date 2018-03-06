@@ -4,14 +4,13 @@
 - tagged: `delaware`, `c-corporation`, `tax`
 - score: 0
 
-<p>I recently incorporated my startup company in Delaware as C Corporation. I will be doing online business and operate out of Canada. I am told to file for the Delaware annual return and paying the annual Delaware franchise tax by March.</p>
+I recently incorporated my startup company in Delaware as C Corporation. I will be doing online business and operate out of Canada. I am told to file for the Delaware annual return and paying the annual Delaware franchise tax by March.
 
-<p>However, I don't know anything about the US federal corporate filing requirement and have found conflicting information about this using google!</p>
+However, I don't know anything about the US federal corporate filing requirement and have found conflicting information about this using google!
 
-<p>So is my corporation required to file the US federal corporate tax return (eg. form 1120)? As for now, the company is inactive (ie. no business transactions) and has close to zero assets.</p>
+So is my corporation required to file the US federal corporate tax return (eg. form 1120)? As for now, the company is inactive (ie. no business transactions) and has close to zero assets.
 
-<p>Thank you for your advice!</p>
-
+Thank you for your advice!
 
 ## No Answers
 

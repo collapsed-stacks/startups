@@ -4,16 +4,13 @@
 - tagged: `payment`, `customer-service`, `accounting`, `partners`
 - score: 2
 
-<p>We are looking to start a SaaS business selling to the medical field. Our idea is to build out a subscription-based service. We have a small team of co-founders (3) and are trying to run lean (i.e. no additional employees initially) and bootstrap. What are the baseline vendors that others have integrated into their business to start? Some vendors that come to mind:</p>
+We are looking to start a SaaS business selling to the medical field. Our idea is to build out a subscription-based service. We have a small team of co-founders (3) and are trying to run lean (i.e. no additional employees initially) and bootstrap. What are the baseline vendors that others have integrated into their business to start? Some vendors that come to mind:
 
-<ul>
-<li>CRM (like salesforce)</li>
-<li>Payments solution (like Paypal)</li>
-<li>Accounting software (like Quickbooks)</li>
-</ul>
+ - CRM (like salesforce)
+ - Payments solution (like Paypal)
+ - Accounting software (like Quickbooks)
 
-<p>Are we missing anything? (apart from legal guidance). Also based on our size and target market, any suggestions for software solutions for the different functions? (I just listed out the popular ones).</p>
-
+Are we missing anything? (apart from legal guidance). Also based on our size and target market, any suggestions for software solutions for the different functions? (I just listed out the popular ones).
 
 
 ## Answer 3908
@@ -21,28 +18,25 @@
 - posted by: [Ali](https://stackexchange.com/users/2815644/ali) on 2015-04-01
 - score: 1
 
-<p>Some general services that you may need and can outsource are</p>
+Some general services that you may need and can outsource are
 
-<ol>
-<li>Payroll and pay stubs</li>
-<li>Accounts and Bookkeeping</li>
-<li>Legal</li>
-<li>CRM / ERP</li>
-<li>Payment processing</li>
-<li>Tax preparation</li>
-<li>Annual report</li>
-<li>Janitorial</li>
-<li>Maintenance contracts for equipment</li>
-<li>Website and online social presence</li>
-<li>Productivity applications like office</li>
-<li>IT tech support</li>
-<li>Delivery and pick up</li>
-</ol>
+1. Payroll and pay stubs
+2. Accounts and Bookkeeping
+3. Legal
+4. CRM / ERP
+5. Payment processing
+6. Tax preparation
+7. Annual report
+8. Janitorial
+9. Maintenance contracts for equipment
+10. Website and online social presence
+11. Productivity applications like office
+12. IT tech support
+13. Delivery and pick up
 
-<p>For your specific needs. Most companies would add a practice management system or a clinical information system along as well. </p>
+For your specific needs. Most companies would add a practice management system or a clinical information system along as well. 
 
-<p>If you are bootstrapping, it is always better to go on an as-on-need basis for non critical services (even if you have to pay a little higher) as you may not have a stable revenue initially to offset the recurring cost of the contracts and show a profit. Many of the above can also be obtained for cheap to no cost using free software, elbow grease and friends and without recurring contracts. </p>
-
+If you are bootstrapping, it is always better to go on an as-on-need basis for non critical services (even if you have to pay a little higher) as you may not have a stable revenue initially to offset the recurring cost of the contracts and show a profit. Many of the above can also be obtained for cheap to no cost using free software, elbow grease and friends and without recurring contracts. 
 
 
 

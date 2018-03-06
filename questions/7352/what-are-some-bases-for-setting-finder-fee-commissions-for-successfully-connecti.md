@@ -4,8 +4,7 @@
 - tagged: `funding`, `venture-capital`, `fundraising`, `commissions`
 - score: 1
 
-<p>If a person connects you to a VC firm through their contacts and that firm ultimately funds your company, what metrics are used to set the finder's fee?  Does such a commission vary with the amount of money raised?  Does such a commission vary for an established profitable company with revenues that wants to expand versus a startup with no track record?  Are there standards that typically prevail for such commissions?</p>
-
+If a person connects you to a VC firm through their contacts and that firm ultimately funds your company, what metrics are used to set the finder's fee?  Does such a commission vary with the amount of money raised?  Does such a commission vary for an established profitable company with revenues that wants to expand versus a startup with no track record?  Are there standards that typically prevail for such commissions?
 
 
 ## Answer 8232

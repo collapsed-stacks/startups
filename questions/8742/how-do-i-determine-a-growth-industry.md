@@ -4,16 +4,15 @@
 - tagged: `growth`, `market-research`
 - score: 4
 
-<p>I recently got some excellent business advice from a startup up meet up group in Leicester and I was encouraged to look at the growth rate of the industry that I wished to enter. </p>
+I recently got some excellent business advice from a startup up meet up group in Leicester and I was encouraged to look at the growth rate of the industry that I wished to enter. 
 
-<p>Clearly if you have a passion for something and believe you can turn it into a business it helps a lot to push things forward but it helps a lot if you can balance this with an industry with plenty of growth potential. </p>
+Clearly if you have a passion for something and believe you can turn it into a business it helps a lot to push things forward but it helps a lot if you can balance this with an industry with plenty of growth potential. 
 
-<p>Methods I was thinking of: Google Trends, top new companies lists, fast growing companies in the stock market, future trend prediction methods.</p>
+Methods I was thinking of: Google Trends, top new companies lists, fast growing companies in the stock market, future trend prediction methods.
 
-<p>What other methods are there for research growth industries? </p>
+What other methods are there for research growth industries? 
 
-<p>I'm looking for specific growth trends before the curve rather than already well established companies. E.g. emerging trends.</p>
-
+I'm looking for specific growth trends before the curve rather than already well established companies. E.g. emerging trends.
 
 
 ## Answer 11416
@@ -38,22 +37,21 @@
 - posted by: [Jeremy Parsons](https://stackexchange.com/users/497810/jeremy-parsons) on 2016-10-25
 - score: 2
 
-<p>So before I pitch in, let me say a couple of things. First, a shout out to startups in Leicester! Second, unless you're a big, venture backed startup, the growth rate of a sector isn't obviously a leading factor with one exception - dull, stable sectors often offer great startup niches.</p>
+So before I pitch in, let me say a couple of things. First, a shout out to startups in Leicester! Second, unless you're a big, venture backed startup, the growth rate of a sector isn't obviously a leading factor with one exception - dull, stable sectors often offer great startup niches.
 
-<p>I'm lazy. So if I want to know something about market size and growth, I'll <strong>look for an industry association</strong>. If there is one, there's a good chance that one thing it does is keep an eye on the industry. Maybe they have a free report, but if they don't, they'll have made a press release that contains the headlines you need. If not, there may so be trade-related publications. People selling industry reports and data will be reaching out. So read the publications, sign up for every newsletter, and let the answers find you. Be patient, because haste is expensive.</p>
+I'm lazy. So if I want to know something about market size and growth, I'll **look for an industry association**. If there is one, there's a good chance that one thing it does is keep an eye on the industry. Maybe they have a free report, but if they don't, they'll have made a press release that contains the headlines you need. If not, there may so be trade-related publications. People selling industry reports and data will be reaching out. So read the publications, sign up for every newsletter, and let the answers find you. Be patient, because haste is expensive.
 
-<p>Second, with a little more work, I'll go to or log on to a library that has access to <strong>online services</strong>. Then look for data. Maybe there will be direct publications, or maybe you can get access to recent research papers published.</p>
+Second, with a little more work, I'll go to or log on to a library that has access to **online services**. Then look for data. Maybe there will be direct publications, or maybe you can get access to recent research papers published.
 
-<p>Third, if I'm still hungry for information, I'll <strong>look for the big players in the market</strong>, and look at their annual reports. Again, if they're public companies, it's more or less mandatory for them to track the industry they're in and at least comment on it, perhaps with numbers. They pay the analysts for it, you benefit from it. Awesome.</p>
+Third, if I'm still hungry for information, I'll **look for the big players in the market**, and look at their annual reports. Again, if they're public companies, it's more or less mandatory for them to track the industry they're in and at least comment on it, perhaps with numbers. They pay the analysts for it, you benefit from it. Awesome.
 
-<p>Fourth and last, I'll <strong>put a notice in a local business school</strong>. Define the project succinctly. Ideally, find someone who's willing to lend you their name and student or alumni email so you can ask as an insider. And offer a bottle of very fine whisky, so that you'll select out most of the students who don't know either. In Leicester you're spoilt for choice. No luck? Try Nottingham, Warwick, Cambridge.</p>
+Fourth and last, I'll **put a notice in a local business school**. Define the project succinctly. Ideally, find someone who's willing to lend you their name and student or alumni email so you can ask as an insider. And offer a bottle of very fine whisky, so that you'll select out most of the students who don't know either. In Leicester you're spoilt for choice. No luck? Try Nottingham, Warwick, Cambridge.
 
-<p>But what if this is an emergent market? Then, to a good approximation, <strong>nobody knows</strong>. Pundits will be pontificating - and their musings are online. Investors will be investing - so take a look at the deals, and ask yourself who's in, who's out, how deep, how determined. More importantly, emergent markets with high growth <em>potential</em> tend to be icebergs, where all the interesting events are below the surface, with ventures in stealth mode. You just need to bear in mind that most of what you see is bobbing on the surface, with no way of telling if what you see is all there is.</p>
+But what if this is an emergent market? Then, to a good approximation, **nobody knows**. Pundits will be pontificating - and their musings are online. Investors will be investing - so take a look at the deals, and ask yourself who's in, who's out, how deep, how determined. More importantly, emergent markets with high growth *potential* tend to be icebergs, where all the interesting events are below the surface, with ventures in stealth mode. You just need to bear in mind that most of what you see is bobbing on the surface, with no way of telling if what you see is all there is.
 
-<p>A typical bootstrapped or modestly funded startup needs a <strong>consistent posture</strong>. If you're all about getting traction, forget the market, find the entry points. If you're creating capability to sell, focus on the value of your IP and build relationships with the companies who could buy the asset you're creating. If you're hunting for your niche, use the Lean toolset to drive towards discovery of real, valuable problems, build up a network of prospective customers to engage, and iterate until you have product/market fit. If you're cutting your teeth on a moonlight project, find the quiet corners of markets you're ready to learn to love, and start finding out what they care about.</p>
+A typical bootstrapped or modestly funded startup needs a **consistent posture**. If you're all about getting traction, forget the market, find the entry points. If you're creating capability to sell, focus on the value of your IP and build relationships with the companies who could buy the asset you're creating. If you're hunting for your niche, use the Lean toolset to drive towards discovery of real, valuable problems, build up a network of prospective customers to engage, and iterate until you have product/market fit. If you're cutting your teeth on a moonlight project, find the quiet corners of markets you're ready to learn to love, and start finding out what they care about.
 
-<p>Good luck. Only before you commit too much energy, <strong>ask yourself what you will do differently because you have a number</strong>. If you don't know, don't let this distract you from the hard problems that need 90% of your time and emotional investment.</p>
-
+Good luck. Only before you commit too much energy, **ask yourself what you will do differently because you have a number**. If you don't know, don't let this distract you from the hard problems that need 90% of your time and emotional investment.
 
 
 ## Answer 8750
@@ -61,12 +59,11 @@
 - posted by: [Esqarrouth](https://stackexchange.com/users/3055586/esqarrouth) on 2016-03-16
 - score: 1
 
-<p>Google Trends is a good tool. </p>
+Google Trends is a good tool. 
 
-<p>I also think this is good too: <a href="http://techcrunch.com/unicorn-leaderboard/emerging/" rel="nofollow">http://techcrunch.com/unicorn-leaderboard/emerging/</a></p>
+I also think this is good too: http://techcrunch.com/unicorn-leaderboard/emerging/
 
-<p>Also this: <a href="https://www.ycombinator.com/rfs/" rel="nofollow">https://www.ycombinator.com/rfs/</a></p>
-
+Also this: https://www.ycombinator.com/rfs/
 
 
 ## Answer 11419
@@ -74,24 +71,23 @@
 - posted by: [Neil](https://stackexchange.com/users/2711480/neil) on 2016-10-25
 - score: 1
 
-<p>I look for analysts reports for the sector. The first part is to understand what the sector is referred to by analysts. Let's look at crisps... (called "potato crisps").</p>
+I look for analysts reports for the sector. The first part is to understand what the sector is referred to by analysts. Let's look at crisps... (called "potato crisps").
 
-<p>I have searched on crisp market size UK. I have deliberately not looked at newspapers, but instead market research firms. The reports below show a growth in crisps of between 3.6-4.2%, but actually that popcorn is growing the fastest.</p>
+I have searched on crisp market size UK. I have deliberately not looked at newspapers, but instead market research firms. The reports below show a growth in crisps of between 3.6-4.2%, but actually that popcorn is growing the fastest.
 
-<p><a href="http://www.ibisworld.co.uk/market-research/potato-crisps-snacks-production.html" rel="nofollow">http://www.ibisworld.co.uk/market-research/potato-crisps-snacks-production.html</a></p>
+http://www.ibisworld.co.uk/market-research/potato-crisps-snacks-production.html
 
-<p>Annual Growth 11-16: 4.2%</p>
+Annual Growth 11-16: 4.2%
 
-<p><a href="http://www.snacma.org.uk/industry-facts/" rel="nofollow">http://www.snacma.org.uk/industry-facts/</a></p>
+http://www.snacma.org.uk/industry-facts/
 
-<p>Annual Growth (date range not specified): 3.6%</p>
+Annual Growth (date range not specified): 3.6%
 
-<p><a href="http://www.mintel.com/press-centre/food-and-drink/sales-of-crisps-lose-their-crunch-potato-based-snacks-overtook-sales-of-crisps-in-2015" rel="nofollow">http://www.mintel.com/press-centre/food-and-drink/sales-of-crisps-lose-their-crunch-potato-based-snacks-overtook-sales-of-crisps-in-2015</a></p>
+http://www.mintel.com/press-centre/food-and-drink/sales-of-crisps-lose-their-crunch-potato-based-snacks-overtook-sales-of-crisps-in-2015
 
-<p>Annual growth: Not specified; However, popcorn growth is 169%.</p>
+Annual growth: Not specified; However, popcorn growth is 169%.
 
-<p>This method looks at the market research of others. I would generally scrutinise the under-possibly-'lying' data before making a decision (but I have done this in 5 minutes...)</p>
-
+This method looks at the market research of others. I would generally scrutinise the under-possibly-'lying' data before making a decision (but I have done this in 5 minutes...)
 
 
 

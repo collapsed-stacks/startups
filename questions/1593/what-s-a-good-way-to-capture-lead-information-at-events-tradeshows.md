@@ -4,12 +4,11 @@
 - tagged: `marketing`
 - score: 2
 
-<p>We regularly need to capture basic contact info (name email, phone) during events. This needs to be quick to maximize the number of people we can speak to (sometimes over 500/day).</p>
+We regularly need to capture basic contact info (name email, phone) during events. This needs to be quick to maximize the number of people we can speak to (sometimes over 500/day).
 
-<p>Currently we are writing it on paper but its a hard task to digitize the information later.</p>
+Currently we are writing it on paper but its a hard task to digitize the information later.
 
-<p>I would love suggestions for an Android app that can capture this info easily. It should work offline and be able to export, sync the info later.</p>
-
+I would love suggestions for an Android app that can capture this info easily. It should work offline and be able to export, sync the info later.
 
 
 ## Answer 1598
@@ -28,13 +27,21 @@
 - posted by: [demiculus](https://stackexchange.com/users/5264485/demiculus) on 2014-12-11
 - score: 1
 
-<p>With the help of event networking applications you can gather your users information really easily. Some cost the event organizer some don't.</p>
+With the help of event networking applications you can gather your users information really easily. Some cost the event organizer some don't.
 
-<p><a href="http://getchain.com/" rel="nofollow">This one</a> is used widely in Middle East &amp; East Europe</p>
+[This one](http://getchain.com/) is used widely in Middle East & East Europe
 
-<p><a href="http://www.bizzabo.com/" rel="nofollow">This one</a> is used more in Ca &amp; Vegas</p>
+[This one](http://www.bizzabo.com/) is used more in Ca & Vegas
 
-<p>A few more <a href="https://pathable.com/" rel="nofollow">here</a>, <a href="http://www.jujama.com/" rel="nofollow">here</a> and <a href="http://zerista.com/" rel="nofollow">here</a>.</p>
+A few more [here](https://pathable.com/), [here](http://www.jujama.com/) and [here](http://zerista.com/).
+
+
+
+
+
+
+
+
 
 
 
@@ -43,10 +50,9 @@
 - posted by: [Rocky](https://stackexchange.com/users/4448541/rocky) on 2014-12-11
 - score: 1
 
-<p>Sometimes an analog solution is worth considering. If quantity of names is the most important part of the collection, consider asking for business cards, putting them in a bowl with a drawing for a gift card or something. Then get one of those business card scanners and it will OCR the cards into a spreadsheet for  you.</p>
+Sometimes an analog solution is worth considering. If quantity of names is the most important part of the collection, consider asking for business cards, putting them in a bowl with a drawing for a gift card or something. Then get one of those business card scanners and it will OCR the cards into a spreadsheet for  you.
 
-<p>Granted, business cards are becoming less popular these days. As a digital alternative, ask people to tweet you or follow you on twitter.</p>
-
+Granted, business cards are becoming less popular these days. As a digital alternative, ask people to tweet you or follow you on twitter.
 
 
 

@@ -4,21 +4,19 @@
 - tagged: `marketing`, `mobile-apps`
 - score: 5
 
-<p>Today I got to know a startup named <em>Postmates</em>. While I don't know much about Postmates (I don't live in US) but as far as I know they seem to just build up the platform or infrastructure and let third-party local restaurants deliver their foods to consumers, through Postmates' mobile app.</p>
+Today I got to know a startup named *Postmates*. While I don't know much about Postmates (I don't live in US) but as far as I know they seem to just build up the platform or infrastructure and let third-party local restaurants deliver their foods to consumers, through Postmates' mobile app.
 
-<p>However, I wonder that for these kind of startups, how they inform their service and entice the local restaurants owners to call to their network. In other words, how can they contact them and then win over them to join their service. </p>
+However, I wonder that for these kind of startups, how they inform their service and entice the local restaurants owners to call to their network. In other words, how can they contact them and then win over them to join their service. 
 
-<p>Certainly, it would take too much of time and effort to just approach each owner one by one, and if they do in such an inefficient way, it is easy enough for other entrepreneurs to set up the same service in each city, or a big company just starts its own platform and conquer all the market.</p>
+Certainly, it would take too much of time and effort to just approach each owner one by one, and if they do in such an inefficient way, it is easy enough for other entrepreneurs to set up the same service in each city, or a big company just starts its own platform and conquer all the market.
 
-<p>So my question is:</p>
+So my question is:
 
-<ul>
-<li><p>For these kind of startups, how do they inform their service and entice those owners?</p></li>
-<li><p>Is their method appropriate or is there a better way potentially?</p></li>
-</ul>
+* For these kind of startups, how do they inform their service and entice those owners?
 
-<p>For me it seems better for these types of startups to first approach relatively big sellers and then go to middle-size, and finally small-size. In fact Postmates tried to create a connection with Starbucks and McDonalds.</p>
+* Is their method appropriate or is there a better way potentially?
 
+For me it seems better for these types of startups to first approach relatively big sellers and then go to middle-size, and finally small-size. In fact Postmates tried to create a connection with Starbucks and McDonalds.
 
 
 ## Answer 9054

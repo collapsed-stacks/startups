@@ -4,11 +4,11 @@
 - tagged: `china`
 - score: 4
 
-<p>We are interested in getting a ICP license for our China version of our site (e.g. example.cn instead of example.com)</p>
+We are interested in getting a ICP license for our China version of our site (e.g. example.cn instead of example.com)
 
-<p>But we are no way to setup a China company, nor we are interested to put the server in China, so can we still able get the ICP license?</p>
+But we are no way to setup a China company, nor we are interested to put the server in China, so can we still able get the ICP license?
 
-<p>We want to get the ICP license so we have fewer chance that our site will be blocked by the GFW of china.</p>
+We want to get the ICP license so we have fewer chance that our site will be blocked by the GFW of china.
 
 
 
@@ -28,16 +28,15 @@
 - posted by: [DR Agency](https://stackexchange.com/users/10906690/dr-agency) on 2017-05-18
 - score: 0
 
-<p>You can use a Chinese citizen's ID to apply the ICP for you. Someone you trusted.</p>
+You can use a Chinese citizen's ID to apply the ICP for you. Someone you trusted.
 
-<p>If you want to put the server in China you have to get an ICP. It's essential.</p>
+If you want to put the server in China you have to get an ICP. It's essential.
 
-<p>There is another option for you, put your server in Hongkong, it belongs to China but has another policy. You don't need to apply for an ICP. </p>
+There is another option for you, put your server in Hongkong, it belongs to China but has another policy. You don't need to apply for an ICP. 
 
-<p><a href="http://cloud.websiteapp.cn/" rel="nofollow noreferrer">http://cloud.websiteapp.cn/</a>, you can check the price here.</p>
+http://cloud.websiteapp.cn/, you can check the price here.
 
-<p>If you have any other questions we will be glad to help you.</p>
-
+If you have any other questions we will be glad to help you.
 
 
 

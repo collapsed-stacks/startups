@@ -4,14 +4,13 @@
 - tagged: `exit`, `sell`
 - score: 2
 
-<p>the contract in front of me says that a shareholder that wants to sell the company can issue a drag-along. It does not explicitly say a <strong>majority shareholder</strong>.</p>
+the contract in front of me says that a shareholder that wants to sell the company can issue a drag-along. It does not explicitly say a **majority shareholder**.
 
-<p>I am wondering - in this case the only investor is a 15% minority shareholder - is it common practice to allow him a drag-along?</p>
+I am wondering - in this case the only investor is a 15% minority shareholder - is it common practice to allow him a drag-along?
 
-<p>What happens in a situation where this investor wants to sell but the majority shareholders (the founders) don't want to?</p>
+What happens in a situation where this investor wants to sell but the majority shareholders (the founders) don't want to?
 
-<p>thx</p>
-
+thx
 
 
 ## Answer 8380
@@ -19,14 +18,13 @@
 - posted by: [Squared Software](https://stackexchange.com/users/6064338/squared-software) on 2016-01-23
 - score: 1
 
-<p>I'm not a lawyer, but I would be skeptical of that contract. A drag-along isn't uncommon. Generally, its used as a way for the majority shareholder to force a minority shareholder to participate in the sale of a company.</p>
+I'm not a lawyer, but I would be skeptical of that contract. A drag-along isn't uncommon. Generally, its used as a way for the majority shareholder to force a minority shareholder to participate in the sale of a company.
 
-<p>Drag alongs are a way to prevent lesser stakeholders of the company from blocking the sale. However, it is not limited to just the majority. If the contract isn't explicit about this, you may be enabling the minority stakeholder to force the company to be sold in the same way.</p>
+Drag alongs are a way to prevent lesser stakeholders of the company from blocking the sale. However, it is not limited to just the majority. If the contract isn't explicit about this, you may be enabling the minority stakeholder to force the company to be sold in the same way.
 
-<p>I would be worried about this particularly because it is not uncommon for an investment company to invest for a set period of time, and depending on the outcome of their investment, to try and force an IPO or sale.</p>
+I would be worried about this particularly because it is not uncommon for an investment company to invest for a set period of time, and depending on the outcome of their investment, to try and force an IPO or sale.
 
-<p><a href="http://www.law360.com/articles/653263/tag-along-and-drag-along-rights-a-valuation-analyst-s-view" rel="nofollow">http://www.law360.com/articles/653263/tag-along-and-drag-along-rights-a-valuation-analyst-s-view</a></p>
-
+http://www.law360.com/articles/653263/tag-along-and-drag-along-rights-a-valuation-analyst-s-view
 
 
 

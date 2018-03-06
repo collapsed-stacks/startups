@@ -4,10 +4,9 @@
 - tagged: `business-plan`
 - score: 5
 
-<p>I'm part of a startup that hasn't launched or get any fund yet. We are developing an online platform that is currently functioning as alpha version, and preparing the material to apply for an accelerator. We have a detailed presentation about  the idea, what is the problem that we are trying to tackle, target etc. but we still don't have a complete business plan. </p>
+I'm part of a startup that hasn't launched or get any fund yet. We are developing an online platform that is currently functioning as alpha version, and preparing the material to apply for an accelerator. We have a detailed presentation about  the idea, what is the problem that we are trying to tackle, target etc. but we still don't have a complete business plan. 
 
-<p>Is it something an accelerator is expecting to see (even if not professional or accurate), or is something that can be redacted during the acceleration with the proper competence?</p>
-
+Is it something an accelerator is expecting to see (even if not professional or accurate), or is something that can be redacted during the acceleration with the proper competence?
 
 
 ## Answer 9543
@@ -53,8 +52,7 @@
 - posted by: [D J Sims](https://stackexchange.com/users/7242000/d-j-sims) on 2016-06-27
 - score: 0
 
-<p>The proper stage is right away. If you're lazy you can get away with postponing it indefinitely, but you risk getting to a certain point where you are locked into poor decisions which were made early on.</p>
-
+The proper stage is right away. If you're lazy you can get away with postponing it indefinitely, but you risk getting to a certain point where you are locked into poor decisions which were made early on.
 
 
 

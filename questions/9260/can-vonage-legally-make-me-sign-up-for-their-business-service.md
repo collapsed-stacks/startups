@@ -4,14 +4,14 @@
 - tagged: `untagged`
 - score: 3
 
-<p>Looking to switch our phone service from Verizon to Vonage.
-Vonage is pushing business hard. </p>
+Looking to switch our phone service from Verizon to Vonage.
+Vonage is pushing business hard. 
 
-<p>Our office is on home Verizon service b/c they charge extra for business but provide no additional features. </p>
+Our office is on home Verizon service b/c they charge extra for business but provide no additional features. 
 
-<p>On one call they refused to let me talk to the Home dept once I mentioned that ONE of the two lines.</p>
+On one call they refused to let me talk to the Home dept once I mentioned that ONE of the two lines.
 
-<p>I certainly can't disallow someone from buying the Home version of our software (or at least I <em>would not</em>).</p>
+I certainly can't disallow someone from buying the Home version of our software (or at least I *would not*).
 
 
 

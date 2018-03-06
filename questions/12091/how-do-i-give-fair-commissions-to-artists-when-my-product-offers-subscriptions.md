@@ -4,13 +4,14 @@
 - tagged: `pricing`, `commissions`
 - score: 1
 
-<p>I apologize if this the wrong place for this question in advance!</p>
+I apologize if this the wrong place for this question in advance!
 
-<p>I run a site that has around 2000 video-based lessons, taught by some 50 instructors. For most of the life of the site (9 yrs) these lessons were only offered as direct purchases. </p>
+I run a site that has around 2000 video-based lessons, taught by some 50 instructors. For most of the life of the site (9 yrs) these lessons were only offered as direct purchases. 
 
-<p>Now however, I'm implementing subscriptions (to all lessons), and I'm really struggling to find a fair way to assign commissions to the instructors. Surely this is a well known topic in business, but I'm a software engineer and don't know much about these things.</p>
+Now however, I'm implementing subscriptions (to all lessons), and I'm really struggling to find a fair way to assign commissions to the instructors. Surely this is a well known topic in business, but I'm a software engineer and don't know much about these things.
 
-<p>Is there a place/book I can go to learn about my options?</p>
+Is there a place/book I can go to learn about my options?
+
 
 
 
@@ -19,16 +20,14 @@
 - posted by: [Jeff O'Neill](https://stackexchange.com/users/46273/jeff-o-neill) on 2017-02-12
 - score: 3
 
-<p>What about this?:</p>
+What about this?:
 
-<ul>
-<li>Determining the total monthly revenue from subscribers.</li>
-<li>Counting the total number of lessons watched by subscribers.</li>
-<li>For each instructor, determining the percentage of the monthly lesson views attributed to them.</li>
-<li>Giving them that percentage of revenue (minus your fees or overhead, etc.)</li>
-</ul>
+ - Determining the total monthly revenue from subscribers.
+ - Counting the total number of lessons watched by subscribers.
+ - For each instructor, determining the percentage of the monthly lesson views attributed to them.
+ - Giving them that percentage of revenue (minus your fees or overhead, etc.)
 
-<p>If lessons are of greatly different lengths, you may want to count minutes watched instead of just lesson views.</p>
+If lessons are of greatly different lengths, you may want to count minutes watched instead of just lesson views.
 
 
 

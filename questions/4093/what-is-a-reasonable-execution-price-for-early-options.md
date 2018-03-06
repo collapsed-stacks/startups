@@ -4,16 +4,13 @@
 - tagged: `equity`, `united-kingdom`, `cto`
 - score: 3
 
-<p>What is a reasonable discount on execution price for options given to the first employee who is to be the CTO? Is there a standard amount?</p>
+What is a reasonable discount on execution price for options given to the first employee who is to be the CTO? Is there a standard amount?
 
-<p>A bit more detail that may or may not be relevant:</p>
+A bit more detail that may or may not be relevant:
 
-<ul>
-<li>It's a pretty technical startup.</li>
-<li>It's in the UK.</li>
-<li>It's a large amount of options.</li>
-</ul>
-
+* It's a pretty technical startup.
+* It's in the UK.
+* It's a large amount of options.
 
 ## No Answers
 

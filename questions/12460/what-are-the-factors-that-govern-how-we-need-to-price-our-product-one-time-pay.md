@@ -4,25 +4,24 @@
 - tagged: `product`, `pricing`, `project-management`, `licensing`
 - score: 0
 
-<p>I have been working on the IT sector for around 10 years in different roles. but I was not involved directly with how pricing the software are determined. Now I am starting my new product which represents an e-learning system which provides the following main features:-</p>
+I have been working on the IT sector for around 10 years in different roles. but I was not involved directly with how pricing the software are determined. Now I am starting my new product which represents an e-learning system which provides the following main features:-
 
-<ol>
-<li><p>It is a web application developed using asp.net MVC.</p></li>
-<li><p>The application allows admins to upload videos, presentation, create questions and exams.</p></li>
-<li><p>Users/students can watch the videos and presentations and they can attend the exams, and so on..</p></li>
-</ol>
+1. It is a web application developed using asp.net MVC.
 
-<p>Now I have estimated the efforts for developing this custom system for one of our clients, around 2 months. But I am not sure how i should deliver and price the e-learnng system. Now I have calculated the efforts for developing , testing and configuring the system for around 2 months. But not sure about these 2 points and how I can determine which approach to follow:-</p>
+2. The application allows admins to upload videos, presentation, create questions and exams.
 
-<ol>
-<li><p>Should I deliver the system and pay the customer for one time only?</p></li>
-<li><p>Or I should provide a re-new plan for the solution each year?</p></li>
-</ol>
+3. Users/students can watch the videos and presentations and they can attend the exams, and so on..
 
-<p>Now from my experience in IT sector we sometimes buy solutions which we pay for it for one time only and we can use it for many years and for unlimited number of users, such as an HR system which one of the companies I worked for  bought from a local company . while we have bought sharepoint enterprise server to store documents and workflows, were we have to re-new our license each year. but at the same time in the SharePoint case, each month we get updates from Microsoft which contain hot fixes and new functionalities, while in our HR system we do not receive any updates.</p>
+Now I have estimated the efforts for developing this custom system for one of our clients, around 2 months. But I am not sure how i should deliver and price the e-learnng system. Now I have calculated the efforts for developing , testing and configuring the system for around 2 months. But not sure about these 2 points and how I can determine which approach to follow:-
 
-<p>So in my e-learning system case, which pricing module I should follow and why ?
-Thanks</p>
+1. Should I deliver the system and pay the customer for one time only?
+
+2. Or I should provide a re-new plan for the solution each year?
+
+Now from my experience in IT sector we sometimes buy solutions which we pay for it for one time only and we can use it for many years and for unlimited number of users, such as an HR system which one of the companies I worked for  bought from a local company . while we have bought sharepoint enterprise server to store documents and workflows, were we have to re-new our license each year. but at the same time in the SharePoint case, each month we get updates from Microsoft which contain hot fixes and new functionalities, while in our HR system we do not receive any updates.
+
+So in my e-learning system case, which pricing module I should follow and why ?
+Thanks
 
 
 
@@ -31,22 +30,21 @@ Thanks</p>
 - posted by: [DonQuiKong](https://stackexchange.com/users/9739821/donquikong) on 2017-04-14
 - score: 1
 
-<p>There are two sides here, let's start with the money. </p>
+There are two sides here, let's start with the money. 
 
-<p>When would you agree to a regular payment? When to a high one time payment?</p>
+When would you agree to a regular payment? When to a high one time payment?
 
-<p>In my opinion, paying for the whole program upfront needs some trust. The higher the price, the more trust the customer needs to have in you and your product. </p>
+In my opinion, paying for the whole program upfront needs some trust. The higher the price, the more trust the customer needs to have in you and your product. 
 
-<p>Paying for the first month, evaluating the program and then deciding if you want to keep it is easier. </p>
+Paying for the first month, evaluating the program and then deciding if you want to keep it is easier. 
 
-<p>Another question is, how long is the program going to last? Do I have to buy a new one every year? That would essentially be like a recurring payment. Or is it timeless? Can I buy it once and use it the next ten years?</p>
+Another question is, how long is the program going to last? Do I have to buy a new one every year? That would essentially be like a recurring payment. Or is it timeless? Can I buy it once and use it the next ten years?
 
-<p>The other side is the content. Does it need regular updates? If yes, as a customer, I'd rather be able to stop payments if the updates stop or decline in quality. And what about service? Recurring payments mean I can expect good service or stop paying. </p>
+The other side is the content. Does it need regular updates? If yes, as a customer, I'd rather be able to stop payments if the updates stop or decline in quality. And what about service? Recurring payments mean I can expect good service or stop paying. 
 
-<p>That should help you decide where you stand. Would you rather sell new versions with customers possibly skipping a few between buys, but having the liberty to make updates irregular, or do you want to deliver a service to every customer, help them with every project and deliver content regularly?</p>
+That should help you decide where you stand. Would you rather sell new versions with customers possibly skipping a few between buys, but having the liberty to make updates irregular, or do you want to deliver a service to every customer, help them with every project and deliver content regularly?
 
-<p>Regular payments mean more responsibility for you, but also more money as no customer can skip buying an update.</p>
-
+Regular payments mean more responsibility for you, but also more money as no customer can skip buying an update.
 
 
 ## Answer 12496
@@ -54,10 +52,9 @@ Thanks</p>
 - posted by: [Baskar](https://stackexchange.com/users/7251658/baskar) on 2017-04-14
 - score: 0
 
-<p>This is an item which should be identified as part of initial discussion with the customer. If the customer is small they generally might tend to go for a one time price. 
+This is an item which should be identified as part of initial discussion with the customer. If the customer is small they generally might tend to go for a one time price. 
 If you are selling your software to all a large enterprise where there would be typical user base of 150 and above, then you can consider a yearly renewal option. 
-This has to be negotiated even before pitching in the product to the customer. Also try to do a research on the pricing model of similar products and try to price them reasonably. </p>
-
+This has to be negotiated even before pitching in the product to the customer. Also try to do a research on the pricing model of similar products and try to price them reasonably. 
 
 
 

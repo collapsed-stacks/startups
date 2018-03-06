@@ -4,10 +4,9 @@
 - tagged: `freelancing`
 - score: 0
 
-<p>I am working for a software company.... And I am doing freelancing works and I have a websites called "ABC Lab".</p>
+I am working for a software company.... And I am doing freelancing works and I have a websites called "ABC Lab".
 
-<p>Should I put "founder, ABC Lab" or just "freelancer / software engineer" on my business card?</p>
-
+Should I put "founder, ABC Lab" or just "freelancer / software engineer" on my business card?
 
 
 ## Answer 13494
@@ -15,16 +14,15 @@
 - posted by: [Vasheer Ramdeen](https://stackexchange.com/users/6845962/vasheer-ramdeen) on 2017-10-17
 - score: 2
 
-<p>I would say that you should get two sets of business cards.</p>
+I would say that you should get two sets of business cards.
 
-<p>One would be for your freelancing where you can say founder. The other would be for the software company that you are working for. </p>
+One would be for your freelancing where you can say founder. The other would be for the software company that you are working for. 
 
-<p>Always keep in mind the brand that you are trying to build around yourself. The best way to build brand is to always be consistent with your audience. In your case you have two. </p>
+Always keep in mind the brand that you are trying to build around yourself. The best way to build brand is to always be consistent with your audience. In your case you have two. 
 
-<p>Your brands are the superstar employee and the other is genius freelancer. However you define them stick to it with the selected audience. </p>
+Your brands are the superstar employee and the other is genius freelancer. However you define them stick to it with the selected audience. 
 
-<p>Take that brand thinking into the development of your business cards.</p>
-
+Take that brand thinking into the development of your business cards.
 
 
 

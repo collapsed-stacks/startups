@@ -4,13 +4,12 @@
 - tagged: `mobile-apps`, `revenue`
 - score: 7
 
-<p>I hope my question is not too broad.</p>
+I hope my question is not too broad.
 
-<p>How long should I keep running my mobile app startup if it is generating low income?<br />
-I've got my startup and I was wondering if I should stop it, because there's not enough income and app sales for the moment.</p>
+How long should I keep running my mobile app startup if it is generating low income?<br />
+I've got my startup and I was wondering if I should stop it, because there's not enough income and app sales for the moment.
 
-<p><em>Edit</em> : the startup has 3 apps in the store.</p>
-
+*Edit* : the startup has 3 apps in the store.
 
 
 ## Answer 1025
@@ -18,18 +17,15 @@ I've got my startup and I was wondering if I should stop it, because there's not
 - posted by: [Ed Cottrell](https://stackexchange.com/users/2348349/ed-cottrell) on 2014-10-17
 - score: 7
 
-<p>This depends on a lot of factors:</p>
+This depends on a lot of factors:
 
-<ul>
-<li>Is it just growing slowly, or is it dying?</li>
-<li>Is it holding you back from other things you'd rather do?</li>
-<li>Can you keep drawing some income from it, even if it never grows?</li>
-<li>Could you potentially juice up revenue by reinvesting some of the proceeds in advertising or other promotional efforts?</li>
-<li>Can your current app help you cross-promote new endeavors?</li>
-</ul>
+- Is it just growing slowly, or is it dying?
+- Is it holding you back from other things you'd rather do?
+- Can you keep drawing some income from it, even if it never grows?
+- Could you potentially juice up revenue by reinvesting some of the proceeds in advertising or other promotional efforts?
+- Can your current app help you cross-promote new endeavors?
 
-<p>It's not clear from your question if the app <em>is</em> your startup, or if you have an existing app and also a startup. If the former, sometimes you need to be patient, but sometimes you need to cut your losses. If it's the latter, then, if you believe in your startup, you need to cut out distractions, including an app that may be holding you back.</p>
-
+It's not clear from your question if the app *is* your startup, or if you have an existing app and also a startup. If the former, sometimes you need to be patient, but sometimes you need to cut your losses. If it's the latter, then, if you believe in your startup, you need to cut out distractions, including an app that may be holding you back.
 
 
 ## Answer 1056
@@ -54,13 +50,14 @@ I've got my startup and I was wondering if I should stop it, because there's not
 - posted by: [blunders](https://stackexchange.com/users/216182/blunders) on 2014-10-16
 - score: 0
 
-<p>There's no singular right answer, but there are a number of factors which you should take into account: </p>
+There's no singular right answer, but there are a number of factors which you should take into account: 
 
-<p><strong>(1)</strong> the risk tolerance of key parties involved in the venture; <br />
-<strong>(2)</strong> opportunity cost of sticking to the current venture; <br />
-<strong>(3)</strong> the duration until you expect to breakeven if cashflow picks up;<br />
- <strong>(4)</strong> duration until you expect to hit the point where exiting the venture to another source of income without issues is reached.</p>
+**(1)** the risk tolerance of key parties involved in the venture; <br />
+**(2)** opportunity cost of sticking to the current venture; <br />
+**(3)** the duration until you expect to breakeven if cashflow picks up;<br />
+ **(4)** duration until you expect to hit the point where exiting the venture to another source of income without issues is reached.
 
+ 
 
 
 ## Answer 1063
@@ -68,22 +65,21 @@ I've got my startup and I was wondering if I should stop it, because there's not
 - posted by: [Jeremy Parsons](https://stackexchange.com/users/497810/jeremy-parsons) on 2014-10-20
 - score: 0
 
-<p>You have an asset, and the question is, what to do with it?</p>
+You have an asset, and the question is, what to do with it?
 
-<p>If you have active users, then you should hit two questions:</p>
+If you have active users, then you should hit two questions:
 
-<p><strong><em>What</strong> are they getting out of the app?</em></p>
+***What** are they getting out of the app?*
 
-<p>and</p>
+and
 
-<p><strong><em>How</strong> could you do more for them?</em></p>
+***How** could you do more for them?*
 
-<p>The first will give you some insight into growing the user base, the second into how you can grow the lifetime value of happy customers.</p>
+The first will give you some insight into growing the user base, the second into how you can grow the lifetime value of happy customers.
 
-<p>If you don't, then you essentially have two separate assets - all past users (assuming you have a means of reaching out to them), plus an app that generates a modest profit with you investing minimal effort.</p>
+If you don't, then you essentially have two separate assets - all past users (assuming you have a means of reaching out to them), plus an app that generates a modest profit with you investing minimal effort.
 
-<p>In that case, your historic user base could be a way of accelerating your next project, while your first app has given you learning to help grow your portfolio. </p>
-
+In that case, your historic user base could be a way of accelerating your next project, while your first app has given you learning to help grow your portfolio. 
 
 
 

@@ -4,14 +4,13 @@
 - tagged: `applications`
 - score: 5
 
-<p>Just as how there are Content Management Systems (CMS) programs, Customer Relationship Management (CRM) programs, etc....</p>
+Just as how there are Content Management Systems (CMS) programs, Customer Relationship Management (CRM) programs, etc....
 
-<p>What is the name of an application that enables employees to update tickets, pass a task through a business-defined workflow, and allow trackable changes?</p>
+What is the name of an application that enables employees to update tickets, pass a task through a business-defined workflow, and allow trackable changes?
 
-<p>For example, a tv repair company might have several users: the sales person creates the ticket and describes what problem the tv is experiencing; then a technical accepts the ticket and performs an initial analysis of the problem; then a tier2 technical investigates and resolves the problem; a QA person then confirms the problem is fixed; and finally a delivery staff member brings the tv back to the customer. The whole time there is an electronic ticket that organizes the notes on this customer's tv, and passes the task through the workflow from one person to the next.</p>
+For example, a tv repair company might have several users: the sales person creates the ticket and describes what problem the tv is experiencing; then a technical accepts the ticket and performs an initial analysis of the problem; then a tier2 technical investigates and resolves the problem; a QA person then confirms the problem is fixed; and finally a delivery staff member brings the tv back to the customer. The whole time there is an electronic ticket that organizes the notes on this customer's tv, and passes the task through the workflow from one person to the next.
 
-<p>What is this type of application called?</p>
-
+What is this type of application called?
 
 
 ## Answer 8400
@@ -28,39 +27,40 @@
 - posted by: [Ess Kay](https://stackexchange.com/users/2619138/ess-kay) on 2016-01-28
 - score: 2
 
-<p>The system responsible for crating issue tickets is sometimes called the 
-<strong>Issue tracking system</strong>  (<a href="https://en.wikipedia.org/wiki/Issue_tracking_system" rel="nofollow">https://en.wikipedia.org/wiki/Issue_tracking_system</a>)</p>
+The system responsible for crating issue tickets is sometimes called the 
+**Issue tracking system**  (https://en.wikipedia.org/wiki/Issue_tracking_system)
 
-<p>At times this is not a standalone program and can be part of a larger<br>
-<strong>Project management software</strong> (<a href="https://en.wikipedia.org/wiki/Project_management_software" rel="nofollow">https://en.wikipedia.org/wiki/Project_management_software</a>)</p>
 
-<p>if you just need the ticket aspect, you would need to first identify how you would use it, and how much you want to maintain it.</p>
+At times this is not a standalone program and can be part of a larger  
+**Project management software** (https://en.wikipedia.org/wiki/Project_management_software)
+ 
 
-<p>There are several options to consider for a Issue tracking system:</p>
 
-<ol>
-<li>Do you want the software hosted on your own sever
+if you just need the ticket aspect, you would need to first identify how you would use it, and how much you want to maintain it.
+
+There are several options to consider for a Issue tracking system:
+
+1. Do you want the software hosted on your own sever
 1.a. If Yes, Do you have other locations where it would be accessed (Web or other offices)
-1.b. If no, would you like to hosted on the internet?</li>
-</ol>
+1.b. If no, would you like to hosted on the internet?
 
-<p>There are pros and cons to both, and simply searching the internet will help you ultimately decide which solution is right for you.</p>
+There are pros and cons to both, and simply searching the internet will help you ultimately decide which solution is right for you.
 
-<p>From your question, it sound like you want an entire <strong>Project Management Software</strong></p>
 
-<p>This software can be used for many parts of your company including (Depending on the software):</p>
 
-<ul>
-<li>Tracking Different Projects (Due dates, people who work on them and hours)</li>
-<li>Tracking different milestones/tasks within a projects (when they are completed and by whom)</li>
-<li>Tracking and updating issues and tickets for bugs and repairs</li>
-<li>Tracking Customers information</li>
-<li>Tracking GPS of trucks and routes
-...and so on..</li>
-</ul>
+From your question, it sound like you want an entire **Project Management Software**
 
-<p>Good luck </p>
+This software can be used for many parts of your company including (Depending on the software):
 
+* Tracking Different Projects (Due dates, people who work on them and hours)
+* Tracking different milestones/tasks within a projects (when they are completed and by whom)
+* Tracking and updating issues and tickets for bugs and repairs
+* Tracking Customers information
+* Tracking GPS of trucks and routes
+...and so on..
+
+
+Good luck 
 
 
 ## Answer 8402
@@ -77,12 +77,11 @@
 - posted by: [Austin Sanderson](https://stackexchange.com/users/6109645/austin-sanderson) on 2016-01-28
 - score: 0
 
-<p>The middle part of this is actually called Business Process Management. There is an open source web application called ProcessMaker that can help with this. It takes some time to learn how it works.</p>
+The middle part of this is actually called Business Process Management. There is an open source web application called ProcessMaker that can help with this. It takes some time to learn how it works.
 
-<p>From an organizational perspective, you can set groups and allow only certain groups to see certain parts of the processes, who it is waiting on, et cetera. However, it takes time to define and delineate these processes, consulting with the right people, and then more time to create those processes in the system. </p>
+From an organizational perspective, you can set groups and allow only certain groups to see certain parts of the processes, who it is waiting on, et cetera. However, it takes time to define and delineate these processes, consulting with the right people, and then more time to create those processes in the system. 
 
-<p>It does help in eliminating redundant hand-offs in business processes. The system acts as the middle-man. There is also a paid version of it. You could create a front-end on this that is a bit more user-friendly. It all depends on who is needing to use which part of the system. </p>
-
+It does help in eliminating redundant hand-offs in business processes. The system acts as the middle-man. There is also a paid version of it. You could create a front-end on this that is a bit more user-friendly. It all depends on who is needing to use which part of the system. 
 
 
 ## Answer 8543

@@ -4,11 +4,10 @@
 - tagged: `legal`, `lawyer`
 - score: 3
 
-<p>While looking for a law firm to represent my startup I found out the partner I’m talking to also represents my competitor for startup related legal work</p>
+While looking for a law firm to represent my startup I found out the partner I’m talking to also represents my competitor for startup related legal work
 
-<p>I know lawyers are not supposed to share confidential information
-Do you guys foresee any issues with this?</p>
-
+I know lawyers are not supposed to share confidential information
+Do you guys foresee any issues with this?
 
 
 ## Answer 13284
@@ -16,12 +15,11 @@ Do you guys foresee any issues with this?</p>
 - posted by: [Jeff O'Neill](https://stackexchange.com/users/46273/jeff-o-neill) on 2017-09-03
 - score: 5
 
-<p>I'm an attorney, and this issue comes up all the time.  A firm can represent competitors and when they do this, the firm will ask you to sign a waiver letter that allows the firm to represent you and the competitor.</p>
+I'm an attorney, and this issue comes up all the time.  A firm can represent competitors and when they do this, the firm will ask you to sign a waiver letter that allows the firm to represent you and the competitor.
 
-<p>While you could do this, I recommend that you find a different law firm.  There are a ton of law firms out there so you might as well choose one that isn't representing a competitor and avoid this issue.</p>
+While you could do this, I recommend that you find a different law firm.  There are a ton of law firms out there so you might as well choose one that isn't representing a competitor and avoid this issue.
 
-<p>Also, I suspect you are talking to a large law firm. I generally recommend that you find a small law firm because you will generally get the same quality at much lower prices. With big firms, you are paying for the name, and you don't need the name for routine corporate matters.</p>
-
+Also, I suspect you are talking to a large law firm. I generally recommend that you find a small law firm because you will generally get the same quality at much lower prices. With big firms, you are paying for the name, and you don't need the name for routine corporate matters.
 
 
 ## Answer 13279
@@ -29,12 +27,11 @@ Do you guys foresee any issues with this?</p>
 - posted by: [BrettFromLA](https://stackexchange.com/users/2813127/brettfromla) on 2017-09-02
 - score: 2
 
-<p>In my day job I create internal web forms for a big law firm. We ALWAYS check for legal conflicts of interest before taking on new clients. If there is a conflict, we determine if an "ethical wall" can be put in place. The ethical wall is an electronic system for isolating the confidential information in each case, and for ensuring that attorneys for the two parties never share information.</p>
+In my day job I create internal web forms for a big law firm. We ALWAYS check for legal conflicts of interest before taking on new clients. If there is a conflict, we determine if an "ethical wall" can be put in place. The ethical wall is an electronic system for isolating the confidential information in each case, and for ensuring that attorneys for the two parties never share information.
 
-<p>However, as Denis de Bernardy said in his comment, if things go south and the same firm has to defend one competitor from another, I'm not sure what would happen. My firm only handles defense, so we would not prosecute a case on behalf of either of the clients; I guess that means the workaround could be that your competitor would need to hire another firm if they wanted to prosecute you for anything.</p>
+However, as Denis de Bernardy said in his comment, if things go south and the same firm has to defend one competitor from another, I'm not sure what would happen. My firm only handles defense, so we would not prosecute a case on behalf of either of the clients; I guess that means the workaround could be that your competitor would need to hire another firm if they wanted to prosecute you for anything.
 
-<p>So in a nutshell ... I'm sure the law firm you're considering already has systems in place for avoiding conflicts of interest. This makes sense, because the alternative is that every startup in every city (including cities in Silicon Valley) would have to be represented by its own law firm. Therefore, it's safe to assume that each law firm must be safely representing multiple startups.</p>
-
+So in a nutshell ... I'm sure the law firm you're considering already has systems in place for avoiding conflicts of interest. This makes sense, because the alternative is that every startup in every city (including cities in Silicon Valley) would have to be represented by its own law firm. Therefore, it's safe to assume that each law firm must be safely representing multiple startups.
 
 
 

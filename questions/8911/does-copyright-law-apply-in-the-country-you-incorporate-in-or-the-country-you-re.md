@@ -4,10 +4,9 @@
 - tagged: `legal`, `united-states`, `copyright`, `international`, `canada`
 - score: 3
 
-<p>Because Canada has a short copyright term than the United States, there are some works that are in the public domain in Canada, but not the United States.</p>
+Because Canada has a short copyright term than the United States, there are some works that are in the public domain in Canada, but not the United States.
 
-<p>Is it legal for a company incorporated in the United States to produce a derivative work or reproduction based on one of these works as long as they only make it available in Canada?</p>
-
+Is it legal for a company incorporated in the United States to produce a derivative work or reproduction based on one of these works as long as they only make it available in Canada?
 
 
 ## Answer 8912

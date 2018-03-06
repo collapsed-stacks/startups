@@ -4,8 +4,8 @@
 - tagged: `funding`, `hardware`
 - score: 2
 
-<p>I am trying to fund an idea that is totally dependant on Hardware unlike MOST startups which are built on software prowess. 
-I want to introduce this idea in the most simple way to potential investors, without any actual item just to get their input and perhaps get them to fund me. So what is the actual document that I have to prepare to introduce the product to them? And any template if any... greatly appreciated.</p>
+I am trying to fund an idea that is totally dependant on Hardware unlike MOST startups which are built on software prowess. 
+I want to introduce this idea in the most simple way to potential investors, without any actual item just to get their input and perhaps get them to fund me. So what is the actual document that I have to prepare to introduce the product to them? And any template if any... greatly appreciated.
 
 
 

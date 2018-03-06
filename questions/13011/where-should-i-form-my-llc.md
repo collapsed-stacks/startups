@@ -4,10 +4,9 @@
 - tagged: `startup-costs`, `software`, `taxes`, `llc`
 - score: 0
 
-<p>I am going to be starting a software startup online and I don’t plan on selling any physical goods. I am considering registering outside of my home state of Illinois mainly because of a $500 filing fee. If I formed an LLC in a different state, what would be the catch, would I have to register in my home state too, or is it just in the state I chose to register in?</p>
+I am going to be starting a software startup online and I don’t plan on selling any physical goods. I am considering registering outside of my home state of Illinois mainly because of a $500 filing fee. If I formed an LLC in a different state, what would be the catch, would I have to register in my home state too, or is it just in the state I chose to register in?
 
-<p>Thanks a lot!</p>
-
+Thanks a lot!
 
 ## No Answers
 

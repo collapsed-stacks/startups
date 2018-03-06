@@ -4,8 +4,7 @@
 - tagged: `website`, `web-development`, `web-apps`, `user-acquisition`, `user-engagement`
 - score: 0
 
-<p>I'm thinking of online events on the site itself, which asks them to sign up first. However, I'm searching for better options, which can be applied in conjunction with the quiz.</p>
-
+I'm thinking of online events on the site itself, which asks them to sign up first. However, I'm searching for better options, which can be applied in conjunction with the quiz.
 
 ## No Answers
 

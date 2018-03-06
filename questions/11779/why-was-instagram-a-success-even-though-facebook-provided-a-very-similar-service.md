@@ -4,12 +4,12 @@
 - tagged: `lean-startup`
 - score: 1
 
-<p>I am reading a book called “the second machine age” and the author brings up the story of Instagram.</p>
+I am reading a book called “the second machine age” and the author brings up the story of Instagram.
 
-<p>I am curious to know why you think Instagram became so popular, even though facebook provided the exact same or similar service. When Instagram came up Facebook had a mobile app, they allowed picture sharing, commenting and the like. Further, its not too much harder to download facebook on your mobile phone vs Instagram. Also due to the network effect, and the fact that facebook had many more users, I would expect people to go to facebook to share photos, but people went to Instagram.</p>
+I am curious to know why you think Instagram became so popular, even though facebook provided the exact same or similar service. When Instagram came up Facebook had a mobile app, they allowed picture sharing, commenting and the like. Further, its not too much harder to download facebook on your mobile phone vs Instagram. Also due to the network effect, and the fact that facebook had many more users, I would expect people to go to facebook to share photos, but people went to Instagram.
 
-<p>What was the differentiating factor that led to the success of Instagram? 
-P.S. you should read the “the second machine age”. Facinating book. </p>
+What was the differentiating factor that led to the success of Instagram? 
+P.S. you should read the “the second machine age”. Facinating book. 
 
 
 ## No Answers

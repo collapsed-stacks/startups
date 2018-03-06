@@ -4,10 +4,9 @@
 - tagged: `mobile-apps`, `android-development`, `china`
 - score: -1
 
-<p>if I want to publish app in China (complete free, without any in-app purchases), are there any legal issues?</p>
+if I want to publish app in China (complete free, without any in-app purchases), are there any legal issues?
 
-<p>I read that you need resident ID card (person) or local branch office (company) to publish apps in China, is it right?</p>
-
+I read that you need resident ID card (person) or local branch office (company) to publish apps in China, is it right?
 
 
 ## Answer 11476
@@ -26,12 +25,11 @@
 - posted by: [DR Agency](https://stackexchange.com/users/10906690/dr-agency) on 2017-05-18
 - score: 0
 
-<p>you can publish your app under other's account.</p>
+you can publish your app under other's account.
 
-<p>We can do it for you. <a href="https://websiteapp.cn/lunch-app-china-android-stores/" rel="nofollow noreferrer">https://websiteapp.cn/lunch-app-china-android-stores/</a></p>
+We can do it for you. https://websiteapp.cn/lunch-app-china-android-stores/
 
-<p>There are more than 200 Android app store in China and Google play is only a small fish. For iOS, almost the same like other countries.</p>
-
+There are more than 200 Android app store in China and Google play is only a small fish. For iOS, almost the same like other countries.
 
 
 ## Answer 12690
@@ -39,10 +37,9 @@
 - posted by: [Wayne Chen](https://stackexchange.com/users/4748204/wayne-chen) on 2017-05-19
 - score: 0
 
-<p>ID card is required by third-party Application Market, company info is optional or not strict.
+ID card is required by third-party Application Market, company info is optional or not strict.
 About Android APP:as you known, Google is not accessible in China without VPN, so Google Play is not recommended.
-But there are other third-party Application Market(Xiaomi, Baidu, Tencent, Qihu360 all have their own Market).For example, Xiaomi Application Store, here is its <a href="https://dev.mi.com/doc/p=129/index.html" rel="nofollow noreferrer">tutorial</a>.</p>
-
+But there are other third-party Application Market(Xiaomi, Baidu, Tencent, Qihu360 all have their own Market).For example, Xiaomi Application Store, here is its [tutorial](https://dev.mi.com/doc/p=129/index.html).
 
 
 

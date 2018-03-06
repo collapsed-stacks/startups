@@ -4,13 +4,16 @@
 - tagged: `servers`
 - score: 1
 
-<p>My startup company is doing a web crawling to get <strong>about 20Gb data per day</strong>. And like all other web crawling, we're facing the banned IP problem in one day and the bandwidth using :).
-So, what is the best proxy rotation server I can buy ? How about <a href="https://proxymesh.com/" rel="nofollow">ProxyMesh</a> or <a href="https://5socks.net" rel="nofollow">5socks.net</a> ?
-I can only pay 30$-50$ per month for proxy server service!</p>
+My startup company is doing a web crawling to get **about 20Gb data per day**. And like all other web crawling, we're facing the banned IP problem in one day and the bandwidth using :).
+So, what is the best proxy rotation server I can buy ? How about [ProxyMesh][1] or [5socks.net][2] ?
+I can only pay 30$-50$ per month for proxy server service!
 
-<p>Please help me, a poor entrepreneur :D
-Thank in advance !</p>
+Please help me, a poor entrepreneur :D
+Thank in advance !
 
+
+  [1]: https://proxymesh.com/
+  [2]: https://5socks.net
 
 ## No Answers
 

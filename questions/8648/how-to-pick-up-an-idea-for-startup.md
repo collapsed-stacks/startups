@@ -4,12 +4,11 @@
 - tagged: `idea`, `pre-launch`
 - score: 1
 
-<p>My friend and I are two qualified software developers. We first met when we started working for the same company. It didn't take us too long to realize that we want to start a company together.</p>
+My friend and I are two qualified software developers. We first met when we started working for the same company. It didn't take us too long to realize that we want to start a company together.
 
-<p>The problem we are facing now, we can't find THE idea. We keep throwing ideas here and there but never actually started developing anything.</p>
+The problem we are facing now, we can't find THE idea. We keep throwing ideas here and there but never actually started developing anything.
 
-<p>I was wondering if anyone on here had a methodology he/she followed to pick up a good idea from a pool of ideas and successfully launched a start-up.</p>
-
+I was wondering if anyone on here had a methodology he/she followed to pick up a good idea from a pool of ideas and successfully launched a start-up.
 
 
 ## Answer 8655

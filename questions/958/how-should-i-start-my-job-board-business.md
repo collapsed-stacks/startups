@@ -4,13 +4,13 @@
 - tagged: `business-model`, `revenue`
 - score: 0
 
-<p>I am planning to start a job board website but not sure how to accept job ads at the beginning.</p>
+I am planning to start a job board website but not sure how to accept job ads at the beginning.
 
-<p>As it will be a new product, there will be no ad on it at first. So, how can i persuade people to pay in order to have their ads published?</p>
+As it will be a new product, there will be no ad on it at first. So, how can i persuade people to pay in order to have their ads published?
 
-<p>Is it OK to keep the service free for the first a few months and then ask people to pay?</p>
+Is it OK to keep the service free for the first a few months and then ask people to pay?
 
-<p>Or what else should I think?</p>
+Or what else should I think?
 
 
 
@@ -19,14 +19,13 @@
 - posted by: [Jeremy Parsons](https://stackexchange.com/users/497810/jeremy-parsons) on 2014-10-14
 - score: 4
 
-<p>You already know that this is a pretty well-occupied market, so you could try any of the following strategies: </p>
+You already know that this is a pretty well-occupied market, so you could try any of the following strategies: 
 
-<ol>
-<li><p>Find a niche where people aren't happy and would potentially pay for better; or </p></li>
-<li><p>Find a well-populated job board and work out how to essentially add a feature (perhaps scraping and re-presenting the content); or</p></li>
-<li><p>Post a job ad for a commission-only recruitment executive and learn what you need to know in a telephone pre-interview</p></li>
-</ol>
+1. Find a niche where people aren't happy and would potentially pay for better; or 
 
+2. Find a well-populated job board and work out how to essentially add a feature (perhaps scraping and re-presenting the content); or
+
+3. Post a job ad for a commission-only recruitment executive and learn what you need to know in a telephone pre-interview
 
 
 ## Answer 966
@@ -34,18 +33,15 @@
 - posted by: [William D. Edwards](https://stackexchange.com/users/4746080/william-d-edwards) on 2014-10-13
 - score: 1
 
-<p>Take Careers 2.0 as an example.</p>
+Take Careers 2.0 as an example.
 
-<ul>
-<li>No ads</li>
-<li>People pay to publish their jobs</li>
-<li>No cure no pay</li>
-</ul>
+- No ads
+- People pay to publish their jobs
+- No cure no pay
 
-<p>Careers has been around for quite some time but you're starting a new board.</p>
+Careers has been around for quite some time but you're starting a new board.
 
-<p>I'd keep the service free for several months, indeed. This will make people publish on your board and you're unique from competitors. Your board will get more visitors and then you can start placing ads (slowly), to make money and also slowly begin charging for even publishing jobs, maybe!</p>
-
+I'd keep the service free for several months, indeed. This will make people publish on your board and you're unique from competitors. Your board will get more visitors and then you can start placing ads (slowly), to make money and also slowly begin charging for even publishing jobs, maybe!
 
 
 ## Answer 3412
@@ -80,8 +76,7 @@
 - posted by: [Adebowale Mayowa](https://stackexchange.com/users/8302591/adebowale-mayowa) on 2016-04-22
 - score: 0
 
-<p>The idea of keeping the service free for several months is best option to me. I too was looking out for clue before i realized this. You need to gain much trust before introducing payment. When people see the effectiveness, then the will be willing to pay for the services.</p>
-
+The idea of keeping the service free for several months is best option to me. I too was looking out for clue before i realized this. You need to gain much trust before introducing payment. When people see the effectiveness, then the will be willing to pay for the services.
 
 
 ## Answer 11707
@@ -89,13 +84,12 @@
 - posted by: [Rodion Telpizov](https://stackexchange.com/users/3319979/rodion-telpizov) on 2016-12-14
 - score: 0
 
-<p>Copy jobs from employer websites and link back to them for job seekers to apply. They usually won’t mind, because they receive free exposure. This will also allow you to build relationship with employers in your niche. And will give you better chances in converting them into paying customers later.</p>
+Copy jobs from employer websites and link back to them for job seekers to apply. They usually won’t mind, because they receive free exposure. This will also allow you to build relationship with employers in your niche. And will give you better chances in converting them into paying customers later.
 
-<p>You may also backfill jobs from Indeed, ZipRecruiter, Job2Careers and other job aggregators. This will allow you to get some revenue from the commission they’ll pay you.</p>
+You may also backfill jobs from Indeed, ZipRecruiter, Job2Careers and other job aggregators. This will allow you to get some revenue from the commission they’ll pay you.
 
-<p>Learn more in this blog post:
-<a href="https://www.smartjobboard.com/blog/how-to-create-niche-job-board/" rel="nofollow noreferrer">https://www.smartjobboard.com/blog/how-to-create-niche-job-board/</a></p>
-
+Learn more in this blog post:
+https://www.smartjobboard.com/blog/how-to-create-niche-job-board/
 
 
 

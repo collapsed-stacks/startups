@@ -4,8 +4,7 @@
 - tagged: `tech-company`, `startup-costs`
 - score: 1
 
-<p>Can I became another <code>AWS</code> or <code>Azure</code>? Is it easy to kickstart an IaaS business? How are the revenue of IaaS companies we currently have? What should I do if I decided to step into the IaaS land?</p>
-
+Can I became another `AWS` or `Azure`? Is it easy to kickstart an IaaS business? How are the revenue of IaaS companies we currently have? What should I do if I decided to step into the IaaS land?
 
 ## No Answers
 

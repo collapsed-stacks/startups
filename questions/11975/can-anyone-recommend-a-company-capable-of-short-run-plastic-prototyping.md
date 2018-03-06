@@ -4,8 +4,7 @@
 - tagged: `product`, `prototyping`
 - score: 1
 
-<p>I'm looking for a company that can do short runs of my product enclosure ( 1000 - 2000 ) can anyone recommend an injection molding or plastic CNC company that will do short runs? I've done plenty of googling but it just seems like there are so many options and it's hard to figure who is legit and who is not.</p>
-
+I'm looking for a company that can do short runs of my product enclosure ( 1000 - 2000 ) can anyone recommend an injection molding or plastic CNC company that will do short runs? I've done plenty of googling but it just seems like there are so many options and it's hard to figure who is legit and who is not.
 
 ## No Answers
 

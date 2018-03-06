@@ -4,10 +4,13 @@
 - tagged: `legal`, `website`, `taxes`, `europe`, `vat`
 - score: 2
 
-<p>If one would be building website that is selling virtual goods online, what country should one choose to register company in to avoid dealing with <a href="https://en.wikipedia.org/wiki/European_Union_value_added_tax" rel="nofollow">European Union VAT regulations</a>?</p>
+If one would be building website that is selling virtual goods online, what country should one choose to register company in to avoid dealing with [European Union VAT regulations][1]?
 
-<p><strong>EDIT:</strong> To make it more clear country would have to be outside <a href="http://ec.europa.eu/trade/policy/countries-and-regions/agreements/" rel="nofollow">and have no trade agreement with EU</a>. So there would be no way EU could enforce it. Best country would have an easy incorporation and low company running costs. I am sure someone ran into this before, as regulation has been in force for almost a year now.</p>
+**EDIT:** To make it more clear country would have to be outside [and have no trade agreement with EU][2]. So there would be no way EU could enforce it. Best country would have an easy incorporation and low company running costs. I am sure someone ran into this before, as regulation has been in force for almost a year now.
 
+
+  [1]: https://en.wikipedia.org/wiki/European_Union_value_added_tax
+  [2]: http://ec.europa.eu/trade/policy/countries-and-regions/agreements/
 
 
 ## Answer 8058
@@ -15,10 +18,9 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-12-09
 - score: 2
 
-<p>There is no such country since the recent VAT changes. Details here:</p>
+There is no such country since the recent VAT changes. Details here:
 
-<p><a href="https://startups.stackexchange.com/questions/1299/is-there-a-vat-threshold-for-digital-goods-sold-to-eu-buyers-from-a-us-company/3259#3259">Is there a VAT Threshold for digital goods sold to EU buyers from a US company?</a></p>
-
+https://startups.stackexchange.com/questions/1299/is-there-a-vat-threshold-for-digital-goods-sold-to-eu-buyers-from-a-us-company/3259#3259
 
 
 ## Answer 8086
@@ -26,8 +28,7 @@
 - posted by: [Jimnotgym](https://stackexchange.com/users/7461839/jimnotgym) on 2015-12-12
 - score: 0
 
-<p>Don't fall in to this trap! Tax avoidance is something that huge (normally multinational) corporates who can afford expensive lawyers and accountants get involved in. <strong>Concentrate on making money</strong>, once you are making milions you can look into hiding it. If instead you are looking to start a niche business that exploits a tax difference as its <em>raison d'etre</em> then you really are not going to get the information you need on forums! You are going to have to study very hard, if it is even possible. Then you are going to have to address specifics of the service or product you are supplying</p>
-
+Don't fall in to this trap! Tax avoidance is something that huge (normally multinational) corporates who can afford expensive lawyers and accountants get involved in. **Concentrate on making money**, once you are making milions you can look into hiding it. If instead you are looking to start a niche business that exploits a tax difference as its *raison d'etre* then you really are not going to get the information you need on forums! You are going to have to study very hard, if it is even possible. Then you are going to have to address specifics of the service or product you are supplying
 
 
 

@@ -4,8 +4,7 @@
 - tagged: `legal`, `taxes`
 - score: 2
 
-<p>What do I do I have license in my name but the partner I have draws disability and don't want to file her part of the tax papers says it will hurt her check. Help what can I do to protect myself.</p>
-
+What do I do I have license in my name but the partner I have draws disability and don't want to file her part of the tax papers says it will hurt her check. Help what can I do to protect myself.
 
 ## No Answers
 

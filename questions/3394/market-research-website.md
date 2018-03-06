@@ -4,7 +4,7 @@
 - tagged: `tech-company`, `united-states`, `marketing`, `website`, `web-development`
 - score: -2
 
-<p>Hi I would like to know what is the best website which provides responders to my survey for market researching. Is there any other way to get responders? We creating some web and we'll need a lot of responders for this about 10k or more  </p>
+Hi I would like to know what is the best website which provides responders to my survey for market researching. Is there any other way to get responders? We creating some web and we'll need a lot of responders for this about 10k or more  
 
 
 
@@ -30,18 +30,21 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-02-10
 - score: 2
 
-<p>A few good ways to locate online users interested in answering a survey include:</p>
+A few good ways to locate online users interested in answering a survey include:
 
-<ol>
-<li><p><strong>Forums, LinkedIn groups, user mailing lists</strong>, etc. Which ones depend on the type of business you're into, but googling around starting with "[what you do] forum" should yield good results.</p></li>
-<li><p><strong>Googling for your target audience</strong> directly. It stems from the previous step, as the latter should allow you to sketch out and refine what the target audience actually is. It doesn't really scale, but you may end up running into hot leads or cooperative folks with large mailing lists.</p></li>
-<li><p><strong>Job boards</strong> if you're into B2B. Search for e.g. "[what you do] jobs" and contact the companies (but not agencies) that post offers. Likewise, it doesn't really scale (though there <em>are</em> APIs), but you may run into hot leads or cooperative folks with large mailing lists.</p></li>
-<li><p><strong>Twitter, Facebook, Reddit, etc.</strong> These will only work if it goes viral, and it'll only go viral if the subject is fun or controversial or otherwise out of the ordinary enough to justify sharing it. (<a href="http://www.ted.com/talks/seth_godin_on_sliced_bread" rel="nofollow">Watch Seth Godin on this topic</a>.)</p></li>
-<li><p><strong>Advertising</strong>. CPM is a reasonably cheap option if you're well targeted. Facebook is an appropriate venue for surveys. As are AdSense publishers, if you can afford the high prices and have a very precise idea of who will answer.</p></li>
-<li><p><strong>AdWords in Google's search results</strong> (as opposed to on AdSense publisher sites.) This can get pricey, but it is actually an excellent venue, because whoever actually takes the survey is actively shopping around for information or a solution. If they take the time to spell out what they want to you, they'll very likely leave you an email address that you can market your service to later on.</p></li>
-</ol>
+1. **Forums, LinkedIn groups, user mailing lists**, etc. Which ones depend on the type of business you're into, but googling around starting with "[what you do] forum" should yield good results.
 
-<p>I should mention <strong>Amazon Mechanical Turk</strong> in addition to this list. It costs a tiny bit, and you probably won't find an appropriate audience or even a good sample of users. However, you can run your survey a couple of times on it to <em>test</em> whether the questions and the available answers are clear or not.</p>
+2. **Googling for your target audience** directly. It stems from the previous step, as the latter should allow you to sketch out and refine what the target audience actually is. It doesn't really scale, but you may end up running into hot leads or cooperative folks with large mailing lists.
+
+3. **Job boards** if you're into B2B. Search for e.g. "[what you do] jobs" and contact the companies (but not agencies) that post offers. Likewise, it doesn't really scale (though there *are* APIs), but you may run into hot leads or cooperative folks with large mailing lists.
+
+4. **Twitter, Facebook, Reddit, etc.** These will only work if it goes viral, and it'll only go viral if the subject is fun or controversial or otherwise out of the ordinary enough to justify sharing it. ([Watch Seth Godin on this topic](http://www.ted.com/talks/seth_godin_on_sliced_bread).)
+
+5. **Advertising**. CPM is a reasonably cheap option if you're well targeted. Facebook is an appropriate venue for surveys. As are AdSense publishers, if you can afford the high prices and have a very precise idea of who will answer.
+
+6. **AdWords in Google's search results** (as opposed to on AdSense publisher sites.) This can get pricey, but it is actually an excellent venue, because whoever actually takes the survey is actively shopping around for information or a solution. If they take the time to spell out what they want to you, they'll very likely leave you an email address that you can market your service to later on.
+
+I should mention **Amazon Mechanical Turk** in addition to this list. It costs a tiny bit, and you probably won't find an appropriate audience or even a good sample of users. However, you can run your survey a couple of times on it to *test* whether the questions and the available answers are clear or not.
 
 
 
@@ -50,10 +53,11 @@
 - posted by: [user14872](https://stackexchange.com/users/11870584/user14872) on 2017-09-28
 - score: 0
 
-<p>You can try some of the survey groups such as www.surveymonkey.com/Audience‎
+You can try some of the survey groups such as www.surveymonkey.com/Audience‎
 or www.pollfish.com/survey/responses‎
 Or if you want people to give you feedback on the website, the best is 
-<a href="https://usabilityhub.com/" rel="nofollow noreferrer">https://usabilityhub.com/</a></p>
+https://usabilityhub.com/
+
 
 
 

@@ -4,12 +4,11 @@
 - tagged: `taxes`, `united-kingdom`, `salary`, `ltd`
 - score: 0
 
-<p>Can you be registered on payroll with several Limited companies while being director of all of them?</p>
+Can you be registered on payroll with several Limited companies while being director of all of them?
 
-<p>So each company generates for the same person a monthly payroll.</p>
+So each company generates for the same person a monthly payroll.
 
-<p>Is that perfectly fine, or there are some restrictions?</p>
-
+Is that perfectly fine, or there are some restrictions?
 
 
 ## Answer 11266
@@ -17,9 +16,10 @@
 - posted by: [László Kovács](https://stackexchange.com/users/9064103/l-szl-kov-cs) on 2016-10-03
 - score: 2
 
-<p>Yes, that sounds OK with the info you have given us. The most important concern is to accurately report all of the income and pay the appropriate taxes. Setting up payroll for each company makes that very easy, as far as your personal income is concerned. Of course, the companies will need to individually file partnership returns as well. </p>
+Yes, that sounds OK with the info you have given us. The most important concern is to accurately report all of the income and pay the appropriate taxes. Setting up payroll for each company makes that very easy, as far as your personal income is concerned. Of course, the companies will need to individually file partnership returns as well. 
 
-<p>There might be additional concerns depending on the particular business of the multiple companies, which you should discuss with a lawyer who is experienced in that field.</p>
+There might be additional concerns depending on the particular business of the multiple companies, which you should discuss with a lawyer who is experienced in that field.
+
 
 
 

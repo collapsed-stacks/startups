@@ -4,10 +4,9 @@
 - tagged: `stock-options`, `partnership`
 - score: 8
 
-<p>Founder of a startup or at least the idea owner asked me how we could work together? He would hire me as CFO for his idea, but can only pay 1/3 of the standard salary of an iOS develoler. But he would give me portion of the incomes we earn through In-App puchases. What do you think, what is a reasonable proportion I could accept from income? All income would come through App Store purchases. I am the only developer, his contribution is the basic idea and to help my work with new impression, provide the features, specifications to implement, testing the app, check out market and so on.</p>
+Founder of a startup or at least the idea owner asked me how we could work together? He would hire me as CFO for his idea, but can only pay 1/3 of the standard salary of an iOS develoler. But he would give me portion of the incomes we earn through In-App puchases. What do you think, what is a reasonable proportion I could accept from income? All income would come through App Store purchases. I am the only developer, his contribution is the basic idea and to help my work with new impression, provide the features, specifications to implement, testing the app, check out market and so on.
 
-<p>At the end I have to say / argue about a certain percentage i.e. 10%, 20% .. 90%. But I do not know which one is the most reasonable. I do not see / I can not say to much about my expectations / risk etc., so I need an easy approach, argumentation. Like: If I would get full salary available on market that 0% of the income I would ask for. Now I get only 30% of market salary, so I would ask for 70% of the incomes. Any opinion about it?</p>
-
+At the end I have to say / argue about a certain percentage i.e. 10%, 20% .. 90%. But I do not know which one is the most reasonable. I do not see / I can not say to much about my expectations / risk etc., so I need an easy approach, argumentation. Like: If I would get full salary available on market that 0% of the income I would ask for. Now I get only 30% of market salary, so I would ask for 70% of the incomes. Any opinion about it?
 
 
 ## Answer 1200
@@ -52,11 +51,10 @@
 - posted by: [Henry Taylor](https://stackexchange.com/users/1734959/henry-taylor) on 2014-10-30
 - score: 3
 
-<p>I would also consider how much value the Idea Owner is bringing to the table.  If all he has is an idea and you have the skill to make it real, he has the weaker hand.  Your work will create the app, which will then enter the crowded iOS market to either sink or swim on the merit you give it.  His ability to pay 1/3 market value for your time makes him 1/3 as desirable as any other potential employer.
-If on the other hand, the Idea Owner is also an expert in the industry which will use your app; if he has celebrity status among his peers such that his name on the product will give it a marketable advantage in the app store; if he has an existing customer base who may purchase the app; or any other attribute which brings value to the venture; then and only then, would I consider trading your time and effort for a real percentage of the company.<br>
+I would also consider how much value the Idea Owner is bringing to the table.  If all he has is an idea and you have the skill to make it real, he has the weaker hand.  Your work will create the app, which will then enter the crowded iOS market to either sink or swim on the merit you give it.  His ability to pay 1/3 market value for your time makes him 1/3 as desirable as any other potential employer.
+If on the other hand, the Idea Owner is also an expert in the industry which will use your app; if he has celebrity status among his peers such that his name on the product will give it a marketable advantage in the app store; if he has an existing customer base who may purchase the app; or any other attribute which brings value to the venture; then and only then, would I consider trading your time and effort for a real percentage of the company.  
 Also, in the title, you asked "how many shares"...  No number of shares has any meaning except as it compares to the total number of shares in the company.  Having a million shares in a million dollar venture is worth less than pennies if there are trillions of shares in existence.  What you want is a percentage of the company's revenue and a vote in any future decision which might reduce your ownership percentage relative to the total value of the company.
-Hope It Helps</p>
-
+Hope It Helps
 
 
 ## Answer 1628
@@ -64,14 +62,13 @@ Hope It Helps</p>
 - posted by: [Tim](https://stackexchange.com/users/6405/tim) on 2014-12-13
 - score: 1
 
-<p>It all depends on how you value your contribution.  Would you be happy with 10%?  20%?</p>
+It all depends on how you value your contribution.  Would you be happy with 10%?  20%?
 
-<p>How likely is it that there will be sales?  What is the suggested price of the app?</p>
+How likely is it that there will be sales?  What is the suggested price of the app?
 
-<p>Would you be better off just saying no and finding a real job or starting your own app/company?</p>
+Would you be better off just saying no and finding a real job or starting your own app/company?
 
-<p>It's really up to you.  I would not take less than 50% if I even agreed at all.  </p>
-
+It's really up to you.  I would not take less than 50% if I even agreed at all.  
 
 
 

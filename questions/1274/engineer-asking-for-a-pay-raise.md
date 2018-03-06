@@ -4,24 +4,26 @@
 - tagged: `employee-compensation`
 - score: 4
 
-<p>3 months ago, I've hired my first engineer.</p>
+3 months ago, I've hired my first engineer.
 
-<p>We're 4 people now, 3 partners and one employee.</p>
+We're 4 people now, 3 partners and one employee.
 
-<p>He's a fresh graduate without experience, but I still hired him 1.2 times a normal salary for a fresh graduate of this school (didn't give shares though)</p>
+He's a fresh graduate without experience, but I still hired him 1.2 times a normal salary for a fresh graduate of this school (didn't give shares though)
 
-<p>I've promised him a payraise after 3 months, and now I want to pay him 1.3 X</p>
+I've promised him a payraise after 3 months, and now I want to pay him 1.3 X
 
-<p>But I feel he's really unhappy with it and I don't quite know what to do.</p>
 
-<p>I already pay him more average, and can't quite afford to pay him 1.5 X</p>
+But I feel he's really unhappy with it and I don't quite know what to do.
 
-<p>On the other hand he's a good element and of course I want him to be happy</p>
 
-<p>Should I give him the payraise and risk to spoil him or should I let him realize that I already pay him well.</p>
+I already pay him more average, and can't quite afford to pay him 1.5 X
 
-<p>Of course salary is not the number one cause of happiness and I already do my best to let him enjoy working with us every day on other aspects</p>
+On the other hand he's a good element and of course I want him to be happy
 
+
+Should I give him the payraise and risk to spoil him or should I let him realize that I already pay him well.
+
+Of course salary is not the number one cause of happiness and I already do my best to let him enjoy working with us every day on other aspects
 
 
 ## Answer 1276
@@ -29,27 +31,24 @@
 - posted by: [adrianh](https://stackexchange.com/users/7553/adrianh) on 2014-11-05
 - score: 4
 
-<p>The numbers you're looking at (what you can afford &amp; normal salary for a fresh graduate of this school) are not the numbers the employee will be looking at.</p>
+The numbers you're looking at (what you can afford & normal salary for a fresh graduate of this school) are not the numbers the employee will be looking at.
 
-<p>The number the employee will be looking at is what wage somebody with his or her skills would get working elsewhere. </p>
+The number the employee will be looking at is what wage somebody with his or her skills would get working elsewhere. 
 
-<p>When you were hiring I assume you didn't try and hire an average developer. You tried to hire a <em>good</em> one. That will likely skew the kind of salary they can get well above what "normal" is. And they now have three months of real world experience. Which makes them even more valuable.</p>
+When you were hiring I assume you didn't try and hire an average developer. You tried to hire a *good* one. That will likely skew the kind of salary they can get well above what "normal" is. And they now have three months of real world experience. Which makes them even more valuable.
 
-<p>Looking at multiples of reference salaries is not going to give you the right number. You need to put yourself in the shoes of somebody who is hiring again. Before you were willing to spend more than average to hire somebody who you thought was better than average. Now you're looking to hire somebody who was not only better than average, but has three months of directly relevant proven experience.</p>
+Looking at multiples of reference salaries is not going to give you the right number. You need to put yourself in the shoes of somebody who is hiring again. Before you were willing to spend more than average to hire somebody who you thought was better than average. Now you're looking to hire somebody who was not only better than average, but has three months of directly relevant proven experience.
 
-<p>Once you have a better understanding of what the right kind of wage is, then you can look at how you can meet it:</p>
+Once you have a better understanding of what the right kind of wage is, then you can look at how you can meet it:
 
-<ul>
-<li>Pay it if you can afford it</li>
-<li>Maybe offer shares</li>
-<li>Maybe compensate with better benefits (holiday, working hours, working environment, etc.)</li>
-<li>Talk to them — what do they want</li>
-</ul>
+* Pay it if you can afford it
+* Maybe offer shares
+* Maybe compensate with better benefits (holiday, working hours, working environment, etc.)
+* Talk to them — what do they want
 
-<p>With a four person company you should be able to be open enough about cashflow, etc. so that the employee can see what is affordable (or not), which should make the conversation easier.</p>
+With a four person company you should be able to be open enough about cashflow, etc. so that the employee can see what is affordable (or not), which should make the conversation easier.
 
-<p>You also need to factor in your <a href="http://en.wikipedia.org/wiki/Best_alternative_to_a_negotiated_agreement" rel="nofollow">best alternative to a negotiated agreement</a>. If the employee says "no" to the new wage and walks — how much does that cost you. In time and money to find a new developer. In time and money it takes to get that new developer up to speed. </p>
-
+You also need to factor in your [best alternative to a negotiated agreement](http://en.wikipedia.org/wiki/Best_alternative_to_a_negotiated_agreement). If the employee says "no" to the new wage and walks — how much does that cost you. In time and money to find a new developer. In time and money it takes to get that new developer up to speed. 
 
 
 ## Answer 1277
@@ -72,14 +71,13 @@
 - posted by: [Jeremy Parsons](https://stackexchange.com/users/497810/jeremy-parsons) on 2014-11-05
 - score: 3
 
-<p>The way you've framed this begs the question. I'm sure you know that in general, pay alone is the lowest motivator, and if you're spending significant time focusing on that, the issue is probably elsewhere.</p>
+The way you've framed this begs the question. I'm sure you know that in general, pay alone is the lowest motivator, and if you're spending significant time focusing on that, the issue is probably elsewhere.
 
-<p>It's tough for employee number one, because it's too early for you to be able to offer the kind of development that you will be able to in a few years. But employee one is also in an amazingly privileged experience, seeing your startup from the inside, gaining experience without taking the risk.</p>
+It's tough for employee number one, because it's too early for you to be able to offer the kind of development that you will be able to in a few years. But employee one is also in an amazingly privileged experience, seeing your startup from the inside, gaining experience without taking the risk.
 
-<p>So you need to put in place some structure, even if it's just a monthly or weekly 1-1 (with notes taken). That way, you'll be able to have a richer dialogue, and be intentional about development.</p>
+So you need to put in place some structure, even if it's just a monthly or weekly 1-1 (with notes taken). That way, you'll be able to have a richer dialogue, and be intentional about development.
 
-<p>If I'm wrong and it is all about money, then you're going to have to be realistic that at some point, probably not too far away, you're going to part company, because someone else will pay more than he's worth to you. Don't accelerate the process, but also don't imagine that if money if the only issue then it will go away next raise. It won't.</p>
-
+If I'm wrong and it is all about money, then you're going to have to be realistic that at some point, probably not too far away, you're going to part company, because someone else will pay more than he's worth to you. Don't accelerate the process, but also don't imagine that if money if the only issue then it will go away next raise. It won't.
 
 
 

@@ -4,26 +4,23 @@
 - tagged: `business-registration`, `web-development`, `non-profit`
 - score: 5
 
-<p>I'm starting a crowdfunding platform and having some trouble figuring out what type of business to make it. The purpose is to raise money for charity.</p>
+I'm starting a crowdfunding platform and having some trouble figuring out what type of business to make it. The purpose is to raise money for charity.
 
-<p>The transactions will flow as follows...</p>
+The transactions will flow as follows...
 
-<p>For every donation made:</p>
+For every donation made:
 
-<p>-4% service fee goes to my website. This 4% is taken from every donation made through the website as a fee to keep the site running.</p>
+-4% service fee goes to my website. This 4% is taken from every donation made through the website as a fee to keep the site running.
 
-<p>-After this 4%, the remaining 96% of the proceeds will be split in half and allocated to 2 additional parties</p>
+-After this 4%, the remaining 96% of the proceeds will be split in half and allocated to 2 additional parties
 
-<p>-So the user makes a donation, and PayPal splits it 3 ways and sends it to 3 different parties: website - 4%, fundraiser (to cover fundraising costs) - 48%, charity - 48%)</p>
+-So the user makes a donation, and PayPal splits it 3 ways and sends it to 3 different parties: website - 4%, fundraiser (to cover fundraising costs) - 48%, charity - 48%)
 
-<p>I have a few business forms in mind, but having trouble choosing the right one for this... </p>
+I have a few business forms in mind, but having trouble choosing the right one for this... 
 
-<ul>
-<li>non-profit would be ideal </li>
-<li>LLC (C corp or S corp?) </li>
-<li>sole proprietorship (just to get the business started?) </li>
-</ul>
-
+* non-profit would be ideal 
+* LLC (C corp or S corp?) 
+* sole proprietorship (just to get the business started?) 
 
 
 ## Answer 4065
@@ -31,10 +28,9 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-04-20
 - score: 1
 
-<p>Be wary that 4% is not enough if you factor in the <a href="https://www.kickstarter.com/help/fees" rel="nofollow">payment processor fees</a>.</p>
+Be wary that 4% is not enough if you factor in the [payment processor fees](https://www.kickstarter.com/help/fees).
 
-<p>As to the business form, there's no right or wrong answer as long as your own assets are protected by limited liability. If you believe non-profit would be ideal (and I agree, since non-profits like to do business with each other), then go with that.</p>
-
+As to the business form, there's no right or wrong answer as long as your own assets are protected by limited liability. If you believe non-profit would be ideal (and I agree, since non-profits like to do business with each other), then go with that.
 
 
 

@@ -4,15 +4,14 @@
 - tagged: `market-research`, `young-entrepreneurs`
 - score: 0
 
-<p>Im a college student who is very skilled in software, electrical, and mechanical engineering. When i finish school i would like to have my own company with some (1-3) employees. I have many product/business ideas that are small problems that have already been solved but have pain points that i can solve. </p>
+Im a college student who is very skilled in software, electrical, and mechanical engineering. When i finish school i would like to have my own company with some (1-3) employees. I have many product/business ideas that are small problems that have already been solved but have pain points that i can solve. 
 
-<p>My question is how do i get started creating demand, and visibility for my product, and how do i start in general.</p>
+My question is how do i get started creating demand, and visibility for my product, and how do i start in general.
 
-<p>Resources are welcome!</p>
+Resources are welcome!
 
-<p>The online business i want to create revolves areound an IDE that can be accessed online. The problem im going to solve is that the current online ides arent practical. The space to type is too small and theres no package navigation. They dont have a file system either.
-(B2C)</p>
-
+The online business i want to create revolves areound an IDE that can be accessed online. The problem im going to solve is that the current online ides arent practical. The space to type is too small and theres no package navigation. They dont have a file system either.
+(B2C)
 
 
 ## Answer 11504
@@ -20,22 +19,19 @@
 - posted by: [ranker](https://stackexchange.com/users/3026689/ranker) on 2016-11-06
 - score: 0
 
-<ol>
-<li><p>Read or listen to, The Lean Startup by Eric Ries.  Learning the lean startup methodology will give you direction and confidence.</p></li>
-<li><p>Immerse yourself in knowledge of your product/market/etc and be the guy who knows the most when it comes to your subject.</p></li>
-</ol>
+1. Read or listen to, The Lean Startup by Eric Ries.  Learning the lean startup methodology will give you direction and confidence.
 
-<p><strong>Good Resources:</strong></p>
+2. Immerse yourself in knowledge of your product/market/etc and be the guy who knows the most when it comes to your subject.
 
-<p><a href="https://www.reddit.com/r/Entrepreneur/wiki/faq" rel="nofollow noreferrer">https://www.reddit.com/r/Entrepreneur/wiki/faq</a></p>
+**Good Resources:**
 
-<p><a href="https://www.reddit.com/r/Entrepreneur/comments/3d2kxo/list_of_useful_link_for_people_starting_out/" rel="nofollow noreferrer">https://www.reddit.com/r/Entrepreneur/comments/3d2kxo/list_of_useful_link_for_people_starting_out/</a></p>
+https://www.reddit.com/r/Entrepreneur/wiki/faq
 
-<ol start="3">
-<li>After having completed steps 1 &amp; 2, you should be armed with enough knowledge and confidence to be able to identify and recruit a seasoned business mentor who will 100% change your probability of success.</li>
-</ol>
+https://www.reddit.com/r/Entrepreneur/comments/3d2kxo/list_of_useful_link_for_people_starting_out/
 
-<p>There are a lot of ways to skin a cat...good luck!</p>
+3. After having completed steps 1 & 2, you should be armed with enough knowledge and confidence to be able to identify and recruit a seasoned business mentor who will 100% change your probability of success.
+
+There are a lot of ways to skin a cat...good luck!
 
 
 

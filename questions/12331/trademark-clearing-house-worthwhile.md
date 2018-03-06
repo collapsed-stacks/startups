@@ -4,14 +4,15 @@
 - tagged: `trademark`, `domain-name`
 - score: 3
 
-<p>Is it worth my while to protect my company name in the <a href="http://trademark-clearinghouse.com/" rel="nofollow noreferrer">Trademark Clearing House (TMCH)</a>, which is an agency that is connected to ICANN and says they protect the rights of the trademark holders against domain name registration using your trademark?</p>
+Is it worth my while to protect my company name in the [Trademark Clearing House (TMCH)][1], which is an agency that is connected to ICANN and says they protect the rights of the trademark holders against domain name registration using your trademark?
 
-<p>We registered with them a couple of years ago and apart from taking $US150 / year or so, nothing really seems to happen.</p>
+We registered with them a couple of years ago and apart from taking $US150 / year or so, nothing really seems to happen.
 
-<p>This article talks through the reasons for doing it, but we have had no engagement with the TMCH with our trademark over the last two years.</p>
+This article talks through the reasons for doing it, but we have had no engagement with the TMCH with our trademark over the last two years.
 
-<p>Does anyone have any firsthand experience of the value of this service? </p>
+Does anyone have any firsthand experience of the value of this service? 
 
+  [1]: http://trademark-clearinghouse.com/
 
 ## No Answers
 

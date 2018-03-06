@@ -4,12 +4,11 @@
 - tagged: `learning`
 - score: 5
 
-<p>Assuming I have an idea but know nothing about startups and entrepreneurship, how much time should I spend on learning?
-What books/courses/... do you recommend for learning?</p>
+Assuming I have an idea but know nothing about startups and entrepreneurship, how much time should I spend on learning?
+What books/courses/... do you recommend for learning?
 
-<p>By working I mean working on the idea and trying to make it happen.
-By learning I mean like reading a book. (not learning that comes from research on customers, that's work!)</p>
-
+By working I mean working on the idea and trying to make it happen.
+By learning I mean like reading a book. (not learning that comes from research on customers, that's work!)
 
 
 ## Answer 3037
@@ -40,14 +39,13 @@ By learning I mean like reading a book. (not learning that comes from research o
 - posted by: [Esqarrouth](https://stackexchange.com/users/3055586/esqarrouth) on 2015-01-16
 - score: 2
 
-<p>If you are thinking of entering the startup scene, before even doing a thing about your idea I recommend spending 3 months on just learning on entrepreneurship in general, so you have an idea of what you are getting into. </p>
+If you are thinking of entering the startup scene, before even doing a thing about your idea I recommend spending 3 months on just learning on entrepreneurship in general, so you have an idea of what you are getting into. 
 
-<p>Then about 3 months of validating your idea with customers and researching other companies, competitors so you get a sense of the market. Researching their founders, their products, their timeline, the problems they had, how they solved those etc.. I think this should be about 50-50.</p>
+Then about 3 months of validating your idea with customers and researching other companies, competitors so you get a sense of the market. Researching their founders, their products, their timeline, the problems they had, how they solved those etc.. I think this should be about 50-50.
 
-<p>After that I advise 70% executing and 30% learning. Our company culture is based on this. If you work for 5 years but do the same thing as you did on the 2nd week, you only have 2 weeks  of experience of that job. But if you are constantly learning and improving than you get real experience which is very valuable.</p>
+After that I advise 70% executing and 30% learning. Our company culture is based on this. If you work for 5 years but do the same thing as you did on the 2nd week, you only have 2 weeks  of experience of that job. But if you are constantly learning and improving than you get real experience which is very valuable.
 
-<p>That being said this is a subjective matter and these are all my personal opinions. This should only give you a perspective. I am also curious about the answers of other people.</p>
-
+That being said this is a subjective matter and these are all my personal opinions. This should only give you a perspective. I am also curious about the answers of other people.
 
 
 ## Answer 3039
@@ -70,23 +68,23 @@ By learning I mean like reading a book. (not learning that comes from research o
 - posted by: [Corbin](https://stackexchange.com/users/5129216/corbin) on 2015-01-16
 - score: 0
 
-<p>I can only tackle the learning part, as I don't know what kind of business you want to start to give you an estimation as to how much time you will spend working. </p>
+I can only tackle the learning part, as I don't know what kind of business you want to start to give you an estimation as to how much time you will spend working. 
 
-<p>For learning you'll need to know a few basic fundamentals: </p>
+For learning you'll need to know a few basic fundamentals: 
 
-<p><strong>Basic Marketing:</strong> You'll need to understand the market you're getting into and how to be competitive in that market. (1 months) </p>
+**Basic Marketing:** You'll need to understand the market you're getting into and how to be competitive in that market. (1 months) 
 
-<p><strong>Basic Accounting:</strong> You'll need be able to read financial statements at a minimum. (1 month - 3 months)</p>
+**Basic Accounting:** You'll need be able to read financial statements at a minimum. (1 month - 3 months)
 
-<p><strong>Basic Business Management:</strong> You'll need to learn different business structures (sole proprietorship, partnership, and incorporation), certain ethics, and so on. (1 - 2 months) </p>
+**Basic Business Management:** You'll need to learn different business structures (sole proprietorship, partnership, and incorporation), certain ethics, and so on. (1 - 2 months) 
 
-<p><strong>How to put your own website up:</strong> There are many services like Wix, Wordpress, or shopify (ecommerce) This can range from a week and beyond. </p>
+**How to put your own website up:** There are many services like Wix, Wordpress, or shopify (ecommerce) This can range from a week and beyond. 
 
-<p>Depending on where you're from there might be services to help you learn. In Canada there is Canadian Youth Business Foundation. Which helps youths with startups. The best way to know if these exist is to check with your town hall, they might have a business development center that you can talk too. </p>
+Depending on where you're from there might be services to help you learn. In Canada there is Canadian Youth Business Foundation. Which helps youths with startups. The best way to know if these exist is to check with your town hall, they might have a business development center that you can talk too. 
 
-<p>For books on learning these things, my best advice is to snap up old used college books, on each subject. Basically, introduction to management, or accounting, and so on. Use books you think will help you best in learning. With using text books you know you're getting data on how to do something, not books that are basically people giving you a motivational talk of how to do well in business, or internet click bait. </p>
+For books on learning these things, my best advice is to snap up old used college books, on each subject. Basically, introduction to management, or accounting, and so on. Use books you think will help you best in learning. With using text books you know you're getting data on how to do something, not books that are basically people giving you a motivational talk of how to do well in business, or internet click bait. 
 
-<p>Learning will never stop in a business though, so get ready to constantly updating your knowledge.  </p>
+Learning will never stop in a business though, so get ready to constantly updating your knowledge.  
 
 
 
@@ -95,12 +93,11 @@ By learning I mean like reading a book. (not learning that comes from research o
 - posted by: [Andres Marinkovic](https://stackexchange.com/users/7214480/andres-marinkovic) on 2015-11-03
 - score: 0
 
-<p>I think learning is a pretty important part of the process. Maybe you could do what google does: 70% of your time for work, 20% of your time to improve your work (learning and improving productivity) and 10% of your time for whatever you want. </p>
+I think learning is a pretty important part of the process. Maybe you could do what google does: 70% of your time for work, 20% of your time to improve your work (learning and improving productivity) and 10% of your time for whatever you want. 
 
-<p>Whatever you choose, it's important that you at least leave some time for learning. I speak about this in this blog post: <a href="https://medium.com/keep-learning-keep-growing/how-to-enjoy-reading-books-2d10d13905c7" rel="nofollow">https://medium.com/keep-learning-keep-growing/how-to-enjoy-reading-books-2d10d13905c7</a></p>
+Whatever you choose, it's important that you at least leave some time for learning. I speak about this in this blog post: https://medium.com/keep-learning-keep-growing/how-to-enjoy-reading-books-2d10d13905c7
 
-<p>Good Luck</p>
-
+Good Luck
 
 
 

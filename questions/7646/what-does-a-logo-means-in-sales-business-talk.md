@@ -4,8 +4,10 @@
 - tagged: `sales`, `terminology`
 - score: 2
 
-<p>At my company we use the term "new logos" in context of acquiring new customers, but I never heard it before so I googled and I could barely find anything except for this one article: <a href="http://www.salesbenchmarkindex.com/blog/the-reason-you%E2%80%99re-not-winning-more-new-logos" rel="nofollow">The Reason You’re Not Winning More New Logos</a></p>
+At my company we use the term "new logos" in context of acquiring new customers, but I never heard it before so I googled and I could barely find anything except for this one article: [The Reason You’re Not Winning More New Logos][1]
 
+
+  [1]: http://www.salesbenchmarkindex.com/blog/the-reason-you%E2%80%99re-not-winning-more-new-logos
 
 
 ## Answer 7647

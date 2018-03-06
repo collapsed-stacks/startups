@@ -4,12 +4,11 @@
 - tagged: `founder`, `venture-capital`
 - score: 6
 
-<p>I think all of the startups I've heard of getting VC funding have multiple founders/co-founders. This has led me to wonder - is it a fairly strict requirement/expectation that a startup seeking funding has multiple (at least 2, maybe more) co-founders to share the load?</p>
+I think all of the startups I've heard of getting VC funding have multiple founders/co-founders. This has led me to wonder - is it a fairly strict requirement/expectation that a startup seeking funding has multiple (at least 2, maybe more) co-founders to share the load?
 
-<p>I can understand why multiple founders would be a valuable asset, but is it a deal-breaker if there is only a single founder?</p>
+I can understand why multiple founders would be a valuable asset, but is it a deal-breaker if there is only a single founder?
 
-<p>And are there certain things that single founder could do to make up for it?</p>
-
+And are there certain things that single founder could do to make up for it?
 
 
 ## Answer 834
@@ -28,14 +27,13 @@
 - posted by: [Jeremy Parsons](https://stackexchange.com/users/497810/jeremy-parsons) on 2014-10-14
 - score: 3
 
-<p>The first question on most VCs' minds isn't, "who's in," but, "where's the evidence?"  If you can get direction, pace and traction as a sole founder, focus on that, rather than what VCs are going to want.</p>
+The first question on most VCs' minds isn't, "who's in," but, "where's the evidence?"  If you can get direction, pace and traction as a sole founder, focus on that, rather than what VCs are going to want.
 
-<p>Yes, some - perhaps most - firms won't fund sole founders. They'll show you the door, or if they like what you've done they may introduce you to potential partners. But you'll want to concentrate on firms that are at least neutral or ideally positive about funding solopreneurs.</p>
+Yes, some - perhaps most - firms won't fund sole founders. They'll show you the door, or if they like what you've done they may introduce you to potential partners. But you'll want to concentrate on firms that are at least neutral or ideally positive about funding solopreneurs.
 
-<p>If you want to tilt the field your way, think through the reasons why a solo founder can be unfundable, and address each. <strong>Founder teams debate key decisions</strong>: so get a few smart people on your Advisory Board and get their input. <strong>Founder teams have broader skill sets</strong>: so make sure your venture plays to your strengths, and where you're going to have to learn new skills, start testing yourself early. <strong>Founder teams can adapt as people join the business</strong>: so get into the habit of putting work that you don't <em>have</em> to do yourself out to other people so you can present evidence that you can manage people and team dynamics. <strong>Founder teams find ways round bottlenecks</strong>: so act as though you're a team, for instance documenting key processes that depend on you.</p>
+If you want to tilt the field your way, think through the reasons why a solo founder can be unfundable, and address each. **Founder teams debate key decisions**: so get a few smart people on your Advisory Board and get their input. **Founder teams have broader skill sets**: so make sure your venture plays to your strengths, and where you're going to have to learn new skills, start testing yourself early. **Founder teams can adapt as people join the business**: so get into the habit of putting work that you don't *have* to do yourself out to other people so you can present evidence that you can manage people and team dynamics. **Founder teams find ways round bottlenecks**: so act as though you're a team, for instance documenting key processes that depend on you.
 
-<p>But I've known a few people who could only work alone, at least to get from an idea in their heads to a buggy alpha. If that's you, then be disciplined about the maximum time and cash you'll put into that first phase, but <strong>don't slow yourself down by thinking too far ahead</strong>.</p>
-
+But I've known a few people who could only work alone, at least to get from an idea in their heads to a buggy alpha. If that's you, then be disciplined about the maximum time and cash you'll put into that first phase, but **don't slow yourself down by thinking too far ahead**.
 
 
 ## Answer 8583
@@ -43,10 +41,9 @@
 - posted by: [Lisa Coffey](https://stackexchange.com/users/4754298/lisa-coffey) on 2016-02-22
 - score: 0
 
-<p>Because investment isn't about how much the company is potentially worth now. It's a bet on how much the company is worth in the future. You don't look at the number of users now. You look at the trajectory of new users into the future, the size of the potential market, etc.</p>
+Because investment isn't about how much the company is potentially worth now. It's a bet on how much the company is worth in the future. You don't look at the number of users now. You look at the trajectory of new users into the future, the size of the potential market, etc.
 
-<p>Investors don't give companies money based on where they are now. Investors give companies money because they have a plan to get from where they are now to lots more money, and some evidence that the plan will work based on the company/team history and knowledge.</p>
-
+Investors don't give companies money based on where they are now. Investors give companies money because they have a plan to get from where they are now to lots more money, and some evidence that the plan will work based on the company/team history and knowledge.
 
 
 

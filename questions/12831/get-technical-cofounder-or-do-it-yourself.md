@@ -4,18 +4,17 @@
 - tagged: `co-founder`, `hardware`
 - score: 2
 
-<p>I am developing a hardware product (solo), and one sub-component involves non-trivial analog/electrical design and signal processing.  I have a BS/MS in the field, and could do the work myself -- so far I have made some prototypes, done some feasibility studies, and come up with a reasonable system architecture.  However, there are still many details to work out.  Ultimately, I didn't get in this to become a technical expert, but rather to solve the problem.</p>
+I am developing a hardware product (solo), and one sub-component involves non-trivial analog/electrical design and signal processing.  I have a BS/MS in the field, and could do the work myself -- so far I have made some prototypes, done some feasibility studies, and come up with a reasonable system architecture.  However, there are still many details to work out.  Ultimately, I didn't get in this to become a technical expert, but rather to solve the problem.
 
-<p>I imagine most engineers would find the problem to be stimulating/interesting.  But practically, given that I only have enough money to support myself and material/prototyping costs, I am not sure how I would go about getting someone else (preferably someone with a PhD or a few years' experience) to work on this full time.  Realistically, I see my options as (a) get funding and hire someone, (b) consider this individual an equal 'cofounder', or (c) suck it up and do the rest (6-8 months) myself.  I live near the university I went to, but I'm not sure if that helps beyond having a wider pool of technical people to choose from.  Also, I am open to moving somewhere else if it helps.</p>
+I imagine most engineers would find the problem to be stimulating/interesting.  But practically, given that I only have enough money to support myself and material/prototyping costs, I am not sure how I would go about getting someone else (preferably someone with a PhD or a few years' experience) to work on this full time.  Realistically, I see my options as (a) get funding and hire someone, (b) consider this individual an equal 'cofounder', or (c) suck it up and do the rest (6-8 months) myself.  I live near the university I went to, but I'm not sure if that helps beyond having a wider pool of technical people to choose from.  Also, I am open to moving somewhere else if it helps.
 
-<p>Any advice on how to approach this?  </p>
+Any advice on how to approach this?  
 
-<p>Up to now, I have been very adamant about minimizing the amount of equity given out and doing most of the work myself.  However, as I get further along, I am getting worn down as I realize all the necessary details to make the product reliable.  I feel like I am going down technical rabbit holes instead of solving the end application.</p>
+Up to now, I have been very adamant about minimizing the amount of equity given out and doing most of the work myself.  However, as I get further along, I am getting worn down as I realize all the necessary details to make the product reliable.  I feel like I am going down technical rabbit holes instead of solving the end application.
 
-<hr>
+----
 
-<p><strong>Edit</strong> I am looking into doing an independent study course with a relevant professor/grad student at my local university.  It would essentially be a $2-3k 4-month consulting session, hopefully without any IP ownership issues.</p>
-
+**Edit** I am looking into doing an independent study course with a relevant professor/grad student at my local university.  It would essentially be a $2-3k 4-month consulting session, hopefully without any IP ownership issues.
 
 
 ## Answer 12832
@@ -66,20 +65,19 @@
 - posted by: [dan_kaufhold](https://stackexchange.com/users/1552235/dan-kaufhold) on 2017-06-16
 - score: 0
 
-<p>I've been working with a bunch of startups in the last 6 years and what we find in our agency is that when you have a tech based startup you need the balance between business and tech. These are two very different fields of expertise and so it is a job for two experts.</p>
+I've been working with a bunch of startups in the last 6 years and what we find in our agency is that when you have a tech based startup you need the balance between business and tech. These are two very different fields of expertise and so it is a job for two experts.
 
-<p>If you are more like the business guy, you will need a tech person to build your service or product.</p>
+If you are more like the business guy, you will need a tech person to build your service or product.
 
-<p>A lot of times we found that founders, which are not themselves developers, tend to underestimate drastically how much it takes to build a service from scratch and what steps to take in which order to match every stage of business development. 
-On the other side a lot of times the developer-founders underestimate what it takes to run a business.  </p>
+A lot of times we found that founders, which are not themselves developers, tend to underestimate drastically how much it takes to build a service from scratch and what steps to take in which order to match every stage of business development. 
+On the other side a lot of times the developer-founders underestimate what it takes to run a business.  
 
-<p>Both then often focus too much on the technical side and neglect to build the actual business around their product.</p>
+Both then often focus too much on the technical side and neglect to build the actual business around their product.
 
-<p>If you have a person for each, both are free to do their craft.<br>
-They will level each other out and can push both fields to the max.</p>
+If you have a person for each, both are free to do their craft.  
+They will level each other out and can push both fields to the max.
 
-<p>So no matter if you're the tech or the business person, my advice would always be: Hire someone as employee or partner up equally (depending on how much shares or money you want to spend or how much you know and trust the other person).</p>
-
+So no matter if you're the tech or the business person, my advice would always be: Hire someone as employee or partner up equally (depending on how much shares or money you want to spend or how much you know and trust the other person).
 
 
 

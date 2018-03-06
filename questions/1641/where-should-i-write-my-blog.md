@@ -4,12 +4,11 @@
 - tagged: `website`, `brand`
 - score: 7
 
-<p>I want to give back to the community, should I write my blog posts in my own wordpress site,  medium, blogger or tumblr... What are the benefits of each site?</p>
+I want to give back to the community, should I write my blog posts in my own wordpress site,  medium, blogger or tumblr... What are the benefits of each site?
 
-<p>I also aim to build SEO, brand building for my self and company etc.. </p>
+I also aim to build SEO, brand building for my self and company etc.. 
 
-<p>The blog posts will cover anything about startups from development to marketing. It will contain things I researched and think would also benefit other startup people and need help deciding the platform I should write this blog.</p>
-
+The blog posts will cover anything about startups from development to marketing. It will contain things I researched and think would also benefit other startup people and need help deciding the platform I should write this blog.
 
 
 ## Answer 1657
@@ -17,38 +16,40 @@
 - posted by: [Matthew Haugen](https://stackexchange.com/users/1325646/matthew-haugen) on 2014-12-15
 - score: 3
 
-<p>Blogging can definitely be an important part of startup culture. It's <a href="https://startups.stackexchange.com/a/988/59">even credited</a> with some of the major success of Stack Overflow, and consequently Stack Exchange in general.</p>
+Blogging can definitely be an important part of startup culture. It's [even credited](https://startups.stackexchange.com/a/988/59) with some of the major success of Stack Overflow, and consequently Stack Exchange in general.
 
-<p>I don't think it's fair to say that any blogging platform is necessarily any "better" than any other. They all serve different purposes. That would be like saying "Facebook is better than Twitter." They just do different things.</p>
+I don't think it's fair to say that any blogging platform is necessarily any "better" than any other. They all serve different purposes. That would be like saying "Facebook is better than Twitter." They just do different things.
 
-<p>Of course, any blogging platform will fit the essential goal of letting you post out relatively-lengthy articles about your personal (or business) decisions, you'll get your custom domain (or not, if you prefer), and SEO is more or less up to you. The key difference comes in the general culture.</p>
+Of course, any blogging platform will fit the essential goal of letting you post out relatively-lengthy articles about your personal (or business) decisions, you'll get your custom domain (or not, if you prefer), and SEO is more or less up to you. The key difference comes in the general culture.
 
-<h1>Tumblr</h1>
+Tumblr
+=
 
-<p>I tend to think of Tumblr as the most social of the blogging platforms. It's growing insanely quickly, and a huge percentage of their market is young. According to <a href="http://www.businessinsider.com/tumblr-and-social-media-demographics-2013-12" rel="nofollow noreferrer">an article</a> from Business Insider, around half of their users at the end of last year were between the ages of 16 and 24. That's a lot of young people, and that can be a good or a bad thing.</p>
+I tend to think of Tumblr as the most social of the blogging platforms. It's growing insanely quickly, and a huge percentage of their market is young. According to [an article](http://www.businessinsider.com/tumblr-and-social-media-demographics-2013-12) from Business Insider, around half of their users at the end of last year were between the ages of 16 and 24. That's a lot of young people, and that can be a good or a bad thing.
 
-<p>Tumblr is my personal favorite--fair warning, I am a "young person" by this standard--and I don't think there are many times when it's inappropriate. It encourages people to follow blogs, it's growing, and they give you enough control over HTML to have a personalized look and feel.</p>
+Tumblr is my personal favorite--fair warning, I am a "young person" by this standard--and I don't think there are many times when it's inappropriate. It encourages people to follow blogs, it's growing, and they give you enough control over HTML to have a personalized look and feel.
 
-<p>An important note about Tumblr is engagement. Tumblr is built to be used, a lot. You don't leave Tumblr open in the background like you might with Facebook, or even Twitter. On top of that, the culture enforces responses--reblogs and likes are the status quo, which can be great <em>if you get them.</em> Similarly, it can look a little silly if you're writing a post a week, and get 0 notes. It's pretty similar to Facebook in that way, but to what I feel is a greater extent.</p>
+An important note about Tumblr is engagement. Tumblr is built to be used, a lot. You don't leave Tumblr open in the background like you might with Facebook, or even Twitter. On top of that, the culture enforces responses--reblogs and likes are the status quo, which can be great *if you get them.* Similarly, it can look a little silly if you're writing a post a week, and get 0 notes. It's pretty similar to Facebook in that way, but to what I feel is a greater extent.
 
-<p>Tumblr is awesome at <em>rich content.</em> If you can find an image to post with your content, you should. It's not required, and if you aren't looking to build off of their social network, there's no added benefit, but if you are intending to, it's primarily composed of "visual" people.</p>
+Tumblr is awesome at *rich content.* If you can find an image to post with your content, you should. It's not required, and if you aren't looking to build off of their social network, there's no added benefit, but if you are intending to, it's primarily composed of "visual" people.
 
-<p><a href="http://blog.dennys.com" rel="nofollow noreferrer">Denny's</a> has an excellent, and very weird, Tumblr. </p>
+[Denny's](http://blog.dennys.com) has an excellent, and very weird, Tumblr. 
 
-<h1>WordPress</h1>
+WordPress
+=
 
-<p>WordPress is big. Like, really, really big. Like, <a href="http://w3techs.com/technologies/details/cm-wordpress/all/all" rel="nofollow noreferrer">23% of all websites</a> big. That's a good thing. As such, there are a ton of plug-ins and extensibility options for it. I call Tumblr customizable, but WordPress passes it by miles.</p>
+WordPress is big. Like, really, really big. Like, [23% of all websites](http://w3techs.com/technologies/details/cm-wordpress/all/all) big. That's a good thing. As such, there are a ton of plug-ins and extensibility options for it. I call Tumblr customizable, but WordPress passes it by miles.
 
-<p>Now, of course, you have to think about that. Is that what you're looking for? Customization is great, but boiler-plate code is sufficient <em>and fast</em> in a lot of cases.</p>
+Now, of course, you have to think about that. Is that what you're looking for? Customization is great, but boiler-plate code is sufficient *and fast* in a lot of cases.
 
-<p>I have to admit, I'm not super familiar with WordPress personally. I have one, because I create accounts like wildfire, but I've never <em>really</em> used it. The impression I get is that WordPress is used as a blogging platform. Tumblr is a social network that supports blogging, and WordPress is a blogging platform that supports social networking. There are advantages to each, of course. If you're writing a classical "an essay a week" sort of blog, I think WordPress is probably going to be your best bet. It's a solid foundation for that sort of thing, no doubt. Rich content is highlighted, but not in the way that it is on Tumblr. You can get away with blocks and blocks of text much more easily.</p>
+I have to admit, I'm not super familiar with WordPress personally. I have one, because I create accounts like wildfire, but I've never *really* used it. The impression I get is that WordPress is used as a blogging platform. Tumblr is a social network that supports blogging, and WordPress is a blogging platform that supports social networking. There are advantages to each, of course. If you're writing a classical "an essay a week" sort of blog, I think WordPress is probably going to be your best bet. It's a solid foundation for that sort of thing, no doubt. Rich content is highlighted, but not in the way that it is on Tumblr. You can get away with blocks and blocks of text much more easily.
 
-<p>WordPress talks explicitly about SEO on their homepage, but I don't know how much they really do that you can't on Tumblr.</p>
+WordPress talks explicitly about SEO on their homepage, but I don't know how much they really do that you can't on Tumblr.
 
-<h1>Blogger</h1>
+Blogger
+=
 
-<p>I know just about zilch about Blogger, unfortunately. You could argue that to mean something, or you could just say I'm out of the know. I've seen a few people use it over the years, but honestly it would be my last choice of these three. Beyond that, though, I'm not going to pretend to be able to talk about it.</p>
-
+I know just about zilch about Blogger, unfortunately. You could argue that to mean something, or you could just say I'm out of the know. I've seen a few people use it over the years, but honestly it would be my last choice of these three. Beyond that, though, I'm not going to pretend to be able to talk about it.
 
 
 ## Answer 1712

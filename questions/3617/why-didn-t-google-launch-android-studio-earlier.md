@@ -4,17 +4,16 @@
 - tagged: `startup-costs`, `brand`, `android-development`
 - score: 4
 
-<p>I'm an Android developer. I remember when I started coding for Android, Google was recommending Eclipse to compile, and now, after years of launching first Android versions Google has it's own Android studio.</p>
+I'm an Android developer. I remember when I started coding for Android, Google was recommending Eclipse to compile, and now, after years of launching first Android versions Google has it's own Android studio.
 
-<p>Isn't it cheap for such a big company to use an Eclipse plug-in instead of its own Android studio?</p>
+Isn't it cheap for such a big company to use an Eclipse plug-in instead of its own Android studio?
 
-<p>I don't think Google had lack of resources at first, it could hire a separate professional team to work on Android studio parallel with ones working on Android OS itself.</p>
+I don't think Google had lack of resources at first, it could hire a separate professional team to work on Android studio parallel with ones working on Android OS itself.
 
-<p>I think there might be a reason.
-Any idea?</p>
+I think there might be a reason.
+Any idea?
 
-<p>What kind of simplifications damage your brand and what not?</p>
-
+What kind of simplifications damage your brand and what not?
 
 
 ## Answer 3619
@@ -22,12 +21,11 @@ Any idea?</p>
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-03-05
 - score: 1
 
-<p>The colloquial idea is "ship fast and iterate," in contrast with shipping something <em>perfect</em>. Eclipse is a good enough IDE (and indeed a very good one), so there was no reason to rush Android Studio.</p>
+The colloquial idea is "ship fast and iterate," in contrast with shipping something *perfect*. Eclipse is a good enough IDE (and indeed a very good one), so there was no reason to rush Android Studio.
 
-<p>The rule of thumb is: if ignoring a feature doesn't make your product dysfunctional or useless, then not implementing it immediately should be on your radar. Release that as version one. Then plan for follow-up releases.</p>
+The rule of thumb is: if ignoring a feature doesn't make your product dysfunctional or useless, then not implementing it immediately should be on your radar. Release that as version one. Then plan for follow-up releases.
 
-<p>(In the case of Android, there <em>might</em> also have been something related to the <a href="http://en.wikipedia.org/wiki/Oracle_America,_Inc._v._Google,_Inc." rel="nofollow">legal claims from Oracle</a>, or something related to mimicking what Apple does. <em>Might</em>.)</p>
-
+(In the case of Android, there *might* also have been something related to the [legal claims from Oracle](http://en.wikipedia.org/wiki/Oracle_America,_Inc._v._Google,_Inc.), or something related to mimicking what Apple does. *Might*.)
 
 
 ## Answer 3621
@@ -35,12 +33,11 @@ Any idea?</p>
 - posted by: [blunders](https://stackexchange.com/users/216182/blunders) on 2015-03-05
 - score: 0
 
-<p>There are a lot of assumptions floating around in this question in my opinion, to the degree I almost feel as if the question in the end doesn't add up.</p>
+There are a lot of assumptions floating around in this question in my opinion, to the degree I almost feel as if the question in the end doesn't add up.
 
-<p>Yes, there are differences between the two IDEs -- and yes, Google might have gone with IntelliJ instead of Eclipse to start, but sounds unlikely to me. What I do know is that they've been working on this over two years and no longer actively developing for Eclipse; which to me goes against the claim Google has unlimited resources, they don't.</p>
+Yes, there are differences between the two IDEs -- and yes, Google might have gone with IntelliJ instead of Eclipse to start, but sounds unlikely to me. What I do know is that they've been working on this over two years and no longer actively developing for Eclipse; which to me goes against the claim Google has unlimited resources, they don't.
 
-<p>I could try to spin this some how into being some sort of progressive form of developing a product to limit resource expenditure and mitigate risks, but the fact is unless the real reasons behind Google's switch are known, it's just speculation; which is what it is.</p>
-
+I could try to spin this some how into being some sort of progressive form of developing a product to limit resource expenditure and mitigate risks, but the fact is unless the real reasons behind Google's switch are known, it's just speculation; which is what it is.
 
 
 ## Answer 3623
@@ -48,10 +45,9 @@ Any idea?</p>
 - posted by: [plunntic](https://stackexchange.com/users/2200821/plunntic) on 2015-03-05
 - score: 0
 
-<p>I would rather say, that it's not any "launching", it's just a bad word to me. Years later they just been telling that eclipse is official Android IDE, and now their changed their mind saying, that InteliJ is official Andoird IDE. Android Studio is not their product, it's just a customized for android development version of InteliJ. Probably you have some sugar on top of that, maybe some of it becomes from google, but the crucial part - the IDE - is an open source project.</p>
+I would rather say, that it's not any "launching", it's just a bad word to me. Years later they just been telling that eclipse is official Android IDE, and now their changed their mind saying, that InteliJ is official Andoird IDE. Android Studio is not their product, it's just a customized for android development version of InteliJ. Probably you have some sugar on top of that, maybe some of it becomes from google, but the crucial part - the IDE - is an open source project.
 
-<p>So, to answer your question, I think it might be that they follow the hype for jetBrains products, and it might be that they really see more potential there (which they didn't years ago). Hard to say.</p>
-
+So, to answer your question, I think it might be that they follow the hype for jetBrains products, and it might be that they really see more potential there (which they didn't years ago). Hard to say.
 
 
 

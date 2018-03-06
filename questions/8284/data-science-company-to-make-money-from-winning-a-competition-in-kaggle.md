@@ -4,8 +4,7 @@
 - tagged: `business-model`, `data`
 - score: 1
 
-<p>I am thinking of creating data science company to make money from winning a competition in Kaggle. Have you ever heard of such an idea? It will be actually a type of onsite data science training school, but I want to place the company's identity of brand like a sport team instead of "school". </p>
-
+I am thinking of creating data science company to make money from winning a competition in Kaggle. Have you ever heard of such an idea? It will be actually a type of onsite data science training school, but I want to place the company's identity of brand like a sport team instead of "school". 
 
 ## No Answers
 

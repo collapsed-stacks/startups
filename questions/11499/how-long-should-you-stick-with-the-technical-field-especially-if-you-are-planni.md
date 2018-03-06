@@ -4,19 +4,17 @@
 - tagged: `software`
 - score: 5
 
-<p>I'm 28, and after +10 years as a fully energetic/passionate software engineer, suddenly I start to lose my passion.</p>
+I'm 28, and after +10 years as a fully energetic/passionate software engineer, suddenly I start to lose my passion.
 
-<p>And briefly for those two reasons:</p>
+And briefly for those two reasons:
 
-<ul>
-<li>It's really tiny chance you can a job in cool company, and you are going to end up building database business system, which I really get bored of.</li>
-<li>Simply, you will not be rich being a software engineer only... It's true!</li>
-</ul>
+- It's really tiny chance you can a job in cool company, and you are going to end up building database business system, which I really get bored of.
+- Simply, you will not be rich being a software engineer only... It's true!
 
-<p>So, if this right what do you advise?!
-If not, what to do to renew my passion ?</p>
+So, if this right what do you advise?!
+If not, what to do to renew my passion ?
 
-<p>Thanks,</p>
+Thanks,
 
 
 

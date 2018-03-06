@@ -4,14 +4,13 @@
 - tagged: `stock`
 - score: 5
 
-<p>I have got an offer from a very hot late stage startup that I think will go public no later than 2016. They have offered me X RSUs and I was told the preferred stock price of last round of funding which happened not long ago. Is it reasonable to use that number as the target IPO price?</p>
+I have got an offer from a very hot late stage startup that I think will go public no later than 2016. They have offered me X RSUs and I was told the preferred stock price of last round of funding which happened not long ago. Is it reasonable to use that number as the target IPO price?
 
-<p>EDIT: I did some research and found some articles that disclosed the preferred stock price of previous rounds of funding this company had done. That price is actually greater than the preferred stock price in latest round of funding. That is baffling to me. I thought if the company valuation is going up, the preferred stock price should go up, but clearly it doesn't have to be that way. Why?</p>
+EDIT: I did some research and found some articles that disclosed the preferred stock price of previous rounds of funding this company had done. That price is actually greater than the preferred stock price in latest round of funding. That is baffling to me. I thought if the company valuation is going up, the preferred stock price should go up, but clearly it doesn't have to be that way. Why?
 
-<p>Also I thought if some investors have paid X to get the shares, they wouldn't let an IPO happen below X, but clearly that also does not seem to be the case. Why? At time of IPO my understanding is that preferred stock gets converted into common stock. Is there a multiplier associated so that 1 preferred stock gets converted into 10 shares of common stock - that would be one way that would explain above.</p>
+Also I thought if some investors have paid X to get the shares, they wouldn't let an IPO happen below X, but clearly that also does not seem to be the case. Why? At time of IPO my understanding is that preferred stock gets converted into common stock. Is there a multiplier associated so that 1 preferred stock gets converted into 10 shares of common stock - that would be one way that would explain above.
 
-<p>EDIT 2: so my conjecture was true. see <a href="http://www.investopedia.com/articles/stocks/05/052705.asp" rel="nofollow">this</a></p>
-
+EDIT 2: so my conjecture was true. see [this](http://www.investopedia.com/articles/stocks/05/052705.asp)
 
 
 ## Answer 9622
@@ -60,14 +59,13 @@
 - posted by: [Xeros](https://stackexchange.com/users/6984932/xeros) on 2015-11-07
 - score: 0
 
-<p>The price of stocks during funding rounds and at an IPO and later on the stock market depends on what people think the company is worth. The value of a company can therefore change in both positive or negative direction depending on the performance. I.e. if company X wants to launch a great new product in December 2016, but then finds some problems with the product and the launch has to be postponed to 2017, this will negatively impact the value of the company no matter whether it is before, at or after an IPO.</p>
+The price of stocks during funding rounds and at an IPO and later on the stock market depends on what people think the company is worth. The value of a company can therefore change in both positive or negative direction depending on the performance. I.e. if company X wants to launch a great new product in December 2016, but then finds some problems with the product and the launch has to be postponed to 2017, this will negatively impact the value of the company no matter whether it is before, at or after an IPO.
 
-<p>An IPO below funding value is absolutely possible:</p>
+An IPO below funding value is absolutely possible:
 
-<p><a href="http://fortune.com/2015/11/06/square-valuation-ipo/" rel="nofollow">http://fortune.com/2015/11/06/square-valuation-ipo/</a></p>
+http://fortune.com/2015/11/06/square-valuation-ipo/
 
-<p>If you and other investors pay 40$ per share before an IPO and the company struggles and is only worth 30$ per share now, investors will still accept an IPO at 30$ per share because it is what the company is worth. The investors are not loosing the money because of the IPO, they are loosing money because the company struggles and their investment was not as good as they hoped.</p>
-
+If you and other investors pay 40$ per share before an IPO and the company struggles and is only worth 30$ per share now, investors will still accept an IPO at 30$ per share because it is what the company is worth. The investors are not loosing the money because of the IPO, they are loosing money because the company struggles and their investment was not as good as they hoped.
 
 
 ## Answer 5689
@@ -75,8 +73,7 @@
 - posted by: [Steve](https://stackexchange.com/users/6168451/steve) on 2015-07-09
 - score: -1
 
-<p>In light of this <a href="http://www.investopedia.com/articles/stocks/05/052705.asp" rel="nofollow">link</a>, the preferred stock price in combination with the conversion ratio provides a solid lower bound on the IPO price. The investors won't let an IPO happen below that price, else they would be losing money on their investment.</p>
-
+In light of this [link](http://www.investopedia.com/articles/stocks/05/052705.asp), the preferred stock price in combination with the conversion ratio provides a solid lower bound on the IPO price. The investors won't let an IPO happen below that price, else they would be losing money on their investment.
 
 
 

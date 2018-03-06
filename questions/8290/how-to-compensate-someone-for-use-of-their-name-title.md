@@ -4,10 +4,9 @@
 - tagged: `bootstrapping`
 - score: 1
 
-<p>Is there anyone that can provide some ideas on the level to which I would need to compensate someone for access to their name/title? Specifically, my exploration and discussions while networking has led to the conclusion I need to work with an 'authorized' professional to purchase from a distributor the product(s) that I would like to resell (distributors tend to avoid selling to competitors, or people that may disrupt an industry). </p>
+Is there anyone that can provide some ideas on the level to which I would need to compensate someone for access to their name/title? Specifically, my exploration and discussions while networking has led to the conclusion I need to work with an 'authorized' professional to purchase from a distributor the product(s) that I would like to resell (distributors tend to avoid selling to competitors, or people that may disrupt an industry). 
 
-<p>The option of becoming an authorized buyer myself is not reasonable as I am an entrepreneur &amp; engineer and do not have the bandwidth/desire/time to become a medical doctor. I am trying to find out what level/kind of compensation (a percentage of profits? free product? options? shares? other types?) would be reasonable for someone that would allow me to purchase product 'through' them (as a 'front') while I bootstrap the business and establish its own reputation, customer base, and identity to enable it to purchase without an external professional's assistance.</p>
-
+The option of becoming an authorized buyer myself is not reasonable as I am an entrepreneur & engineer and do not have the bandwidth/desire/time to become a medical doctor. I am trying to find out what level/kind of compensation (a percentage of profits? free product? options? shares? other types?) would be reasonable for someone that would allow me to purchase product 'through' them (as a 'front') while I bootstrap the business and establish its own reputation, customer base, and identity to enable it to purchase without an external professional's assistance.
 
 ## No Answers
 

@@ -4,12 +4,11 @@
 - tagged: `business-plan`
 - score: 9
 
-<p>Several answers here point to finding a customer's <em>need</em>. How do we precisely define what a need is? Taking airbnb, the model I'm closely modeling, people traveling do need a place to stay, but there's was already numerous hotel options. I like the business and it was fun to use it to stay on a sailboat when I had a conference in Portland. But I didn't need to use airbnb to find place to stay. </p>
+Several answers here point to finding a customer's *need*. How do we precisely define what a need is? Taking airbnb, the model I'm closely modeling, people traveling do need a place to stay, but there's was already numerous hotel options. I like the business and it was fun to use it to stay on a sailboat when I had a conference in Portland. But I didn't need to use airbnb to find place to stay. 
 
-<p>Also, presumably the sailboat owner didn't need to rent it out to keep it. But even if she did, does a need on the supplier side even count?</p>
+Also, presumably the sailboat owner didn't need to rent it out to keep it. But even if she did, does a need on the supplier side even count?
 
-<p>So what are the needs being met by airbnb in particular?</p>
-
+So what are the needs being met by airbnb in particular?
 
 
 ## Answer 485
@@ -61,11 +60,12 @@
 - posted by: [a20](https://stackexchange.com/users/54595/a20) on 2014-08-25
 - score: 5
 
-<p>Air bnb connects the needs of renters with needs of owners.</p>
+Air bnb connects the needs of renters with needs of owners.
 
-<p>Owners need: Generate income from property that's lying unused (boats, rooms etc).</p>
+Owners need: Generate income from property that's lying unused (boats, rooms etc).
 
-<p>Renters need: Lower cost, more personal service etc.</p>
+Renters need: Lower cost, more personal service etc.
+
 
 
 

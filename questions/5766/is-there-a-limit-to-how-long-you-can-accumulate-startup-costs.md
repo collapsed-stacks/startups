@@ -4,14 +4,16 @@
 - tagged: `startup-costs`
 - score: 6
 
-<p>I'm researching the construction of some particular computer hardware, but I expect it to be several years (let's say 5) before I may, if at all, complete it. I'd like to be able to write off my research related costs, but I feel like this is something I could only do after successfully selling said hardware. I'm fairly certain the IRS would <em>view this as a hobby</em> until the research is complete.</p>
+I'm researching the construction of some particular computer hardware, but I expect it to be several years (let's say 5) before I may, if at all, complete it. I'd like to be able to write off my research related costs, but I feel like this is something I could only do after successfully selling said hardware. I'm fairly certain the IRS would *view this as a hobby* until the research is complete.
 
-<p>Maybe not the first year, but given the length of expected research time, as well as the possibility of failure, there's no way I would meet the "profitable 3 out of 5 years" rule. Not to mention, my background is much more related to software than hardware, which can also be used to prove that this is a "hobby" rather than a legitimate business venture.</p>
+Maybe not the first year, but given the length of expected research time, as well as the possibility of failure, there's no way I would meet the "profitable 3 out of 5 years" rule. Not to mention, my background is much more related to software than hardware, which can also be used to prove that this is a "hobby" rather than a legitimate business venture.
 
-<p>An alternative seems to be to continue to accumulate the research costs, then after the 5 years, actually open the business and amortize the cost over 15 years, as a startup cost. But that leaves me wondering, is there a limit to how long you can accumulate start up costs for? I was reading some of the <a href="http://www.irs.gov/publications/p535/ch08.html#en_US_2014_publink1000208938">IRS publications</a> on it, but I don't see any mention of a time limit.</p>
+An alternative seems to be to continue to accumulate the research costs, then after the 5 years, actually open the business and amortize the cost over 15 years, as a startup cost. But that leaves me wondering, is there a limit to how long you can accumulate start up costs for? I was reading some of the [IRS publications][1] on it, but I don't see any mention of a time limit.
 
-<p>Is there any risk of me structuring this in this way?</p>
+Is there any risk of me structuring this in this way?
 
+
+  [1]: http://www.irs.gov/publications/p535/ch08.html#en_US_2014_publink1000208938
 
 
 ## Answer 5904
@@ -53,27 +55,20 @@
 - score: -1
 
 <h3>Disclaimer</h3>
-
-<blockquote>
-  <p><strong>I am only going to answer this question hypothetically. In the abstract only. I can not and I am not giving you any advice with your particular situation because I am not an accountant or an attorney and my answer is not intended to be accounting or legal advice. So don't follow it! Please consult the appropriate professional to advise you for your particular situation.</strong></p>
-</blockquote>
+> **I am only going to answer this question hypothetically. In the abstract only. I can not and I am not giving you any advice with your particular situation because I am not an accountant or an attorney and my answer is not intended to be accounting or legal advice. So don't follow it! Please consult the appropriate professional to advise you for your particular situation.**
 
 <hr>
-
 <h3>Hypothetical Question to CPA</h3>
+Hypothetically, a hypothetical person faced with the hypothetical situation you describe might consider posing the following scenario to their CPA and see what the CPA says...
 
-<p>Hypothetically, a hypothetical person faced with the hypothetical situation you describe might consider posing the following scenario to their CPA and see what the CPA says...</p>
+*"Suppose I form a legal corporation, pay the state registration and filing fees and fund it with, say, x dollars. Then I spend that money on legally proper business expenses and follow all the IRS guidelines and procedures for doing so."*
 
-<p><em>"Suppose I form a legal corporation, pay the state registration and filing fees and fund it with, say, x dollars. Then I spend that money on legally proper business expenses and follow all the IRS guidelines and procedures for doing so."</em></p>
-
-<p><em>"Could I, in that situation, then deduct the corporate losses from my personal income tax returns 100% if I am the sole owner of the corporation?"</em></p>
+*"Could I, in that situation, then deduct the corporate losses from my personal income tax returns 100% if I am the sole owner of the corporation?"*
 
 <hr>
-
 <h3>Hypothetical Response</h3>
 
-<p>Be prepared for the CPA to respond that the answer to that question depends upon many factors, including but not limited to the legal form of your entity and whether your corporation makes a subchapter-S election or not. This subchapter-S election will convert the entity to a "flow-through" entity for tax purposes.</p>
-
+Be prepared for the CPA to respond that the answer to that question depends upon many factors, including but not limited to the legal form of your entity and whether your corporation makes a subchapter-S election or not. This subchapter-S election will convert the entity to a "flow-through" entity for tax purposes.
 
 
 

@@ -4,18 +4,17 @@
 - tagged: `domain-name`
 - score: 0
 
-<p>I want to launch a new product and I have bought two domain names knowing that "ProductName.com" is taken but not used.</p>
+I want to launch a new product and I have bought two domain names knowing that "ProductName.com" is taken but not used.
 
-<p>I have registered the following:
+I have registered the following:
 GetProductName.com
-ProductName.org</p>
+ProductName.org
 
-<p>The product is a SaaS app for businesses. So basically a for profit product.</p>
+The product is a SaaS app for businesses. So basically a for profit product.
 
-<p>My question is, which domain name would be better to go with? GetProductName.com or ProductName.org?</p>
+My question is, which domain name would be better to go with? GetProductName.com or ProductName.org?
 
-<p>Thanks</p>
-
+Thanks
 
 
 ## Answer 12390
@@ -23,10 +22,9 @@ ProductName.org</p>
 - posted by: [jeremyrandall](https://stackexchange.com/users/6504649/jeremyrandall) on 2017-03-31
 - score: 6
 
-<p>I'd use the .com name. </p>
+I'd use the .com name. 
 
-<p>.org names are generally used for non-profits and it will look strange building a commercial product that way.</p>
-
+.org names are generally used for non-profits and it will look strange building a commercial product that way.
 
 
 ## Answer 12412

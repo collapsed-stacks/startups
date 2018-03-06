@@ -4,10 +4,9 @@
 - tagged: `sales`
 - score: 2
 
-<p>Let's say that I got a great idea. I'm a programmer but I need someone who manage this branding thing, make a market study and found ways to reach our clients. I've contacted my friend and he wanted 50/50 but I didn't agree so we finally ended at 60/40. We both are going to invest the same amount of time and money (in this case, 60/40). Is this a good way to spread the cake?</p>
+Let's say that I got a great idea. I'm a programmer but I need someone who manage this branding thing, make a market study and found ways to reach our clients. I've contacted my friend and he wanted 50/50 but I didn't agree so we finally ended at 60/40. We both are going to invest the same amount of time and money (in this case, 60/40). Is this a good way to spread the cake?
 
-<p>I've been working on other projects alone, and this is my first time going by a different way.</p>
-
+I've been working on other projects alone, and this is my first time going by a different way.
 
 
 ## Answer 5992

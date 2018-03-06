@@ -4,8 +4,7 @@
 - tagged: `marketing`, `taxes`, `crowd-funding`, `prototyping`
 - score: 3
 
-<p>I have an idea for an electronic product, I am already designing some prototypes.  I want to learn then I can start a crowdfunding and all the things I have to do such as paying taxes, etc.  can anyone suggest me a book or website where I can find all the information on how to start this electronics company.  </p>
-
+I have an idea for an electronic product, I am already designing some prototypes.  I want to learn then I can start a crowdfunding and all the things I have to do such as paying taxes, etc.  can anyone suggest me a book or website where I can find all the information on how to start this electronics company.  
 
 
 ## Answer 11110
@@ -13,14 +12,13 @@
 - posted by: [Eric Platon](https://stackexchange.com/users/1533/eric-platon) on 2016-09-11
 - score: 1
 
-<p>Good leads in the other answers. A few more words.</p>
+Good leads in the other answers. A few more words.
 
-<p>It is really critical to meet the requirements of your target market.</p>
+It is really critical to meet the requirements of your target market.
 
-<p>Assuming you are in the US, plan to produce your design in Asia, and plan to sell all over the world, it may already be too big a challenge. Definitely easier to narrow down the market to the most likely successful population first, and enlarge as success unrolls. Smaller target populations are easier to deal with, as they often are more homogeneous. This is not definitive, as it depends on your product, though (e.g. if you build a unique iPhone-compatible devise, your market could be large).</p>
+Assuming you are in the US, plan to produce your design in Asia, and plan to sell all over the world, it may already be too big a challenge. Definitely easier to narrow down the market to the most likely successful population first, and enlarge as success unrolls. Smaller target populations are easier to deal with, as they often are more homogeneous. This is not definitive, as it depends on your product, though (e.g. if you build a unique iPhone-compatible devise, your market could be large).
 
-<p>As for crowd-funding, the different big funding sites often have blogs and "documentations" that contain good food for thought. It is important to keep in mind that each site has its funding policy, too, each with different advantages and issues. You need to know those to make the best choice if you go for it.</p>
-
+As for crowd-funding, the different big funding sites often have blogs and "documentations" that contain good food for thought. It is important to keep in mind that each site has its funding policy, too, each with different advantages and issues. You need to know those to make the best choice if you go for it.
 
 
 ## Answer 7792
@@ -28,10 +26,9 @@
 - posted by: [Xeros](https://stackexchange.com/users/6984932/xeros) on 2015-11-10
 - score: 0
 
-<p>Since you don't seem to have a lot of information yet, I would suggest that you take some free start-up courses. I don't know where you live, but at least in my country there are several organisations that offer courses on how to create a company, start-up marketing, and so on for free. Google for sure can help you find them.</p>
+Since you don't seem to have a lot of information yet, I would suggest that you take some free start-up courses. I don't know where you live, but at least in my country there are several organisations that offer courses on how to create a company, start-up marketing, and so on for free. Google for sure can help you find them.
 
-<p>I believe as a first step and to get an overview this will help you much more than a book.</p>
-
+I believe as a first step and to get an overview this will help you much more than a book.
 
 
 ## Answer 9168

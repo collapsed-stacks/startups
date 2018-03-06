@@ -4,11 +4,10 @@
 - tagged: `mobile-apps`, `android-development`
 - score: 4
 
-<p>This question is not generic it's specific to my situation. After developing my app for like  50% I realized that many startups start with iOS first then go for Android. Will it be a good strategy to stop the android development and jump into iOS (dev app from scratch) or continue building the android app (rest 50%) complete and launch. The reasons for iOS first are mentioned in other stackexchange questions. I am looking for advice specific to my situation.</p>
+This question is not generic it's specific to my situation. After developing my app for like  50% I realized that many startups start with iOS first then go for Android. Will it be a good strategy to stop the android development and jump into iOS (dev app from scratch) or continue building the android app (rest 50%) complete and launch. The reasons for iOS first are mentioned in other stackexchange questions. I am looking for advice specific to my situation.
 
-<p><strong>Edit</strong>
-The app I am developing is a community based(Like quora/twitter) app. It's not a paid app. But I am planning to have yearly 1$ fee(first year free). </p>
-
+**Edit**
+The app I am developing is a community based(Like quora/twitter) app. It's not a paid app. But I am planning to have yearly 1$ fee(first year free). 
 
 
 ## Answer 5290
@@ -16,12 +15,11 @@ The app I am developing is a community based(Like quora/twitter) app. It's not a
 - posted by: [blunders](https://stackexchange.com/users/216182/blunders) on 2015-05-15
 - score: 3
 
-<p>Much of writing code in my experience is about thinking about the flow of code, data structures, etc. and the interface, so if you switch which platform you deploy to first, you've still already done some work that would likely help. </p>
+Much of writing code in my experience is about thinking about the flow of code, data structures, etc. and the interface, so if you switch which platform you deploy to first, you've still already done some work that would likely help. 
 
-<p>That said, what you would lose is some of the familiarity you have with the code you're currently working on.</p>
+That said, what you would lose is some of the familiarity you have with the code you're currently working on.
 
-<p>If it were me, unless there was some reasoning I'm missing, I'd finish what you've started.</p>
-
+If it were me, unless there was some reasoning I'm missing, I'd finish what you've started.
 
 
 ## Answer 5295
@@ -29,10 +27,9 @@ The app I am developing is a community based(Like quora/twitter) app. It's not a
 - posted by: [jdero](https://stackexchange.com/users/1972448/jdero) on 2015-05-16
 - score: 2
 
-<p>I am highly confused - if you've really done 50% of the work, you should know with quite some specificity exactly what it's going to take to write the iOS app.</p>
+I am highly confused - if you've really done 50% of the work, you should know with quite some specificity exactly what it's going to take to write the iOS app.
 
-<p>I'd say the hardest part about building an app, regardless of the platform, is bringing the UX into alignment with your business plan. Writing code isn't hard. Giving the precise definition to build exactly as it needs to be done is the tricky part.</p>
-
+I'd say the hardest part about building an app, regardless of the platform, is bringing the UX into alignment with your business plan. Writing code isn't hard. Giving the precise definition to build exactly as it needs to be done is the tricky part.
 
 
 ## Answer 5294
@@ -40,21 +37,21 @@ The app I am developing is a community based(Like quora/twitter) app. It's not a
 - posted by: [John Looker](https://stackexchange.com/users/5196682/john-looker) on 2015-05-16
 - score: 1
 
-<p>Leaving the question of which platform is best to target marketing wise, technology wise Android and iOS are different enough that significant duplication of code will occur if you go native. </p>
+Leaving the question of which platform is best to target marketing wise, technology wise Android and iOS are different enough that significant duplication of code will occur if you go native. 
 
-<p>You will also usually need to make at least some small design changes between platforms, like the location of buttons.</p>
+You will also usually need to make at least some small design changes between platforms, like the location of buttons.
 
-<p>IF you decide to re-write your App for iOS i'd recommend you look at investing in cross-platform development tools that can support both iOS and Android simultaneously (or with minimum additional effort) and doing the job right. That way the investment and additional delay would be worth it.</p>
+IF you decide to re-write your App for iOS i'd recommend you look at investing in cross-platform development tools that can support both iOS and Android simultaneously (or with minimum additional effort) and doing the job right. That way the investment and additional delay would be worth it.
 
-<p>Your iOS version may turn out to be different than your 50% Android version anyway, which may require you re-writing your Android version again.</p>
+Your iOS version may turn out to be different than your 50% Android version anyway, which may require you re-writing your Android version again.
 
-<p>Think clearly about the end-in-mind and plan accordingly.
+Think clearly about the end-in-mind and plan accordingly.
 Look at the trade-offs between writing twice for two platforms vs cross-platform.
-Cross platform vs native etc.</p>
+Cross platform vs native etc.
 
-<p>Perhaps do some porting of your current code base to a cross-platform tool to see if the performance and features match your requirements.</p>
+Perhaps do some porting of your current code base to a cross-platform tool to see if the performance and features match your requirements.
 
-<p>If this all seems too complicated right now then just finish your Android app and go from there.</p>
+If this all seems too complicated right now then just finish your Android app and go from there.
 
 
 
@@ -84,21 +81,21 @@ Cross platform vs native etc.</p>
 - posted by: [Jim](https://stackexchange.com/users/351236/jim) on 2016-05-21
 - score: 1
 
-<p>Startups are not about the technology, they are about business first. Think about clothing - an apparel company should seriously consider fabric and stitching, but those are rarely the core concerns of the business. Pizza companies promote "better ingredients" but that is promotional, but there's a lot more to the business than that. </p>
+Startups are not about the technology, they are about business first. Think about clothing - an apparel company should seriously consider fabric and stitching, but those are rarely the core concerns of the business. Pizza companies promote "better ingredients" but that is promotional, but there's a lot more to the business than that. 
 
-<p>For apps there is so much more to the business than the platform, and here are some business considerations:</p>
+For apps there is so much more to the business than the platform, and here are some business considerations:
 
-<ol>
-<li><p>If your app concept will draw in more people from Google Play, go with Android. If the Apple app store is better, go with iOS. </p></li>
-<li><p>If you are looking for investors, then if your investors are accustom to investing in Android apps, stick with Android. However, most investors use iPhones. So if you don't know, then probably play the odds and go with iOS. </p></li>
-<li><p>Consider your demographics. There are differences in the Android vs. iOS demographics. Check that out to see what makes the most sense. </p></li>
-<li><p>iOS users tend to spend more money on apps than Android users. But there are more Android users than iOS. </p></li>
-</ol>
+1. If your app concept will draw in more people from Google Play, go with Android. If the Apple app store is better, go with iOS. 
 
-<p>Also look at apps that are similar to yours - do they have more iOS or Android users? Can you find out which platform produces more money for them. Users that already use apps similar to yours will probably be attracted to it. (This is like restaurants that are built next to each other - to some it seems like it would hurt business to have your "competition" close by, but it's a good business model.)</p>
+2. If you are looking for investors, then if your investors are accustom to investing in Android apps, stick with Android. However, most investors use iPhones. So if you don't know, then probably play the odds and go with iOS. 
 
-<p>Hope this helps. And good luck!</p>
+3. Consider your demographics. There are differences in the Android vs. iOS demographics. Check that out to see what makes the most sense. 
 
+4. iOS users tend to spend more money on apps than Android users. But there are more Android users than iOS. 
+
+Also look at apps that are similar to yours - do they have more iOS or Android users? Can you find out which platform produces more money for them. Users that already use apps similar to yours will probably be attracted to it. (This is like restaurants that are built next to each other - to some it seems like it would hurt business to have your "competition" close by, but it's a good business model.)
+
+Hope this helps. And good luck!
 
 
 ## Answer 9273

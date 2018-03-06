@@ -4,12 +4,14 @@
 - tagged: `copyright`
 - score: 0
 
-<p>For sometime I had an idea for making a product that later I intend to sell. The thing is, it is based of somebodies work, so you can call it fan work. Let's say I want to draw a painting with this Star Trek logo <a href="https://i.stack.imgur.com/nYuAs.jpg" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/nYuAs.jpg" alt="enter image description here"></a></p>
+For sometime I had an idea for making a product that later I intend to sell. The thing is, it is based of somebodies work, so you can call it fan work. Let's say I want to draw a painting with this Star Trek logo [![enter image description here][1]][1]
 
-<p>I want to sell it. Will it be considered a copyright infringement? And then again, if I will change it a bit, like, add some scratch marks or additional symbols, will it technically be my product, or will it be still protected by Copyright? What if I take only the logo, without text, will it be considered my work of art? And say, what if I take this logo, and create a show called Star Way, is the show considered mine? Yes, it will be an obvious rip off, but will it be legally original?</p>
+I want to sell it. Will it be considered a copyright infringement? And then again, if I will change it a bit, like, add some scratch marks or additional symbols, will it technically be my product, or will it be still protected by Copyright? What if I take only the logo, without text, will it be considered my work of art? And say, what if I take this logo, and create a show called Star Way, is the show considered mine? Yes, it will be an obvious rip off, but will it be legally original?
 
-<p>I hope I made myself clear. </p>
+I hope I made myself clear. 
 
+
+  [1]: http://i.stack.imgur.com/nYuAs.jpg
 
 
 ## Answer 7726

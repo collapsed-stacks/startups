@@ -4,23 +4,22 @@
 - tagged: `ycombinator`, `accelerators`
 - score: 0
 
-<p>Ok, I submitted my idea a few times to YCombinator and all of the times I received this info in their email after they reviewed my idea:</p>
+Ok, I submitted my idea a few times to YCombinator and all of the times I received this info in their email after they reviewed my idea:
 
-<blockquote>
-  <p>Thank you for applying to Y Combinator; however, your startup was not
-  selected to interview for the upcoming Y Combinator batch....</p>
-</blockquote>
+    
 
-<p>My question is that how many people in the world submitted their ideas to YCombinator &amp; how many percent was selected. Out of the selected ideas, how many were actually receive the checks from YCombinator?</p>
+> Thank you for applying to Y Combinator; however, your startup was not
+> selected to interview for the upcoming Y Combinator batch....
 
-<p>What they said implies that my idea may be very good, but others' are much better and thus they will pick the best ones. In my opinion, that (the way that YCombinator selects startups) is not the best way to find the best startups. How YCOmbinator is so sure that the idea of the StartupA is better than StartupB? Maybe there r 5000 applications and only 30 got selected.</p>
+My question is that how many people in the world submitted their ideas to YCombinator & how many percent was selected. Out of the selected ideas, how many were actually receive the checks from YCombinator?
 
-<p>SO I want to find a startup incubator that can sponsor for 60-80% of the good ideas. 10% of these ideas can receive money from that incubator and the rest of these ideas can only receive their advice. By doing that, the incubator can have more chances to find successful startups since there are more ideas were put into action.</p>
+What they said implies that my idea may be very good, but others' are much better and thus they will pick the best ones. In my opinion, that (the way that YCombinator selects startups) is not the best way to find the best startups. How YCOmbinator is so sure that the idea of the StartupA is better than StartupB? Maybe there r 5000 applications and only 30 got selected.
 
-<p>So my question is:</p>
+SO I want to find a startup incubator that can sponsor for 60-80% of the good ideas. 10% of these ideas can receive money from that incubator and the rest of these ideas can only receive their advice. By doing that, the incubator can have more chances to find successful startups since there are more ideas were put into action.
 
-<p><strong>is there any startup incubator that is more flexible than YCombinator?</strong>   </p>
+So my question is:
 
+**is there any startup incubator that is more flexible than YCombinator?**   
 
 
 ## Answer 3534
@@ -110,14 +109,13 @@
 - posted by: [hustlerrr](https://stackexchange.com/users/5855474/hustlerrr) on 2015-02-27
 - score: -2
 
-<p>Well, YC has 13-15k application per batch, and 40-60 companies that got in.</p>
+Well, YC has 13-15k application per batch, and 40-60 companies that got in.
 
-<p>Its hard, but my question is - how are trying to succeed if do not manage to hack this way and beat only 15k competing companies? Cuz while running your business you gonna compete with 15k*100000 different issues that can beat down on your knees. Every.Single.Moment.</p>
+Its hard, but my question is - how are trying to succeed if do not manage to hack this way and beat only 15k competing companies? Cuz while running your business you gonna compete with 15k*100000 different issues that can beat down on your knees. Every.Single.Moment.
 
-<p>If you think that YC give you cash for the privilege to "recieve your idea" - you are wrong. </p>
+If you think that YC give you cash for the privilege to "recieve your idea" - you are wrong. 
 
-<p>You better find a job</p>
-
+You better find a job
 
 
 

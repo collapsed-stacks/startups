@@ -4,9 +4,8 @@
 - tagged: `legal`, `united-states`
 - score: 1
 
-<p>I'm going to register a company in US. But I don't have any US bank accounts yet. 
-Do I need to open a bank account? Does it depend on state?</p>
-
+I'm going to register a company in US. But I don't have any US bank accounts yet. 
+Do I need to open a bank account? Does it depend on state?
 
 
 ## Answer 8248
@@ -14,8 +13,7 @@ Do I need to open a bank account? Does it depend on state?</p>
 - posted by: [Mark Ulmer](https://stackexchange.com/users/7561072/mark-ulmer) on 2016-01-02
 - score: 1
 
-<p>NO. A US bank account is not required.</p>
-
+NO. A US bank account is not required.
 
 
 

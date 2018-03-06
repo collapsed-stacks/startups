@@ -4,16 +4,15 @@
 - tagged: `software`, `ceo`
 - score: 2
 
-<p>I believe we have a solid business plan, the money to make it possible, and the technical and management skills necessary to turn that plan into a successful business. I also have someone with the people skills I lack to look after the customer facing side of the business.</p>
+I believe we have a solid business plan, the money to make it possible, and the technical and management skills necessary to turn that plan into a successful business. I also have someone with the people skills I lack to look after the customer facing side of the business.
 
-<p>However, as the main shareholder and also the most business experienced, I am not comfortable delegating the CEO role. I don't want to dilute the shares anymore at this point. </p>
+However, as the main shareholder and also the most business experienced, I am not comfortable delegating the CEO role. I don't want to dilute the shares anymore at this point. 
 
-<p>That said, when signing contracts, I am worried that a prospective customer might think we are not a serious company because of my image. I don't think I look unprofessional as an employee, but I seem to give off some sort of "poor man" aura. When I go to a relatively expensive place, the waiters give me a "sorry I am all out of change" look before I order something and that's definitely not the image I want my customers to see.</p>
+That said, when signing contracts, I am worried that a prospective customer might think we are not a serious company because of my image. I don't think I look unprofessional as an employee, but I seem to give off some sort of "poor man" aura. When I go to a relatively expensive place, the waiters give me a "sorry I am all out of change" look before I order something and that's definitely not the image I want my customers to see.
 
-<p>Are there any resources to improve one's image and attitude to match the CEO role? I'm already over 30, so I'm not a teenager anymore like some other posters.</p>
+Are there any resources to improve one's image and attitude to match the CEO role? I'm already over 30, so I'm not a teenager anymore like some other posters.
 
-<p>We are a Software Services Provider if it's of any use.</p>
-
+We are a Software Services Provider if it's of any use.
 
 
 ## Answer 1270
@@ -57,26 +56,25 @@
 - posted by: [Jeremy Parsons](https://stackexchange.com/users/497810/jeremy-parsons) on 2014-10-28
 - score: 3
 
-<p>You know that you don't always come across in a way that gives customers confidence, so your first question is how to avoid that becoming an issue for the business.</p>
+You know that you don't always come across in a way that gives customers confidence, so your first question is how to avoid that becoming an issue for the business.
 
-<p>I think you're saying (slightly indirectly) that there's someone on the team who will lead on the customer-facing side, but that person isn't sufficiently senior to be the only person the customer sees.</p>
+I think you're saying (slightly indirectly) that there's someone on the team who will lead on the customer-facing side, but that person isn't sufficiently senior to be the only person the customer sees.
 
-<p>That gives you three basic options. </p>
+That gives you three basic options. 
 
-<h2>Get trained</h2>
+## Get trained ##
 
-<p>You could invest a bit of time and money in sales and relationship management training from a good provider - perhaps from or through a professional body, or from a good business school. There are skills you can learn that help you build rapport, without requiring that you pretend to be someone you aren't.</p>
+You could invest a bit of time and money in sales and relationship management training from a good provider - perhaps from or through a professional body, or from a good business school. There are skills you can learn that help you build rapport, without requiring that you pretend to be someone you aren't.
 
-<h2>Play to your strengths, and build on them</h2>
+## Play to your strengths, and build on them ##
 
-<p>The CEO often heads up sales, but not always by any means. There's a good chance that your main value to the company comes from the things you're great at. So for instance it may be that your commercial understanding is critical, and then in terms of sales you're in great shape to create a sound process where you can delegate authority to negotiate and sign.</p>
+The CEO often heads up sales, but not always by any means. There's a good chance that your main value to the company comes from the things you're great at. So for instance it may be that your commercial understanding is critical, and then in terms of sales you're in great shape to create a sound process where you can delegate authority to negotiate and sign.
 
-<h2>Buy gravitas</h2>
+## Buy gravitas ##
 
-<p>Just like an Advisory Board can help you gain credibility, many startups get a Board Chair precisely to give major customers access to someone with the gravitas they want. And there are plenty of good, experienced people out there who won't expect more than modest remuneration and token equity.</p>
+Just like an Advisory Board can help you gain credibility, many startups get a Board Chair precisely to give major customers access to someone with the gravitas they want. And there are plenty of good, experienced people out there who won't expect more than modest remuneration and token equity.
 
-<p>The wrong Board membership can be a real headache. But it may be that what you need is the right non-executive to add what you feel you are missing - and to give you the opportunity to learn from working closely with someone with that particular skill set.</p>
-
+The wrong Board membership can be a real headache. But it may be that what you need is the right non-executive to add what you feel you are missing - and to give you the opportunity to learn from working closely with someone with that particular skill set.
 
 
 ## Answer 1185
@@ -84,14 +82,13 @@
 - posted by: [NL7](https://stackexchange.com/users/4221898/nl7) on 2014-10-28
 - score: 2
 
-<p>It sounds like you're insecure about it, so go ahead and dress to your comfort level.  But remember that your level of formality and dress is signaling to people.  Dressing more formally may make you feel more comfortable, but it may also signal to people other things about you.</p>
+It sounds like you're insecure about it, so go ahead and dress to your comfort level.  But remember that your level of formality and dress is signaling to people.  Dressing more formally may make you feel more comfortable, but it may also signal to people other things about you.
 
-<p>Of course, Thiel has said, somewhat tongue in cheek, "never invest in a tech CEO that wears a suit."  And I know a number of VCs prefer not to invest in companies with MBAs, or with more than one MBA.  Formal attire can signal less interest in tech, more interest in business negotiation, and even suggest poorer technical abilities.  Just as people will judge you for being informally dressed, some people will judge you for being too formally dressed.</p>
+Of course, Thiel has said, somewhat tongue in cheek, "never invest in a tech CEO that wears a suit."  And I know a number of VCs prefer not to invest in companies with MBAs, or with more than one MBA.  Formal attire can signal less interest in tech, more interest in business negotiation, and even suggest poorer technical abilities.  Just as people will judge you for being informally dressed, some people will judge you for being too formally dressed.
 
-<p>If you are feeling neurotic about it, then pay attention to what your peers wear at your age and level of experience.  If it feels comfortable for you to be unremarkable, then shoot for the median of how others typically dress.</p>
+If you are feeling neurotic about it, then pay attention to what your peers wear at your age and level of experience.  If it feels comfortable for you to be unremarkable, then shoot for the median of how others typically dress.
 
-<p>Without knowing your level of dress, it's difficult to judge how much you may need to change.  As long as you are regularly buying new shirts and jeans that more or less fit, and washing them regularly, then I doubt you are coming off as bad as you feel.</p>
-
+Without knowing your level of dress, it's difficult to judge how much you may need to change.  As long as you are regularly buying new shirts and jeans that more or less fit, and washing them regularly, then I doubt you are coming off as bad as you feel.
 
 
 ## Answer 1250
@@ -99,10 +96,9 @@
 - posted by: [Fiona - myaccessible.website](https://stackexchange.com/users/43859/fiona-myaccessible-website) on 2014-11-03
 - score: 1
 
-<p>As long as you're not wearing vest tops and ripped jeans, it's the <em>quality</em> of the clothes you're wearing that makes a difference. </p>
+As long as you're not wearing vest tops and ripped jeans, it's the *quality* of the clothes you're wearing that makes a difference. 
 
-<p>This doesn't necessarily mean buying designer, but just reasonable quality and always completely clean, ironed and presentable. The clean and ironed bit is often what makes the most difference. And clean includes shoes!</p>
-
+This doesn't necessarily mean buying designer, but just reasonable quality and always completely clean, ironed and presentable. The clean and ironed bit is often what makes the most difference. And clean includes shoes!
 
 
 ## Answer 1174
@@ -110,13 +106,12 @@
 - posted by: [seanyt123](https://stackexchange.com/users/4954085/seanyt123) on 2014-10-28
 - score: 0
 
-<p>First off: I think your 'Are there any resources to improve one's image and attitude to match the CEO role' attitude could be the wrong way to go, for a software services company the typical software developer geeky hoodie and jeans look could definately be the way to go, don't wear a skin that is uncomfortable to you because you won't act in a way your clients expect you too.<br/>
- If I was to meet with the CEO of a software services company and saw the typical geeky looking guy then I would be intrigued, my first thought would be <em>"Epic, I've just hired Mark Zuckerberg's double for my project! This is gonna be awesome."</em></p>
+First off: I think your 'Are there any resources to improve one's image and attitude to match the CEO role' attitude could be the wrong way to go, for a software services company the typical software developer geeky hoodie and jeans look could definately be the way to go, don't wear a skin that is uncomfortable to you because you won't act in a way your clients expect you too.<br/>
+ If I was to meet with the CEO of a software services company and saw the typical geeky looking guy then I would be intrigued, my first thought would be *"Epic, I've just hired Mark Zuckerberg's double for my project! This is gonna be awesome."*
 
-<p>But you do indeed not want to look poor, to avoid this, don't buy cheap things, maybe you could carry on with your style (because the first point I am making is basically there isn't a CEO 'look' really, there is a 'typical services look' for a retailer then it could be sharply dressed with a tie and a charming smile to give off the impression that you are pleasing to an audience and good with people, but for a software geek the stay at home hoodie indicates not bothering about appearances because you are a stay at home and code all day kind of guy, it's all about the impression you want to give off.) </p>
+ But you do indeed not want to look poor, to avoid this, don't buy cheap things, maybe you could carry on with your style (because the first point I am making is basically there isn't a CEO 'look' really, there is a 'typical services look' for a retailer then it could be sharply dressed with a tie and a charming smile to give off the impression that you are pleasing to an audience and good with people, but for a software geek the stay at home hoodie indicates not bothering about appearances because you are a stay at home and code all day kind of guy, it's all about the impression you want to give off.) 
 
-<p>Just buy EXPENSIVE hoodies, buy smart nice looking geek clothes, people will know you're making some wonga but will see that you fit into your typical category. As for attitude, I think pleasant is always a nice way to go (it attracts clients) you don't have to have a particular attitude, just remain central to your business, show that you have the business savvy to pull this off, give a charming smile and attract those clients! </p>
-
+Just buy EXPENSIVE hoodies, buy smart nice looking geek clothes, people will know you're making some wonga but will see that you fit into your typical category. As for attitude, I think pleasant is always a nice way to go (it attracts clients) you don't have to have a particular attitude, just remain central to your business, show that you have the business savvy to pull this off, give a charming smile and attract those clients! 
 
 
 

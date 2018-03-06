@@ -4,10 +4,9 @@
 - tagged: `advertising`, `business-capital`
 - score: 4
 
-<p>I simply want to know if anyone has any info on how Pokemon Go Stops are created, as I'd like to make one out of our business. I thought it was based on GMaps, but I've played the game some myself and found that some of the stops listed near my business aren't even listed on Google, much less GMaps! So how do they know where to put these stops? Is there a site somewhere I missed that has a sign up form? Anyone have any ideas?</p>
+I simply want to know if anyone has any info on how Pokemon Go Stops are created, as I'd like to make one out of our business. I thought it was based on GMaps, but I've played the game some myself and found that some of the stops listed near my business aren't even listed on Google, much less GMaps! So how do they know where to put these stops? Is there a site somewhere I missed that has a sign up form? Anyone have any ideas?
 
-<p>Of course the idea being, if we can get a stop at our business, then we can use it as an adervt to draw in new customers.</p>
-
+Of course the idea being, if we can get a stop at our business, then we can use it as an adervt to draw in new customers.
 
 
 ## Answer 9715
@@ -15,12 +14,11 @@
 - posted by: [JSON C11](https://stackexchange.com/users/1292258/json-c11) on 2016-07-15
 - score: 4
 
-<p>Yes, you can submit an application for your business to become a pokemon stop at the following link:</p>
+Yes, you can submit an application for your business to become a pokemon stop at the following link:
 
-<p><a href="https://support.pokemongo.nianticlabs.com/hc/en-us/requests/new?ticket_form_id=319928" rel="nofollow">https://support.pokemongo.nianticlabs.com/hc/en-us/requests/new?ticket_form_id=319928</a></p>
+https://support.pokemongo.nianticlabs.com/hc/en-us/requests/new?ticket_form_id=319928
 
-<p>To answer the other half of your question. Some of the preexisting pokemon stops are locations that were used in an earlier game by the same developer. This game is known as Ingress</p>
-
+To answer the other half of your question. Some of the preexisting pokemon stops are locations that were used in an earlier game by the same developer. This game is known as Ingress
 
 
 ## Answer 9744

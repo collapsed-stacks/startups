@@ -4,21 +4,19 @@
 - tagged: `business-plan`, `business-model`, `business-structure`, `revenue`, `startup-weekend`
 - score: 1
 
-<p>I have a set of very basic questions, for which I am struggling to find the right answers.</p>
+I have a set of very basic questions, for which I am struggling to find the right answers.
 
-<p>I am starting an online travel portal, through which a customer would be able to book flights, book hotels, book buses, etc.</p>
+I am starting an online travel portal, through which a customer would be able to book flights, book hotels, book buses, etc.
 
-<ol>
-<li>What is the business model of online travel portal?</li>
-<li>What is the revenue model of online travel portal?</li>
-<li>How do these sites make money when customer books from their sites?</li>
-<li>How they approach any hotel to integrate with them ?</li>
-<li>What should be things to keep in mind while starting an online travel portal ?</li>
-</ol>
+1. What is the business model of online travel portal?
+2. What is the revenue model of online travel portal?
+3. How do these sites make money when customer books from their sites?
+4. How they approach any hotel to integrate with them ?
+5. What should be things to keep in mind while starting an online travel portal ?
 
-<p>If I could get relevant knowledge about it, it would be very helpful.
-Thanks.</p>
 
+If I could get relevant knowledge about it, it would be very helpful.
+Thanks.
 
 
 ## Answer 7993

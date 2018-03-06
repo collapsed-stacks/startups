@@ -4,10 +4,9 @@
 - tagged: `tech-company`
 - score: 2
 
-<p>If I am in a News Industry or I have portal which gives financial information, then can I use Webhooks for my product website?</p>
+If I am in a News Industry or I have portal which gives financial information, then can I use Webhooks for my product website?
 
-<p>How it can be useful? Or what else I can do to improve my business?</p>
-
+How it can be useful? Or what else I can do to improve my business?
 
 
 ## Answer 8842
@@ -15,12 +14,11 @@
 - posted by: [Sina Ghazi](https://stackexchange.com/users/8129584/sina-ghazi) on 2016-03-29
 - score: 3
 
-<p>The way I get this is that you want to improve customer satisfaction or getting new clients.. </p>
+The way I get this is that you want to improve customer satisfaction or getting new clients.. 
 
-<p>Webhooks or any other techniques don't have direct impact on getting new clients or improving your current clients' satisfaction. </p>
+Webhooks or any other techniques don't have direct impact on getting new clients or improving your current clients' satisfaction. 
 
-<p>Its recommended to google for "Competitive Advantage", "Value Proposition" and "Business Model Canvas". Set things right in your business and enjoy doing business :) </p>
-
+Its recommended to google for "Competitive Advantage", "Value Proposition" and "Business Model Canvas". Set things right in your business and enjoy doing business :) 
 
 
 ## Answer 8841
@@ -28,18 +26,14 @@
 - posted by: [Paulo Scardine](https://stackexchange.com/users/199019/paulo-scardine) on 2016-03-29
 - score: 1
 
-<p>One of the most important things about business is learning how to sell. You may have the best service in the world, but if you are unable to sell you will go bankrupt sooner or later. You may have the crappiest service in the world, if you sell a lot you will be very rich.</p>
+One of the most important things about business is learning how to sell. You may have the best service in the world, but if you are unable to sell you will go bankrupt sooner or later. You may have the crappiest service in the world, if you sell a lot you will be very rich.
 
-<p>Technical knowledge by itself is worthless if you are unable to sell it well. If there was some kind of time machine allowing me to send a message to may 25 years old self, it would be: learn how to sell. Observe good salesman and try to pick their tricks. Read everything you can about sales, then experiment with it.</p>
+Technical knowledge by itself is worthless if you are unable to sell it well. If there was some kind of time machine allowing me to send a message to may 25 years old self, it would be: learn how to sell. Observe good salesman and try to pick their tricks. Read everything you can about sales, then experiment with it.
 
-<p>[update]</p>
+[update]
+> Let us say If I have a product which is already successful and I want to make use of technology to make client exp more better – CoreDeveloper
 
-<blockquote>
-  <p>Let us say If I have a product which is already successful and I want to make use of technology to make client exp more better – CoreDeveloper</p>
-</blockquote>
-
-<p>My favorite way to increase value of a service/product is to investigate what are the biggest pains (as perceived by the customer) and see the ones where the customer would be willing to pay a little extra for an add-on that makes that pain go away.</p>
-
+My favorite way to increase value of a service/product is to investigate what are the biggest pains (as perceived by the customer) and see the ones where the customer would be willing to pay a little extra for an add-on that makes that pain go away.
 
 
 ## Answer 8924
@@ -47,14 +41,11 @@
 - posted by: [Manish](https://stackexchange.com/users/7877009/manish) on 2016-04-09
 - score: 0
 
-<p>Look buisness or industry does't grow in one day. It's a gradual process which needs patience.
-The 2 things are:</p>
+Look buisness or industry does't grow in one day. It's a gradual process which needs patience.
+The 2 things are:
 
-<ul>
-<li>Employees in the company should be given the first preference, first priority should be given to them. Their demands should be looked after first.</li>
-<li>Customers expectations need to be satisfied, and new technologies should be used. Along with awsum marketing, because if marketing is not proper, may be they will not even get to know about it.</li>
-</ul>
-
+ - Employees in the company should be given the first preference, first priority should be given to them. Their demands should be looked after first.
+ - Customers expectations need to be satisfied, and new technologies should be used. Along with awsum marketing, because if marketing is not proper, may be they will not even get to know about it.
 
 
 

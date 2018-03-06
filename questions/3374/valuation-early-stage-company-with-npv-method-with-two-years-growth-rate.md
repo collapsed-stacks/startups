@@ -4,20 +4,19 @@
 - tagged: `founder`, `valuation`
 - score: 1
 
-<p>We are an early stage company and we want to give stock to our employees.</p>
+We are an early stage company and we want to give stock to our employees.
 
-<p>For that we need to know how much our company is valued.</p>
+For that we need to know how much our company is valued.
 
-<p>We are base in Iran and have digital product, with our market in the USA and Europe. They've bought our product over the past 2 years.</p>
+We are base in Iran and have digital product, with our market in the USA and Europe. They've bought our product over the past 2 years.
 
-<p>We should do the valuation first, we want to use NPV method - the problem is with NPV method it is give us very large number like 2 billion dollars, because of our 560% growth rate.</p>
+We should do the valuation first, we want to use NPV method - the problem is with NPV method it is give us very large number like 2 billion dollars, because of our 560% growth rate.
 
-<p>With the NPV method we have to put growth rate in formula and it give us the value of company . because of growth rate is very high in first few years it give us wrong value for ten years.</p>
+With the NPV method we have to put growth rate in formula and it give us the value of company . because of growth rate is very high in first few years it give us wrong value for ten years.
 
-<p>I know something is wrong, maybe we should not use the NPV method or use less rate for 10 years.</p>
+I know something is wrong, maybe we should not use the NPV method or use less rate for 10 years.
 
-<p>Question: is there any method for us to evaluate the value of the company?</p>
-
+Question: is there any method for us to evaluate the value of the company?
 
 ## No Answers
 

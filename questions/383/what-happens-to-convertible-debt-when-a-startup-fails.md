@@ -4,8 +4,7 @@
 - tagged: `funding`, `financing`
 - score: 5
 
-<p>Many investors seem to be offering "convertible debt" investments. Without going into too much detail as to what it is, what are the ramifications if a startup fails? Are the founders personally responsible for paying off the debt? Both theoretical worst case, and practical outcomes would be handy.</p>
-
+Many investors seem to be offering "convertible debt" investments. Without going into too much detail as to what it is, what are the ramifications if a startup fails? Are the founders personally responsible for paying off the debt? Both theoretical worst case, and practical outcomes would be handy.
 
 
 ## Answer 385

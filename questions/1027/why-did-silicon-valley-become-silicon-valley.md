@@ -4,8 +4,7 @@
 - tagged: `silicon-valley`
 - score: 6
 
-<p>I've heard a number of explanations, most having to do with World War II, though not 100% sure these are historically true. Why did Silicon Valley become Silicon Valley?</p>
-
+I've heard a number of explanations, most having to do with World War II, though not 100% sure these are historically true. Why did Silicon Valley become Silicon Valley?
 
 
 ## Answer 1033
@@ -44,28 +43,27 @@
 - posted by: [Esqarrouth](https://stackexchange.com/users/3055586/esqarrouth) on 2014-12-07
 - score: 2
 
-<p>Steve Blank did a fair amount of research and has a good presentation on this topic. </p>
+Steve Blank did a fair amount of research and has a good presentation on this topic. 
 
-<p><a href="http://steveblank.com/secret-history/" rel="nofollow">http://steveblank.com/secret-history/</a></p>
+http://steveblank.com/secret-history/
 
-<p>A summary of key events:<br>
-Part 1: The Vietnam War<br>
-Part 2: B-52’s and the Soviet Air Defense System<br>
-Part 3: Bill Perry/ESL and the Cold War<br>
-Part 4: Undisclosed Locations<br>
-Part 5: Silicon Valley, the 2nd 100 years<br>
-Part 6: Stanford, Terman and WWII<br>
-Part 7: Stanford, Terman and the Cold War<br>
-Part 8: Stanford and the rise of Cold War Entrepreneurship<br>
-Part 9: Stanford and Electronic Intelligence<br>
-Part 10: Stanford and Weapons Systems<br>
-Part 11: The Rise of Venture Capital<br>
-Part 12: The First Valley IPO’s<br>
-Part 13: Startups with Nuclear Missiles<br>
-Part 14: Spy Satellites in Silicon Valley<br>
-Part 15: Lockheed – Silicon Valley largest employer<br>
-Part 16: Balloon Wars  </p>
-
+A summary of key events:  
+Part 1: The Vietnam War  
+Part 2: B-52’s and the Soviet Air Defense System  
+Part 3: Bill Perry/ESL and the Cold War  
+Part 4: Undisclosed Locations  
+Part 5: Silicon Valley, the 2nd 100 years  
+Part 6: Stanford, Terman and WWII  
+Part 7: Stanford, Terman and the Cold War  
+Part 8: Stanford and the rise of Cold War Entrepreneurship  
+Part 9: Stanford and Electronic Intelligence  
+Part 10: Stanford and Weapons Systems  
+Part 11: The Rise of Venture Capital  
+Part 12: The First Valley IPO’s  
+Part 13: Startups with Nuclear Missiles  
+Part 14: Spy Satellites in Silicon Valley  
+Part 15: Lockheed – Silicon Valley largest employer  
+Part 16: Balloon Wars  
 
 
 

@@ -4,8 +4,7 @@
 - tagged: `legal`, `non-disclosure-agreement`
 - score: 2
 
-<p>I'm have some software written by freelancers and I need a generic NDA.  I don't have time to learn all the ins and outs, but I need a starting point in the mean time.</p>
-
+I'm have some software written by freelancers and I need a generic NDA.  I don't have time to learn all the ins and outs, but I need a starting point in the mean time.
 
 
 ## Answer 7690

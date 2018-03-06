@@ -4,16 +4,14 @@
 - tagged: `tech-company`
 - score: 0
 
-<p>CXO: Chief Experience Officer. </p>
+CXO: Chief Experience Officer. 
 
-<blockquote>
-  <p>A chief experience officer (CXO) is the officer responsible for the
-  overall user experience (UX) of an organization.</p>
-</blockquote>
+> A chief experience officer (CXO) is the officer responsible for the
+> overall user experience (UX) of an organization.
 
-<p>How is he/she different from a senior frontend engineer? </p>
+How is he/she different from a senior frontend engineer? 
 
-<p>And when(at what stage and with what motive) should a company look to hire a CXO?</p>
+And when(at what stage and with what motive) should a company look to hire a CXO?
 
 
 
@@ -22,40 +20,37 @@
 - posted by: [vpego](https://stackexchange.com/users/7073322/vpego) on 2016-01-05
 - score: 2
 
-<p>Pay attention to the highlighted part: </p>
+Pay attention to the highlighted part: 
 
-<p>The Chief Experience Officer (CXO) is charged with leveraging best practices in design and user experience to <strong>gain market share</strong>. That's it.</p>
+The Chief Experience Officer (CXO) is charged with leveraging best practices in design and user experience to **gain market share**. That's it.
 
-<p>So, although a senior front-end engineer will apply all knowledge and skill needed to build a beautiful product, the CXO will run specific A/B tests, hire design firms and <strong>experience researches</strong>, manage <strong>user experience labs</strong> with several prototypes and, the most important, put everyone <strong>under the same umbrella</strong>.</p>
+So, although a senior front-end engineer will apply all knowledge and skill needed to build a beautiful product, the CXO will run specific A/B tests, hire design firms and **experience researches**, manage **user experience labs** with several prototypes and, the most important, put everyone **under the same umbrella**.
 
-<p>The CXO will apply a <strong>methodological approach</strong> in order to achieve the highest rates of downloads, good rating and user feedback. <strong>It's a good balance between theory and practice</strong>. </p>
+The CXO will apply a **methodological approach** in order to achieve the highest rates of downloads, good rating and user feedback. **It's a good balance between theory and practice**. 
 
-<blockquote>
-  <p>The best CXOs has technical expertise in an addition of ability to present and discuss
-  theories and scenarios (backed by numbers) with CMO, CFO, CEO and
-  investors. Sometimes, the front-end engineer would rather die than explaining his motives and rationale to the business guys.</p>
-</blockquote>
+> The best CXOs has technical expertise in an addition of ability to present and discuss
+> theories and scenarios (backed by numbers) with CMO, CFO, CEO and
+> investors. Sometimes, the front-end engineer would rather die than explaining his motives and rationale to the business guys.
 
-<p><strong>About timing</strong></p>
+**About timing**
 
-<p>The CXO would be valuable when the startup is <strong>shifting from MVP mode to growth mode</strong> quickly. </p>
+The CXO would be valuable when the startup is **shifting from MVP mode to growth mode** quickly. 
 
-<p>If you can get a CXO early on with equity, then do it. But if you are still strugling to launch your MVP, I don't see how a CXO would be beneficial - once you have bigger problems to deal with.</p>
+If you can get a CXO early on with equity, then do it. But if you are still strugling to launch your MVP, I don't see how a CXO would be beneficial - once you have bigger problems to deal with.
 
-<p>There are some similarities in terms of when to hire the CXO and the CMO as well, so here are some situations where a CXO would be extremely useful to your startup:</p>
+There are some similarities in terms of when to hire the CXO and the CMO as well, so here are some situations where a CXO would be extremely useful to your startup:
 
-<p><strong>1. When You Need to Put Your Product First</strong></p>
+**1. When You Need to Put Your Product First**
 
-<p>A good CXO can't save a bad product, but (s)he can take an OK product to the next level and make it better through proper market research and customer feedback.</p>
+A good CXO can't save a bad product, but (s)he can take an OK product to the next level and make it better through proper market research and customer feedback.
 
-<p><strong>2. When You Need to Grow</strong> </p>
+**2. When You Need to Grow** 
 
-<p>When you’re not growing at a pace you need in order to be an industry leader or provide the returns your investors are looking for, it's time to think about hiring a CXO. (S)he will bring invaluable inputs on how to make your product better and, as result, grow on market share.</p>
+When you’re not growing at a pace you need in order to be an industry leader or provide the returns your investors are looking for, it's time to think about hiring a CXO. (S)he will bring invaluable inputs on how to make your product better and, as result, grow on market share.
 
-<p><strong>3. When You Found the Company</strong></p>
+**3. When You Found the Company**
 
-<p>Hiring a CXO is becoming as important as hiring a CMO or CTO. From surveying users to scaling the company, a CXO is critical for not just the later stages, but also the early stages of your company. To some degree, a CXO is more important at the earlier stages of your development than the later ones because having the right groundwork early can mean the difference between a company that accelerates at <strong>20 percent a month</strong> and a company that accelerates at <strong>5 percent</strong>.</p>
-
+Hiring a CXO is becoming as important as hiring a CMO or CTO. From surveying users to scaling the company, a CXO is critical for not just the later stages, but also the early stages of your company. To some degree, a CXO is more important at the earlier stages of your development than the later ones because having the right groundwork early can mean the difference between a company that accelerates at **20 percent a month** and a company that accelerates at **5 percent**.
 
 
 

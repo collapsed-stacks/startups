@@ -4,16 +4,15 @@
 - tagged: `product`, `vision`, `hardware`
 - score: 2
 
-<p>I've considered starting a new company which builds and sells a hardware (e.g. Nest), but I don't know how to find a hardware engineer to build the product. If it's just a question like "Hey, I have a good business idea and want to get people who write code, how can I find those engineers?", it's easy enough because there're many, many people out there who are freelance software engineers and they also show up at a local tech conference or hackathon, and most of those apps can be developed by a couple of or only one person in a small company. However I think there are very few or no such people as "freelance hardware engineers" and I also think most hardware engineers work for a company (usually a really big company), and I cannot get in touch with them easily.</p>
+I've considered starting a new company which builds and sells a hardware (e.g. Nest), but I don't know how to find a hardware engineer to build the product. If it's just a question like "Hey, I have a good business idea and want to get people who write code, how can I find those engineers?", it's easy enough because there're many, many people out there who are freelance software engineers and they also show up at a local tech conference or hackathon, and most of those apps can be developed by a couple of or only one person in a small company. However I think there are very few or no such people as "freelance hardware engineers" and I also think most hardware engineers work for a company (usually a really big company), and I cannot get in touch with them easily.
 
-<p>So what do people who are going to incorporate a hardware startup do to find a hardware engineer? Most app developers might be able to write code in all of iOS, Android, Web, and server as long as you give him some time in a small company, but is that also true of hardware engineers? In other words, how is it possible for people who build a Nest product to also build a tablet, headphone, or an air-conditioner?</p>
+So what do people who are going to incorporate a hardware startup do to find a hardware engineer? Most app developers might be able to write code in all of iOS, Android, Web, and server as long as you give him some time in a small company, but is that also true of hardware engineers? In other words, how is it possible for people who build a Nest product to also build a tablet, headphone, or an air-conditioner?
 
-<p>Also, how many people are required to build hardware? Is it possible to hire only one, talented engineer and let him do everything? I think that the job of hardware engineers is prescribe how to build it, and the actual people who builds it are employees of companies like Foxconn, right?</p>
+Also, how many people are required to build hardware? Is it possible to hire only one, talented engineer and let him do everything? I think that the job of hardware engineers is prescribe how to build it, and the actual people who builds it are employees of companies like Foxconn, right?
 
-<p>Lastly, I've even considered enrolling at an university again to learn about it myself. There are some departments that seem relevant, such as mechanical engineering, electrical engineering, and materials science and engineering, but which one is the best to enroll in? Are the resources learned in universities enough to leg up building the hardware?</p>
+Lastly, I've even considered enrolling at an university again to learn about it myself. There are some departments that seem relevant, such as mechanical engineering, electrical engineering, and materials science and engineering, but which one is the best to enroll in? Are the resources learned in universities enough to leg up building the hardware?
 
-<p>Forgive me if some (or all) of questions above are ridiculous, but I have no knowledge in hardware...</p>
-
+Forgive me if some (or all) of questions above are ridiculous, but I have no knowledge in hardware...
 
 
 ## Answer 907

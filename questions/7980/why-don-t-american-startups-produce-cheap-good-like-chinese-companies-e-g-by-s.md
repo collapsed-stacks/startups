@@ -4,14 +4,13 @@
 - tagged: `strategy`
 - score: 0
 
-<p>Some Chinese companies like Xiaomi produce cheap phone, and values billions just in several years. From entrepreneurship point of view, those are great successions.</p>
+Some Chinese companies like Xiaomi produce cheap phone, and values billions just in several years. From entrepreneurship point of view, those are great successions.
 
-<p>Assuming that profit / investment is high, so why don't American or Western companies jump into that field? Why most companies like that are only Chinese companies? What is wrong here?</p>
+Assuming that profit / investment is high, so why don't American or Western companies jump into that field? Why most companies like that are only Chinese companies? What is wrong here?
 
-<p>Is that Western investors don't want to make money by producing cheap goods? Oh this question is just for fun because I don't think anyone hates money that much.</p>
+Is that Western investors don't want to make money by producing cheap goods? Oh this question is just for fun because I don't think anyone hates money that much.
 
-<p>The real question is what prevents Western companies to go that way of Chinese companies? For example, starting a company on Chinese mainland to produce cheap goods</p>
-
+The real question is what prevents Western companies to go that way of Chinese companies? For example, starting a company on Chinese mainland to produce cheap goods
 
 
 ## Answer 7986
@@ -19,26 +18,23 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-12-02
 - score: 2
 
-<blockquote>
-  <p>Assuming that profit / investment is high, so why don't American or Western companies jump into that field?</p>
-</blockquote>
+> Assuming that profit / investment is high, so why don't American or Western companies jump into that field?
 
-<p>Your assumption is dubious. Profit / investment is <em>not</em> high. Producing goods is capital intensive - even in China. And productivity counts. So much so, in fact, that it's <a href="http://www.bloomberg.com/bw/articles/2014-04-25/china-vs-dot-the-u-dot-s-dot-its-just-as-cheap-to-make-goods-in-the-u-dot-s-dot-a" rel="nofollow">about as cheap</a> to make goods in the US than it is to make them in China.</p>
+Your assumption is dubious. Profit / investment is _not_ high. Producing goods is capital intensive - even in China. And productivity counts. So much so, in fact, that it's [about as cheap](http://www.bloomberg.com/bw/articles/2014-04-25/china-vs-dot-the-u-dot-s-dot-its-just-as-cheap-to-make-goods-in-the-u-dot-s-dot-a) to make goods in the US than it is to make them in China.
 
-<p>Things that China has going for it include proximity to suppliers (if you need more screws the factory is down the street) and a market which, while nominally a billion consumer strong, is actually smaller when you strip out Chinese who, well, don't actually consume or then only the cheapest stuff they can find.</p>
+Things that China has going for it include proximity to suppliers (if you need more screws the factory is down the street) and a market which, while nominally a billion consumer strong, is actually smaller when you strip out Chinese who, well, don't actually consume or then only the cheapest stuff they can find.
 
-<p>Things that China has going against it, by contrast, include a rather corrupt administration, not so accommodating laws for foreign investors, rising labor costs that can break companies with razor thin margins, and a <a href="http://www.technologyreview.com/view/543121/data-mining-reveals-the-extent-of-chinas-ghost-cities/" rel="nofollow">financial bubble</a> that will make Japan's 1980s bubble look tiny.</p>
+Things that China has going against it, by contrast, include a rather corrupt administration, not so accommodating laws for foreign investors, rising labor costs that can break companies with razor thin margins, and a [financial bubble](http://www.technologyreview.com/view/543121/data-mining-reveals-the-extent-of-chinas-ghost-cities/) that will make Japan's 1980s bubble look tiny.
 
-<p>Plus, there's then more to it than merely investing. You need to keep things <a href="http://www.brw.com.au/p/business/manufacturing_tips_china_cost_amanda_iQ4fE3vcThDSYly8wIDJyI" rel="nofollow">on a tight leash</a> in much the same way that a grocery store owner would want to keep a close eye on their cash register. That's cool and all if you like living there. Less so if you don't.</p>
+Plus, there's then more to it than merely investing. You need to keep things [on a tight leash](http://www.brw.com.au/p/business/manufacturing_tips_china_cost_amanda_iQ4fE3vcThDSYly8wIDJyI) in much the same way that a grocery store owner would want to keep a close eye on their cash register. That's cool and all if you like living there. Less so if you don't.
 
-<p>On a more strategic level, manufacturing in-house or at all is not always desirable. Think Benetton or IT companies.</p>
+On a more strategic level, manufacturing in-house or at all is not always desirable. Think Benetton or IT companies.
 
-<p>IP considerations kick in as well. Apple is producing Mac Pro units in the US for good reasons: if your capital investments and automation are such that your labor costs become irrelevant, why risk leaking your know-how to would be Xiamis?</p>
+IP considerations kick in as well. Apple is producing Mac Pro units in the US for good reasons: if your capital investments and automation are such that your labor costs become irrelevant, why risk leaking your know-how to would be Xiamis?
 
-<p>As to trends, you may have missed the ongoing manufacturing renaissance in the West. 3d printing is about to turn everything upside down.</p>
+As to trends, you may have missed the ongoing manufacturing renaissance in the West. 3d printing is about to turn everything upside down.
 
-<p>Your other assumption is also dubious. Many Western companies <em>did</em> go to China and other cheap countries. If you look back, it was an expensive mistake for a great many of them. Some died or are still licking their wounds because of it. Some will eventually die because of it - they lost key strategic know-how in the process. The main company I can name that succeeded is Apple, and they did so by <em>outsourcing</em> with tight control on their supply chain instead of by investing directly.</p>
-
+Your other assumption is also dubious. Many Western companies *did* go to China and other cheap countries. If you look back, it was an expensive mistake for a great many of them. Some died or are still licking their wounds because of it. Some will eventually die because of it - they lost key strategic know-how in the process. The main company I can name that succeeded is Apple, and they did so by *outsourcing* with tight control on their supply chain instead of by investing directly.
 
 
 ## Answer 7995

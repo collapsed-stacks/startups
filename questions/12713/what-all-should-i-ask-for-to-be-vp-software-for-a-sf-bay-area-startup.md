@@ -4,22 +4,21 @@
 - tagged: `equity`, `software`, `payment`, `stock-options`, `hiring`
 - score: 1
 
-<p>Startup is for IoT product for home and commercial market.
-Amazing potential.  </p>
+Startup is for IoT product for home and commercial market.
+Amazing potential.  
 
-<p>I need to tell CEO what I want:</p>
+I need to tell CEO what I want:
 
-<ol>
-<li>Stock options:  Is it reasonable to ask for fixed % of company value?  How do I phrase this?  What schedule of vesting is reasonable?</li>
-<li><p>annual salary:  I have a Min. figure I'm satisfied with.  CEO suggested it.</p></li>
-<li><p>Bonus?</p></li>
-</ol>
+1. Stock options:  Is it reasonable to ask for fixed % of company value?  How do I phrase this?  What schedule of vesting is reasonable?
+2. annual salary:  I have a Min. figure I'm satisfied with.  CEO suggested it.
 
-<p>anything else?</p>
+3. Bonus?
 
-<p>My background:
-I have 35 years software management, architecture, coding, and recent machine learning and sensor-algorithm-fusion.  Presently consulting</p>
+anything else?
 
+
+My background:
+I have 35 years software management, architecture, coding, and recent machine learning and sensor-algorithm-fusion.  Presently consulting
 
 ## No Answers
 

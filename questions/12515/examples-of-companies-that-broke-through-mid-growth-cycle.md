@@ -4,12 +4,11 @@
 - tagged: `web-development`, `growth`, `internet`
 - score: 0
 
-<p>I have a relationship with a web design company that has had explosive revenue growth over the past ~20 years. The company is well-established and medium sized (recent top-line revenue figures are measured in the tens of millions). The company focuses on a niche market for web design, and the company has harvested most of the low-hanging fruit... revenue growth is slowing (but still positive) and the sales team is having trouble making sales targets. The glory days of rapid growth have came to an end. </p>
+I have a relationship with a web design company that has had explosive revenue growth over the past ~20 years. The company is well-established and medium sized (recent top-line revenue figures are measured in the tens of millions). The company focuses on a niche market for web design, and the company has harvested most of the low-hanging fruit... revenue growth is slowing (but still positive) and the sales team is having trouble making sales targets. The glory days of rapid growth have came to an end. 
 
-<p>Management is concerned about the future of the company. The situation is viewed as a defining moment for the company: will the company be able to push through continue to grow, or will it stagnate? </p>
+Management is concerned about the future of the company. The situation is viewed as a defining moment for the company: will the company be able to push through continue to grow, or will it stagnate? 
 
-<p>My question: are there historical analogues to this sort of situation? What companies/management teams were faced with stalling revenues and innovated their way out of it? </p>
-
+My question: are there historical analogues to this sort of situation? What companies/management teams were faced with stalling revenues and innovated their way out of it? 
 
 ## No Answers
 

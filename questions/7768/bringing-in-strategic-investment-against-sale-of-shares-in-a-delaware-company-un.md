@@ -4,12 +4,13 @@
 - tagged: `tech-company`
 - score: 1
 
-<p>I am advising my client A NON-US,  NON-RESIDENT Owner of a very High visibility Disruptive start up where he is negotiating Funds into the company from a strategic investor based outside US. So technically Its a Delaware registered US company under NON- US ownership where under negotiation an ESTD USD 4.5 MILLION ( Below USD 5 MN  ) is sought to be infused against off-loading 25% Commonn and 5% preferred stock. The compnay has not subscried any sahres as yet, the owner is holding 100% shares in his name, but submitted Authorised capital limit to 7 million &amp; Preferred stock to the tune of 6 million. </p>
+I am advising my client A NON-US,  NON-RESIDENT Owner of a very High visibility Disruptive start up where he is negotiating Funds into the company from a strategic investor based outside US. So technically Its a Delaware registered US company under NON- US ownership where under negotiation an ESTD USD 4.5 MILLION ( Below USD 5 MN  ) is sought to be infused against off-loading 25% Commonn and 5% preferred stock. The compnay has not subscried any sahres as yet, the owner is holding 100% shares in his name, but submitted Authorised capital limit to 7 million & Preferred stock to the tune of 6 million. 
 
-<p>We understand it involves Fed as also Delaware laws and probably Rule 505 exemption will be required. My query is, what is the procedure of getting the permission to get the funds in  under Rule 505 and how long it takes to subscribe sufficient number of shares to offload 30% of it on its face value basis.</p>
+We understand it involves Fed as also Delaware laws and probably Rule 505 exemption will be required. My query is, what is the procedure of getting the permission to get the funds in  under Rule 505 and how long it takes to subscribe sufficient number of shares to offload 30% of it on its face value basis.
 
-<p>Is there any alternative to fast track it by way Convertible Equity etc or a simpler straight through process.</p>
+Is there any alternative to fast track it by way Convertible Equity etc or a simpler straight through process.
 
+               
 
 ## No Answers
 

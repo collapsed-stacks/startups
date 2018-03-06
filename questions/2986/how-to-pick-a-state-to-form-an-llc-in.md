@@ -4,16 +4,15 @@
 - tagged: `startup-costs`, `llc`
 - score: 3
 
-<p>I've asked this on money.stackexchange.com, but this site might be better suited.</p>
+I've asked this on money.stackexchange.com, but this site might be better suited.
 
-<p>I'm looking to form a web based company with a friend of mine. I'm living in Colorado and he's living in Oklahoma. We want to start up a website that offers a digital service and we want it formed under an LLC. For both of us, this is our first time doing anything more than our taxes.</p>
+I'm looking to form a web based company with a friend of mine. I'm living in Colorado and he's living in Oklahoma. We want to start up a website that offers a digital service and we want it formed under an LLC. For both of us, this is our first time doing anything more than our taxes.
 
-<p>I found one question about forming an LLC out of state and I've read several pages online that describe the general process. But how do I make a decision about some of the specifics? How do I pick a state and if I don't know anybody in that state how do I find an "agent" in that state?</p>
+I found one question about forming an LLC out of state and I've read several pages online that describe the general process. But how do I make a decision about some of the specifics? How do I pick a state and if I don't know anybody in that state how do I find an "agent" in that state?
 
-<p>I've found several sites that are willing to do most of the work for me if I pay, but I know that they want me to pay for stuff I don't want or don't have to pay for like $80 to get an Employer ID from the IRS.</p>
+I've found several sites that are willing to do most of the work for me if I pay, but I know that they want me to pay for stuff I don't want or don't have to pay for like $80 to get an Employer ID from the IRS.
 
-<p>Once I pick a state, I think we'll be able to collect our thoughts and begin down that road. But what factors do I need to look for when picking a state?</p>
-
+Once I pick a state, I think we'll be able to collect our thoughts and begin down that road. But what factors do I need to look for when picking a state?
 
 
 ## Answer 2992

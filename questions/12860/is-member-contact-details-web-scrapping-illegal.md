@@ -4,10 +4,9 @@
 - tagged: `legal`, `marketing`, `business-plan`, `market-research`, `data`
 - score: -1
 
-<p>Is there are legal barriers that stop scraping member contact details from local directories and publish them in a different competitor product. </p>
+Is there are legal barriers that stop scraping member contact details from local directories and publish them in a different competitor product. 
 
-<p>This scrapping will be done by using the original web site interface without interfering the original web site. </p>
-
+This scrapping will be done by using the original web site interface without interfering the original web site. 
 
 
 ## Answer 12862
@@ -15,27 +14,22 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2017-06-17
 - score: 1
 
-<p>Disclosure: I used to head Marketing &amp; Sales at a Scraping company.</p>
+Disclosure: I used to head Marketing & Sales at a Scraping company.
 
-<blockquote>
-  <p>The best answer I have found online is "It depends".</p>
-</blockquote>
+> The best answer I have found online is "It depends".
 
-<p>That's because it really depends. Consider:</p>
+That's because it really depends. Consider:
 
-<blockquote>
-  <p>Are there legal barriers that stop scraping member contact details from YellowPages.</p>
-</blockquote>
+> Are there legal barriers that stop scraping member contact details from YellowPages.
 
-<p>Few legal barriers. Scraping in itself is not illegal. The issues break down to how you do it (e.g. honor robots.txt, don't hammer the site, etc.) and what you end up doing with the data.</p>
+Few legal barriers. Scraping in itself is not illegal. The issues break down to how you do it (e.g. honor robots.txt, don't hammer the site, etc.) and what you end up doing with the data.
 
-<blockquote>
-  <p>Are there legal barriers that stop scraping member contact details from YellowPages <strong>and publish them in a different competitor product</strong>.</p>
-</blockquote>
+> Are there legal barriers that stop scraping member contact details from YellowPages **and publish them in a different competitor product**.
 
-<p>Plenty of legal barriers. Expect a copyright infringement-related lawsuit in no time.</p>
+Plenty of legal barriers. Expect a copyright infringement-related lawsuit in no time.
 
-<p>Things would be different if you were mix and matching the data (thereby heavily transforming it) or massaging it to produce aggregates or a statistical analysis.</p>
+Things would be different if you were mix and matching the data (thereby heavily transforming it) or massaging it to produce aggregates or a statistical analysis.
+
 
 
 

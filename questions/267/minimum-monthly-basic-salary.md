@@ -4,8 +4,7 @@
 - tagged: `united-kingdom`, `ltd`, `salary`, `director-duties`
 - score: 11
 
-<p>What's the current minimum salary a Director can be paid via their <em>ltd</em> company per month?</p>
-
+What's the current minimum salary a Director can be paid via their *ltd* company per month?
 
 
 ## Answer 268
@@ -13,13 +12,13 @@
 - posted by: [BroiSatse](https://stackexchange.com/users/2706802/broisatse) on 2014-08-07
 - score: 9
 
-<p>There is no legal obligations for the directors to be employed at the company and hence they can work for free.</p>
+There is no legal obligations for the directors to be employed at the company and hence they can work for free.
 
-<p>This obviously only makes sense if director agrees for such terms, and it is usually the case when he/she is also a shareholder of the company, so that he/she is paid with company's dividend.</p>
+This obviously only makes sense if director agrees for such terms, and it is usually the case when he/she is also a shareholder of the company, so that he/she is paid with company's dividend.
 
-<p>Naturally if you rather prefer to have employment contract with the company, you need to be registered as an employer with HMRC and the salary needs not to be lower than national minimum wage.</p>
+Naturally if you rather prefer to have employment contract with the company, you need to be registered as an employer with HMRC and the salary needs not to be lower than national minimum wage.
 
-<p>Have a look at this link: <a href="https://www.gov.uk/running-a-limited-company/taking-money-out-of-a-limited-company">https://www.gov.uk/running-a-limited-company/taking-money-out-of-a-limited-company</a></p>
+Have a look at this link: https://www.gov.uk/running-a-limited-company/taking-money-out-of-a-limited-company
 
 
 
@@ -28,32 +27,31 @@
 - posted by: [eggyal](https://stackexchange.com/users/310184/eggyal) on 2014-08-07
 - score: 8
 
-<h3>Going beyond official duties</h3>
+### Going beyond official duties ###
 
-<p>Directors' official duties are not affected by the presence or lack of any compensation; therefore even unpaid directors must still fulfil their obligations, which include (amongst other things) trying to make a success of the company.</p>
+Directors' official duties are not affected by the presence or lack of any compensation; therefore even unpaid directors must still fulfil their obligations, which include (amongst other things) trying to make a success of the company.
 
-<p>If the company's articles of association provide for it, any agreement that a director will go beyond those official duties (for example to work under the direction of the board or for a minimum number of hours per week) would amount to a "service agreement".</p>
+If the company's articles of association provide for it, any agreement that a director will go beyond those official duties (for example to work under the direction of the board or for a minimum number of hours per week) would amount to a "service agreement".
 
-<p>Where the director is the <em>sole</em> shareholder, it's pretty unlikely that either company or director would ever wish to enforce such an agreement against the other&mdash;and in such circumstances, there's no <em>requirement</em> for the director to be paid <em>anything</em>.  However, if there are other shareholders, both the company and the director may wish to protect their respective interests by ensuring that the agreement is enforceable.</p>
+Where the director is the *sole* shareholder, it's pretty unlikely that either company or director would ever wish to enforce such an agreement against the other&mdash;and in such circumstances, there's no *requirement* for the director to be paid *anything*.  However, if there are other shareholders, both the company and the director may wish to protect their respective interests by ensuring that the agreement is enforceable.
 
-<h3>Ensuring a service agreement is enforceable</h3>
+### Ensuring a service agreement is enforceable ###
 
-<p>An agreement is only enforceable in the law of contract if every party provides some <em>valuable consideration</em> in return for it.</p>
+An agreement is only enforceable in the law of contract if every party provides some *valuable consideration* in return for it.
 
-<p>Fees paid to a director for the fulfilment of official duties or to compensate for risk borne by virtue of holding office are <em>not</em> sufficient consideration for contract (they are provided in respect of existing duties); if the director is also a shareholder, then dividends are likewise <em>not</em> sufficient (they are merely a distribution of profits to which the director was already entitled).  Thus without anything further, neither party would be able to enforce the service agreement in the law of contract.</p>
+Fees paid to a director for the fulfilment of official duties or to compensate for risk borne by virtue of holding office are *not* sufficient consideration for contract (they are provided in respect of existing duties); if the director is also a shareholder, then dividends are likewise *not* sufficient (they are merely a distribution of profits to which the director was already entitled).  Thus without anything further, neither party would be able to enforce the service agreement in the law of contract.
 
-<p>At common law, the consideration could be almost anything at all: a mere peppercorn would suffice, as would a mere right to do something (e.g. have personal use of a company paperclip for a few seconds).</p>
+At common law, the consideration could be almost anything at all: a mere peppercorn would suffice, as would a mere right to do something (e.g. have personal use of a company paperclip for a few seconds).
 
-<h3>National minimum wage</h3>
+### National minimum wage ###
 
-<p>If the company gives good consideration (no matter how small) for the director's service agreement, then the agreement amounts to an employment contract (even if not reduced to writing).  In that case, statutory provisions go further and require that the consideration satisfy <a href="https://www.gov.uk/national-minimum-wage-rates" rel="nofollow">the requirements of the national minimum wage</a> (HMRC can take action against the company if it does not).</p>
+If the company gives good consideration (no matter how small) for the director's service agreement, then the agreement amounts to an employment contract (even if not reduced to writing).  In that case, statutory provisions go further and require that the consideration satisfy [the requirements of the national minimum wage](https://www.gov.uk/national-minimum-wage-rates) (HMRC can take action against the company if it does not).
 
-<h3>Other considerations</h3>
+### Other considerations ###
 
-<p>Three ways in which a shareholding director might receive money from a company were mentioned above: directors' fees; dividends; and salary.  In addition, the director could receive ex-gratia payments (i.e. that the company is under no <em>obligation</em> to pay: it is within their <em>gift</em> to pay such "honoraria").</p>
+Three ways in which a shareholding director might receive money from a company were mentioned above: directors' fees; dividends; and salary.  In addition, the director could receive ex-gratia payments (i.e. that the company is under no *obligation* to pay: it is within their *gift* to pay such "honoraria").
 
-<p>Each form of payment has its own advantages and disadvantages, from restrictions on how much can be paid (and when) to the treatment for the purposes of tax and national insurance.  I don't propose to go into detail in this answer, since it's not particularly relevant to your question, but I nonetheless think it's probably important to note here that such differences do exist.</p>
-
+Each form of payment has its own advantages and disadvantages, from restrictions on how much can be paid (and when) to the treatment for the purposes of tax and national insurance.  I don't propose to go into detail in this answer, since it's not particularly relevant to your question, but I nonetheless think it's probably important to note here that such differences do exist.
 
 
 ## Answer 429

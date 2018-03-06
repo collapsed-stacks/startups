@@ -4,12 +4,11 @@
 - tagged: `investors`, `partners`
 - score: 1
 
-<p>If an Investor invest in my company, does that mean he is my partner?</p>
+If an Investor invest in my company, does that mean he is my partner?
 
-<p>If yes what is the minimum percent of stocks he should hold to be considered as partner?</p>
+If yes what is the minimum percent of stocks he should hold to be considered as partner?
 
-<p>If no whats the difference between a partner and an investor?</p>
-
+If no whats the difference between a partner and an investor?
 
 
 ## Answer 12877

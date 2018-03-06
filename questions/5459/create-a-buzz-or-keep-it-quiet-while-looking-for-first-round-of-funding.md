@@ -4,12 +4,13 @@
 - tagged: `marketing`, `investors`, `angel-investors`
 - score: 1
 
-<p>What is a better strategy before and while looking for funding: </p>
+What is a better strategy before and while looking for funding: 
 
-<ol>
-<li><p>Create a buzz/hype around the company as much as possible (e.g., by giving journalist early access). </p></li>
-<li><p>Pitching it to investors without caring that much about Marketing as the product is not launched yet. </p></li>
-</ol>
+1. Create a buzz/hype around the company as much as possible (e.g., by giving journalist early access). 
+
+2. Pitching it to investors without caring that much about Marketing as the product is not launched yet. 
+
+
 
 
 
@@ -18,10 +19,9 @@
 - posted by: [Ali](https://stackexchange.com/users/2815644/ali) on 2015-06-05
 - score: 2
 
-<p>Creating a buzz can certainly work in getting investor interest and raise your credibility. However, creating a buzz requires a good network, resources and time. As Denis pointed out, it doesn't happen overnight. </p>
+Creating a buzz can certainly work in getting investor interest and raise your credibility. However, creating a buzz requires a good network, resources and time. As Denis pointed out, it doesn't happen overnight. 
 
-<p>Another factor to keep in mind would be if the company is ready to be in the news. If you do not have a prototype or a product, then there may not much to cover in a press release. If you haven't secured patents then you may not be able to talk about unique aspects of your product. You also may not want to give away what you are doing to your competitors at an early stage.</p>
-
+Another factor to keep in mind would be if the company is ready to be in the news. If you do not have a prototype or a product, then there may not much to cover in a press release. If you haven't secured patents then you may not be able to talk about unique aspects of your product. You also may not want to give away what you are doing to your competitors at an early stage.
 
 
 

@@ -4,12 +4,11 @@
 - tagged: `payment`, `canada`
 - score: 2
 
-<p>The bank is quoting me $10 a transaction to send money to my vendor using electronic payment. I need to send $5,000 to $10,000 once a month to a vendor across the country. (Interact e-transfers only go up to 3000$)</p>
+The bank is quoting me $10 a transaction to send money to my vendor using electronic payment. I need to send $5,000 to $10,000 once a month to a vendor across the country. (Interact e-transfers only go up to 3000$)
 
-<p>Both the seller and I are in Canada and so far we've been using checks but I want to do it electronicly.</p>
+Both the seller and I are in Canada and so far we've been using checks but I want to do it electronicly.
 
-<p>In the world of technology we live in there must be a solution to this problem.</p>
-
+In the world of technology we live in there must be a solution to this problem.
 
 
 ## Answer 5366

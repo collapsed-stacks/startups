@@ -4,57 +4,55 @@
 - tagged: `partnership`, `accounting`, `salary`, `profit-sharing`
 - score: 4
 
-<p>I am seeking for a advice on a issue raised due to allocating shares in a partnership business among 4 best friends.</p>
+I am seeking for a advice on a issue raised due to allocating shares in a partnership business among 4 best friends.
 
-<p>The industry was clothing and capital is 400k.</p>
+The industry was clothing and capital is 400k.
 
-<p>I shall name the business partners as A,B,C,D</p>
+I shall name the business partners as A,B,C,D
 
-<pre><code>A is inputting 160k, and being a sleeping partner. (from London)
-B is inputting 160K, and at UAE.
-C is inputting 40K
-D is inputting 40K
-</code></pre>
+    A is inputting 160k, and being a sleeping partner. (from London)
+    B is inputting 160K, and at UAE.
+    C is inputting 40K
+    D is inputting 40K
 
-<p>A has no roles and responsibilities.
+A has no roles and responsibilities.
 B will do the purchasing once in 3 months or once in 6 months or as the stock finishes.
-C and D will be conducting the daily operation and sales.</p>
+C and D will be conducting the daily operation and sales.
 
-<pre><code>The shares that was allocated considering the money and effort was,
-A - 20%
-B - 40%
-C - 20%
-D - 20%
-</code></pre>
 
-<p>And it came in the following manner</p>
+    The shares that was allocated considering the money and effort was,
+    A - 20%
+    B - 40%
+    C - 20%
+    D - 20%
 
-<pre><code>Capital Share from 400K - A 40%, B 40%, C 10%, D 10% 
+And it came in the following manner
 
-Effort Share - A - 0%, B - 40%, C 30%, D%30
+    Capital Share from 400K - A 40%, B 40%, C 10%, D 10% 
+    
+    Effort Share - A - 0%, B - 40%, C 30%, D%30
+    
+    so Capital + Effort share  = 40%, 80%, 40%, 40% out of 200
+    
+    so out of 100 = 20,40,20,20. %
 
-so Capital + Effort share  = 40%, 80%, 40%, 40% out of 200
+so the 2 problems that raised are,
 
-so out of 100 = 20,40,20,20. %
-</code></pre>
+1/ B is only doing purchasing once in 3 months or 6 months or as soon as stocks finish. C and D says Operation and Sales task are daily on going work and time consuming, so how can someone working in once in 3 months or 6 months have a greater effort share than Daily on going time consuming tasks. so they are demanding for more than purchasing or to reduce the purchasing share.
 
-<p>so the 2 problems that raised are,</p>
 
-<p>1/ B is only doing purchasing once in 3 months or 6 months or as soon as stocks finish. C and D says Operation and Sales task are daily on going work and time consuming, so how can someone working in once in 3 months or 6 months have a greater effort share than Daily on going time consuming tasks. so they are demanding for more than purchasing or to reduce the purchasing share.</p>
+so isn't it fare to go for a percentage of 
 
-<p>so isn't it fare to go for a percentage of </p>
+    Capital Share from 400K - A 40%, B 40%, C 10%, D 10% 
+    
+    Effort Share - A - 0%, B - 20%, C 40%, D% 40
+    
+    so final profit/loss share will be 20%, 30%, 25%, 25% ?
 
-<pre><code>Capital Share from 400K - A 40%, B 40%, C 10%, D 10% 
+2/ having two separate shares for Ownership & Profit. 2 partners are saying to merge it and keep only Ownership share, the other 2 are saying only capital is counted for Ownership share so there should be both Ownership share and Profit/Loss Share
 
-Effort Share - A - 0%, B - 20%, C 40%, D% 40
 
-so final profit/loss share will be 20%, 30%, 25%, 25% ?
-</code></pre>
-
-<p>2/ having two separate shares for Ownership &amp; Profit. 2 partners are saying to merge it and keep only Ownership share, the other 2 are saying only capital is counted for Ownership share so there should be both Ownership share and Profit/Loss Share</p>
-
-<p>Please advice.</p>
-
+Please advice.
 
 
 ## Answer 8173

@@ -4,10 +4,9 @@
 - tagged: `tech-company`
 - score: 2
 
-<p>For startups which generate money mostly from Ads, how does one make a referral program inside these kinds of startups?</p>
+For startups which generate money mostly from Ads, how does one make a referral program inside these kinds of startups?
 
-<p>Facebook, Quora, Stackoverflow... are examples but is there a successful referral program for them?</p>
-
+Facebook, Quora, Stackoverflow... are examples but is there a successful referral program for them?
 
 ## No Answers
 

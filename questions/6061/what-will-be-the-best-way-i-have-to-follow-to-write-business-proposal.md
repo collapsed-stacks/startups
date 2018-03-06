@@ -4,8 +4,7 @@
 - tagged: `service`, `business-proposal`
 - score: 4
 
-<p>I have a product recently deployed to some customers. As a startup, I am struggling to write a monthly service proposal. What will be best format or template to write a service proposal like this? </p>
-
+I have a product recently deployed to some customers. As a startup, I am struggling to write a monthly service proposal. What will be best format or template to write a service proposal like this? 
 
 
 ## Answer 8139
@@ -13,37 +12,37 @@
 - posted by: [Tom](https://stackexchange.com/users/1841165/tom) on 2015-12-17
 - score: 1
 
-<p>So your proposal sounds more of a contract you make once with each customer. These points are mostly from standard SLA ( service-level agreement ) frame, Googling will probably give you even more insights on topic.</p>
+So your proposal sounds more of a contract you make once with each customer. These points are mostly from standard SLA ( service-level agreement ) frame, Googling will probably give you even more insights on topic.
 
-<p><strong>Scope</strong></p>
+**Scope**
 
-<p>Define what is the features etc. this contract covers.
-Its important to rule out features that might be in 'gray area' as API integrations which functionality isn't totally in your hands. </p>
+Define what is the features etc. this contract covers.
+Its important to rule out features that might be in 'gray area' as API integrations which functionality isn't totally in your hands. 
 
-<p>If its a web app, you can probably limit scope roughly by domain where your service lives. More details are usually better.</p>
+If its a web app, you can probably limit scope roughly by domain where your service lives. More details are usually better.
 
-<p><strong>Quality</strong> </p>
+**Quality** 
 
-<p>As ongoing service, your customer needs to be reassured that product will be as good as promised, work as said in all cases. Typical things to mention when selling web apps ( SaaS ) would be service uptime and accesibility. Most products promise 99%, because if and when something goes wonky, they have that 1% to fix things.</p>
+As ongoing service, your customer needs to be reassured that product will be as good as promised, work as said in all cases. Typical things to mention when selling web apps ( SaaS ) would be service uptime and accesibility. Most products promise 99%, because if and when something goes wonky, they have that 1% to fix things.
 
-<p><strong>Support and response time</strong></p>
+**Support and response time**
 
-<p>It's good practice to rule how support works (email, phone, others?) and how quickly you will act on requests. </p>
+It's good practice to rule how support works (email, phone, others?) and how quickly you will act on requests. 
 
-<p>Depending on product/service, you should consider scoping out issues support won't do. There can always be users that asks for a bit too much, like 'can you reset my password?' even when theres a 'reset password' link just next to login form.</p>
+Depending on product/service, you should consider scoping out issues support won't do. There can always be users that asks for a bit too much, like 'can you reset my password?' even when theres a 'reset password' link just next to login form.
 
-<p>Defining response times is linked also to pricing. You can probably have different pricing tiers for different response times. If your customer requires 24/7 support with 1 hour response time, they're probably willing to pay more for it than customer who is satisfied with 'within next working day' response rate.</p>
+Defining response times is linked also to pricing. You can probably have different pricing tiers for different response times. If your customer requires 24/7 support with 1 hour response time, they're probably willing to pay more for it than customer who is satisfied with 'within next working day' response rate.
 
-<p><strong>Responsibilities</strong></p>
+**Responsibilities**
 
-<p>When pudding hits the fan, its important for everybody to know who's responsible for what. You don't want to get sued of dataloss which was caused by faulty power source in server rack, from which you have rented a server. </p>
+When pudding hits the fan, its important for everybody to know who's responsible for what. You don't want to get sued of dataloss which was caused by faulty power source in server rack, from which you have rented a server. 
 
-<p>In my experiences, responsibilities are the details that eventually make the sales with bigger companies. If you can promise on contract that you take care of something, its one thing off from their shoulders. Then again, you should be pretty sure you got everything in your end covered, as you don't really want to get sued for not delivering.</p>
+In my experiences, responsibilities are the details that eventually make the sales with bigger companies. If you can promise on contract that you take care of something, its one thing off from their shoulders. Then again, you should be pretty sure you got everything in your end covered, as you don't really want to get sued for not delivering.
 
-<p><strong>Pricing and payments</strong></p>
 
-<p>Important part for service/product provider. Cost of product, valid payment methods, how unpaid invoices are processed, termination of account on unpaid invoice etc. </p>
+**Pricing and payments**
 
+Important part for service/product provider. Cost of product, valid payment methods, how unpaid invoices are processed, termination of account on unpaid invoice etc. 
 
 
 ## Answer 6078

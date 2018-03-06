@@ -4,14 +4,16 @@
 - tagged: `software`, `project-management`, `agile`
 - score: 4
 
-<p>So, after studying a lot about project management, task allocation, performance analysis, etc. I found agile as the solution, be it scrum or kanban.</p>
+So, after studying a lot about project management, task allocation, performance analysis, etc. I found agile as the solution, be it scrum or kanban.
 
-<p>The tool I had been suggested to use was <a href="https://trello.com/" rel="nofollow">Trello</a>. It is nice, with lists, cards, etc. But one great problem of Trello is that it does not have charts or reports.</p>
+The tool I had been suggested to use was [Trello][1]. It is nice, with lists, cards, etc. But one great problem of Trello is that it does not have charts or reports.
 
-<p>I want to be able to track the performance of staff, see who has done what, who has spent how much time in the previous month, upcoming deadlines, assignments, etc. So basically I need lots of charts, reports, visuals, etc.</p>
+I want to be able to track the performance of staff, see who has done what, who has spent how much time in the previous month, upcoming deadlines, assignments, etc. So basically I need lots of charts, reports, visuals, etc.
 
-<p>Would you please suggest some feature-rich (and preferably free) online tools, as the agile project management tool?</p>
+Would you please suggest some feature-rich (and preferably free) online tools, as the agile project management tool?
 
+
+  [1]: https://trello.com/
 
 
 ## Answer 9459

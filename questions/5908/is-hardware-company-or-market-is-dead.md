@@ -4,17 +4,16 @@
 - tagged: `lean-startup`
 - score: 2
 
-<p>I am a image signal processing hardware engineer in semiconductor company.
+I am a image signal processing hardware engineer in semiconductor company.
 Nows day I am looking for a new good changeable company.
-But it's nothing all even startup companies.</p>
+But it's nothing all even startup companies.
 
-<p>I am so worry because these circumstate make me to depress. 
-Now days I always think, If I quick then what am I suppose to do for living?</p>
+I am so worry because these circumstate make me to depress. 
+Now days I always think, If I quick then what am I suppose to do for living?
 
-<p>I can't see a future of mine, I always nerves.</p>
+I can't see a future of mine, I always nerves.
 
-<p>How about yours? Don't you tell me ?</p>
-
+How about yours? Don't you tell me ?
 
 ## No Answers
 

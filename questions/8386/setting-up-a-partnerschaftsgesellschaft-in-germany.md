@@ -4,9 +4,9 @@
 - tagged: `germany`
 - score: 3
 
-<p>I would like to register a Partnergesellschaft with the financial authorities of Germany. </p>
+I would like to register a Partnergesellschaft with the financial authorities of Germany. 
 
-<p>Do you know if I need to to register first as "Freiberufler" or is there no need to do so ?</p>
+Do you know if I need to to register first as "Freiberufler" or is there no need to do so ?
 
 
 

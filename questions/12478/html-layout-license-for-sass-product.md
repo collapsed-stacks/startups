@@ -4,22 +4,21 @@
 - tagged: `web-development`
 - score: -1
 
-<p>I was hoping that some developer could tell me the best website where to purchase and HTML Bootstrap Layout (preferably with AngularJS version) that would have a license allowing me to use it as a Sass product.</p>
+I was hoping that some developer could tell me the best website where to purchase and HTML Bootstrap Layout (preferably with AngularJS version) that would have a license allowing me to use it as a Sass product.
 
-<p>I would just host once the website on Heroku and ask for subscriptions payment from users. </p>
+I would just host once the website on Heroku and ask for subscriptions payment from users. 
 
-<p>Envato and Wrap Boostrap ask for and extended license.</p>
+Envato and Wrap Boostrap ask for and extended license.
 
-<p><strong>This question is pretty important as there is no information online about marketplace that resell the layout for an affordable price and allow the commercial use</strong>, even if they state that commercial use is allowed, they will tell you that you have to purchase the Extended License.</p>
+**This question is pretty important as there is no information online about marketplace that resell the layout for an affordable price and allow the commercial use**, even if they state that commercial use is allowed, they will tell you that you have to purchase the Extended License.
 
-<p>Working with Layout is faster then working without it and can be great for launching the app in a couple of weeks.</p>
+Working with Layout is faster then working without it and can be great for launching the app in a couple of weeks.
 
-<p>Please tell me the best Stackexchange community where to migrate this issue, I thought maybe I should ask in WebApplications?</p>
+Please tell me the best Stackexchange community where to migrate this issue, I thought maybe I should ask in WebApplications?
 
-<p>Thanks
+Thanks
 Best Regards
-Fabrizio Bertoglio</p>
-
+Fabrizio Bertoglio
 
 
 ## Answer 12480
@@ -40,15 +39,17 @@ Fabrizio Bertoglio</p>
 - posted by: [Fabrizio Bertoglio](https://stackexchange.com/users/9849224/fabrizio-bertoglio) on 2017-04-13
 - score: 0
 
-<p>I was able to find a layout at </p>
+I was able to find a layout at 
 
-<p><a href="https://www.creative-tim.com/bootstrap-themes/admin-dashboard?direction=asc&amp;sort=price" rel="nofollow noreferrer">https://www.creative-tim.com/bootstrap-themes/admin-dashboard?direction=asc&amp;sort=price</a></p>
+https://www.creative-tim.com/bootstrap-themes/admin-dashboard?direction=asc&sort=price
 
-<p>The layout is free and has MIT license.</p>
+The layout is free and has MIT license.
 
-<p>Other layouts are available at the following github page, it includes links to other layouts also. The most important thing is having the MIT License, as all other license may have some restriction. Additionally creative-time has a clear license for paid products. The developer License allows you to use it for Sass products</p>
+Other layouts are available at the following github page, it includes links to other layouts also. The most important thing is having the MIT License, as all other license may have some restriction. Additionally creative-time has a clear license for paid products. The developer License allows you to use it for Sass products
 
-<p><a href="https://github.com/puikinsh/gentelella" rel="nofollow noreferrer">https://github.com/puikinsh/gentelella</a></p>
+
+https://github.com/puikinsh/gentelella
+
 
 
 

@@ -4,10 +4,12 @@
 - tagged: `business-plan`, `marketing`, `peer-to-peer`
 - score: 3
 
-<p>Pretend you just came up with the idea for <a href="https://www.airbnb.com/" rel="nofollow">Airbnb</a>. How would you validate that you had an idea worth pursing. </p>
+Pretend you just came up with the idea for [Airbnb][1]. How would you validate that you had an idea worth pursing. 
 
-<p>What I'm trying to get at more generally here (and from my other questions) is how to validate a peer-to-peer business idea.</p>
+What I'm trying to get at more generally here (and from my other questions) is how to validate a peer-to-peer business idea.
 
+
+  [1]: https://www.airbnb.com/
 
 
 ## Answer 427
@@ -34,13 +36,12 @@ b. Minimize cost of "hotel room" with XYZ</p></li>
 - posted by: [JezC](https://stackexchange.com/users/87431/jezc) on 2014-08-19
 - score: 2
 
-<p>The activity that you're after is two things, of which I feel the most important is Customer Development. The other is to build out the Business Model Canvas. Between them, they tell you whether anyone cares about your product or service, who in the organisation you have to reach, why they care about it, and how much they're prepared to pay to deal with the problem; the business model canvas tells you whether you can build an organisation that will deliver what the customer has told you they want, andwhat the critical factors will probably be. </p>
+The activity that you're after is two things, of which I feel the most important is Customer Development. The other is to build out the Business Model Canvas. Between them, they tell you whether anyone cares about your product or service, who in the organisation you have to reach, why they care about it, and how much they're prepared to pay to deal with the problem; the business model canvas tells you whether you can build an organisation that will deliver what the customer has told you they want, andwhat the critical factors will probably be. 
 
-<p>Customer Development is based on identifying from historical behaviours, whether anyone finds a problem for which you have a solution, important enough to throw money at it. If they do care, who is the person in the organisation that cares - whose KPI, whose salary, whose easy life, are you solving such that they will release budget?</p>
+Customer Development is based on identifying from historical behaviours, whether anyone finds a problem for which you have a solution, important enough to throw money at it. If they do care, who is the person in the organisation that cares - whose KPI, whose salary, whose easy life, are you solving such that they will release budget?
 
-<p>All my problems with startups have come from failing to grasp this stage. Making sure that you know who the customer is, why they're a customer, and how much the problem you solve, costs them. You can do this before you have a product. You can do this before you build anything. And you can do it on paper, and the phone, for peanuts - other than time invested.
- It's what I do, now, and I'm starting on CustDev for my next startup. :)</p>
-
+All my problems with startups have come from failing to grasp this stage. Making sure that you know who the customer is, why they're a customer, and how much the problem you solve, costs them. You can do this before you have a product. You can do this before you build anything. And you can do it on paper, and the phone, for peanuts - other than time invested.
+ It's what I do, now, and I'm starting on CustDev for my next startup. :)
 
 
 ## Answer 423
@@ -48,20 +49,18 @@ b. Minimize cost of "hotel room" with XYZ</p></li>
 - posted by: [Laxiton6893](https://stackexchange.com/users/2181902/laxiton6893) on 2014-08-20
 - score: 0
 
-<p>That is a tricky question. </p>
+That is a tricky question. 
 
-<p>If its a Me-Too business (copy of an existing model with minor variations in an existing industry and you are looking to take a % of the industry pie) then I would see who was the first to start the field and learn their history, see how much money is in the field, and then read up on how competitors started and or flopped. From that your market data would be around how to transition existing users from that services to yours. </p>
+If its a Me-Too business (copy of an existing model with minor variations in an existing industry and you are looking to take a % of the industry pie) then I would see who was the first to start the field and learn their history, see how much money is in the field, and then read up on how competitors started and or flopped. From that your market data would be around how to transition existing users from that services to yours. 
 
-<p>For NexGen business (new product, new market, new scope, solving a problem no one else has started e.g.) then its really the wild west. For that you will need to first take the idea and flesh it into terms for people to understand/comprehend. Then figure out how to build a low cost, low effort MVP or prototype to show people. </p>
+For NexGen business (new product, new market, new scope, solving a problem no one else has started e.g.) then its really the wild west. For that you will need to first take the idea and flesh it into terms for people to understand/comprehend. Then figure out how to build a low cost, low effort MVP or prototype to show people. 
 
-<p>If any of this can be summed up by a simple quote</p>
+If any of this can be summed up by a simple quote
 
-<blockquote>
-  <p>"If I had asked people what they wanted, they would have said faster
-  horses. ― Henry Ford”</p>
-</blockquote>
+> "If I had asked people what they wanted, they would have said faster
+> horses. ― Henry Ford”
 
-<p>I usually lean on getting a prototype first to show. Sometimes the words you use will never really paint the full picture until one uses/sees it in action.</p>
+I usually lean on getting a prototype first to show. Sometimes the words you use will never really paint the full picture until one uses/sees it in action.
 
 
 
@@ -70,20 +69,19 @@ b. Minimize cost of "hotel room" with XYZ</p></li>
 - posted by: [Jeremy Parsons](https://stackexchange.com/users/497810/jeremy-parsons) on 2014-08-20
 - score: 0
 
-<p>You're starting with the wrong question. Ideas are plentiful, good and bad, and nobody has a reliable way to distinguish the two. </p>
+You're starting with the wrong question. Ideas are plentiful, good and bad, and nobody has a reliable way to distinguish the two. 
 
-<p>The classic lean approach is to start with a customer group you would like to serve, and a problem hypothesis. Work as hard as you can to <em>dis</em>-prove that the problem is real. If you can't, work as hard as you can to prove that nobody will pay you to solve the problem. Do this by talking to people, by claiming you have the answer to the problem, and by seeing how fast you're sent away with your tail between your legs.</p>
+The classic lean approach is to start with a customer group you would like to serve, and a problem hypothesis. Work as hard as you can to *dis*-prove that the problem is real. If you can't, work as hard as you can to prove that nobody will pay you to solve the problem. Do this by talking to people, by claiming you have the answer to the problem, and by seeing how fast you're sent away with your tail between your legs.
 
-<p>This investment in time and effort has a guaranteed negative return, but it spares you the greater pain of falling in love with your ideas, bringing them to reality, and seeing them rejected.</p>
+This investment in time and effort has a guaranteed negative return, but it spares you the greater pain of falling in love with your ideas, bringing them to reality, and seeing them rejected.
 
-<p>Now you have a space in which to create an idea: not just any idea, but an idea for a way to solve the problem that you have evidenced, that someone would pay you to fix. But don't create just one idea, create a hundred and one ideas. Ideas are cheap, implementation is expensive, and execution is infinitely challenging.</p>
+Now you have a space in which to create an idea: not just any idea, but an idea for a way to solve the problem that you have evidenced, that someone would pay you to fix. But don't create just one idea, create a hundred and one ideas. Ideas are cheap, implementation is expensive, and execution is infinitely challenging.
 
-<p>When you've reached this point, you can start applying taste and judgement to choose which one or two ideas you are ready to take to the next stage - some kind of minimum viable product (which may just be words you speak to the next ten prospective customers).</p>
+When you've reached this point, you can start applying taste and judgement to choose which one or two ideas you are ready to take to the next stage - some kind of minimum viable product (which may just be words you speak to the next ten prospective customers).
 
-<p>Airbnb isn't an idea. It's a system, a user base, a story, a community, it's lots of things. Nobody is waiting to pay you for your idea, however awesome. </p>
+Airbnb isn't an idea. It's a system, a user base, a story, a community, it's lots of things. Nobody is waiting to pay you for your idea, however awesome. 
 
-<p><strong>But if you can take away a painful problem, even clumsily, when nobody else has, we'll queue round the block to buy that from you</strong>.</p>
-
+**But if you can take away a painful problem, even clumsily, when nobody else has, we'll queue round the block to buy that from you**.
 
 
 

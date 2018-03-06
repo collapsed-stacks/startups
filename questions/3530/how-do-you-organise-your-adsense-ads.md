@@ -4,8 +4,7 @@
 - tagged: `advertising`
 - score: 5
 
-<p>I've got a number of websites with Adsense ads and I'm keen to maximise the potential of them, but my ad units area is looking a bit of a mess with inconsistent naming etc. How am I supposed to organise the ads?</p>
-
+I've got a number of websites with Adsense ads and I'm keen to maximise the potential of them, but my ad units area is looking a bit of a mess with inconsistent naming etc. How am I supposed to organise the ads?
 
 
 ## Answer 4072
@@ -13,10 +12,9 @@
 - posted by: [David 'mArm' Ansermot](https://stackexchange.com/users/412499/david-marm-ansermot) on 2015-04-21
 - score: 4
 
-<p>Organise by websites, then by pages, then by ad type (skycraper, leaderboard, etc.).</p>
+Organise by websites, then by pages, then by ad type (skycraper, leaderboard, etc.).
 
-<p>Tried multiple ways to organise that and it has been the best for me.</p>
-
+Tried multiple ways to organise that and it has been the best for me.
 
 
 ## Answer 4173
@@ -24,10 +22,9 @@
 - posted by: [PiLuC](https://stackexchange.com/users/3720141/piluc) on 2015-05-01
 - score: 2
 
-<p>All depends if you have mobile applications / mobile website version too. </p>
+All depends if you have mobile applications / mobile website version too. 
 
-<p>You should organise at a top level by separating applications and website, then as the first answer, split by website. But I'll add that in "by website" you should regroup the mobile and desktop version too.</p>
-
+You should organise at a top level by separating applications and website, then as the first answer, split by website. But I'll add that in "by website" you should regroup the mobile and desktop version too.
 
 
 ## Answer 4174

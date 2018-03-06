@@ -4,10 +4,9 @@
 - tagged: `marketing`, `sales`, `retail`
 - score: 1
 
-<p>I'm starting a brand on Amazon/eBay, and someday I wish to open up my own brick and mortar store. But for now, I'm just online.</p>
+I'm starting a brand on Amazon/eBay, and someday I wish to open up my own brick and mortar store. But for now, I'm just online.
 
-<p>I used easyupc.com to get quick UPC codes for products that I'm selling with my own brand name on Amazon/eBay. Is this generally bad to do if I want to open a physical store later down the line? Is there anything illegal about using these kinds of UPCs in a physical store?</p>
-
+I used easyupc.com to get quick UPC codes for products that I'm selling with my own brand name on Amazon/eBay. Is this generally bad to do if I want to open a physical store later down the line? Is there anything illegal about using these kinds of UPCs in a physical store?
 
 
 ## Answer 11647

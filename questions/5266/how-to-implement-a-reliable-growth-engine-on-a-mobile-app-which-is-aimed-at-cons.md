@@ -4,10 +4,9 @@
 - tagged: `mobile-apps`, `growth`, `distribution`
 - score: 5
 
-<p>Most popular mobile app growth engines are from apps where the users create content, like instagram, snapchat, twitter. Their engines are mostly about integrating with other social medias.</p>
+Most popular mobile app growth engines are from apps where the users create content, like instagram, snapchat, twitter. Their engines are mostly about integrating with other social medias.
 
-<p>Not much is known about apps that are focused on consuming content. What are viable growth engines for these types of apps? Like Flipboard, Inoreader?</p>
-
+Not much is known about apps that are focused on consuming content. What are viable growth engines for these types of apps? Like Flipboard, Inoreader?
 
 
 ## Answer 5270
@@ -15,21 +14,21 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-05-13
 - score: 3
 
-<p>The bulk of Flipboard's growth is the result of unusual factors:</p>
+The bulk of Flipboard's growth is the result of unusual factors:
 
-<ul>
-<li><p>They were first to market for all practical purposes. With a good app. And $10M+ of funding.</p></li>
-<li><p>They were heavily pushed by Apple when iPad got released. They got named App of the year a bit later.</p></li>
-<li><p>They integrated with Twitter, and piggybacked the latter's major growth period as they became the de-facto social magazine app.</p></li>
-<li><p>They pushed RSS when Google Reader got shut down. This got them mentioned in gazillions of how to migrate from Google Reader posts and articles.</p></li>
-</ul>
+- They were first to market for all practical purposes. With a good app. And $10M+ of funding.
 
-<p>There isn't much you can readily reproduce in the above... Particularly the last one.</p>
+- They were heavily pushed by Apple when iPad got released. They got named App of the year a bit later.
 
-<p>An aspect that <em>is</em> somewhat reproducible is their blog. For instance, they got a lot of geek attention when they wrote about how they got 60fps on the mobile web -- it got fireballed, slashdotted, hackernewsed, redditted, you name it. And as you certainly know, geeks are the ones who recommend apps to family and friends.</p>
+- They integrated with Twitter, and piggybacked the latter's major growth period as they became the de-facto social magazine app.
 
-<p>Inoreader doesn't look like it's growing much. They've 5k FB Likes and 2k Twitter followers, vs ~140k and ~250k for Flipboard, and ~40k and ~95k for Feedly (which also grew because of Google Reader). If I were to make a guess, it's probably the result of the usual suspects: a combination of content marketing, SEO, PR, social media, forums, word of mouth, etc. -- the only difference being that they didn't get to piggyback Apple, Twitter, or Google.</p>
+- They pushed RSS when Google Reader got shut down. This got them mentioned in gazillions of how to migrate from Google Reader posts and articles.
 
+There isn't much you can readily reproduce in the above... Particularly the last one.
+
+An aspect that *is* somewhat reproducible is their blog. For instance, they got a lot of geek attention when they wrote about how they got 60fps on the mobile web -- it got fireballed, slashdotted, hackernewsed, redditted, you name it. And as you certainly know, geeks are the ones who recommend apps to family and friends.
+
+Inoreader doesn't look like it's growing much. They've 5k FB Likes and 2k Twitter followers, vs ~140k and ~250k for Flipboard, and ~40k and ~95k for Feedly (which also grew because of Google Reader). If I were to make a guess, it's probably the result of the usual suspects: a combination of content marketing, SEO, PR, social media, forums, word of mouth, etc. -- the only difference being that they didn't get to piggyback Apple, Twitter, or Google.
 
 
 ## Answer 5269

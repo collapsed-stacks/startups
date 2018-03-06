@@ -4,20 +4,17 @@
 - tagged: `marketing`, `mobile-apps`, `advertising`
 - score: 10
 
-<ul>
-<li>3.2010 - $500k  raised - Burbn, 2 people</li>
-<li>6.2010 - Start on instagram</li>
-<li>10.2010 - Launch with 80 users</li>
-<li>10.2010 - Recruited community manager &amp; engineer</li>
-<li>12.2010 - 1M user</li>
-<li>2.2011 - 1.75M users</li>
-<li>6.2011 - 5M users</li>
-<li>9.2011 - 10M users</li>
-</ul>
+ - 3.2010 - $500k  raised - Burbn, 2 people
+ - 6.2010 - Start on instagram
+ - 10.2010 - Launch with 80 users
+ - 10.2010 - Recruited community manager & engineer
+ - 12.2010 - 1M user
+ - 2.2011 - 1.75M users
+ - 6.2011 - 5M users
+ - 9.2011 - 10M users
 
-<p>From the interviews of Kevin Systrom(founder of instagram) he always seems to skip the part where he talks about his marketing techniques. 
-It clearly is not word of mouth. Well then what is it? What did he do to market it so well?</p>
-
+From the interviews of Kevin Systrom(founder of instagram) he always seems to skip the part where he talks about his marketing techniques. 
+It clearly is not word of mouth. Well then what is it? What did he do to market it so well?
 
 
 ## Answer 1647

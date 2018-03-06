@@ -4,18 +4,17 @@
 - tagged: `mobile-apps`, `servers`
 - score: 0
 
-<p>I'm building my first app in Android Studio, and I need to connect to a central database, so I'm creating a REST interface. I'm getting ready to laumch, but not sure how best to go about hosting my REST interface. I don't have my own web space or anything I can use, and I also don't have much of a budget at this stage.</p>
+I'm building my first app in Android Studio, and I need to connect to a central database, so I'm creating a REST interface. I'm getting ready to laumch, but not sure how best to go about hosting my REST interface. I don't have my own web space or anything I can use, and I also don't have much of a budget at this stage.
 
-<p>I'd like something where I can put it for free or very cheaply to start off with, while I finish building it, just to test and so on, and in the early days if there aren't many users (so either something with a free trial, or one which only charges by the amount of traffic or something like that). On the offchance that it gets really popular, I also need the hosting to scale up (or for it to be easy to transfer elsewhere) - obviously I'm happy to pay for that if it happens.</p>
+I'd like something where I can put it for free or very cheaply to start off with, while I finish building it, just to test and so on, and in the early days if there aren't many users (so either something with a free trial, or one which only charges by the amount of traffic or something like that). On the offchance that it gets really popular, I also need the hosting to scale up (or for it to be easy to transfer elsewhere) - obviously I'm happy to pay for that if it happens.
 
-<p>Just don't want to fork out a lot of money now, especially as I'm still some way off being able to earn money from the app, and can't really afford to pay for hosting I don't need.</p>
+Just don't want to fork out a lot of money now, especially as I'm still some way off being able to earn money from the app, and can't really afford to pay for hosting I don't need.
 
-<p>I have very little knowledge of the technical aspects of hosting, so something that's either easy to use or has very detailed documentation would be good too.</p>
+I have very little knowledge of the technical aspects of hosting, so something that's either easy to use or has very detailed documentation would be good too.
 
-<p>All the recommendations I've found have been from several years ago, so I'm assuming things might have changed since then.</p>
+All the recommendations I've found have been from several years ago, so I'm assuming things might have changed since then.
 
-<p>Any recommendations are much appreciated.</p>
-
+Any recommendations are much appreciated.
 
 
 ## Answer 12873

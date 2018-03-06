@@ -4,10 +4,9 @@
 - tagged: `taxes`, `accounting`, `seed`, `delaware`
 - score: 3
 
-<p>My startup is a Delaware-C-Corp, we just received some investment through a SAFE convertible note.</p>
+My startup is a Delaware-C-Corp, we just received some investment through a SAFE convertible note.
 
-<p>Does this investment count as income for the company? Will my corporation have to pay corporate income taxes on this? (e.g. 15-40% of taxes?)</p>
-
+Does this investment count as income for the company? Will my corporation have to pay corporate income taxes on this? (e.g. 15-40% of taxes?)
 
 
 ## Answer 8468

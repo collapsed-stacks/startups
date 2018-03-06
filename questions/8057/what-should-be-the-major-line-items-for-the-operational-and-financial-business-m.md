@@ -4,11 +4,11 @@
 - tagged: `startup-costs`, `business-model`, `funding`, `market-research`, `venture-capital`
 - score: 0
 
-<p>I am putting together a business plan for an online business with an aggregator business model, what should be the major line items for the operational and financial business models? </p>
+I am putting together a business plan for an online business with an aggregator business model, what should be the major line items for the operational and financial business models? 
 
-<p>I am currently using a very good template however, the problem with it, as with others that I've found through my research, contains inventory as a line item. I believe this is relevant for the manufacturing industry and not a technology company.</p>
+I am currently using a very good template however, the problem with it, as with others that I've found through my research, contains inventory as a line item. I believe this is relevant for the manufacturing industry and not a technology company.
 
-<p>So please it would be great to get an idea of the line items/metrics that is relevant for a tech startup.</p>
+So please it would be great to get an idea of the line items/metrics that is relevant for a tech startup.
 
 
 
@@ -17,22 +17,21 @@
 - posted by: [Jimnotgym](https://stackexchange.com/users/7461839/jimnotgym) on 2015-12-12
 - score: 1
 
-<p>The reason accountancy is a hard profession to get into, is because it requires this kind of judgement!</p>
+The reason accountancy is a hard profession to get into, is because it requires this kind of judgement!
 
-<p>Ask yourself, what are the most significant items to my business? What will I spend the most on? If you won't have inventory leave it out. Just brainstorm what is going to cost money. If you are smart you will be most interested in cash-flows, as in when you have to pay and when you will get paid rather than profits. Buying a server may or may not effect this years profit, but you <em>will</em> have to pay for it! Don't forget sales taxes or you will lose your shirt.</p>
+Ask yourself, what are the most significant items to my business? What will I spend the most on? If you won't have inventory leave it out. Just brainstorm what is going to cost money. If you are smart you will be most interested in cash-flows, as in when you have to pay and when you will get paid rather than profits. Buying a server may or may not effect this years profit, but you *will* have to pay for it! Don't forget sales taxes or you will lose your shirt.
 
-<p>Some ideas:</p>
+Some ideas:
 
-<ol>
-<li>Labour is the biggest cost in any business</li>
-<li>Hosting costs?</li>
-<li>Software licences?</li>
-<li>Consulting?</li>
-<li>Office costs?</li>
-<li>Marketing?</li>
-</ol>
+ 1. Labour is the biggest cost in any business
+ 2. Hosting costs?
+ 3. Software licences?
+ 4. Consulting?
+ 5. Office costs?
+ 6. Marketing?
 
-<p>Pick the categories that most properly describe your business.</p>
+Pick the categories that most properly describe your business.
+
 
 
 

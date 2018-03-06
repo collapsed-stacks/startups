@@ -4,18 +4,17 @@
 - tagged: `social-networking`, `saas`
 - score: 1
 
-<p>Slogan:
-"Company Name" gives people the right words to say for every occasion.</p>
+Slogan:
+"Company Name" gives people the right words to say for every occasion.
 
-<p>What makes us different from other greeting companies?
+What makes us different from other greeting companies?
 Social greetings with a response.
-2500 pre-written greetings.</p>
+2500 pre-written greetings.
 
-<p>Process
+Process
 1. Send categorized/custom greeting.
 2. Receiver chooses a response.
-3. Keep track of greetings.</p>
-
+3. Keep track of greetings.
 
 ## No Answers
 

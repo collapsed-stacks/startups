@@ -4,17 +4,16 @@
 - tagged: `mobile-apps`, `payment`
 - score: 2
 
-<p>We are developing a service where our users will be able to deposit a minimal amount, e.g., 10 euros to our startup's accounts, which will later be used as a form of credit to a number of shops/merchants. Hence,</p>
+We are developing a service where our users will be able to deposit a minimal amount, e.g., 10 euros to our startup's accounts, which will later be used as a form of credit to a number of shops/merchants. Hence,
 
-<p>a) We need to pay transaction fees to receive the payments from the users (e.g., 30p+3%).</p>
+a) We need to pay transaction fees to receive the payments from the users (e.g., 30p+3%).
 
-<p>b) We need to pay transaction fees again when paying the shops back (another 30p+3%).</p>
+b) We need to pay transaction fees again when paying the shops back (another 30p+3%).
 
-<p>Question:
-Do you see a better approach on minimizing the costs of the transactions, i.e., merging somehow steps a) and b) ? </p>
+Question:
+Do you see a better approach on minimizing the costs of the transactions, i.e., merging somehow steps a) and b) ? 
 
-<p>Tip: <em>I am not referring to optimization techniques like finding the least transaction fees for each step by using a different payment processing, but structurally avoiding the need to pay two times the transaction fees.</em></p>
-
+Tip: *I am not referring to optimization techniques like finding the least transaction fees for each step by using a different payment processing, but structurally avoiding the need to pay two times the transaction fees.*
 
 
 ## Answer 3258
@@ -22,14 +21,13 @@ Do you see a better approach on minimizing the costs of the transactions, i.e., 
 - posted by: [Henry Taylor](https://stackexchange.com/users/1734959/henry-taylor) on 2015-01-30
 - score: 1
 
-<p>You are building a payment triangle involving a customer, a merchant and your service, and you are using credit card transactions to move money between all three players.  Why?</p>
+You are building a payment triangle involving a customer, a merchant and your service, and you are using credit card transactions to move money between all three players.  Why?
 
-<p>If your company has a contractual agreement with the merchants, there is a lot cheaper ways to move money between business partners.  Why not just write them a check?  Or if the merchants are in a hurry, do bank transfers.</p>
+If your company has a contractual agreement with the merchants, there is a lot cheaper ways to move money between business partners.  Why not just write them a check?  Or if the merchants are in a hurry, do bank transfers.
 
-<p>As for getting money from your customers, consider providing incentives to get your customers to deposit larger amounts at a time.  That way you can pay the fixed portion of your transaction fee less frequently.</p>
+As for getting money from your customers, consider providing incentives to get your customers to deposit larger amounts at a time.  That way you can pay the fixed portion of your transaction fee less frequently.
 
-<p>Hope that helps with your transaction fee issues, but I'm still curious about how you are handling the risk of charge backs.  The credit card companies give their customers an ability to reverse any transaction which they don't claim was valid.  A customer could therefore purchase a large credit in your system using a credit card, spend that credit with your merchants and then claim their credit card traffic was fraudulent.  Say bye bye to your credit card revenues, and you still owe your merchants for the products that customer purchased.  I don't need you to answer here in the forums, but before you open for business, you really need to figure out how you're going to cover yourself for that risk.</p>
-
+Hope that helps with your transaction fee issues, but I'm still curious about how you are handling the risk of charge backs.  The credit card companies give their customers an ability to reverse any transaction which they don't claim was valid.  A customer could therefore purchase a large credit in your system using a credit card, spend that credit with your merchants and then claim their credit card traffic was fraudulent.  Say bye bye to your credit card revenues, and you still owe your merchants for the products that customer purchased.  I don't need you to answer here in the forums, but before you open for business, you really need to figure out how you're going to cover yourself for that risk.
 
 
 ## Answer 3240

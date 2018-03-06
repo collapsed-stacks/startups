@@ -4,34 +4,33 @@
 - tagged: `mobile-apps`, `funding`, `venture-capital`
 - score: 3
 
-<p><strong>How can average apps with generic ideas get so much in funding?? How are they going to make this money back??</strong></p>
+**How can average apps with generic ideas get so much in funding?? How are they going to make this money back??**
 
-<p>I think about this daily.</p>
+I think about this daily.
 
-<p>I'll be honest, I'm no expert and I don't have a tech background but have been working for a startup for the last 7-8 months, doing a bit of marketing/sales/logistics/client relationship/project and operations management etc</p>
+I'll be honest, I'm no expert and I don't have a tech background but have been working for a startup for the last 7-8 months, doing a bit of marketing/sales/logistics/client relationship/project and operations management etc
 
-<p>Anyway, ever heard of the apps '5miles', 'Offer up' and 'Let go'? </p>
+Anyway, ever heard of the apps '5miles', 'Offer up' and 'Let go'? 
 
-<p>They are both apps that act as a market place to enable one sell their second hand goods. Free service. You take a picture of what you want to sell, post it online. I send you a message saying 'is item x still available? Would you accept $50 for it? You reply 'Yes' and we arrange to meet up in the parking lot at McDonald's for the exchange.</p>
+They are both apps that act as a market place to enable one sell their second hand goods. Free service. You take a picture of what you want to sell, post it online. I send you a message saying 'is item x still available? Would you accept $50 for it? You reply 'Yes' and we arrange to meet up in the parking lot at McDonald's for the exchange.
 
-<p>If you go on the GooglePlay/app store you'll come across at least 10 apps like this. All free, all doing the same thing and are all pretty average and basic.</p>
+If you go on the GooglePlay/app store you'll come across at least 10 apps like this. All free, all doing the same thing and are all pretty average and basic.
 
-<p>'Let go' just got funded for $100m by South African based NASPERS - how can an app like this get $100m of funding? For a free service? Are they going to somehow start charging a fee once they've built up a customer base? Are they going to sell user information? Pop up ads on the app?</p>
+'Let go' just got funded for $100m by South African based NASPERS - how can an app like this get $100m of funding? For a free service? Are they going to somehow start charging a fee once they've built up a customer base? Are they going to sell user information? Pop up ads on the app?
 
-<p>5miles just ran a 3 month campaign on the radio which cost $250k (which surely means they are funded?) - I recently used the app to purchase a set of golf clubs at a price which I thought was a good deal. I met this little old lady in an IHOP parking lot.</p>
+5miles just ran a 3 month campaign on the radio which cost $250k (which surely means they are funded?) - I recently used the app to purchase a set of golf clubs at a price which I thought was a good deal. I met this little old lady in an IHOP parking lot.
 
-<p>I mean, $100m?! Surely not.</p>
+I mean, $100m?! Surely not.
 
-<p>Obviously I wasn't there when the CEO gave his pitch, I don't know what % stake the VC's took of each company and I don't know what plans for expansion the company might have in the future. </p>
+Obviously I wasn't there when the CEO gave his pitch, I don't know what % stake the VC's took of each company and I don't know what plans for expansion the company might have in the future. 
 
-<p>I guess if a huge company like NASPERS (You probably won't have heard of them, but go a quick Google) invests in them, I guess they know something that I don't.</p>
+I guess if a huge company like NASPERS (You probably won't have heard of them, but go a quick Google) invests in them, I guess they know something that I don't.
 
-<p>Most VC's would look to at least make 2-3 times their investment back? NASPERS must see some serious potential if they invested $100m. </p>
+Most VC's would look to at least make 2-3 times their investment back? NASPERS must see some serious potential if they invested $100m. 
 
-<p>Would love to hear some feedback about this.</p>
+Would love to hear some feedback about this.
 
-<p>Thanks guys</p>
-
+Thanks guys
 
 
 ## Answer 8191
@@ -78,14 +77,13 @@
 - posted by: [Jimnotgym](https://stackexchange.com/users/7461839/jimnotgym) on 2015-12-25
 - score: 0
 
-<p>It's funny to think about all the potential startups out there who think they will never get funding.</p>
+It's funny to think about all the potential startups out there who think they will never get funding.
 
-<p>On the other side of the table are VC's who have made all kinds of commitments to investors and need to invest in <em>something</em>! VC's can spend a lot of time and money trying to get people to walk through their doors with a <strong>serious</strong> pitch. I would say just as many times it is the VC who goes looking for someone to invest in.</p>
+On the other side of the table are VC's who have made all kinds of commitments to investors and need to invest in *something*! VC's can spend a lot of time and money trying to get people to walk through their doors with a **serious** pitch. I would say just as many times it is the VC who goes looking for someone to invest in.
 
-<p>In the end you can read the business plan, spend some time looking at the marketplace, but just like with interviewing potential employees. In the end, after all of the box ticking, you go with the one you like or believe in. It's simple to write a business plan with a positive NPV or a high IRR, but do you beleive the sales projections? If you have $1Bn you need to invest by next year eventually you may have to take a flier on one that is marginal!</p>
+In the end you can read the business plan, spend some time looking at the marketplace, but just like with interviewing potential employees. In the end, after all of the box ticking, you go with the one you like or believe in. It's simple to write a business plan with a positive NPV or a high IRR, but do you beleive the sales projections? If you have $1Bn you need to invest by next year eventually you may have to take a flier on one that is marginal!
 
-<p>One last point, its easy in the post dotcom world to think you need to be the only player in a market to make money. This wasn't true for the rest of human history and is not true now. Who says the first to market will make the most money? They might just prepare the market for a more serious competitor to take over.</p>
-
+One last point, its easy in the post dotcom world to think you need to be the only player in a market to make money. This wasn't true for the rest of human history and is not true now. Who says the first to market will make the most money? They might just prepare the market for a more serious competitor to take over.
 
 
 

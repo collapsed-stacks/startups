@@ -4,12 +4,11 @@
 - tagged: `marketing`, `launch`
 - score: 5
 
-<p>I have heard from a lot of startup talks that an ideal market for launch would be a market which is small and very fast growing.</p>
+I have heard from a lot of startup talks that an ideal market for launch would be a market which is small and very fast growing.
 
-<p>I can gauge whether the market is small, but how can I exactly gauge whether it would be fast growing.  If it is already, then how can I ensure that it is not a bubble (or would have a steep end)?</p>
+I can gauge whether the market is small, but how can I exactly gauge whether it would be fast growing.  If it is already, then how can I ensure that it is not a bubble (or would have a steep end)?
 
-<p>Is it through pure intuition or experience, or are there indicators or metrics through which I can gauge the market?</p>
-
+Is it through pure intuition or experience, or are there indicators or metrics through which I can gauge the market?
 
 
 ## Answer 8073
@@ -36,14 +35,13 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-12-11
 - score: 1
 
-<p>A good proxy is to go to local meet-ups and the like, and gauge whether users are willing to buy what you have to sell. The operating word there is <em>buy</em>. If they're merely "interested" in what you're up to it's meaningless.</p>
+A good proxy is to go to local meet-ups and the like, and gauge whether users are willing to buy what you have to sell. The operating word there is _buy_. If they're merely "interested" in what you're up to it's meaningless.
 
-<p>You may want to suggest here that they're not representative. At the end of the day, it takes a very special type of person to decide "hey I'd like to meet up with this group and do whatever." But they actually are. They're the active minority that will get the word out - so they're important.</p>
+You may want to suggest here that they're not representative. At the end of the day, it takes a very special type of person to decide "hey I'd like to meet up with this group and do whatever." But they actually are. They're the active minority that will get the word out - so they're important.
 
-<p>Combine that with national statistics of how many people work in the field and you've a proxy of how much you'll be able to sell. It's far from perfect, but it will give you an idea of what you can sell to who - and even more importantly, how.</p>
+Combine that with national statistics of how many people work in the field and you've a proxy of how much you'll be able to sell. It's far from perfect, but it will give you an idea of what you can sell to who - and even more importantly, how.
 
-<p>The same general type of remark goes for sites such as erlibird.com or producthunt.com.</p>
-
+The same general type of remark goes for sites such as erlibird.com or producthunt.com.
 
 
 

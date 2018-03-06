@@ -4,24 +4,26 @@
 - tagged: `e-commerce`, `marketplace`
 - score: 0
 
-<p>Should we ask for the user's billing information at the checkout page from the legal perspective?</p>
+Should we ask for the user's billing information at the checkout page from the legal perspective?
 
-<p>Currently, we're using the  following fields:</p>
 
-<ul>
-<li>First Name</li>
-<li>Last Name</li>
-<li>Country</li>
-<li>Address line 1 and Address line 2</li>
-<li>City, Province, and Zip Code</li>
-</ul>
+Currently, we're using the  following fields:
+ 
+ - First Name
+ - Last Name
+ - Country
+ - Address line 1 and Address line 2
+ - City, Province, and Zip Code
 
-<hr>
 
-<p>Here is how the <a href="https://botmakers.net/chatbot-templates" rel="nofollow noreferrer">website</a> looks today:</p>
+-----------------------
+Here is how the [website][2] looks today:
 
-<p><a href="https://i.stack.imgur.com/5PVdA.png" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/5PVdA.png" alt="enter image description here"></a></p>
+[![enter image description here][1]][1]
 
+
+  [1]: https://i.stack.imgur.com/5PVdA.png
+  [2]: https://botmakers.net/chatbot-templates
 
 ## No Answers
 

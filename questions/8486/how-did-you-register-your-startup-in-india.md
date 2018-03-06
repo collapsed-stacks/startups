@@ -4,10 +4,9 @@
 - tagged: `startup-costs`, `business-registration`, `india`
 - score: 2
 
-<p>I am building an android app and I want to register my startup so that I can file taxes etc correctly.</p>
+I am building an android app and I want to register my startup so that I can file taxes etc correctly.
 
-<p>Can someone point me to a document/article detailing how to register my startup? Are there any agencies willing to help me get registered with some payment?</p>
-
+Can someone point me to a document/article detailing how to register my startup? Are there any agencies willing to help me get registered with some payment?
 
 ## No Answers
 

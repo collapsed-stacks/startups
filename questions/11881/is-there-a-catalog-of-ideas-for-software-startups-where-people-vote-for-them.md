@@ -4,11 +4,10 @@
 - tagged: `website`, `software`, `idea`
 - score: 4
 
-<p>Is there something like waiting list for ideas of software startups where people could vote for them. In this way, ideas are validated by future customers.</p>
+Is there something like waiting list for ideas of software startups where people could vote for them. In this way, ideas are validated by future customers.
 
-<p><strong>UPD:</strong>
-I am interested in ProductHunt-like platform. Kickstarter and Indiegogo require lots of preparation and very detailed project description where you already know how you will implement it.</p>
-
+**UPD:**
+I am interested in ProductHunt-like platform. Kickstarter and Indiegogo require lots of preparation and very detailed project description where you already know how you will implement it.
 
 
 ## Answer 12085
@@ -33,12 +32,11 @@ I am interested in ProductHunt-like platform. Kickstarter and Indiegogo require 
 - posted by: [TSR](https://stackexchange.com/users/9029901/tsr) on 2017-01-11
 - score: 1
 
-<p>Yes,</p>
+Yes,
 
-<p>Kickstarter:  <a href="https://www.kickstarter.com/" rel="nofollow noreferrer">https://www.kickstarter.com/</a></p>
+Kickstarter:  https://www.kickstarter.com/
 
-<p>Indiegogo: <a href="https://www.indiegogo.com/" rel="nofollow noreferrer">https://www.indiegogo.com/</a></p>
-
+Indiegogo: https://www.indiegogo.com/
 
 
 

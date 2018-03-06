@@ -4,8 +4,7 @@
 - tagged: `software`
 - score: 5
 
-<p>I have a very good idea and want to start my own business. But I'm not engineer guy( my major is business, I got MBA degree). Now I am looking for a software developer who has experience at least 5 years as co-founder to start a new business. How can I find him or her?</p>
-
+I have a very good idea and want to start my own business. But I'm not engineer guy( my major is business, I got MBA degree). Now I am looking for a software developer who has experience at least 5 years as co-founder to start a new business. How can I find him or her?
 
 
 ## Answer 7660
@@ -13,22 +12,21 @@
 - posted by: [Robert Möstl](https://stackexchange.com/users/1018191/robert-m-stl) on 2015-10-29
 - score: 5
 
-<p>The question is good, but very hard to answer. Here's my attempt:</p>
+The question is good, but very hard to answer. Here's my attempt:
 
-<p>I would lean towards <strong>looking for developers in your local area</strong>. Why local? Because when your partner should be a co-founder, you really need to work face-to-face since there are so many decisions you as business owners have to make over time.</p>
+I would lean towards **looking for developers in your local area**. Why local? Because when your partner should be a co-founder, you really need to work face-to-face since there are so many decisions you as business owners have to make over time.
 
-<p>So the question is <strong>where to find local developers?</strong>
-The answer is pretty simply: everywhere they tend to hang out together. For example</p>
+So the question is **where to find local developers?**
+The answer is pretty simply: everywhere they tend to hang out together. For example
 
-<ul>
-<li>Technical meetups</li>
-<li>Meetups related to startups</li>
-<li>Hackatons</li>
-<li>Co-working spaces</li>
-<li>Local Software Development conferences</li>
-</ul>
+- Technical meetups
+- Meetups related to startups
+- Hackatons
+- Co-working spaces
+- Local Software Development conferences
 
-<p>And if you've found those places the next question is how you can convince a developer to become part of your startup? At least you should give a thought on not hiring a CTO as a co-founder but just outsource development. Maybe you can find an experienced developer as a <em>CTO-for-rent</em> that takes a look at the development on demand.</p>
+And if you've found those places the next question is how you can convince a developer to become part of your startup? At least you should give a thought on not hiring a CTO as a co-founder but just outsource development. Maybe you can find an experienced developer as a *CTO-for-rent* that takes a look at the development on demand.
+
 
 
 
@@ -37,7 +35,7 @@ The answer is pretty simply: everywhere they tend to hang out together. For exam
 - posted by: [Jeff O'Neill](https://stackexchange.com/users/46273/jeff-o-neill) on 2015-10-29
 - score: 3
 
-<p>Angel.co is a good site for this.</p>
+Angel.co is a good site for this.
 
 
 
@@ -46,9 +44,8 @@ The answer is pretty simply: everywhere they tend to hang out together. For exam
 - posted by: [happyhardik](https://stackexchange.com/users/54226/happyhardik) on 2015-11-03
 - score: 0
 
-<p>Along with angle.co, as mentioned earlier, you can also check out: 
-cofounderslab.com, they will list people wishing to be co-founders, near you.</p>
-
+Along with angle.co, as mentioned earlier, you can also check out: 
+cofounderslab.com, they will list people wishing to be co-founders, near you.
 
 
 

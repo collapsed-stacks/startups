@@ -4,8 +4,7 @@
 - tagged: `funding`, `fundraising`
 - score: 2
 
-<p>Yes, I know the proverbial 'Allow for 6 to 9 months or a year' saying. What I want to find is some survey or article that is based on primary data and shows the real distribution of time to 'cash-in-the-bank'.</p>
-
+Yes, I know the proverbial 'Allow for 6 to 9 months or a year' saying. What I want to find is some survey or article that is based on primary data and shows the real distribution of time to 'cash-in-the-bank'.
 
 ## No Answers
 

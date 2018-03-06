@@ -4,12 +4,11 @@
 - tagged: `business-plan`, `market-research`, `target-market`, `market-size`
 - score: 6
 
-<p>So on all the advice sites I see for developing a new product, I see "Research your target market" chiefly for predicting the number of sales you can expect.</p>
+So on all the advice sites I see for developing a new product, I see "Research your target market" chiefly for predicting the number of sales you can expect.
 
-<p>Now this phrase to me just seems vague, I want to break into the board/card/miniatures games market, something which I myself buy a lot of. But what exactly is it that I'm meant to research to gauge my sales off.</p>
+Now this phrase to me just seems vague, I want to break into the board/card/miniatures games market, something which I myself buy a lot of. But what exactly is it that I'm meant to research to gauge my sales off.
 
-<p>I know from being a customer in this market, that it is expanding quite rapidly currently, lots of new games and systems are out, but I don't see how this helps me actually make a sales prediction, as even though I know the market is doing well, I don't know how my specific product will.</p>
-
+I know from being a customer in this market, that it is expanding quite rapidly currently, lots of new games and systems are out, but I don't see how this helps me actually make a sales prediction, as even though I know the market is doing well, I don't know how my specific product will.
 
 
 ## Answer 5379
@@ -17,32 +16,29 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-05-28
 - score: 1
 
-<p>In theory what you <em>should</em> be doing is digging out figures:</p>
+In theory what you *should* be doing is digging out figures:
 
-<ul>
-<li>How much did similar games sell?</li>
-<li>To which audience?</li>
-<li>At what price points?</li>
-</ul>
+- How much did similar games sell?
+- To which audience?
+- At what price points?
 
-<p>Basically, get an idea of <em>who</em> your audience might be, what percentage of it might buy your app, and how much money you stand to make.</p>
+Basically, get an idea of *who* your audience might be, what percentage of it might buy your app, and how much money you stand to make.
 
-<p>Then again, the game industry is a bit weird. Look around you and virtually everyone has a game or more installed on their smartphone. Cohorts of children, adolescents, young adults, house moms, geek moms and dads, and retirees all crave games to some extent. And virtually all households have one or more physical games lying around -- this is your target market based on your comments.</p>
+Then again, the game industry is a bit weird. Look around you and virtually everyone has a game or more installed on their smartphone. Cohorts of children, adolescents, young adults, house moms, geek moms and dads, and retirees all crave games to some extent. And virtually all households have one or more physical games lying around -- this is your target market based on your comments.
 
-<p>You'll find that some games sell like hotcakes while other very similar ones do not sell at all. See for instance recent German style boardgames, e.g. Settlers of Catan or Carcassonne vs more obscure ones that never took off. Or in the past, the likes of Warhammer or Bloodbowl vs the variations of the former that TSR tried to market at one point -- it was so bad I can't even remember the name even though I actually bought it.</p>
+You'll find that some games sell like hotcakes while other very similar ones do not sell at all. See for instance recent German style boardgames, e.g. Settlers of Catan or Carcassonne vs more obscure ones that never took off. Or in the past, the likes of Warhammer or Bloodbowl vs the variations of the former that TSR tried to market at one point -- it was so bad I can't even remember the name even though I actually bought it.
 
-<p>It can look random at first glance. It isn't -- it depends on the user experience, on the promotion, and on whether the game gets prizes or not. Better a mediocre game that you promote left, right, and center than a great one that gets no press at all. And keep in mind that press and users react better to a mediocre game that looks and plays great than to a great game that looks and plays like crap (read: super complex rules).</p>
+It can look random at first glance. It isn't -- it depends on the user experience, on the promotion, and on whether the game gets prizes or not. Better a mediocre game that you promote left, right, and center than a great one that gets no press at all. And keep in mind that press and users react better to a mediocre game that looks and plays great than to a great game that looks and plays like crap (read: super complex rules).
 
-<p>Try this: recruit beta testers in your area. Try game stores, game clubs, etc. Collect feedback and monitor engagement levels. Iterate until the playability is good. Then launch and (prepare this in advance based on your findings) reach out to the press, forums, bloggers, and what have you -- get mentions and reviews.</p>
+Try this: recruit beta testers in your area. Try game stores, game clubs, etc. Collect feedback and monitor engagement levels. Iterate until the playability is good. Then launch and (prepare this in advance based on your findings) reach out to the press, forums, bloggers, and what have you -- get mentions and reviews.
 
-<p>As to how to do market research, the short version is ask questions. Literally interview shop owners, players in your area, ask around in game forums, etc. Get a feel of what they're buying, why, how, where, etc. Contrary to what your feelings may be suggesting you, store owners and players will happily give away just about as much information as you want or need if it's in private and if you're upfront about the fact that your questions stem from a market study to get a feel of how to sell your game and to who -- as board game fans they'll probably be enthusiastic to help you out. In the process you'll almost certainly find a store owner or two who will introduce you to publishers and what have you.</p>
+As to how to do market research, the short version is ask questions. Literally interview shop owners, players in your area, ask around in game forums, etc. Get a feel of what they're buying, why, how, where, etc. Contrary to what your feelings may be suggesting you, store owners and players will happily give away just about as much information as you want or need if it's in private and if you're upfront about the fact that your questions stem from a market study to get a feel of how to sell your game and to who -- as board game fans they'll probably be enthusiastic to help you out. In the process you'll almost certainly find a store owner or two who will introduce you to publishers and what have you.
 
-<p>For sales <em>projections</em> the short version is that, like with any startup, it's an educated guess at best. Look, let's be blunt here: it's a very rare startup founder that gets it precisely right. Some under-estimate, most over-estimate. You'll determine that this or that game sold this or that amount in this and that area. Literally guess how much you'll sell based on where your own product stands compare to them, put that on paper, and basically call it a day. After a year you'll know where you stand and base your predictions on trends and historical data. Until then, take it for what it is in your financial planning: a wishful guess.</p>
+For sales *projections* the short version is that, like with any startup, it's an educated guess at best. Look, let's be blunt here: it's a very rare startup founder that gets it precisely right. Some under-estimate, most over-estimate. You'll determine that this or that game sold this or that amount in this and that area. Literally guess how much you'll sell based on where your own product stands compare to them, put that on paper, and basically call it a day. After a year you'll know where you stand and base your predictions on trends and historical data. Until then, take it for what it is in your financial planning: a wishful guess.
 
-<p>When it comes to your projected sales, the most you'll need to answer to and justify is: "How do you plan to get those sales?" The answer to that lies in how well you did your market study: "Well, this game sold X at $Y and that one did roughly the same. We looked into how they launched and promoted their game, as well as into how good the media reception was. This other one did much worse, and that other one did much better, and we analyzed those too. Based on the data we've collected, we hope to do things like this and that because our audience is like so and so, and hangs out here and there." If you're able to tell something like that to a game publisher, they'll be very impressed -- because most game authors are, I'd imagine, very much like book authors, and have absolutely no idea who their book will cater to.</p>
+When it comes to your projected sales, the most you'll need to answer to and justify is: "How do you plan to get those sales?" The answer to that lies in how well you did your market study: "Well, this game sold X at $Y and that one did roughly the same. We looked into how they launched and promoted their game, as well as into how good the media reception was. This other one did much worse, and that other one did much better, and we analyzed those too. Based on the data we've collected, we hope to do things like this and that because our audience is like so and so, and hangs out here and there." If you're able to tell something like that to a game publisher, they'll be very impressed -- because most game authors are, I'd imagine, very much like book authors, and have absolutely no idea who their book will cater to.
 
-<p>Lastly, don't hesitate to launch a crowd funding campaign if applicable. <a href="https://startups.stackexchange.com/questions/4098/types-of-incentives-for-powerful-crowdfunding/4104#4104">Crowd funding tips here</a>.</p>
-
+Lastly, don't hesitate to launch a crowd funding campaign if applicable. [Crowd funding tips here](https://startups.stackexchange.com/questions/4098/types-of-incentives-for-powerful-crowdfunding/4104#4104).
 
 
 ## Answer 5475

@@ -4,21 +4,23 @@
 - tagged: `marketing`, `market-research`, `target-market`
 - score: 0
 
-<p>I am working on a venture, where the chosen Market is 'Home'.  Within this Market, there are several Sub Markets.  For the purpose of this question, lets single out the 'Art &amp; Wall Decor' Sub Market.</p>
+I am working on a venture, where the chosen Market is 'Home'.  Within this Market, there are several Sub Markets.  For the purpose of this question, lets single out the 'Art & Wall Decor' Sub Market.
 
-<p>The Sub Market of 'Art &amp; Wall Decor', is made up of the following:</p>
+The Sub Market of 'Art & Wall Decor', is made up of the following:
 
-<ul>
-<li>Canvas Prints</li>
-<li>Wall Decal</li>
-<li>Clocks</li>
-</ul>
+- Canvas Prints
+- Wall Decal
+- Clocks
 
-<p>Would these 3 points then be considered as the 'Product Markets' within 'Art &amp; Wall Decor', where I would then break up these Product Markets into their own Product Sub Markets </p>
+Would these 3 points then be considered as the 'Product Markets' within 'Art & Wall Decor', where I would then break up these Product Markets into their own Product Sub Markets 
 
-<p>or </p>
+or 
 
-<p>would the above bullet points simply be another series of Sub Markets within the larger Sub Market of 'Art &amp; Wall Decor' where styles such as 'Floral' and 'Seascapes' etc would then be the Product Markets?</p>
+
+would the above bullet points simply be another series of Sub Markets within the larger Sub Market of 'Art & Wall Decor' where styles such as 'Floral' and 'Seascapes' etc would then be the Product Markets?
+
+
+
 
 
 ## No Answers

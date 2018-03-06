@@ -4,10 +4,9 @@
 - tagged: `mobile-apps`, `business-plan`, `market-research`, `target-market`, `market-size`
 - score: 2
 
-<p>Is there any publicly listed figures for app downloads by category and region? and if not; how would I go about estimating the size and get a verifiable figure? </p>
+Is there any publicly listed figures for app downloads by category and region? and if not; how would I go about estimating the size and get a verifiable figure? 
 
-<p>What I am planning to do is get the total number of downloaded apps in the entertainment category, list down a few similar or competing apps and check out their share of downloads. that would be a very rough estimate, is this acceptable ? </p>
-
+What I am planning to do is get the total number of downloaded apps in the entertainment category, list down a few similar or competing apps and check out their share of downloads. that would be a very rough estimate, is this acceptable ? 
 
 ## No Answers
 

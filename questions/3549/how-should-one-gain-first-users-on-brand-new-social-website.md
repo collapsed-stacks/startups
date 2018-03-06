@@ -4,11 +4,10 @@
 - tagged: `growth`, `social-networking`
 - score: 1
 
-<p>Suppose I open new web site that is kinda like social media with some specific purpose.  Immediately I see big problem - no matter how hard you would advertise your site and how much money you will spend, the guy who goes on your website and sees something like 0-10 users total he will not have any motivation to register there, even if the concept is good, because he expects a lot of different people there with whom he can interact. And registering just with hope that it will be better makes no sense too if site is almost empty, average user don't expect the site going from 10 users to 10k in a month.<br>
-At first I thought of just creating 1000 or so fake accounts, but it would become obvious that they are fake if none of them replies to PM or replies with some generic bot phrases. So this is dead giveaway. </p>
+Suppose I open new web site that is kinda like social media with some specific purpose.  Immediately I see big problem - no matter how hard you would advertise your site and how much money you will spend, the guy who goes on your website and sees something like 0-10 users total he will not have any motivation to register there, even if the concept is good, because he expects a lot of different people there with whom he can interact. And registering just with hope that it will be better makes no sense too if site is almost empty, average user don't expect the site going from 10 users to 10k in a month.  
+At first I thought of just creating 1000 or so fake accounts, but it would become obvious that they are fake if none of them replies to PM or replies with some generic bot phrases. So this is dead giveaway. 
 
-<p>What is the solution for this problem?</p>
-
+What is the solution for this problem?
 
 
 ## Answer 3550
@@ -16,10 +15,9 @@ At first I thought of just creating 1000 or so fake accounts, but it would becom
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-02-27
 - score: 1
 
-<p>What Reddit did was creating fake accounts, and having the founders and employees manually maintain them until there was enough traffic to become sustainable.</p>
+What Reddit did was creating fake accounts, and having the founders and employees manually maintain them until there was enough traffic to become sustainable.
 
-<p>Another way to do it is to deliver enough value to the visitors that they'll basically <em>want</em> to come, register and come back. Your question is too vague to give suggestions of what that might be in your specific case. But in essence, think along the lines of "to attract job candidates, offer job hunting tips, and build traffic and a database of job candidates based on that -- and <em>then</em> go for the job offers."</p>
-
+Another way to do it is to deliver enough value to the visitors that they'll basically *want* to come, register and come back. Your question is too vague to give suggestions of what that might be in your specific case. But in essence, think along the lines of "to attract job candidates, offer job hunting tips, and build traffic and a database of job candidates based on that -- and *then* go for the job offers."
 
 
 ## Answer 3554

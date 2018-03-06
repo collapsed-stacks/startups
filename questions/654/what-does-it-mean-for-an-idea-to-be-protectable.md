@@ -4,15 +4,14 @@
 - tagged: `business-plan`, `intellectual-property`, `investment`
 - score: 4
 
-<p>I just finished watching <a href="http://techcrunch.com/2014/09/08/mark-cuban-explains-the-four-parts-of-an-ideal-investment-pitch/" rel="nofollow">Mark Cuban 4 Parts of an Ideal Investment Pitch</a>.</p>
+I just finished watching [Mark Cuban 4 Parts of an Ideal Investment Pitch][1].
 
-<blockquote>
-  <p>Mark [Cuban] is looking for four things: The company’s core competency, why
-  you’re great, <strong>how the idea is protectable</strong> and how it can scale.</p>
-</blockquote>
+[1]:http://techcrunch.com/2014/09/08/mark-cuban-explains-the-four-parts-of-an-ideal-investment-pitch/
 
-<p>What does it mean for an idea to be protectable?</p>
+> Mark [Cuban] is looking for four things: The company’s core competency, why
+> you’re great, **how the idea is protectable** and how it can scale.
 
+What does it mean for an idea to be protectable?
 
 
 ## Answer 658
@@ -37,22 +36,25 @@
 - posted by: [eggyal](https://stackexchange.com/users/310184/eggyal) on 2014-09-09
 - score: 6
 
-<p>I think Mr Cuban is referring to <em>how your idea can be protected against competitive threats</em>, in a broad sense.</p>
+I think Mr Cuban is referring to *how your idea can be protected against competitive threats*, in a broad sense.
 
-<p>If you've invented something, then you might be able to secure some strong legal protections (against others copying your invention) in the form of a registered patent.  No doubt this was the main form of protection that he had in mind.  As <a href="https://startups.stackexchange.com/a/658">@NickWilde has pointed out</a>, the law can also recognise and protect other <a href="http://www.wipo.int/about-ip/en/index.html#ip" rel="nofollow noreferrer">types of intellectual property</a>.</p>
+If you've invented something, then you might be able to secure some strong legal protections (against others copying your invention) in the form of a registered patent.  No doubt this was the main form of protection that he had in mind.  As [@NickWilde has pointed out](https://startups.stackexchange.com/a/658), the law can also recognise and protect other [types of intellectual property](http://www.wipo.int/about-ip/en/index.html#ip).
 
-<p>But you need not have any intellectual property rights to be able to defend against competition.  I don't condone every one of the following ideas (indeed some may violate competition law in your jurisdiction), but you may nevertheless gain some protection against competitive threats from:</p>
+But you need not have any intellectual property rights to be able to defend against competition.  I don't condone every one of the following ideas (indeed some may violate competition law in your jurisdiction), but you may nevertheless gain some protection against competitive threats from:
 
-<ul>
-<li><p>substantial barriers (e.g. capital investment) against new market entrants;</p></li>
-<li><p>long-established relationships with prospective customers that you can leverage;</p></li>
-<li><p>rewarding customer loyalty and/or increasing their switching costs;</p></li>
-<li><p>securing exclusivity with, or offering incentives to, channel partners;</p></li>
-<li><p>distracting from competitors' marketing efforts;</p></li>
-<li><p>locking-up key marketing vehicles; and</p></li>
-<li><p>aggressively threatening/acquiring/targeting competitors before they launch.</p></li>
-</ul>
+* substantial barriers (e.g. capital investment) against new market entrants;
 
+* long-established relationships with prospective customers that you can leverage;
+
+* rewarding customer loyalty and/or increasing their switching costs;
+
+* securing exclusivity with, or offering incentives to, channel partners;
+
+* distracting from competitors' marketing efforts;
+
+* locking-up key marketing vehicles; and
+
+* aggressively threatening/acquiring/targeting competitors before they launch.
 
 
 

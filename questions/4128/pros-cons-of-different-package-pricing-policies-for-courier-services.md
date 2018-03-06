@@ -4,19 +4,19 @@
 - tagged: `business-model`, `shipping`
 - score: 1
 
-<p>I am starting a courier service, which for now will be ground-based and at the state level. The service will handle delivery of documents to boxes as large as two-feet-squared (2'x2'x2').</p>
+I am starting a courier service, which for now will be ground-based and at the state level. The service will handle delivery of documents to boxes as large as two-feet-squared (2'x2'x2').
 
-<p>Trying to understand how and why we should charge for courier services. For example, should we charge by the package's dimensions, weight, or a combination of both? </p>
+Trying to understand how and why we should charge for courier services. For example, should we charge by the package's dimensions, weight, or a combination of both? 
 
-<p>I see some companies use:</p>
+I see some companies use:
 
-<ul>
-<li><strong>Linear Measurement.</strong> For example, airlines allow free baggage of size <code>l+w+h &lt;= 158cm</code></li>
-<li><strong>Dimensional Weight.</strong> For example, <a href="http://postcalc.usps.com/PopUps/PMMediumFRBox.htm" rel="nofollow">USPS has flat rate boxes</a> that used fixed dimensions and disregard the actual weight of the piece up to 70 pounds.</li>
-</ul>
+ - **Linear Measurement.** For example, airlines allow free baggage of size `l+w+h <= 158cm`
+ - **Dimensional Weight.** For example, [USPS has flat rate boxes][1] that used fixed dimensions and disregard the actual weight of the piece up to 70 pounds.
 
-<p>What are the advantages and disadvantages of these different methods?</p>
+What are the advantages and disadvantages of these different methods?
 
+
+  [1]: http://postcalc.usps.com/PopUps/PMMediumFRBox.htm
 
 ## No Answers
 

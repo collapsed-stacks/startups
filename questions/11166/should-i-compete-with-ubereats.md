@@ -4,22 +4,24 @@
 - tagged: `business-plan`, `business-model`, `strategy`
 - score: 5
 
-<p>I'm considering the possibility of starting a local "Uber for Gourmet Food" app and was wondering if i should even pursue it or not because UberEats may possibly enter the market.</p>
+I'm considering the possibility of starting a local "Uber for Gourmet Food" app and was wondering if i should even pursue it or not because UberEats may possibly enter the market.
 
-<p>But here's why i think we have a chance of co-existing:</p>
+But here's why i think we have a chance of co-existing:
 
-<p><strong>Affordable - Gourmet Menu - Delivered &lt; 30min to select affluent neighborhoods.</strong> </p>
+**Affordable - Gourmet Menu - Delivered < 30min to select affluent neighborhoods.** 
 
-<p>1- The city I want to launch this in, is the capital of a 2nd-world country, where only a few months ago Uber just illegally and successfully launched.</p>
+1- The city I want to launch this in, is the capital of a 2nd-world country, where only a few months ago Uber just illegally and successfully launched.
 
-<p>2 - We offer a different caliber of product in a different way. 
-How? We're not trying to create a supply network of existing restaurants (offering various quality and price ) </p>
+2 - We offer a different caliber of product in a different way. 
+How? We're not trying to create a supply network of existing restaurants (offering various quality and price ) 
 
-<p>We're exclusively focusing on creating 3 five-star dishes ( in-house, powered by famous gourmet chefs). </p>
+We're exclusively focusing on creating 3 five-star dishes ( in-house, powered by famous gourmet chefs). 
 
-<p>3 - We are Boutique. Not Mass Market. We intimately understand the tastes of our affluent niche. </p>
 
-<p>*ironically, we are considering using UBer for our deliveries..just to test out the MVP.</p>
+3 - We are Boutique. Not Mass Market. We intimately understand the tastes of our affluent niche. 
+
+*ironically, we are considering using UBer for our deliveries..just to test out the MVP.
+
 
 
 
@@ -28,11 +30,11 @@ How? We're not trying to create a supply network of existing restaurants (offeri
 - posted by: [Sebhastien](https://stackexchange.com/users/6116817/sebhastien) on 2016-11-16
 - score: 1
 
-<p>First, focusing on a specific niche is key to building the foundation of a successful company. Facebook focused on Harvard students, and then grew from there. I think if you focus on a customer group that you know a lot about, you can better serve those customers that UberEats ever could.</p>
+First, focusing on a specific niche is key to building the foundation of a successful company. Facebook focused on Harvard students, and then grew from there. I think if you focus on a customer group that you know a lot about, you can better serve those customers that UberEats ever could.
 
-<p>Secondly, don't worry about competition. As long as you are doing something that provides value to your customers, you will be heading in the right direction. If Uber was worried about taxis they wouldn't have started. What is important is that you provide value. You never know, tommorrow Uber could shut down uber eats. Duckduckgo is thriving because they serve a different customer base than Google. I had the pleasure of talking to a well know tech investor that thinks there is actually an opportunity for Google to be superseded as the #1 search engine. Google is now in the advertising space and in some cases doesn't provide the best product anymore for some people (myself included).</p>
+Secondly, don't worry about competition. As long as you are doing something that provides value to your customers, you will be heading in the right direction. If Uber was worried about taxis they wouldn't have started. What is important is that you provide value. You never know, tommorrow Uber could shut down uber eats. Duckduckgo is thriving because they serve a different customer base than Google. I had the pleasure of talking to a well know tech investor that thinks there is actually an opportunity for Google to be superseded as the #1 search engine. Google is now in the advertising space and in some cases doesn't provide the best product anymore for some people (myself included).
 
-<p>Finally and most importantly, sales should be your ultimate validation. The guys at AirBnB were laughed at for their idea. But it booked a lot of rentals. If you get people to say they like your idea with actual money, you should be ok.</p>
+Finally and most importantly, sales should be your ultimate validation. The guys at AirBnB were laughed at for their idea. But it booked a lot of rentals. If you get people to say they like your idea with actual money, you should be ok.
 
 
 

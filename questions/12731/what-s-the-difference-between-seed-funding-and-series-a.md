@@ -4,19 +4,21 @@
 - tagged: `funding`, `venture-capital`, `seed`, `fundraising`, `board`
 - score: 2
 
-<p>Is there a fundamental difference between "seed funding" and "series A"? What's the <strong>DEFINITION</strong>?</p>
+Is there a fundamental difference between "seed funding" and "series A"? What's the **DEFINITION**?
 
-<p>The following seem to be oft-repeated but incorrect definitions:</p>
+The following seem to be oft-repeated but incorrect definitions:
 
-<ul>
-<li><p><strong>Source of funding</strong> (friends and family vs. pros): Counterexample: Y-combinator calls its funding "seed".</p></li>
-<li><p><strong>The amount</strong> (less than vs. greater than about $1M): Counterexample: a company I know that raised $3M and called it "seed".</p></li>
-<li><p><strong>First round vs. second</strong>: Counterexample: any company that skipped "seed" and only raised "series A". Likewise, I think there are companies that raise multiple "seed" rounds.</p></li>
-</ul>
+ * **Source of funding** (friends and family vs. pros): Counterexample: Y-combinator calls its funding "seed".
 
-<p>Are there any differences in how the law treats the two rounds, or how the board seats are distributed?</p>
+ * **The amount** (less than vs. greater than about $1M): Counterexample: a company I know that raised $3M and called it "seed".
 
-<p><em>(This question is about USA/California, if that makes any difference)</em></p>
+ * **First round vs. second**: Counterexample: any company that skipped "seed" and only raised "series A". Likewise, I think there are companies that raise multiple "seed" rounds.
+
+Are there any differences in how the law treats the two rounds, or how the board seats are distributed?
+
+*(This question is about USA/California, if that makes any difference)*
+
+
 
 
 
@@ -165,10 +167,9 @@
 - posted by: [Veloz Techform](https://stackexchange.com/users/9435636/veloz-techform) on 2017-05-29
 - score: 2
 
-<p>By definition seed money or seed capital is the money an investor would put in your young business in exchange for equity stakes in your company. In most cases you would raise the seed money from your family, friends or people you know personally and this money would go towards covering the initial expense of your company. </p>
+By definition seed money or seed capital is the money an investor would put in your young business in exchange for equity stakes in your company. In most cases you would raise the seed money from your family, friends or people you know personally and this money would go towards covering the initial expense of your company. 
 
-<p>On the other hand, the Series A round, usually goes into expanding your business, running a comprehensive marketing campaigning and also being aggressive with the pricing. Here you need to keep in mind two important things – Pre-Money Valuation which is what your company is valued at which is 3 million (as per the Seed Funding example) and the Post Money Valuation which is Pre-Money Valuation plus what you raise from the investors. Let’s assume you are able to get a funding 1 million through Series A Funding your valuation would now stand at 4 million.</p>
-
+On the other hand, the Series A round, usually goes into expanding your business, running a comprehensive marketing campaigning and also being aggressive with the pricing. Here you need to keep in mind two important things – Pre-Money Valuation which is what your company is valued at which is 3 million (as per the Seed Funding example) and the Post Money Valuation which is Pre-Money Valuation plus what you raise from the investors. Let’s assume you are able to get a funding 1 million through Series A Funding your valuation would now stand at 4 million.
 
 
 ## Answer 12817
@@ -176,9 +177,11 @@
 - posted by: [itay](https://stackexchange.com/users/5277820/itay) on 2017-06-09
 - score: 1
 
-<p>Seeds funding is the first fund you get for your startup, This money should help you in the initail stage of the startup, In many times seed fund helps the startup to get few employees, build and launch an early product.</p>
+Seeds funding is the first fund you get for your startup, This money should help you in the initail stage of the startup, In many times seed fund helps the startup to get few employees, build and launch an early product.
 
-<p>Series A funding, usually will come after you have the early version of the product and you need to optimaize it. Typically, In series A funding you will raise more money then from seeds funding, and the money should help the company to figure out a business model and ways to optimize the product.</p>
+Series A funding, usually will come after you have the early version of the product and you need to optimaize it. Typically, In series A funding you will raise more money then from seeds funding, and the money should help the company to figure out a business model and ways to optimize the product.
+
+ 
 
 
 

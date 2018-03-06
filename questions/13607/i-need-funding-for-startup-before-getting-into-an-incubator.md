@@ -4,11 +4,11 @@
 - tagged: `tech-company`, `venture-capital`, `angel-investors`, `young-entrepreneurs`, `incubators`
 - score: -1
 
-<p>How can I get funding for my startup from venture capital firms or angel investors? How to write to them and what to write.</p>
+How can I get funding for my startup from venture capital firms or angel investors? How to write to them and what to write.
 
-<p>I have an idea which needs massive funding to be implemented. We have heard about companies like SoftBank group (Japan) have invested billions of dollars in WeWork and Grab. How to get in touch with them?</p>
+I have an idea which needs massive funding to be implemented. We have heard about companies like SoftBank group (Japan) have invested billions of dollars in WeWork and Grab. How to get in touch with them?
 
-<p>P.S: I think that I need to get some funding before applying to an incubator. Share you experience and opinion.</p>
+P.S: I think that I need to get some funding before applying to an incubator. Share you experience and opinion.
 
 
 ## No Answers

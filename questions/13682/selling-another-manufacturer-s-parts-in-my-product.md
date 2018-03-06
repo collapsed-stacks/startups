@@ -4,12 +4,11 @@
 - tagged: `legal`, `entrepreneurship`
 - score: 1
 
-<p>I am in the process of creating a proof of concept for a product and just thinking a little ahead here...</p>
+I am in the process of creating a proof of concept for a product and just thinking a little ahead here...
 
-<p>Let's say (for example's sake) that I am creating a craft product for kids. Part of the fun is being able to use small, colored pieces of plastic film in the activity. Can I just go to e.g. Alibaba and buy the plastic film and resell it with my product? Or would I need a license?</p>
+Let's say (for example's sake) that I am creating a craft product for kids. Part of the fun is being able to use small, colored pieces of plastic film in the activity. Can I just go to e.g. Alibaba and buy the plastic film and resell it with my product? Or would I need a license?
 
-<p>Thanks.</p>
-
+Thanks.
 
 
 ## Answer 13698
@@ -17,8 +16,7 @@
 - posted by: [Pablo Rivera - Yelluw](https://stackexchange.com/users/12380190/pablo-rivera-yelluw) on 2017-11-29
 - score: 0
 
-<p>No license is generally needed as long as you don't advertise their brand by yourself. Just mention that your product will include some brand name accessories. No need to mention the brand.</p>
-
+No license is generally needed as long as you don't advertise their brand by yourself. Just mention that your product will include some brand name accessories. No need to mention the brand.
 
 
 

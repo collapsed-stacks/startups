@@ -4,10 +4,9 @@
 - tagged: `advertising`
 - score: 2
 
-<p>I'm trying to use Twitter Ads audiences to target some of my advertisements but all the audiences I created so far are too small. I tried searching Twitter's documentation but I couldn't find the minimum audience size.</p>
+I'm trying to use Twitter Ads audiences to target some of my advertisements but all the audiences I created so far are too small. I tried searching Twitter's documentation but I couldn't find the minimum audience size.
 
-<p>What's the minimum size?</p>
-
+What's the minimum size?
 
 
 ## Answer 3887

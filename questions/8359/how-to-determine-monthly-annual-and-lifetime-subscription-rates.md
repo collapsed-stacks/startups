@@ -4,8 +4,7 @@
 - tagged: `saas`
 - score: 2
 
-<p>We have a SaaS business model with options to pay a monthly or annually subscription fee. Also in the beginning as a attraction for sponsors we will be offering a lifetime membership for anyone who gives over a certain amount. How would we go about determining the monthly, annual and lifetime subscription rates for a online service with no current user base? What factors should we take into account?  </p>
-
+We have a SaaS business model with options to pay a monthly or annually subscription fee. Also in the beginning as a attraction for sponsors we will be offering a lifetime membership for anyone who gives over a certain amount. How would we go about determining the monthly, annual and lifetime subscription rates for a online service with no current user base? What factors should we take into account?  
 
 
 ## Answer 8361
@@ -13,15 +12,13 @@
 - posted by: [NuWin](https://stackexchange.com/users/6287192/nuwin) on 2016-01-18
 - score: 1
 
-<p>Personally I would factor in the following:</p>
+Personally I would factor in the following:
 
-<ul>
-<li>Costs such as start up costs, salary, customer acquisition costs and etc..</li>
-<li>Close competitor's prices</li>
-<li>Since you are starting a business, you should understand your market and with that information you should have a feel of what customers are willing to pay.</li>
-</ul>
+ - Costs such as start up costs, salary, customer acquisition costs and etc..
+ - Close competitor's prices
+ - Since you are starting a business, you should understand your market and with that information you should have a feel of what customers are willing to pay.
 
-<p>There are other factors as well but with those 3 I think you should be able to come up with a profitable margin.</p>
+There are other factors as well but with those 3 I think you should be able to come up with a profitable margin.
 
 
 

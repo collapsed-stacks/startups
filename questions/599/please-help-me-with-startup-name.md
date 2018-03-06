@@ -4,25 +4,23 @@
 - tagged: `naming`
 - score: 2
 
-<p>I want to name ads service "ligrad" (Liger + Ad). I'm not native english speaker and I don't know how it sound for english ear and what associations might be.</p>
+I want to name ads service "ligrad" (Liger + Ad). I'm not native english speaker and I don't know how it sound for english ear and what associations might be.
 
-<p>I thought about easy understandable and recognizable "AdSpace" or "AdStore" but these names have nothing to do with me personally, and since I put a piece of myself to the project, I would like to somehow associate the name with myself. "Ligrad" is a the best what I could make out of my name and area of service :-) </p>
+I thought about easy understandable and recognizable "AdSpace" or "AdStore" but these names have nothing to do with me personally, and since I put a piece of myself to the project, I would like to somehow associate the name with myself. "Ligrad" is a the best what I could make out of my name and area of service :-) 
 
-<p>Could you please share your thoughts about this name.</p>
+Could you please share your thoughts about this name.
 
-<p>Thank you in advance!</p>
+Thank you in advance!
 
-<p>UPDATE:
-Recently we with team come up to the following list of names:</p>
+UPDATE:
+Recently we with team come up to the following list of names:
 
-<ol>
-<li>LigrAd</li>
-<li>AdStore</li>
-<li>AdView</li>
-<li>AdOn</li>
-</ol>
+1. LigrAd
+2. AdStore
+3. AdView
+4. AdOn
 
-<p>Please help to choose.</p>
+Please help to choose.
 
 
 
@@ -94,14 +92,13 @@ Recently we with team come up to the following list of names:</p>
 - posted by: [idjuradj](https://stackexchange.com/users/1831929/idjuradj) on 2014-09-04
 - score: 0
 
-<p>I understand your wish to incorporate your family name into the name of your startup, but have you thought about doing the same with your first name?</p>
+I understand your wish to incorporate your family name into the name of your startup, but have you thought about doing the same with your first name?
 
-<p>Maybe something like DeAd, or DenisAd or something in that way?</p>
+Maybe something like DeAd, or DenisAd or something in that way?
 
-<p>I personally would avoid AdStore and similar soultions, because they sound too generic for me, or it can also associate with something that Google made (sounds like AdSense, AdWords)</p>
+I personally would avoid AdStore and similar soultions, because they sound too generic for me, or it can also associate with something that Google made (sounds like AdSense, AdWords)
 
-<p>I believe that it might sound to 'sharp' or unnatural if your targeting an audience in the english-speaking areas.</p>
-
+I believe that it might sound to 'sharp' or unnatural if your targeting an audience in the english-speaking areas.
 
 
 ## Answer 603
@@ -109,12 +106,11 @@ Recently we with team come up to the following list of names:</p>
 - posted by: [Sepano](https://stackexchange.com/users/1686334/sepano) on 2014-09-03
 - score: -1
 
-<p>It can be pronounced in different ways. such az the ones that @jdero mentioned. </p>
+It can be pronounced in different ways. such az the ones that @jdero mentioned. 
 
-<p>Leegrad Lygrad Ligrad Liegrad or ...</p>
+Leegrad Lygrad Ligrad Liegrad or ...
 
-<p>So in my opinion it is not suitable </p>
-
+So in my opinion it is not suitable 
 
 
 ## Answer 607
@@ -122,22 +118,21 @@ Recently we with team come up to the following list of names:</p>
 - posted by: [user675](https://stackexchange.com/users/4980122/user675) on 2014-09-03
 - score: -2
 
-<p>I would like <code>Liger8</code>, as homage to the <a href="http://continuum.wikia.com/wiki/Liber8" rel="nofollow">Liber8 group</a>.</p>
+I would like `Liger8`, as homage to the [Liber8 group](http://continuum.wikia.com/wiki/Liber8).
 
-<p>This might also give you some extra traffic if people mistype Liber8 because g and b are close on the keyboard. :)</p>
+This might also give you some extra traffic if people mistype Liber8 because g and b are close on the keyboard. :)
 
-<p>The -grad usually means -town in Slavic languages, like in Stalingrad, Beograd, ..</p>
+The -grad usually means -town in Slavic languages, like in Stalingrad, Beograd, ..
 
-<p>Using a capital A seems better to distinguish it:</p>
+Using a capital A seems better to distinguish it:
 
-<p><code>LigrAd</code> </p>
+`LigrAd` 
 
-<p>Maybe even use your full name, so people have a light bulb moment when they combine 1 and 1:</p>
+Maybe even use your full name, so people have a light bulb moment when they combine 1 and 1:
 
-<p><code>LigerAd</code></p>
+`LigerAd`
 
-<p>And make sure you have all the domain names registered. </p>
-
+And make sure you have all the domain names registered. 
 
 
 

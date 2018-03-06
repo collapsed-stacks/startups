@@ -4,12 +4,11 @@
 - tagged: `marketing`, `growth`, `market-research`, `target-market`, `market-size`
 - score: 6
 
-<p>I am wondering is it is possible to determine (predict) the size of a market in the future?</p>
+I am wondering is it is possible to determine (predict) the size of a market in the future?
 
-<p>I have calculated the current market size of my app idea, but I wish to predict the size of the market in the near future to ensure the survival of my application.</p>
+I have calculated the current market size of my app idea, but I wish to predict the size of the market in the near future to ensure the survival of my application.
 
-<p>I understand market growth is a metric that can predict which direction a market is going towards, but I want to estimate the <code>total volume</code> of the market in the near future. Is it possible?</p>
-
+I understand market growth is a metric that can predict which direction a market is going towards, but I want to estimate the `total volume` of the market in the near future. Is it possible?
 
 
 ## Answer 9003
@@ -17,10 +16,9 @@
 - posted by: [PV22](https://stackexchange.com/users/8264469/pv22) on 2016-04-19
 - score: 1
 
-<p>What you could do is find total market research and then offer a growth model for your specific app's market share. This can be fairly subjective, but this is always the case with "predictive" models. </p>
+What you could do is find total market research and then offer a growth model for your specific app's market share. This can be fairly subjective, but this is always the case with "predictive" models. 
 
-<p>Consider modifying your original question, to be more detailed. Without more information regarding the specific content of the app, its difficult to give a more specific answer.</p>
-
+Consider modifying your original question, to be more detailed. Without more information regarding the specific content of the app, its difficult to give a more specific answer.
 
 
 ## Answer 9007

@@ -4,18 +4,13 @@
 - tagged: `marketing`, `sales`, `field-sales`
 - score: 2
 
-<p>When you are a Techy start up, then it is often difficult and hard to do field sales.<br>
-In this case, how we should proceed ?  </p>
+When you are a Techy start up, then it is often difficult and hard to do field sales.  
+In this case, how we should proceed ?  
 
-<blockquote>
-  <ol>
-  <li>One way is inbound marketing using social media, blogs etc.</li>
-  <li>Second way is <a href="/questions/tagged/field-sales" class="post-tag" title="show questions tagged &#39;field-sales&#39;" rel="tag">field-sales</a> .</li>
-  </ol>
-</blockquote>
+ >1. One way is inbound marketing using social media, blogs etc.
+ >2. Second way is [tag:field-sales] .
 
-<p>Exactly what should be the starting point for sales and marketing in start up ?</p>
-
+Exactly what should be the starting point for sales and marketing in start up ?
 
 
 ## Answer 606

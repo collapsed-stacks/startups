@@ -4,8 +4,7 @@
 - tagged: `equity`, `intellectual-property`
 - score: 4
 
-<p>I am in a team where we are developing a web application. I am the main and only coder available in the team. Company is not registered yet and will be registered in about a month. I didn't join based on any agreement for salary or anything. My only goal was to make this startup successful and I had to work a lot to present our crude product to one of our future clients (They were happy). We have not discussed about splitting of shares among us. What should I push for, I own the IP of the whole code and I don't want to cause any differences among us by claiming that I need higher share than them.</p>
-
+I am in a team where we are developing a web application. I am the main and only coder available in the team. Company is not registered yet and will be registered in about a month. I didn't join based on any agreement for salary or anything. My only goal was to make this startup successful and I had to work a lot to present our crude product to one of our future clients (They were happy). We have not discussed about splitting of shares among us. What should I push for, I own the IP of the whole code and I don't want to cause any differences among us by claiming that I need higher share than them.
 
 
 ## Answer 9040
@@ -42,14 +41,13 @@
 - posted by: [vpego](https://stackexchange.com/users/7073322/vpego) on 2015-12-26
 - score: 1
 
-<p>Well, <strong>if everyone</strong> is working full-time then, indeed, you don't need higher share.</p>
+Well, **if everyone** is working full-time then, indeed, you don't need higher share.
 
-<p>If there are 3 of you, you should go 33.33% each.</p>
+If there are 3 of you, you should go 33.33% each.
 
-<p>Always go fo equal share, always. This will save you from trouble since the beginning.</p>
+Always go fo equal share, always. This will save you from trouble since the beginning.
 
-<p>No matter who is the smarter (it seems that would be you =] ) </p>
-
+No matter who is the smarter (it seems that would be you =] ) 
 
 
 

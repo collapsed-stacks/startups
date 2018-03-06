@@ -4,12 +4,11 @@
 - tagged: `marketing`, `business-plan`, `finance`, `learning`
 - score: 0
 
-<p>To be a good entrepreneur and succeed in your start-up and beyond, or simply to be good in business and finance fields, one needs to read some good books and study some good topics.</p>
+To be a good entrepreneur and succeed in your start-up and beyond, or simply to be good in business and finance fields, one needs to read some good books and study some good topics.
 
-<p>The problem is that there are many sources out there and no one can read everything. </p>
+The problem is that there are many sources out there and no one can read everything. 
 
-<p>So it would be amazing if someone can list the titles of the most influential books that can boost you to success.</p>
-
+So it would be amazing if someone can list the titles of the most influential books that can boost you to success.
 
 
 ## Answer 5891

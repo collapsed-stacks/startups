@@ -4,10 +4,9 @@
 - tagged: `united-states`, `startup-costs`, `accounting`
 - score: 0
 
-<p>I spent $300 on incorporating a C-Corp through an online service, from my personal accounts.</p>
+I spent $300 on incorporating a C-Corp through an online service, from my personal accounts.
 
-<p>What is the proper accounting for that?</p>
-
+What is the proper accounting for that?
 
 ## No Answers
 

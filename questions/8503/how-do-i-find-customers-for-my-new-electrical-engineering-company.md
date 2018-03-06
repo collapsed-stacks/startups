@@ -4,13 +4,12 @@
 - tagged: `marketing`, `startup-costs`, `customer-development`
 - score: 1
 
-<p>I have a new engineering company with only one employee for now (myself). </p>
+I have a new engineering company with only one employee for now (myself). 
 
-<p>How do I find customers ? <br />
-What is the best way ? </p>
+How do I find customers ? <br />
+What is the best way ? 
 
-<p>I specialize in embedded electronics, circuit board design, sensors, and embedded and firmware programming. I have 5 years work experience at a big wellknown company with a master's degree in electrical engineering. What should my strategy for finding clients be?</p>
-
+I specialize in embedded electronics, circuit board design, sensors, and embedded and firmware programming. I have 5 years work experience at a big wellknown company with a master's degree in electrical engineering. What should my strategy for finding clients be?
 
 
 ## Answer 8505

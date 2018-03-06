@@ -4,12 +4,11 @@
 - tagged: `business-plan`, `sales`, `business-proposal`
 - score: 5
 
-<p>Say there is a new retail product that can't be delivered without some investment upfront and the market acceptance is unknown. </p>
+Say there is a new retail product that can't be delivered without some investment upfront and the market acceptance is unknown. 
 
-<p>A 1% conversion rate for households within a mile radius would be more than adequate to sustain the business. How can one know if the actual conversion rate will be 1% or 0.1% ?</p>
+A 1% conversion rate for households within a mile radius would be more than adequate to sustain the business. How can one know if the actual conversion rate will be 1% or 0.1% ?
 
-<p>You would need a very large sample group to get that kind of precision in estimating. It seems as if it's ultimately a risk no matter what, so how does a sales projection serve to make a business plan either good or bad ?<br /> Is it just a kind of sanity check ?</p>
-
+You would need a very large sample group to get that kind of precision in estimating. It seems as if it's ultimately a risk no matter what, so how does a sales projection serve to make a business plan either good or bad ?<br /> Is it just a kind of sanity check ?
 
 
 ## Answer 4147
@@ -30,33 +29,31 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-04-29
 - score: 4
 
-<blockquote>
-  <p>how does a sales projection serve to make a business plan either good or bad?</p>
-</blockquote>
+> how does a sales projection serve to make a business plan either good or bad?
 
-<p>Short answer: it doesn't.</p>
+Short answer: it doesn't.
 
-<p>As you presumably know already, a sales projection beyond a quarter is nonsense for startups.</p>
+As you presumably know already, a sales projection beyond a quarter is nonsense for startups.
 
-<p>If you suggest me that you'll grow X% per month on average, my honest answer would be: how and based on what inputs? You're planning for outputs, but what are your actual inputs in there, and why are they linear? Growth doesn't magically come; you need to feed it, and feed it you should with experiments and new ideas to execute, or new staff to execute the latter.</p>
+If you suggest me that you'll grow X% per month on average, my honest answer would be: how and based on what inputs? You're planning for outputs, but what are your actual inputs in there, and why are they linear? Growth doesn't magically come; you need to feed it, and feed it you should with experiments and new ideas to execute, or new staff to execute the latter.
 
-<p>The day-to-day reality is closer to this:</p>
+The day-to-day reality is closer to this:
 
-<ul>
-<li><p>Marketing will gang up with engineering to run a few growth experiments each month. Some will succeed, some will fail. Some months will get +Y%, while other months will go sideways.</p></li>
-<li><p>Marketing will gang up with design to run a few UX changes. Some will succeed, some will fail. Some months will get +Y%, while other months will go sideways.</p></li>
-<li><p>Marketing/Sales will run with new ideas and execute them. Some will work, some will not. Some months will get +Y%, while other months will go sideways.</p></li>
-<li><p>Marketing/Sales found something that worked and is repeatable, so went on to hire someone to execute a whole lot more of it for +Y% growth.</p></li>
-</ul>
+- Marketing will gang up with engineering to run a few growth experiments each month. Some will succeed, some will fail. Some months will get +Y%, while other months will go sideways.
 
-<p>At the level of a large organization, or in a startup across the year, you can aggregate and get X% per month growth on average indeed. But at the level of a startup on a day to day basis, a single idea or experiment can make the difference between going from no traction whatsoever to full-on exponential growth. And you've frankly no idea what tomorrow may look like if you're pivoting all the time.</p>
+- Marketing will gang up with design to run a few UX changes. Some will succeed, some will fail. Some months will get +Y%, while other months will go sideways.
 
-<p>In your particular case (settling in a new country), your question makes it sound like you've only direct sales channels, but testing a new market can also be done using distributors. As such, it's screaming <em>indirect</em> sales, but without further information it's hard to tell if that is correct.</p>
+- Marketing/Sales will run with new ideas and execute them. Some will work, some will not. Some months will get +Y%, while other months will go sideways.
 
-<p>As to surveys, they can be valuable indeed, or completely worthless. Henry Ford put it this way: Had I asked my customers what they wanted they'd have answered stronger horses. And Antoine Parisi reportedly convinced the initial investors of Europe Assistance with completely made up data.</p>
+- Marketing/Sales found something that worked and is repeatable, so went on to hire someone to execute a whole lot more of it for +Y% growth.
 
-<p>Your sanity check in the end is this: go with your hunch. If you're selling in your current market, and you think you can sell in another, then go with that hunch, try it (using indirect sales at first if the investment is material), and see how it goes.</p>
+At the level of a large organization, or in a startup across the year, you can aggregate and get X% per month growth on average indeed. But at the level of a startup on a day to day basis, a single idea or experiment can make the difference between going from no traction whatsoever to full-on exponential growth. And you've frankly no idea what tomorrow may look like if you're pivoting all the time.
 
+In your particular case (settling in a new country), your question makes it sound like you've only direct sales channels, but testing a new market can also be done using distributors. As such, it's screaming *indirect* sales, but without further information it's hard to tell if that is correct.
+
+As to surveys, they can be valuable indeed, or completely worthless. Henry Ford put it this way: Had I asked my customers what they wanted they'd have answered stronger horses. And Antoine Parisi reportedly convinced the initial investors of Europe Assistance with completely made up data.
+
+Your sanity check in the end is this: go with your hunch. If you're selling in your current market, and you think you can sell in another, then go with that hunch, try it (using indirect sales at first if the investment is material), and see how it goes.
 
 
 

@@ -4,29 +4,26 @@
 - tagged: `lean-startup`, `project-management`
 - score: 0
 
-<p>I've joined hands with 2 other people for startups . My job responsibilities are </p>
+I've joined hands with 2 other people for startups . My job responsibilities are 
 
-<ul>
-<li>Project Management</li>
-<li>Recruitment</li>
-<li>Mobile app development</li>
-<li>Manager(Managing other employees)</li>
-<li>strategies for the company's growth</li>
-</ul>
+ - Project Management
+ - Recruitment
+ - Mobile app development
+ - Manager(Managing other employees)
+ - strategies for the company's growth
 
-<p>Other 2 people's role </p>
+Other 2 people's role 
+ 
 
-<ul>
-<li>Investing for companies needs, payment for employees</li>
-<li>Sales and marketing for getting new projects</li>
-<li>Helping me if anything required for working. </li>
-</ul>
+ - Investing for companies needs, payment for employees
+ - Sales and marketing for getting new projects
+ - Helping me if anything required for working. 
+ 
+Right now i'm only getting paid for the project work not for other responsibilities what I do. 
 
-<p>Right now i'm only getting paid for the project work not for other responsibilities what I do. </p>
+They said they will give me share from the company . I don't know how much to ask, as I feel major operations for running the company I take care and leading and they are investing and getting project contacts. 
 
-<p>They said they will give me share from the company . I don't know how much to ask, as I feel major operations for running the company I take care and leading and they are investing and getting project contacts. </p>
-
-<p>Please consider and help with good numbers.   </p>
+Please consider and help with good numbers.   
 
 
 

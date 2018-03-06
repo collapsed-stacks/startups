@@ -4,10 +4,9 @@
 - tagged: `copyright`, `media`, `video`
 - score: 0
 
-<p>We are looking for news services that we can use their videos commercially. Anyone knows any distributor or websites that provide free news videos?</p>
+We are looking for news services that we can use their videos commercially. Anyone knows any distributor or websites that provide free news videos?
 
-<p>All popular media channels (CNN, BBC, NBC etc.) protect their content with copyright laws. It's allowed to download their videos for personal usage but nothing is allowed for commercial purposes. Other option is subscribing to Reuters or similar organizations but we consider free/affordable options first since our startup is in very early stage.</p>
-
+All popular media channels (CNN, BBC, NBC etc.) protect their content with copyright laws. It's allowed to download their videos for personal usage but nothing is allowed for commercial purposes. Other option is subscribing to Reuters or similar organizations but we consider free/affordable options first since our startup is in very early stage.
 
 ## No Answers
 

@@ -4,10 +4,9 @@
 - tagged: `pricing`, `retail`
 - score: 2
 
-<p>I am working on a startup and there is a requirement where I have to compare the user given price of a product with its MRP (Maximum Retail Price). These are grocery products I am taking about. </p>
+I am working on a startup and there is a requirement where I have to compare the user given price of a product with its MRP (Maximum Retail Price). These are grocery products I am taking about. 
 
-<p>Is there any way I can get the MRPs of Consumer Packaged Goods?</p>
-
+Is there any way I can get the MRPs of Consumer Packaged Goods?
 
 ## No Answers
 

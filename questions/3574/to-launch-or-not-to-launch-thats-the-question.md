@@ -4,28 +4,31 @@
 - tagged: `launch`
 - score: 11
 
-<p>I am currently building a product and after some weeks it's now running.
-Due to my limited coding skills in some languages used, (mainly SQL) it does the job, but the code is - nicely put - a mess. It does work though, and that pretty good. </p>
+I am currently building a product and after some weeks it's now running.
+Due to my limited coding skills in some languages used, (mainly SQL) it does the job, but the code is - nicely put - a mess. It does work though, and that pretty good. 
 
-<p>The question is :<br />
-<em>Should I launch the product (which is probably going to generate some attention - my friends are pretty much begging for a beta) now or later, with improved code?</em></p>
+The question is :<br />
+*Should I launch the product (which is probably going to generate some attention - my friends are pretty much begging for a beta) now or later, with improved code?*
 
-<p>Right now, I don't have multi-threading implemented, and I don't have the skills to do it. It would only affect the performance, if the site generates more than 1000 hits a day.</p>
+Right now, I don't have multi-threading implemented, and I don't have the skills to do it. It would only affect the performance, if the site generates more than 1000 hits a day.
 
-<p><strong>Pros:</strong></p>
+**Pros:**
 
-<ul>
-<li>Getting experience with user behaviour</li>
-<li>Having a product to show to skilled programmers</li>
-<li>Generating attention</li>
-</ul>
+* Getting experience with user behaviour
+* Having a product to show to skilled programmers
+* Generating attention
 
-<p><strong>Cons:</strong></p>
+**Cons:**
 
-<ul>
-<li>Messed up start if server/service breaks down.</li>
-<li>Idea ist out in the wild, ready to be stolen and coded in a better way</li>
-</ul>
+* Messed up start if server/service breaks down.
+* Idea ist out in the wild, ready to be stolen and coded in a better way
+
+
+
+
+
+
+
 
 
 
@@ -57,14 +60,11 @@ Due to my limited coding skills in some languages used, (mainly SQL) it does the
 - posted by: [blunders](https://stackexchange.com/users/216182/blunders) on 2015-03-02
 - score: 5
 
-<p>Yes, you should launch the app, and learn as much as you are able to learn from it.</p>
+Yes, you should launch the app, and learn as much as you are able to learn from it.
 
-<blockquote>
-  <p><strong>"...but someone might steal the idea and..."</strong></p>
-</blockquote>
+> **"...but someone might steal the idea and..."**
 
-<p>No one is going to steal your idea, ideas can't be stolen. </p>
-
+No one is going to steal your idea, ideas can't be stolen. 
 
 
 ## Answer 3578
@@ -72,10 +72,9 @@ Due to my limited coding skills in some languages used, (mainly SQL) it does the
 - posted by: [guillaume](https://stackexchange.com/users/1961248/guillaume) on 2015-03-02
 - score: 3
 
-<p>Launch a private beta with your friends only. Not that you should really be afraid of someone copying you, nobody is going to drop what they're doing to focus on cloning your app unless it's a huge hit and a couple of months won't be enough for you to get prepared anyway. But it's safer to iron out bugs with people who will forgive anything. Nobody likes buggy software. Then go to invite-only or directly to public beta.</p>
+Launch a private beta with your friends only. Not that you should really be afraid of someone copying you, nobody is going to drop what they're doing to focus on cloning your app unless it's a huge hit and a couple of months won't be enough for you to get prepared anyway. But it's safer to iron out bugs with people who will forgive anything. Nobody likes buggy software. Then go to invite-only or directly to public beta.
 
-<p>1000 hits/day is nothing (1 visitor every minute or so? I hope requests don't take 60s to respond) and the wrong thing to measure. 1000 concurrent users at peak time is, I believe, easy with a beefy server depending on what you're doing.</p>
-
+1000 hits/day is nothing (1 visitor every minute or so? I hope requests don't take 60s to respond) and the wrong thing to measure. 1000 concurrent users at peak time is, I believe, easy with a beefy server depending on what you're doing.
 
 
 ## Answer 5203

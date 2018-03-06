@@ -4,8 +4,7 @@
 - tagged: `angel-investors`, `investors`
 - score: 10
 
-<p>You often hear the term "Angel Investors" in the context of starting a business, but the actual investors tend to be few and far between. How do you find them without paying a firm to connect you? And once you do, how do you know when they're asking for way too much up front?</p>
-
+You often hear the term "Angel Investors" in the context of starting a business, but the actual investors tend to be few and far between. How do you find them without paying a firm to connect you? And once you do, how do you know when they're asking for way too much up front?
 
 
 ## Answer 234

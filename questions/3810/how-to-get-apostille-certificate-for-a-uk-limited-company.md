@@ -4,8 +4,7 @@
 - tagged: `united-kingdom`, `ltd`
 - score: 2
 
-<p>I'm planning to expand my services abroad and some companies requested Apostille Certificate for that. How I can apply for that or where I can get it?</p>
-
+I'm planning to expand my services abroad and some companies requested Apostille Certificate for that. How I can apply for that or where I can get it?
 
 
 ## Answer 3813

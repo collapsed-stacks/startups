@@ -4,20 +4,19 @@
 - tagged: `domain-name`
 - score: 4
 
-<p>For a website it is best to get the direct .com domain name:</p>
+For a website it is best to get the direct .com domain name:
 
-<p>www.pocket.com</p>
+www.pocket.com
 
-<p>But those are usually taken and a lot of startups take whatever close they can find:</p>
+But those are usually taken and a lot of startups take whatever close they can find:
 
-<p>www.getpocket.com</p>
+www.getpocket.com
 
-<p>But would the .xyz be better or worse than the 'get' prefix?:</p>
+But would the .xyz be better or worse than the 'get' prefix?:
 
-<p>www.pocket.xyz</p>
+www.pocket.xyz
 
-<p>The important part in my opinion is sounding 'legit' and users remembering the domain name. Does .xyz make that happen?</p>
-
+The important part in my opinion is sounding 'legit' and users remembering the domain name. Does .xyz make that happen?
 
 
 ## Answer 12024
@@ -69,16 +68,15 @@ Also google <a href="https://abc.xyz/" rel="nofollow">made it hip</a> a few days
 - posted by: [Nero](https://stackexchange.com/users/1705837/nero) on 2015-08-15
 - score: 0
 
-<p>Whether .xyz is an appropriate TLD for your company's web presence is probably dependent on the type of your company, the culture and how it matches to your product/service/whatever you're offering.</p>
+Whether .xyz is an appropriate TLD for your company's web presence is probably dependent on the type of your company, the culture and how it matches to your product/service/whatever you're offering.
 
-<p>For example, for a startup in the fintech segment, a .com or some local TLD like .eu, .de (for German Finch Startups), etc. <em>may</em> be a better choice. </p>
+For example, for a startup in the fintech segment, a .com or some local TLD like .eu, .de (for German Finch Startups), etc. *may* be a better choice. 
 
-<p>On the other hand, if your company targets young kids who learn reading (better/faster) and their parents, a .xyz TLD is <em>may</em> be just the perfect choice.</p>
+On the other hand, if your company targets young kids who learn reading (better/faster) and their parents, a .xyz TLD is *may* be just the perfect choice.
 
-<p>Also, abc.xyz is definitely a nice domain for Alphabet, but microsoft.xyz sounds weird in my opinion.</p>
+Also, abc.xyz is definitely a nice domain for Alphabet, but microsoft.xyz sounds weird in my opinion.
 
-<p>There are probably better examples and there will be exceptions to the examples, hence the <em>may</em> in the examples.</p>
-
+There are probably better examples and there will be exceptions to the examples, hence the *may* in the examples.
 
 
 ## Answer 6054
@@ -86,14 +84,13 @@ Also google <a href="https://abc.xyz/" rel="nofollow">made it hip</a> a few days
 - posted by: [Kamuela Franco](https://stackexchange.com/users/3514614/kamuela-franco) on 2015-08-15
 - score: 0
 
-<p>Whether or not a domain fits your target market is entirely determined by your target market. An audience of programmers is quite conditioned to .IO TLD's whereas the average young person may be less so. If your market is at all older and generally not online much, you are almost exclusively restricted to a .com TLD in my opinion.</p>
+Whether or not a domain fits your target market is entirely determined by your target market. An audience of programmers is quite conditioned to .IO TLD's whereas the average young person may be less so. If your market is at all older and generally not online much, you are almost exclusively restricted to a .com TLD in my opinion.
 
-<p>Also, you need to think about how the site will be marketed. You have to say it aloud and be comfortable getting people to pronounce and spell it with as little ambiguity as possible. URL shortening sites that are most often passed around on Social Media do not need to follow this rule because most people aren't ever going to use them outside of the context of easy sharing on Social Media.</p>
+Also, you need to think about how the site will be marketed. You have to say it aloud and be comfortable getting people to pronounce and spell it with as little ambiguity as possible. URL shortening sites that are most often passed around on Social Media do not need to follow this rule because most people aren't ever going to use them outside of the context of easy sharing on Social Media.
 
-<p>I don't think there is a TLD for "startups," and I personally feel like you should not think of yourself as one outside of anywhere it benefits you like funding rounds. Your company's brand determines nearly everything about its present and restricts or frees a lot of its future. That being said, I think your "getPRODUCT.com" isn't such a bad idea because your brand is still captured, and it may not be as difficult as you'd expect to acquire the TLD you'd prefer later on.</p>
+I don't think there is a TLD for "startups," and I personally feel like you should not think of yourself as one outside of anywhere it benefits you like funding rounds. Your company's brand determines nearly everything about its present and restricts or frees a lot of its future. That being said, I think your "getPRODUCT.com" isn't such a bad idea because your brand is still captured, and it may not be as difficult as you'd expect to acquire the TLD you'd prefer later on.
 
-<p>I hope I've given you something to chew on.</p>
-
+I hope I've given you something to chew on.
 
 
 ## Answer 12326
@@ -101,22 +98,19 @@ Also google <a href="https://abc.xyz/" rel="nofollow">made it hip</a> a few days
 - posted by: [Smit](https://stackexchange.com/users/7665731/smit) on 2017-03-15
 - score: 0
 
-<blockquote>
-  <p>Unique is good, but not random.</p>
-</blockquote>
+> Unique is good, but not random.
 
-<p>There is reason behind all the domain such as</p>
+There is reason behind all the domain such as
 
-<p>.com is mainly for commercial</p>
+.com is mainly for commercial
 
-<p>.biz is for startup biz mainly for B2B</p>
+.biz is for startup biz mainly for B2B
 
-<p>.org is for organization</p>
+.org is for organization
 
-<p>etc.</p>
+etc.
 
-<p>So you also have define the purpose of the domain. <code>.xyz</code> will be good for application about random or unknown stuff. Because we usually say <code>xyz</code> product.</p>
-
+So you also have define the purpose of the domain. `.xyz` will be good for application about random or unknown stuff. Because we usually say `xyz` product.
 
 
 ## Answer 13434
@@ -124,26 +118,23 @@ Also google <a href="https://abc.xyz/" rel="nofollow">made it hip</a> a few days
 - posted by: [Rod Michael Perez](https://stackexchange.com/users/11784393/rod-michael-perez) on 2017-10-03
 - score: 0
 
-<p>I can understand the appeal of a unique domain. However, you should always prioritize your market objectives first. </p>
+I can understand the appeal of a unique domain. However, you should always prioritize your market objectives first. 
 
-<p>Your <strong>BRAND</strong> has to be:</p>
+Your **BRAND** has to be:
 
-<ol>
-<li>Memorable/Catchy</li>
-<li>Close enough to associate with keywords they hope to rank with on search engines</li>
-<li>Can be easily typed into a search bar without minimal effort and confusion (short, easy to spell)</li>
-</ol>
+ 1. Memorable/Catchy
+ 2. Close enough to associate with keywords they hope to rank with on search engines
+ 3. Can be easily typed into a search bar without minimal effort and confusion (short, easy to spell)
 
-<p>A brand is usually remembered through its <strong>name</strong>, and not through its domain extension. To prove my point, name 3 websites off the top of your head. Do you usually say their extension or just the brand?</p>
+A brand is usually remembered through its **name**, and not through its domain extension. To prove my point, name 3 websites off the top of your head. Do you usually say their extension or just the brand?
 
-<p>You probably just mentioned their brand. Next, if you were a random user, you'd probably type out .com first because it's the most used and thus the easiest to remember.</p>
+You probably just mentioned their brand. Next, if you were a random user, you'd probably type out .com first because it's the most used and thus the easiest to remember.
 
-<p>Another factor that impacts your choice of domain extension would be your target market. .com extensions are great for a global audience. So are .co and .io. Recently, .xyz is said to be growing more and more popular because it's the last 3 letters of the alphabet. I am personally still skeptical about this last domain extension. I would put my money on either .co or .io first.</p>
+Another factor that impacts your choice of domain extension would be your target market. .com extensions are great for a global audience. So are .co and .io. Recently, .xyz is said to be growing more and more popular because it's the last 3 letters of the alphabet. I am personally still skeptical about this last domain extension. I would put my money on either .co or .io first.
 
-<p><strong>TL;DR:</strong> Is .XYZ "acceptable"? Yes. Authoritative? At this point, not so much.</p>
+**TL;DR:** Is .XYZ "acceptable"? Yes. Authoritative? At this point, not so much.
 
-<p>Don't focus too much on your domain extension. Think about your brand and content first.</p>
-
+Don't focus too much on your domain extension. Think about your brand and content first.
 
 
 

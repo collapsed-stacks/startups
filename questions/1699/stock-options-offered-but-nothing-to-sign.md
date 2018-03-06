@@ -4,12 +4,11 @@
 - tagged: `legal`, `stock-options`
 - score: 8
 
-<p>I recently started a new job. The offer letter said part of the job offer was 5,000 stock options. I've never received any documents or contracts to sign regarding these options after working here for two months. HR tells me everything is fine, I have my options. </p>
+I recently started a new job. The offer letter said part of the job offer was 5,000 stock options. I've never received any documents or contracts to sign regarding these options after working here for two months. HR tells me everything is fine, I have my options. 
 
-<p>Shouldn't I have to sign some document or contract about these options? How do I know the details of my options? How do I know the price of my options? What should I ask HR for, as far as information to confirm/verify my options?</p>
+Shouldn't I have to sign some document or contract about these options? How do I know the details of my options? How do I know the price of my options? What should I ask HR for, as far as information to confirm/verify my options?
 
-<p>There's a deal in the works for the company to be purchased in the New Year and I need to make sure I have all my ducks in a row.</p>
-
+There's a deal in the works for the company to be purchased in the New Year and I need to make sure I have all my ducks in a row.
 
 
 ## Answer 1798

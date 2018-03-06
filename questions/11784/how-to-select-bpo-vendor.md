@@ -4,13 +4,13 @@
 - tagged: `outsourcing`
 - score: 3
 
-<p>I run a energy utility start-up firm in Australia. Recently it is becoming highly expensive to use more staff from within the country to meet our increased demands of customer support etc. So I am planning to outsource some of the customer relations operations Indian firms. </p>
+I run a energy utility start-up firm in Australia. Recently it is becoming highly expensive to use more staff from within the country to meet our increased demands of customer support etc. So I am planning to outsource some of the customer relations operations Indian firms. 
 
-<p>Now, my plan of action is to request for quotes as per our requirement from some of the good BPO service providers in India and then to visit the shortlisted firms personally and then to make a decision.</p>
+Now, my plan of action is to request for quotes as per our requirement from some of the good BPO service providers in India and then to visit the shortlisted firms personally and then to make a decision.
 
-<p>Is this plan of approach good enough? Any suggestions or thoughts for improvement?</p>
+Is this plan of approach good enough? Any suggestions or thoughts for improvement?
 
-<p>Looking forward to responses, thank you so much.</p>
+Looking forward to responses, thank you so much.
 
 
 
@@ -19,11 +19,10 @@
 - posted by: [Barry Garman](https://stackexchange.com/users/9920142/barry-garman) on 2016-12-28
 - score: 3
 
-<p>The plan of action/approach is good, however, is it a good idea or not begs some pondering.
+The plan of action/approach is good, however, is it a good idea or not begs some pondering.
 In the USA, many companies who outsourced their help desk/customer relationships are now advertising " US Staffed Help Desk" mainly because of the poor reception to the globalization/outsourcing/taking jobs away of the past! 
 An energy utility business is something that locals use and deal with on a daily basis, so a backlash because of outsourcing may be very damaging. Now, other alternatives: by using independent contractors who are primarily home based men and women and Internet telephony you can have a distributed cadre of customer. 
-That is one way used by the USA firms reduce their customer relations operations' costs. </p>
-
+That is one way used by the USA firms reduce their customer relations operations' costs. 
 
 
 

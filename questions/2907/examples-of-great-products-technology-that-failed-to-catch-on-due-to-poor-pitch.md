@@ -4,10 +4,9 @@
 - tagged: `marketing`, `pitch`
 - score: 2
 
-<p>When pitching an idea to investors and/or executives, I'd like to refer to well-known examples from history where a product/idea/technology was outstanding, but didn't catch on due to bad pitches or promotion/marketing. I'm struggling to come up with some.</p>
+When pitching an idea to investors and/or executives, I'd like to refer to well-known examples from history where a product/idea/technology was outstanding, but didn't catch on due to bad pitches or promotion/marketing. I'm struggling to come up with some.
 
-<p>Does anyone have some examples of such products/ideas/technologies?</p>
-
+Does anyone have some examples of such products/ideas/technologies?
 
 
 ## Answer 2910

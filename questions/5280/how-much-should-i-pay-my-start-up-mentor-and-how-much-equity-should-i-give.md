@@ -4,8 +4,7 @@
 - tagged: `compensation`
 - score: 7
 
-<p>We're running a small start-up company (bootstrapped) and we're planning to hire a mentor. We don't know how much we should pay? How much equity we should give? </p>
-
+We're running a small start-up company (bootstrapped) and we're planning to hire a mentor. We don't know how much we should pay? How much equity we should give? 
 
 
 ## Answer 5288
@@ -32,18 +31,17 @@
 - posted by: [Malekai](https://stackexchange.com/users/5820495/malekai) on 2015-05-15
 - score: 0
 
-<p>Personally I'd say it depends on your situation. Firstly, does your business have the money to give away at the moment? paying someone in equity is a long term commitment whereas just giving them some cash is nice and simple. In my experience a mentor who is demanding they be paid isn't really a mentor but a management consultant. This however may suit your situation! Getting some extra experience in is never a bad thing.</p>
+Personally I'd say it depends on your situation. Firstly, does your business have the money to give away at the moment? paying someone in equity is a long term commitment whereas just giving them some cash is nice and simple. In my experience a mentor who is demanding they be paid isn't really a mentor but a management consultant. This however may suit your situation! Getting some extra experience in is never a bad thing.
 
-<p>If you are <strong>hiring</strong> a mentor then you should pay them a salary, and not necessarily any equity. The salary should be based on the value you feel they add to your business, rather than what you think you can get away with paying them. </p>
+If you are **hiring** a mentor then you should pay them a salary, and not necessarily any equity. The salary should be based on the value you feel they add to your business, rather than what you think you can get away with paying them. 
 
-<p>If this mentor is not actually being employed by the business, then you can just arrange a payment however you like. Personally I'd say a small share in the equity of your company, but that depends on the actual value (50% of a tiny company vs 1% of a huge one).</p>
+If this mentor is not actually being employed by the business, then you can just arrange a payment however you like. Personally I'd say a small share in the equity of your company, but that depends on the actual value (50% of a tiny company vs 1% of a huge one).
 
-<p>If the mentor is brought on to achieve a specific goal (like a consultant) then it may be worth negotiating a single payment once their goal has been met, but again, bare in mind that the actual figure should be based on how much value their contribution adds to the business. What is their expertise worth to you, rather than what can we talk them down to.</p>
+If the mentor is brought on to achieve a specific goal (like a consultant) then it may be worth negotiating a single payment once their goal has been met, but again, bare in mind that the actual figure should be based on how much value their contribution adds to the business. What is their expertise worth to you, rather than what can we talk them down to.
 
-<p>The bottom line is don't pay someone more than they will add to your business, but make sure that you pay them fairly for the amount they add (not 100%, you of course need your take).</p>
+The bottom line is don't pay someone more than they will add to your business, but make sure that you pay them fairly for the amount they add (not 100%, you of course need your take).
 
-<p>Hope this helps.</p>
-
+Hope this helps.
 
 
 ## Answer 8524

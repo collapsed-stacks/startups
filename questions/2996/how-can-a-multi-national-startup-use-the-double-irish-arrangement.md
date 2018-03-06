@@ -4,8 +4,10 @@
 - tagged: `tech-company`, `united-states`, `legal`, `international`, `lawyer`
 - score: 1
 
-<p>As a company making profits in multiple countries abroad how does one go about setting up the <a href="http://en.wikipedia.org/wiki/Double_Irish_arrangement" rel="nofollow">Double Irish arrangement</a>? Are there any consultancy or legal firms that provide mechanism for setting it up?</p>
+As a company making profits in multiple countries abroad how does one go about setting up the [Double Irish arrangement][1]? Are there any consultancy or legal firms that provide mechanism for setting it up?
 
+
+  [1]: http://en.wikipedia.org/wiki/Double_Irish_arrangement
 
 
 ## Answer 3577

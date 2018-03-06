@@ -4,10 +4,9 @@
 - tagged: `taxes`
 - score: 2
 
-<p>Company A is in Ireland.  Company B is in America.  Company A does work for Company B and receives regular payments from B.  Company A has need to pay an individual X a per diem allowance while X is in America.  Company B pays X directly (on behalf of A) and subtracts that amount from the regular payments to A.</p>
+Company A is in Ireland.  Company B is in America.  Company A does work for Company B and receives regular payments from B.  Company A has need to pay an individual X a per diem allowance while X is in America.  Company B pays X directly (on behalf of A) and subtracts that amount from the regular payments to A.
 
-<p>What is this called so that I can investigate tax implications of it.</p>
-
+What is this called so that I can investigate tax implications of it.
 
 ## No Answers
 

@@ -4,12 +4,11 @@
 - tagged: `legal`, `mobile-apps`, `business-registration`, `delaware`, `california`
 - score: 3
 
-<p>I am going to publish an app on the App Store here soon. I physically reside in California. </p>
+I am going to publish an app on the App Store here soon. I physically reside in California. 
 
-<p>Since my app does not have a physical presence, can I form the LLC in just Delaware or do I need to register in California as well?  </p>
+Since my app does not have a physical presence, can I form the LLC in just Delaware or do I need to register in California as well?  
 
-<p>Trying to avoid expense, delay and complications; all of which I associate with the SoS and FTB in California. </p>
-
+Trying to avoid expense, delay and complications; all of which I associate with the SoS and FTB in California. 
 
 
 ## Answer 3048
@@ -30,15 +29,12 @@
 - posted by: [littleadv](https://stackexchange.com/users/307221/littleadv) on 2015-01-18
 - score: 1
 
-<blockquote>
-  <p>Trying to avoid expense, delay and complications; all of which I
-  associate with the SoS and FTB in California.</p>
-</blockquote>
+> Trying to avoid expense, delay and complications; all of which I
+> associate with the SoS and FTB in California.
 
-<p>You can't. Since you're physically in California - your LLC will be doing business in California and will have to be registered and pay the LLC fee. So why registering in an <em>additional</em> state? Pay <em>additional</em> fees? You'll need to maintain registered agent in DE, file annual reports, pay fees - why? You're saving nothing and paying more.</p>
+You can't. Since you're physically in California - your LLC will be doing business in California and will have to be registered and pay the LLC fee. So why registering in an *additional* state? Pay *additional* fees? You'll need to maintain registered agent in DE, file annual reports, pay fees - why? You're saving nothing and paying more.
 
-<p>Just register in CA.</p>
-
+Just register in CA.
 
 
 

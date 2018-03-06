@@ -4,12 +4,11 @@
 - tagged: `mobile-apps`, `app-store`
 - score: 0
 
-<p>A long time ago I published an app on App store and got a million questions on my free app regarding how I make money on it. Now, I am here with a new app that has a subscription, but outside of App store. I just wanted to check that I do not run into any problems if the subscription is outside of app store - by problems I mean that I need to give money to Apple to publish my app.</p>
+A long time ago I published an app on App store and got a million questions on my free app regarding how I make money on it. Now, I am here with a new app that has a subscription, but outside of App store. I just wanted to check that I do not run into any problems if the subscription is outside of app store - by problems I mean that I need to give money to Apple to publish my app.
 
-<p>To be clear, the app is free to download and install. But to use the cloud service I offer fully you need to sign up online.</p>
+To be clear, the app is free to download and install. But to use the cloud service I offer fully you need to sign up online.
 
-<p>Any insights appreciated!</p>
-
+Any insights appreciated!
 
 
 ## Answer 12064

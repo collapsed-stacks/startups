@@ -4,11 +4,11 @@
 - tagged: `startup-costs`
 - score: 5
 
-<p>I was thinking about making a tech startup. I have a great plan and lots of capital to start on, but I discovered crowd sourcing.</p>
+I was thinking about making a tech startup. I have a great plan and lots of capital to start on, but I discovered crowd sourcing.
 
-<p>I figure that I can have my entire startup crowd sourced upto and including management with the promise of said product or rewards based upon the performance of the startup after X amount of time. This will benefit people by giving them experience and the excitement of possibly supporting and getting something at the end (which they don't know, but I will replace them with real employees when I strike it big). If all goes bad, I lose nothing but time, but gain experience.</p>
+I figure that I can have my entire startup crowd sourced upto and including management with the promise of said product or rewards based upon the performance of the startup after X amount of time. This will benefit people by giving them experience and the excitement of possibly supporting and getting something at the end (which they don't know, but I will replace them with real employees when I strike it big). If all goes bad, I lose nothing but time, but gain experience.
 
-<p>How does one recruit core key members? I want this to be similar to Kickstarter, where I can recruit many members. Is there anything I should be aware of? I spoke with a few people I know and they are interested, so this is real deal. Thanks.</p>
+How does one recruit core key members? I want this to be similar to Kickstarter, where I can recruit many members. Is there anything I should be aware of? I spoke with a few people I know and they are interested, so this is real deal. Thanks.
 
 
 
@@ -17,10 +17,9 @@
 - posted by: [Craig](https://stackexchange.com/users/8602114/craig) on 2016-06-09
 - score: 5
 
-<p>Since recruitment is not one of your strong suits, I would recommend bringing on a recruiter while you focus on running your business. Don't underestimate the time and effort that go into recruiting, especially if you are trying this unorthodox approach of crowdsourcing.</p>
+Since recruitment is not one of your strong suits, I would recommend bringing on a recruiter while you focus on running your business. Don't underestimate the time and effort that go into recruiting, especially if you are trying this unorthodox approach of crowdsourcing.
 
-<p>So the real question is, how do you get someone to volunteer for this recruitment position without paying them? Your best bet is bringing on an unpaid intern. There are many students out there who are trying to make a name for themselves and get experience. And having recruitment internship experience on one's resume would really boost their career potential.</p>
-
+So the real question is, how do you get someone to volunteer for this recruitment position without paying them? Your best bet is bringing on an unpaid intern. There are many students out there who are trying to make a name for themselves and get experience. And having recruitment internship experience on one's resume would really boost their career potential.
 
 
 ## Answer 9434

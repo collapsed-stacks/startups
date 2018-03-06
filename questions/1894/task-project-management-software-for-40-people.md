@@ -4,17 +4,17 @@
 - tagged: `team`, `management`, `project-management`
 - score: 3
 
-<p>I have a 40 member team working on diverse projects. Right now, it has become very difficult to manage each one of them and get maximum productivity out of them.</p>
+I have a 40 member team working on diverse projects. Right now, it has become very difficult to manage each one of them and get maximum productivity out of them.
 
-<p>Need a task and project management software for 40+ members where we can allot targets and tasks to each person as well have group deadlines.</p>
+Need a task and project management software for 40+ members where we can allot targets and tasks to each person as well have group deadlines.
 
-<p><strong>More Info</strong>
-I want a low cost option as I dont have a very high budget. Also something which people find easy to use as a lot of staff are creative people who won't understand complex UI.</p>
+**More Info**
+I want a low cost option as I dont have a very high budget. Also something which people find easy to use as a lot of staff are creative people who won't understand complex UI.
 
-<p>Which programs can you recommend for this purpose?</p>
+Which programs can you recommend for this purpose?
 
-<p>Thanks!</p>
 
+Thanks!
 
 
 ## Answer 1895

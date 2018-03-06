@@ -4,9 +4,10 @@
 - tagged: `legal`
 - score: 5
 
-<p>Is is OK to take the terms of service from a website and just change the details, such as names? This might not be advisable, but it seems like a nice shortcut to save some initial legal fees.</p>
+Is is OK to take the terms of service from a website and just change the details, such as names? This might not be advisable, but it seems like a nice shortcut to save some initial legal fees.
 
-<p>In other words, are terms of service and other legal documents public domain?</p>
+In other words, are terms of service and other legal documents public domain?
+
 
 
 
@@ -30,18 +31,17 @@
 - posted by: [Matthew Haugen](https://stackexchange.com/users/1325646/matthew-haugen) on 2014-09-25
 - score: 0
 
-<p>No, terms of use are implicitly copyrighted, in a similar fashion to any blog post or page on the same site. The fact that a lawyer (probably) wrote it does not make it public domain.</p>
+No, terms of use are implicitly copyrighted, in a similar fashion to any blog post or page on the same site. The fact that a lawyer (probably) wrote it does not make it public domain.
 
-<p>That said, and, boy, this definitely isn't legal advice, <em>chances are</em> that if you change words here or there to make it a bit more custom to your site, nobody will care, let alone <em>know</em>. Virtually every document of a similar category out there will say essentially the same things, and legal writing tends to be pretty restrictive, so if you find one that sounds pretty generic, you can probably paraphrase it here or there to make it a bit more personal. Try not to change the meaning, but most words in agreements like that are fairly easy to understand (unlike, for example, patent writing, where words tend to take on different meanings and connotations than in general usage), and you <em>should</em> be fine. It might be good to read through several sites'. You'll quickly get the gist of the <em>kind of language</em> that you'll want in yours.</p>
+That said, and, boy, this definitely isn't legal advice, *chances are* that if you change words here or there to make it a bit more custom to your site, nobody will care, let alone *know*. Virtually every document of a similar category out there will say essentially the same things, and legal writing tends to be pretty restrictive, so if you find one that sounds pretty generic, you can probably paraphrase it here or there to make it a bit more personal. Try not to change the meaning, but most words in agreements like that are fairly easy to understand (unlike, for example, patent writing, where words tend to take on different meanings and connotations than in general usage), and you *should* be fine. It might be good to read through several sites'. You'll quickly get the gist of the *kind of language* that you'll want in yours.
 
-<p>Of course, I'd be hesitant of copying Microsoft's TOS verbatim, but use a little common sense and make sure you aren't actually stealing any unique parts. I would also only look at sites that specifically license theirs for reproduction, although I still wouldn't take them verbatim.</p>
+Of course, I'd be hesitant of copying Microsoft's TOS verbatim, but use a little common sense and make sure you aren't actually stealing any unique parts. I would also only look at sites that specifically license theirs for reproduction, although I still wouldn't take them verbatim.
 
-<p>Beyond that, I'd recommend just searching for templates. I'm sure there are lots of places on the internet with free privacy policies, or that sort of document, that are meant to be copied to your own works. If you did that, you'd certainly be much less likely to encounter any legal problems down the road.</p>
+Beyond that, I'd recommend just searching for templates. I'm sure there are lots of places on the internet with free privacy policies, or that sort of document, that are meant to be copied to your own works. If you did that, you'd certainly be much less likely to encounter any legal problems down the road.
 
-<p>Of course, if you're really concerned about it--and I don't get the impression you are, which is reasonable--it'd be best to at least speak with a lawyer. It might be that they don't charge as much as you think, or that they heavily advise in your specific circumstances that you do go for something more official than a boilerplate document. In any event, if you couldn't find any templates, if you read through a few documents and don't understand them, you probably don't want to use them. So <strong>make sure you're clear on what they're saying before you post them on your site.</strong></p>
+Of course, if you're really concerned about it--and I don't get the impression you are, which is reasonable--it'd be best to at least speak with a lawyer. It might be that they don't charge as much as you think, or that they heavily advise in your specific circumstances that you do go for something more official than a boilerplate document. In any event, if you couldn't find any templates, if you read through a few documents and don't understand them, you probably don't want to use them. So **make sure you're clear on what they're saying before you post them on your site.**
 
-<p>If you get sued, and that's the whole point of having these documents up, you don't want to get caught spewing legal nonsense that you didn't understand in the first place, especially if you've taken it in large part from a completely unrelated company that offers a completely unrelated service. So make it your own, and make sure you understand it, whatever you wind up doing.</p>
-
+If you get sued, and that's the whole point of having these documents up, you don't want to get caught spewing legal nonsense that you didn't understand in the first place, especially if you've taken it in large part from a completely unrelated company that offers a completely unrelated service. So make it your own, and make sure you understand it, whatever you wind up doing.
 
 
 ## Answer 793

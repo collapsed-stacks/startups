@@ -4,8 +4,7 @@
 - tagged: `marketing`, `growth`
 - score: 3
 
-<p>Uber and Lyft are only available in select cities. What is the reason for not expanding to all cities as fast as possible? I understand why in the beginning it is important to get early adopters (e.g. target one or two cities), but after you make as much money as Uber or Lyft why not just hire the people to launch in as many countries and cities as possible?</p>
-
+Uber and Lyft are only available in select cities. What is the reason for not expanding to all cities as fast as possible? I understand why in the beginning it is important to get early adopters (e.g. target one or two cities), but after you make as much money as Uber or Lyft why not just hire the people to launch in as many countries and cities as possible?
 
 
 ## Answer 857

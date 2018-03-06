@@ -4,16 +4,18 @@
 - tagged: `legal`, `intellectual-property`, `internet`, `data`
 - score: 0
 
-<p>I am surprised by the important number of music platforms around the web. To name a few :</p>
+I am surprised by the important number of music platforms around the web. To name a few :
 
-<ul>
-<li><p>SoundCloud</p></li>
-<li><p>Deezer</p></li>
-<li><p>Musicovery</p></li>
-<li><p>Spotify</p></li>
-</ul>
+- SoundCloud
 
-<p>How did these platforms gather music in the first place ? Do they scrap music from each other and then agree with the authors (or the institutions in charge of the authors right) or is there any "more legal" way to constitute music database ?</p>
+- Deezer
+
+- Musicovery
+
+- Spotify
+
+How did these platforms gather music in the first place ? Do they scrap music from each other and then agree with the authors (or the institutions in charge of the authors right) or is there any "more legal" way to constitute music database ?
+
 
 
 
@@ -33,12 +35,11 @@
 - posted by: [Community](https://stackexchange.com/users/-1/community) on 2016-07-07
 - score: 1
 
-<p>The key to starting a music service is to acquire a huge library of high-quality DRM-free music. The primary source of such music has historically (and by historically I mean the last 20 years) been the compact disc. Most music services (particularly Apple's iTunes) started by simply buying up tons of CDs and ripping them. Music services that start today may be able to acquire their music in digital format, or they can buy up CDs.</p>
+The key to starting a music service is to acquire a huge library of high-quality DRM-free music. The primary source of such music has historically (and by historically I mean the last 20 years) been the compact disc. Most music services (particularly Apple's iTunes) started by simply buying up tons of CDs and ripping them. Music services that start today may be able to acquire their music in digital format, or they can buy up CDs.
 
-<p>Once a copy of a song is legally owned, making and distributing copies is a matter of using standardized distribution contracts and paying statutory rates (there are literally laws that say how much each stream is worth).</p>
+Once a copy of a song is legally owned, making and distributing copies is a matter of using standardized distribution contracts and paying statutory rates (there are literally laws that say how much each stream is worth).
 
-<p>It's really one of the most highly-regulated business models around. Anyone with enough capital to acquire a music library and some software to stream it can start a music service.</p>
-
+It's really one of the most highly-regulated business models around. Anyone with enough capital to acquire a music library and some software to stream it can start a music service.
 
 
 ## Answer 9835
@@ -46,14 +47,13 @@
 - posted by: [Ansel Halliburton](https://stackexchange.com/users/3313301/ansel-halliburton) on 2016-08-01
 - score: 1
 
-<p>First, a quick overview of the music business. Artists make music. They're good at that, but most of them aren't very good at promoting their work and making money on it. That's where labels come in. For a cut, and usually some period of exclusivity, labels promote artists, publish their music, etc. Nearly all popular artists have label deals, and there are a handful of major labels -- <a href="https://en.wikipedia.org/wiki/Record_label#Major_versus_independent_record_labels" rel="nofollow">three, to be precise: Sony, Warner, and Universal</a>.</p>
+First, a quick overview of the music business. Artists make music. They're good at that, but most of them aren't very good at promoting their work and making money on it. That's where labels come in. For a cut, and usually some period of exclusivity, labels promote artists, publish their music, etc. Nearly all popular artists have label deals, and there are a handful of major labels -- [three, to be precise: Sony, Warner, and Universal](https://en.wikipedia.org/wiki/Record_label#Major_versus_independent_record_labels).
 
-<p>Because of the dominance of labels, online music platforms have to negotiate deals with them. Without these deals, platforms can't play music legally, and are swiftly sued into oblivion. RIP Napster, Grokster, Kazaa, etc.</p>
+Because of the dominance of labels, online music platforms have to negotiate deals with them. Without these deals, platforms can't play music legally, and are swiftly sued into oblivion. RIP Napster, Grokster, Kazaa, etc.
 
-<p>There are some intermediary business that work on the technical side: collecting album metadata and artist bios, building streaming technology, crunching royalty numbers.</p>
+There are some intermediary business that work on the technical side: collecting album metadata and artist bios, building streaming technology, crunching royalty numbers.
 
-<p>But the rights to the music itself? <strong>You have to work with the labels.</strong></p>
-
+But the rights to the music itself? **You have to work with the labels.**
 
 
 

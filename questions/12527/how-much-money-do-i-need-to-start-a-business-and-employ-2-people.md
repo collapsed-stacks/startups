@@ -4,15 +4,15 @@
 - tagged: `website`, `startup-costs`, `business-registration`, `business-capital`
 - score: -2
 
-<p>I have a website, it gets top 10 in Google rankings and quite popular. I make about $10,000 per year as commissions referring clients to other company.</p>
+I have a website, it gets top 10 in Google rankings and quite popular. I make about $10,000 per year as commissions referring clients to other company.
 
-<p>I work alone, don't have employees, not officially incorporated and don't have necessary licenses. I totally lack business skills and have no idea about employment. My competitors are way ahead of me, they are big companies and have about 10 employees in about 10 countries. Where do these companies get money employing that many people paying at least $1k?</p>
+I work alone, don't have employees, not officially incorporated and don't have necessary licenses. I totally lack business skills and have no idea about employment. My competitors are way ahead of me, they are big companies and have about 10 employees in about 10 countries. Where do these companies get money employing that many people paying at least $1k?
 
-<p>I believe if I had everything done officially, I could make way past $50k but my business lacks promotion and underperforming.</p>
+I believe if I had everything done officially, I could make way past $50k but my business lacks promotion and underperforming.
 
-<p>I often wonder where do I go for that much investment money for the startup.</p>
+I often wonder where do I go for that much investment money for the startup.
 
-<p>How much seed money is usually needed to incorporate a company in Switzerland or Dubai and employ 2 skilled people to promote my business?</p>
+How much seed money is usually needed to incorporate a company in Switzerland or Dubai and employ 2 skilled people to promote my business?
 
 
 
@@ -21,20 +21,15 @@
 - posted by: [Ken Stipek](https://stackexchange.com/users/1274542/ken-stipek) on 2017-04-27
 - score: 0
 
-<blockquote>
-  <p>How much seed money is usually needed to incorporate a company in Switzerland or Dubai?</p>
-</blockquote>
+> How much seed money is usually needed to incorporate a company in Switzerland or Dubai?
 
-<p>It looks like services charge around €1,000 to incorporate in Switzerland.</p>
+It looks like services charge around €1,000 to incorporate in Switzerland.
 
-<blockquote>
-  <p>Employ 2 skilled people to promote my business?</p>
-</blockquote>
+> Employ 2 skilled people to promote my business?
 
-<p>It depends on their location and skill set, there isn't really a one answer fits all to this question.</p>
+It depends on their location and skill set, there isn't really a one answer fits all to this question.
 
-<p>At $10,000/year in revenue, you should be able to raise $30k-$50k either from a bank (and pay interests), or sell some equity to an investor. For a lot of industries, this would be enough to take it to the next level and employee a couple entry level employees with a six to twelve month runway. </p>
-
+At $10,000/year in revenue, you should be able to raise $30k-$50k either from a bank (and pay interests), or sell some equity to an investor. For a lot of industries, this would be enough to take it to the next level and employee a couple entry level employees with a six to twelve month runway. 
 
 
 

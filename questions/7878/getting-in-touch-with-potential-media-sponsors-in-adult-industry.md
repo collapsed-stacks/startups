@@ -4,11 +4,11 @@
 - tagged: `business-plan`, `funding`, `investors`
 - score: 2
 
-<p>I'm creating a quick site for a project, I suspect if it finds any level of popularity, it will be on a "viral" lifespan: sharp uptake, sharp decline in interest. </p>
+I'm creating a quick site for a project, I suspect if it finds any level of popularity, it will be on a "viral" lifespan: sharp uptake, sharp decline in interest. 
 
-<p>Ideally, I'd find a media sponsor. because of the content, anyone from the adult industry would be ideal. How can I meet those folks? AVN convention feels wrong and more like a media show than a place to do business. </p>
+Ideally, I'd find a media sponsor. because of the content, anyone from the adult industry would be ideal. How can I meet those folks? AVN convention feels wrong and more like a media show than a place to do business. 
 
-<p>Cold emails/tweets aren't working. thoughts? </p>
+Cold emails/tweets aren't working. thoughts? 
 
 
 ## No Answers

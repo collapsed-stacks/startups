@@ -4,19 +4,16 @@
 - tagged: `email-marketing`
 - score: 1
 
-<p>Currently, I have an Android app. The Android app has a feedback form, which allows user to send feedback to us. </p>
+Currently, I have an Android app. The Android app has a feedback form, which allows user to send feedback to us. 
 
-<p>The app just send an email to <code>my_company@gmail.com</code> with user feedback content, along with customer replied email.</p>
+The app just send an email to `my_company@gmail.com` with user feedback content, along with customer replied email.
 
-<p>However, as customer grows, we found it is very difficult to manage our relationship with customers.</p>
+However, as customer grows, we found it is very difficult to manage our relationship with customers.
 
-<ol>
-<li>We don't have a way to know all our customer emails, without opening up mail one-by-one in mail box.</li>
-<li>We find it difficult to track back our conversation with customers. For instance, same customer can send us feedback several times, by using the in-app feedback form. Hence, in our email mail box, we will end up with multiple email threads for a single customer.</li>
-</ol>
+ 1. We don't have a way to know all our customer emails, without opening up mail one-by-one in mail box.
+ 2. We find it difficult to track back our conversation with customers. For instance, same customer can send us feedback several times, by using the in-app feedback form. Hence, in our email mail box, we will end up with multiple email threads for a single customer.
 
-<p>Is there a software, or online service, which enables us to manage our customer email, so that we can serve our customer in better way?</p>
-
+Is there a software, or online service, which enables us to manage our customer email, so that we can serve our customer in better way?
 
 
 ## Answer 12521

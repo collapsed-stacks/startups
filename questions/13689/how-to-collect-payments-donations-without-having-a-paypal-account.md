@@ -4,8 +4,7 @@
 - tagged: `payment`
 - score: -1
 
-<p>I live in Egypt. I'd like to sell some digital products. I provide other products for free and let people donate if they want to. What's the best way to collect those small amounts of money from different people? PayPal is not supported in my country. What is the best alternative to it? Moreover, I'd like to provide many paments methods. I really appreciate any comment or answer because I'm an absolute beginner.</p>
-
+I live in Egypt. I'd like to sell some digital products. I provide other products for free and let people donate if they want to. What's the best way to collect those small amounts of money from different people? PayPal is not supported in my country. What is the best alternative to it? Moreover, I'd like to provide many paments methods. I really appreciate any comment or answer because I'm an absolute beginner.
 
 ## No Answers
 

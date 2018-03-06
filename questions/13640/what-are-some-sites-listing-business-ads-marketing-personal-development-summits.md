@@ -4,8 +4,7 @@
 - tagged: `entrepreneurship`
 - score: -1
 
-<p>I am mostly interested in Central-Eastern Europe</p>
-
+I am mostly interested in Central-Eastern Europe
 
 
 ## Answer 13641
@@ -13,16 +12,13 @@
 - posted by: [kerrin](https://stackexchange.com/users/1621372/kerrin) on 2017-11-16
 - score: 0
 
-<p>It has just finished for this year, but there is Microconf in Europe.</p>
+It has just finished for this year, but there is Microconf in Europe.
 
-<blockquote>
-  <p>a two-day conference focused on self-funded startups and single founder software companies</p>
-</blockquote>
+> a two-day conference focused on self-funded startups and single founder software companies
 
-<p><a href="http://www.microconfeurope.com" rel="nofollow noreferrer">http://www.microconfeurope.com</a></p>
+http://www.microconfeurope.com
 
-<p>Is that the type of thing you are looking for?</p>
-
+Is that the type of thing you are looking for?
 
 
 

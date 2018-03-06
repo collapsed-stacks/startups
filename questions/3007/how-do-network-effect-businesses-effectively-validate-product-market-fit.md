@@ -4,17 +4,14 @@
 - tagged: `social-networking`, `network-effect`, `product-market-fit`
 - score: 8
 
-<blockquote>
-  <p>The value of network effect businesses improve with more users. Examples
-  are Facebook, Skype, eBay, Twitter, StackExchange.</p>
-</blockquote>
+> The value of network effect businesses improve with more users. Examples
+> are Facebook, Skype, eBay, Twitter, StackExchange.
 
-<p>These kinds of businesses usually need a minimum viable mass (like Harvard for Facebook) to really validate if they have product market fit. So they build an MVP and also get a MVM to prove they are worthy.</p>
+These kinds of businesses usually need a minimum viable mass (like Harvard for Facebook) to really validate if they have product market fit. So they build an MVP and also get a MVM to prove they are worthy.
 
-<p>Because of this customer development is critical to validate the product upfront before building it. </p>
+Because of this customer development is critical to validate the product upfront before building it. 
 
-<p>What is the most effective way to validate the product before it has a minimum viable mass? How do the other successful companies that don't luck out on the product do this?</p>
-
+What is the most effective way to validate the product before it has a minimum viable mass? How do the other successful companies that don't luck out on the product do this?
 
 
 ## Answer 3010
@@ -45,40 +42,41 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-01-14
 - score: 1
 
-<p>It depends on the type of network you're into.</p>
+It depends on the type of network you're into.
 
-<p>I also think you're greatly overestimating the importance of reaching a critical mass. Having the latter yields an inflection point in your growth, but the product market fit occurs <em>long</em> before you reach it.</p>
+I also think you're greatly overestimating the importance of reaching a critical mass. Having the latter yields an inflection point in your growth, but the product market fit occurs *long* before you reach it.
 
-<h2>Look for clusters</h2>
+## Look for clusters
 
-<p>With some networks, you can have clusters of nodes in the form of users who can make use of the product independently from others.</p>
+With some networks, you can have clusters of nodes in the form of users who can make use of the product independently from others.
 
-<p>This is spectacularly illustrated by the fax machine -- and telephone before it. Rather than trying to reach out to all businesses and consumers, Xerox reached out for administrations and corporations who have multiple premises -- and thus an internal use for the product irrespective of who else might be using it.</p>
+This is spectacularly illustrated by the fax machine -- and telephone before it. Rather than trying to reach out to all businesses and consumers, Xerox reached out for administrations and corporations who have multiple premises -- and thus an internal use for the product irrespective of who else might be using it.
 
-<p>Here, achieving product market fit isn't so much about the market at large as it is about these very special subsets of clients.</p>
+Here, achieving product market fit isn't so much about the market at large as it is about these very special subsets of clients.
 
-<p>(I'd argue that Facebook proceeded similarly: it went for universities before going mainstream, and part of the reason was because alumni networks were very dense and useful in their own right.)</p>
+(I'd argue that Facebook proceeded similarly: it went for universities before going mainstream, and part of the reason was because alumni networks were very dense and useful in their own right.)
 
-<h2>Look for key nodes</h2>
 
-<p>Similarly, there can be key nodes in the form of users who are tightly connected to many other users.</p>
+## Look for key nodes
 
-<p>I've seen this first hand while working into financial extranets. Businesses in finance are all connected to some kind of market data provider, exchange or clearing house. As you might imagine, the key was to focus on these service providers instead of end-users such as banks.</p>
+Similarly, there can be key nodes in the form of users who are tightly connected to many other users.
 
-<p>Here again, achieving product market fit isn't so much about the market at large as it is about these very special subsets of clients.</p>
+I've seen this first hand while working into financial extranets. Businesses in finance are all connected to some kind of market data provider, exchange or clearing house. As you might imagine, the key was to focus on these service providers instead of end-users such as banks.
 
-<h2>Look for link density thresholds</h2>
+Here again, achieving product market fit isn't so much about the market at large as it is about these very special subsets of clients.
 
-<p>In the more general case, there is still more to it than merely seeking to acquire a critical mass of users. The key aspect is in fact user retention, and it occurs long before this mass of users is reached.</p>
 
-<p>In the case of Facebook, it was reportedly about having 10 or so active friends. In the case of Twitter, it's reportedly about following a few users you care about. In the case of a forum or Reddit, it's about having an answer or some kind of feedback (upvote) soon enough.</p>
+## Look for link density thresholds
 
-<p>The point here is that the product market fit isn't about user acquisition. It's about user churn: there's one or more metric to be identified, and a threshold for each one, beyond which user churn is low enough for the network to <em>grow</em> month to month.</p>
+In the more general case, there is still more to it than merely seeking to acquire a critical mass of users. The key aspect is in fact user retention, and it occurs long before this mass of users is reached.
 
-<p>You achieve product market fit when, upon having identified these metrics, and having geared the product towards them, you reach the thresholds often enough that users stay around.</p>
+In the case of Facebook, it was reportedly about having 10 or so active friends. In the case of Twitter, it's reportedly about following a few users you care about. In the case of a forum or Reddit, it's about having an answer or some kind of feedback (upvote) soon enough.
 
-<p>You can try to fake it, or purchase datasets, or create artificial scarcity, etc. to try to bootstrap this all. But nothing will replace the actual marketing work that must go into understanding the characteristics of the network you're dealing with.</p>
+The point here is that the product market fit isn't about user acquisition. It's about user churn: there's one or more metric to be identified, and a threshold for each one, beyond which user churn is low enough for the network to *grow* month to month.
 
+You achieve product market fit when, upon having identified these metrics, and having geared the product towards them, you reach the thresholds often enough that users stay around.
+
+You can try to fake it, or purchase datasets, or create artificial scarcity, etc. to try to bootstrap this all. But nothing will replace the actual marketing work that must go into understanding the characteristics of the network you're dealing with.
 
 
 ## Answer 3060
@@ -86,14 +84,11 @@
 - posted by: [demiculus](https://stackexchange.com/users/5264485/demiculus) on 2015-01-18
 - score: 1
 
-<p>In the book "The Lean Startup" page 213. Eric Reis says;</p>
+In the book "The Lean Startup" page 213. Eric Reis says;
 
-<blockquote>
-  <p>Startups occasionally ask me to help them evaluate whether they
-  have achieved product/market fit. It’s easy to answer: if you are
-  asking, you’re not there yet.</p>
-</blockquote>
-
+> Startups occasionally ask me to help them evaluate whether they
+have achieved product/market fit. It’s easy to answer: if you are
+asking, you’re not there yet.
 
 
 

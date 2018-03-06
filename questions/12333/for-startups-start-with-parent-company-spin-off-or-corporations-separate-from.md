@@ -4,17 +4,14 @@
 - tagged: `legal`, `business-structure`
 - score: 0
 
-<p>I’m a programmer / website developer, and I’m hoping to work on a few personal startups. I’m wondering which solution to a corporate structure would be more wise with regard to taxes, legal fees, etc. As of right now, it would be of course only myself working on the startups. If one startup may succeed, future employment would have to be taken into account.</p>
+I’m a programmer / website developer, and I’m hoping to work on a few personal startups. I’m wondering which solution to a corporate structure would be more wise with regard to taxes, legal fees, etc. As of right now, it would be of course only myself working on the startups. If one startup may succeed, future employment would have to be taken into account.
 
-<ul>
-<li>Create a parent company. Launch startups as subsidiaries. If startup succeeds - spin-off into separate corporation. Also like incubator style.</li>
-<li>Start startups as corporations separate from each other.</li>
-</ul>
+- Create a parent company. Launch startups as subsidiaries. If startup succeeds - spin-off into separate corporation. Also like incubator style.
+- Start startups as corporations separate from each other.
 
-<p>I am located in Canada - Toronto, Ontario to be exact.</p>
+I am located in Canada - Toronto, Ontario to be exact.
 
-<p>Thanks!</p>
-
+Thanks!
 
 ## No Answers
 

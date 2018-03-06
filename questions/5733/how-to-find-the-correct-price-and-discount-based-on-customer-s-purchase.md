@@ -4,34 +4,34 @@
 - tagged: `product`, `pricing`
 - score: 5
 
-<p>A little while ago I asked this question on SuperUser:</p>
+A little while ago I asked this question on SuperUser:
 
-<p><a href="https://superuser.com/questions/940355/how-to-create-a-data-series-for-exponential-decrease-diagram">https://superuser.com/questions/940355/how-to-create-a-data-series-for-exponential-decrease-diagram</a></p>
+https://superuser.com/questions/940355/how-to-create-a-data-series-for-exponential-decrease-diagram
 
-<p>I wanted to find a formula for pricing my products, so that I could price them fairly such that purchasing more would result in more discount.</p>
+I wanted to find a formula for pricing my products, so that I could price them fairly such that purchasing more would result in more discount.
 
-<p>The pricing goal was to achieve this:</p>
+The pricing goal was to achieve this:
 
-<pre><code>If you purchase 50 pieces, you should pay 2500 (units) per piece.
-.
-.
-.
-.
-If you purchase 10000 pieces, you should pay 300 (units) per piece.
-</code></pre>
+    If you purchase 50 pieces, you should pay 2500 (units) per piece.
+    .
+    .
+    .
+    .
+    If you purchase 10000 pieces, you should pay 300 (units) per piece.
 
-<p>The minimum salable count is 50, and there is no more discount for purchases over 10,000 pieces. I wanted to find the discount in between. But I didn't want it to be <strong>linear</strong>. To get linear filling, I could use Excel's linear extrapolation techniques.</p>
+The minimum salable count is 50, and there is no more discount for purchases over 10,000 pieces. I wanted to find the discount in between. But I didn't want it to be **linear**. To get linear filling, I could use Excel's linear extrapolation techniques.
 
-<p>However, what I wanted was to have a logarithmic (exponential) discount curve, <strong>to highly encourage customers, to purchase more</strong>. That is, by doubling the order, they would receive a huge discount in lower quantities.</p>
+However, what I wanted was to have a logarithmic (exponential) discount curve, **to highly encourage customers, to purchase more**. That is, by doubling the order, they would receive a huge discount in lower quantities.
 
-<p>However, based on the answers, I found out that the resulting chart would be something like this:</p>
+However, based on the answers, I found out that the resulting chart would be something like this:
 
-<p><img src="https://i.stack.imgur.com/bOdtv.png" alt="enter image description here"></p>
+![enter image description here][1]
 
-<p>Which is absolutely wrong. Because it financially means that "if you buy 4000 units you should pay more than when you buy 8000 units". Of course it doesn't make sense. Now I'm trying to find the data series that can create an increasing amount of payment. But I can't figure it out, and my mathematical knowledge is not helpful here.</p>
+Which is absolutely wrong. Because it financially means that "if you buy 4000 units you should pay more than when you buy 8000 units". Of course it doesn't make sense. Now I'm trying to find the data series that can create an increasing amount of payment. But I can't figure it out, and my mathematical knowledge is not helpful here.
 
-<p>So, if you have <strong>minimum_salable_pieces_count</strong> sold at price <strong>x</strong>, and <strong>discount_limit_pieces_count</strong> sold at price <strong>y</strong>, and you want to have an <strong>exponential discount model</strong>, how would you find the intermediate prices for each amount of purchase? </p>
+So, if you have **minimum_salable_pieces_count** sold at price **x**, and **discount_limit_pieces_count** sold at price **y**, and you want to have an **exponential discount model**, how would you find the intermediate prices for each amount of purchase? 
 
+  [1]: http://i.stack.imgur.com/bOdtv.png
 
 
 ## Answer 5735
@@ -39,27 +39,25 @@ If you purchase 10000 pieces, you should pay 300 (units) per piece.
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-07-15
 - score: 3
 
-<p>Your premise is probably incorrect: you shouldn't be deciding what your volume discount price is from the onset. Nobody buys 10k units of something on an e-commerce store. You'll get an email and/or a phone call when someone wants to buy that many.</p>
+Your premise is probably incorrect: you shouldn't be deciding what your volume discount price is from the onset. Nobody buys 10k units of something on an e-commerce store. You'll get an email and/or a phone call when someone wants to buy that many.
 
-<p>Start with your costs. As you do, don't underestimate the logistics and the administrative sides of things because they add up. Then compute your total cost to <em>ship</em> -- including the time you spend on closing the deal, invoicing, etc. Add two healthy margins on top. One is a margin of error plus a minimum sales margin. It yields a price under which you do not want to go under. The other is your desired sales margin. The total is your price.</p>
+Start with your costs. As you do, don't underestimate the logistics and the administrative sides of things because they add up. Then compute your total cost to *ship* -- including the time you spend on closing the deal, invoicing, etc. Add two healthy margins on top. One is a margin of error plus a minimum sales margin. It yields a price under which you do not want to go under. The other is your desired sales margin. The total is your price.
 
-<p>Also, keep in mind that costs do not decrease linearly. Because labor and equipment don't scale. You can only do so much with a unit of human labor or output so much with a piece of equipment. Once you hit those limits, you need to hire and/or invest in new equipment. Upon making that hire or investment you you'll also need the volume to occupy that productive capacity down the road.</p>
+Also, keep in mind that costs do not decrease linearly. Because labor and equipment don't scale. You can only do so much with a unit of human labor or output so much with a piece of equipment. Once you hit those limits, you need to hire and/or invest in new equipment. Upon making that hire or investment you you'll also need the volume to occupy that productive capacity down the road.
 
-<p>Come time for negotiations, keep each of your total costs, your minimum margin, and your productive capacity in mind. They yield a price and shipping delays underneath which you're simply not interested in selling -- no matter how hard the opposite party is haggling. And make it clear that this is <em>for this order only</em> -- if the client comes back later and asks for half the number of units, your price should be higher.</p>
+Come time for negotiations, keep each of your total costs, your minimum margin, and your productive capacity in mind. They yield a price and shipping delays underneath which you're simply not interested in selling -- no matter how hard the opposite party is haggling. And make it clear that this is *for this order only* -- if the client comes back later and asks for half the number of units, your price should be higher.
 
-<p>Lastly, recognize that an order can sometimes be too big for your business. It's rarely good when a client represents a third of your orders or more -- if that client goes off, you're screwed.</p>
+Lastly, recognize that an order can sometimes be too big for your business. It's rarely good when a client represents a third of your orders or more -- if that client goes off, you're screwed.
 
-<p>If you insist on some kind of formula, your final price is going to look like:</p>
+If you insist on some kind of formula, your final price is going to look like:
 
-<pre><code>min_total_price = total_cost + safety_margin
-total_price = min_total_price + sales_margin
+    min_total_price = total_cost + safety_margin
+    total_price = min_total_price + sales_margin
 
-min_unit_price = min_total_price / units
-unit_price = total_price / units
-</code></pre>
+    min_unit_price = min_total_price / units
+    unit_price = total_price / units
 
-<p>There's no exponential curve or what have you because that won't match your cost structure.</p>
-
+There's no exponential curve or what have you because that won't match your cost structure.
 
 
 ## Answer 5772
@@ -121,24 +119,23 @@ and head over to a maths forum post your graph image and ask if somebody could p
 - posted by: [Paparazzi](https://stackexchange.com/users/300272/paparazzi) on 2015-08-26
 - score: 0
 
-<p>The math would be better on <a href="https://math.stackexchange.com/">https://math.stackexchange.com/</a>   </p>
+The math would be better on https://math.stackexchange.com/   
 
-<p>I did the math and even with a log based price for faster discount early if you apply that price to ALL then there will always be a quantity at which the total starts to decrease.  The price to ALL part takes over.</p>
+I did the math and even with a log based price for faster discount early if you apply that price to ALL then there will always be a quantity at which the total starts to decrease.  The price to ALL part takes over.
+   
+You need to use incremental pricing     
+the first 1000 are X    
+the second 1000 are Y   
+so 1500 = 1000X + 500Y
 
-<p>You need to use incremental pricing<br>
-the first 1000 are X<br>
-the second 1000 are Y<br>
-so 1500 = 1000X + 500Y</p>
+Q is quantity    
+b is base quantity     
+s is slope (in this case s is negative)       
+i price at base        
+total = Q ((log(Q) - log(b))s  + i)        
+if you take the derivative of total there will be a Q at which the derivative is zero (the total stops going up) if s is negative  
 
-<p>Q is quantity<br>
-b is base quantity<br>
-s is slope (in this case s is negative)<br>
-i price at base<br>
-total = Q ((log(Q) - log(b))s  + i)<br>
-if you take the derivative of total there will be a Q at which the derivative is zero (the total stops going up) if s is negative  </p>
-
-<p>But take this to math SE for validation as it as been a while since did derivatives</p>
-
+But take this to math SE for validation as it as been a while since did derivatives
 
 
 

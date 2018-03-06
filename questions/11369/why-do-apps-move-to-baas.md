@@ -4,8 +4,7 @@
 - tagged: `mobile-apps`, `applications`
 - score: -1
 
-<p>After looking through questions on Stack Exchange, I found one about why startups move off BaaS. However, I know businesses actually tend to move to BaaS offerings, especially if the services are free and reliable. What are the reasons for moving to platforms such as Parse, Backendless, and others?</p>
-
+After looking through questions on Stack Exchange, I found one about why startups move off BaaS. However, I know businesses actually tend to move to BaaS offerings, especially if the services are free and reliable. What are the reasons for moving to platforms such as Parse, Backendless, and others?
 
 
 ## Answer 11373

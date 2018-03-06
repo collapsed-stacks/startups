@@ -4,8 +4,7 @@
 - tagged: `legal`, `entrepreneurship`
 - score: 2
 
-<p>What do I need to do to have my blog be legally recognized as a business? Do I need to register somewhere? Do I need to incorporate? I am just starting a new blog. I know it's unlikely to be profitable and I don't have any plans to quit my day job to pursue it full time, but I would like to have all the legal stuff sorted out in case I manage to make an extra $50 bucks a month.</p>
-
+What do I need to do to have my blog be legally recognized as a business? Do I need to register somewhere? Do I need to incorporate? I am just starting a new blog. I know it's unlikely to be profitable and I don't have any plans to quit my day job to pursue it full time, but I would like to have all the legal stuff sorted out in case I manage to make an extra $50 bucks a month.
 
 
 ## Answer 6071
@@ -13,10 +12,9 @@
 - posted by: [zazaalaza](https://stackexchange.com/users/4672194/zazaalaza) on 2015-08-17
 - score: 2
 
-<p>You can run your blog without worrying about being a business. For example you can run a free blog on tumblr with a custom domain name. They host millions of blogs, just imagine if every one of them would have to incorporate?</p>
+You can run your blog without worrying about being a business. For example you can run a free blog on tumblr with a custom domain name. They host millions of blogs, just imagine if every one of them would have to incorporate?
 
-<p>If you make some money on the side, you can file your taxes at the end of the year.</p>
-
+If you make some money on the side, you can file your taxes at the end of the year.
 
 
 ## Answer 6067

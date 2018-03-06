@@ -4,14 +4,16 @@
 - tagged: `marketing`, `investment`, `growth`, `metrics`, `user-acquisition`
 - score: 1
 
-<p>In the Cash-Flow curve of a startup(acquisition phase), is there a break-even point?</p>
+In the Cash-Flow curve of a startup(acquisition phase), is there a break-even point?
 
-<p><a href="https://i.stack.imgur.com/v2pZa.png" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/v2pZa.png" alt="enter image description here"></a></p>
+[![enter image description here][1]][1]
 
-<p>Is there a point which stands for an optimal number of customers per month?  Or should it be decided solely on the investment available?</p>
 
-<p>Larger the number of customers, the trough would be deeper, but still the growth curve would be much steeper(assuming constant retention).  But, is there a point in the trough which says "<strong>enough acquisition</strong>"?</p>
+Is there a point which stands for an optimal number of customers per month?  Or should it be decided solely on the investment available?
 
+Larger the number of customers, the trough would be deeper, but still the growth curve would be much steeper(assuming constant retention).  But, is there a point in the trough which says "**enough acquisition**"?
+
+  [1]: http://i.stack.imgur.com/v2pZa.png
 
 
 ## Answer 7615

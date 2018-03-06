@@ -4,7 +4,7 @@
 - tagged: `tech-company`, `data`
 - score: 1
 
-<p>Looking for standards or common formats for data transfer where there may be hundreds of different API feeds into and out of a platform. we need to specify a set of parameters under which data is uploaded and downloaded.</p>
+Looking for standards or common formats for data transfer where there may be hundreds of different API feeds into and out of a platform. we need to specify a set of parameters under which data is uploaded and downloaded.
 
 
 ## No Answers

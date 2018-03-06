@@ -4,16 +4,13 @@
 - tagged: `website`, `copyright`, `licensing`
 - score: 0
 
-<p>I'm starting a knowledge base where I want content (text and images) to be freely submitted and edited without requiring registration from my users, so they collectively can build an index in this particular subject.</p>
+I'm starting a knowledge base where I want content (text and images) to be freely submitted and edited without requiring registration from my users, so they collectively can build an index in this particular subject.
 
-<ul>
-<li>What licenses do I need to make sure that I'm not responsible for
-copyright being violated?</li>
-<li>I'm not selling anything on the site, I just provide the system on which they share content. I might have to implement ads/donations to keep the eventual server costs down, but I'll cross that bridge when I come to it</li>
-</ul>
+ - What licenses do I need to make sure that I'm not responsible for
+   copyright being violated?
+ - I'm not selling anything on the site, I just provide the system on which they share content. I might have to implement ads/donations to keep the eventual server costs down, but I'll cross that bridge when I come to it
 
-<p>I've searched far and wide but I just don't understand what I should be looking for.</p>
-
+I've searched far and wide but I just don't understand what I should be looking for.
 
 
 ## Answer 11112

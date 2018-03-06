@@ -4,11 +4,10 @@
 - tagged: `legal`, `business-model`, `e-commerce`
 - score: 5
 
-<p>I want to start a book resale business which would buy and sell used books. 
-We would like to work on a marketplace model where we can ask book re-sellers to sell for us.</p>
+I want to start a book resale business which would buy and sell used books. 
+We would like to work on a marketplace model where we can ask book re-sellers to sell for us.
 
-<p>Are there any legal obligations in selling used books? (since the publishers would not get any money, can they sue us?) Will this business model attract legal cases?</p>
-
+Are there any legal obligations in selling used books? (since the publishers would not get any money, can they sue us?) Will this business model attract legal cases?
 
 
 ## Answer 3168
@@ -16,18 +15,17 @@ We would like to work on a marketplace model where we can ask book re-sellers to
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-01-25
 - score: 3
 
-<p>It depends on the country. In some, the publishing industry may feel strong enough to fight you. In others, censorship laws may apply. I'd gather there are yet other peculiarities I'm not aware of in some countries.</p>
+It depends on the country. In some, the publishing industry may feel strong enough to fight you. In others, censorship laws may apply. I'd gather there are yet other peculiarities I'm not aware of in some countries.
 
-<p>Imho it's generally safe provided you cover your back. But IANAL, so check with an attorney to get proper legal advice and the specifics that may apply to you.</p>
+Imho it's generally safe provided you cover your back. But IANAL, so check with an attorney to get proper legal advice and the specifics that may apply to you.
 
-<p>Three examples for reference:</p>
+Three examples for reference:
 
-<ul>
-<li><p><a href="http://www.chapitre.com" rel="nofollow">Chapitre</a> has been in the business you're describing since the late 1990s in France.</p></li>
-<li><p>In the US, the right to resell a used book is well established in theory, but book publishers recently <a href="http://arstechnica.com/tech-policy/2014/11/how-an-ebay-bookseller-defeated-a-publishing-giant-at-the-supreme-court/" rel="nofollow">fought the idea</a> all the way to the supreme court.</p></li>
-<li><p>A <a href="http://en.wikipedia.org/wiki/List_of_books_banned_by_governments" rel="nofollow">list of banned books by governments</a> on Wikipedia. Note that even the US is not foreign to the idea of censorship.</p></li>
-</ul>
+- [Chapitre](http://www.chapitre.com) has been in the business you're describing since the late 1990s in France.
 
+- In the US, the right to resell a used book is well established in theory, but book publishers recently [fought the idea](http://arstechnica.com/tech-policy/2014/11/how-an-ebay-bookseller-defeated-a-publishing-giant-at-the-supreme-court/) all the way to the supreme court.
+
+- A [list of banned books by governments](http://en.wikipedia.org/wiki/List_of_books_banned_by_governments) on Wikipedia. Note that even the US is not foreign to the idea of censorship.
 
 
 

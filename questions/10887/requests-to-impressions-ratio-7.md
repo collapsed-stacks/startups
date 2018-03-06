@@ -4,11 +4,17 @@
 - tagged: `mobile-apps`, `advertising`, `app-store-optimization`
 - score: 0
 
-<p>I repeatedly get very low requests to impressions ratios (currently about 8%). I think I am doing something wrong with the ad configuration in the app. I run an interstitial for two events. Any advice on rectifying this would be very helpful.
-<a href="https://i.stack.imgur.com/2yUwL.png" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/2yUwL.png" alt="enter image description here"></a></p>
+I repeatedly get very low requests to impressions ratios (currently about 8%). I think I am doing something wrong with the ad configuration in the app. I run an interstitial for two events. Any advice on rectifying this would be very helpful.
+[![enter image description here][1]][1]
 
-<p><a href="https://i.stack.imgur.com/ODgcp.png" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/ODgcp.png" alt="enter image description here"></a></p>
 
+[![enter image description here][2]][2]
+
+
+
+
+  [1]: http://i.stack.imgur.com/2yUwL.png
+  [2]: http://i.stack.imgur.com/ODgcp.png
 
 
 ## Answer 10898

@@ -4,12 +4,11 @@
 - tagged: `equity`, `co-founder`
 - score: 6
 
-<p>So I have an idea for a product that I've been working on for about a year. The product includes mobile app (iOS/Android) and server (front and back end). I am not a developer so I was mainly doing product modeling and definitions. </p>
+So I have an idea for a product that I've been working on for about a year. The product includes mobile app (iOS/Android) and server (front and back end). I am not a developer so I was mainly doing product modeling and definitions. 
 
-<p>Now I (as a CEO) would like to get a few more people on board. One of them (A) will actually be architecting, developing and later managing our development efforts (CTO/VP RnD or something like that). The other one (B) will develop stuff and report to A.</p>
+Now I (as a CEO) would like to get a few more people on board. One of them (A) will actually be architecting, developing and later managing our development efforts (CTO/VP RnD or something like that). The other one (B) will develop stuff and report to A.
 
-<p>How should we split equity in this case? I would like to remain in control of all the business and strategy aspects.</p>
-
+How should we split equity in this case? I would like to remain in control of all the business and strategy aspects.
 
 
 ## Answer 9323
@@ -39,20 +38,19 @@
 - posted by: [Loki Astari](https://stackexchange.com/users/7972/loki-astari) on 2016-05-27
 - score: 2
 
-<p>I like <a href="https://startups.stackexchange.com/a/5583/1719">Joel's Totally Fair Method to Divide Up The Ownership of Any Startup</a></p>
+I like [Joel's Totally Fair Method to Divide Up The Ownership of Any Startup](https://startups.stackexchange.com/a/5583/1719)
 
-<p>This recommends you split equity evenly between the co-founders. I know this is not popular with you since you would lose majority share holding. But that does not really matter. The day to day running of the company is decided by the CEO (that's his/her job).</p>
+This recommends you split equity evenly between the co-founders. I know this is not popular with you since you would lose majority share holding. But that does not really matter. The day to day running of the company is decided by the CEO (that's his/her job).
 
-<p><strong>Note</strong> most developers have read this guide and are going to say no way to the split suggested by @Alari. The reason being they know that your company is basically worthless without them (they also know that an implementation is worthless without good marketing/sales).</p>
+**Note** most developers have read this guide and are going to say no way to the split suggested by @Alari. The reason being they know that your company is basically worthless without them (they also know that an implementation is worthless without good marketing/sales).
 
-<p>The problem here is risk. The founders are all taking the same risk. So why are some founders being rewarded more for the same risk. Are you not all doing this full time? <strong>Same risk same reward</strong>; you just bring different skills to the table.</p>
+The problem here is risk. The founders are all taking the same risk. So why are some founders being rewarded more for the same risk. Are you not all doing this full time? **Same risk same reward**; you just bring different skills to the table.
 
-<p>Note: If you and the CTO are going to take all the risk, i.e. you pay the developer; then the developer is not taking as much risk and should get significantly less proportion of the equity (if any).</p>
+Note: If you and the CTO are going to take all the risk, i.e. you pay the developer; then the developer is not taking as much risk and should get significantly less proportion of the equity (if any).
 
-<p>Also if you have an unequal distribution people will get disgruntled and unless all the founders are putting in their full efforts the startup will fail (most likely it is going to fail anyway so why increase the probability over a couple of percentage point, any startup is going to need all the extra luck it can get).</p>
+Also if you have an unequal distribution people will get disgruntled and unless all the founders are putting in their full efforts the startup will fail (most likely it is going to fail anyway so why increase the probability over a couple of percentage point, any startup is going to need all the extra luck it can get).
 
-<p>Final Note: <a href="https://startups.stackexchange.com/q/7772/1719">The idea is worth nothing</a>. Only the implementation of the idea is worth something.</p>
-
+Final Note: [The idea is worth nothing](https://startups.stackexchange.com/q/7772/1719). Only the implementation of the idea is worth something.
 
 
 ## Answer 9324
@@ -84,11 +82,12 @@
 - posted by: [TimmyB](https://stackexchange.com/users/8782762/timmyb) on 2016-12-05
 - score: 1
 
-<p>I am assuming that you currently hold 100% of the organization.  So, it is entirely up to you how much equity you would like to provide to individuals joining your team.  Just as it is entirely their discretion whether to join you or not.  Just as in determining a salary for someone, you have to settle on an amount that you are willing to pay and that they are willing to accept. </p>
+I am assuming that you currently hold 100% of the organization.  So, it is entirely up to you how much equity you would like to provide to individuals joining your team.  Just as it is entirely their discretion whether to join you or not.  Just as in determining a salary for someone, you have to settle on an amount that you are willing to pay and that they are willing to accept. 
 
-<p>Depending on where you are though it may be nigh impossible to find technical talent willing to do any work for just equity.  There are a lot more idea guys than there are engineers willing to work for free.  I think Alari provided a pretty decent and fair estimate.  Doubtful you'll be able to maintain 51%.  Which is fine, this is a team effort.  Giving up majority control will force you to be more selective with who you add to the team.</p>
+Depending on where you are though it may be nigh impossible to find technical talent willing to do any work for just equity.  There are a lot more idea guys than there are engineers willing to work for free.  I think Alari provided a pretty decent and fair estimate.  Doubtful you'll be able to maintain 51%.  Which is fine, this is a team effort.  Giving up majority control will force you to be more selective with who you add to the team.
 
-<p>Good luck!</p>
+Good luck!
+
 
 
 
@@ -97,10 +96,9 @@
 - posted by: [TTT](https://stackexchange.com/users/62041/ttt) on 2016-05-27
 - score: 0
 
-<p>I think it will help you to find out how much it <em>would</em> cost you to hire a developer to build the software for you. (Note: I'm not saying you should actually hire someone, just find out the cost of hiring one.) This will typically involve a series of NDAs and discussions or quotes from individual software developers or vendors.</p>
+I think it will help you to find out how much it *would* cost you to hire a developer to build the software for you. (Note: I'm not saying you should actually hire someone, just find out the cost of hiring one.) This will typically involve a series of NDAs and discussions or quotes from individual software developers or vendors.
 
-<p>Armed with this information, you can have a better sense of what each equity partner is bringing to the table. If you bring on a single developer and the cost would be $2K, that's an entirely different mindset than if it would cost $250K, because the developer is taking on different levels of risk. The more money you are asking a developer to contribute for free, the more risk (in unpaid time) they are taking on. In other words, to attract a good developer you'll probably need to give a lot more equity if they have to quit their job and spend 6 months of their life without any pay just to get it started, versus something they can bang out in a weekend.</p>
-
+Armed with this information, you can have a better sense of what each equity partner is bringing to the table. If you bring on a single developer and the cost would be $2K, that's an entirely different mindset than if it would cost $250K, because the developer is taking on different levels of risk. The more money you are asking a developer to contribute for free, the more risk (in unpaid time) they are taking on. In other words, to attract a good developer you'll probably need to give a lot more equity if they have to quit their job and spend 6 months of their life without any pay just to get it started, versus something they can bang out in a weekend.
 
 
 

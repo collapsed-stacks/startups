@@ -4,23 +4,20 @@
 - tagged: `mobile-apps`, `networking`, `work-for-hire`
 - score: 1
 
-<p>Last summer I came up with an idea for an app game. I decided to develop it myself so (coming from Java) started to learn objective-C and programs such as Xcode. During the summer I wrote a functioning pre-alpha version of the app (lacking artwork) but I was unable to finish it before the holidays ended (I've written about 50% of what in my eyes could be considered as the first version of the final app).</p>
+Last summer I came up with an idea for an app game. I decided to develop it myself so (coming from Java) started to learn objective-C and programs such as Xcode. During the summer I wrote a functioning pre-alpha version of the app (lacking artwork) but I was unable to finish it before the holidays ended (I've written about 50% of what in my eyes could be considered as the first version of the final app).
 
-<p>Currently I am working on a new project and since this new project falls better into my fields of interest (finance, trading), I've given up on the app.</p>
+Currently I am working on a new project and since this new project falls better into my fields of interest (finance, trading), I've given up on the app.
 
-<p>But I would love to finish it as IMHO I think it could be a huge success. Therefore I've decided to search for a developer which is willing to finish (or rewrite) the app and split the profits. This means that I'm not willing to invest any money into it. Rather I would like to split profits 60/40 (60 for the developer).</p>
+But I would love to finish it as IMHO I think it could be a huge success. Therefore I've decided to search for a developer which is willing to finish (or rewrite) the app and split the profits. This means that I'm not willing to invest any money into it. Rather I would like to split profits 60/40 (60 for the developer).
 
-<p>I have a few questions regarding this:</p>
+I have a few questions regarding this:
 
-<ul>
-<li>Is this a fair profit sharing ratio?</li>
-<li>How and where should I search for developers?</li>
-</ul>
+- Is this a fair profit sharing ratio?
+- How and where should I search for developers?
 
-<p>Especially the second question left me clueless: posting an 'ad' on a big site could result in some sort of adverse selection of developers. Likewise, I think that approaching individual developers that are both good and motivated could be rather difficult: should I target professionals, student-developers, freelancers, amateurs? I would like to have a local developer (for 1-to-1 meetings) but I also want the developer to be <em>skilled</em> (in developing apps/designing artwork) and <em>highly motivated</em>/<em>enthusiastic</em>, so with such a geographic restriction it might be hard to find one.</p>
+Especially the second question left me clueless: posting an 'ad' on a big site could result in some sort of adverse selection of developers. Likewise, I think that approaching individual developers that are both good and motivated could be rather difficult: should I target professionals, student-developers, freelancers, amateurs? I would like to have a local developer (for 1-to-1 meetings) but I also want the developer to be *skilled* (in developing apps/designing artwork) and *highly motivated*/*enthusiastic*, so with such a geographic restriction it might be hard to find one.
 
-<p>Any suggestions, comments, criticisms are highly appreciated.</p>
-
+Any suggestions, comments, criticisms are highly appreciated.
 
 
 ## Answer 3140

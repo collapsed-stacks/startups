@@ -4,8 +4,7 @@
 - tagged: `pricing`, `value`
 - score: 2
 
-<p>There is Facebook page that perfectly fits to my android app. To advertise my app, I want to buy that page. Before I offer to its owner, how can I evaluate its price by view, link click etc.</p>
-
+There is Facebook page that perfectly fits to my android app. To advertise my app, I want to buy that page. Before I offer to its owner, how can I evaluate its price by view, link click etc.
 
 
 ## Answer 3768
@@ -48,10 +47,9 @@ So hire someone part time to deal with the page = 1600$ per month</p>
 - posted by: [Okyasoft](https://stackexchange.com/users/294248/okyasoft) on 2015-03-17
 - score: 3
 
-<p>Before you decide to invest in buying a Facebook page I think you need to take into account how useful will it be for your android app to target the fans of the page.</p>
+Before you decide to invest in buying a Facebook page I think you need to take into account how useful will it be for your android app to target the fans of the page.
 
-<p>After the recent newsfeed changes at Facebook, there is not much value in maintaining a Facebook page for your brand. Your posts on the page are only shown to less than 5% of the total number of fans. You will need to pay Facebook to boost your posts if you want to reach all your fans. It makes more sense to build your fan base where you can control it and avoid using Facebook for this purpose.</p>
-
+After the recent newsfeed changes at Facebook, there is not much value in maintaining a Facebook page for your brand. Your posts on the page are only shown to less than 5% of the total number of fans. You will need to pay Facebook to boost your posts if you want to reach all your fans. It makes more sense to build your fan base where you can control it and avoid using Facebook for this purpose.
 
 
 

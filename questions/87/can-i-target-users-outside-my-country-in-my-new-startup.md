@@ -4,8 +4,7 @@
 - tagged: `international`, `legal`
 - score: 5
 
-<p>I am planning to start up an online business targeting users in a different country. The business is providing an online service for managing schools online including payments, scheduling and reporting. Is there any law around this? Do I need to get approval if I am targeting a specific country which I am not in?</p>
-
+I am planning to start up an online business targeting users in a different country. The business is providing an online service for managing schools online including payments, scheduling and reporting. Is there any law around this? Do I need to get approval if I am targeting a specific country which I am not in?
 
 
 ## Answer 132
@@ -40,16 +39,15 @@
 - posted by: [DataSmarter](https://stackexchange.com/users/3128474/datasmarter) on 2014-07-31
 - score: 1
 
-<p><strong>It depends, of course on the type of your business. There are specific rules for specific sectors like medicaments</strong> (in some countries, the advertising for medicaments is forbidden)<strong>, firearms,...</strong> But if you are active in some more "common" activity, it is less complicated.</p>
+**It depends, of course on the type of your business. There are specific rules for specific sectors like medicaments** (in some countries, the advertising for medicaments is forbidden)**, firearms,...** But if you are active in some more "common" activity, it is less complicated.
 
-<p>You will have to pay attention to the place where you sell - is it an online store? Do you have some local shops? Will you have an official importer or will you just ship directly to the customer?</p>
+You will have to pay attention to the place where you sell - is it an online store? Do you have some local shops? Will you have an official importer or will you just ship directly to the customer?
 
-<p><strong>In general, you will have take care of some tax issues</strong> (e.g. the VAT in European Union) <strong>but the most of the aspects are linked to the client. He has to know if it is legal or not to "import" and use your products in his country.</strong></p>
+**In general, you will have take care of some tax issues** (e.g. the VAT in European Union) **but the most of the aspects are linked to the client. He has to know if it is legal or not to "import" and use your products in his country.**
 
-<p>See it also like this: targeting or not, it doesn't matter. If you have a client from a country you are not targeting, you will not refuse to ship him your product, right?</p>
+See it also like this: targeting or not, it doesn't matter. If you have a client from a country you are not targeting, you will not refuse to ship him your product, right?
 
-<p><strong>The easiest way is to contact some kind of "public agency for export"</strong> (the name depend on your country) and they will give you more detailed answers. <strong>Consulting a lawyer</strong> should also be a good idea in this case.  </p>
-
+**The easiest way is to contact some kind of "public agency for export"** (the name depend on your country) and they will give you more detailed answers. **Consulting a lawyer** should also be a good idea in this case.  
 
 
 ## Answer 90
@@ -57,10 +55,9 @@
 - posted by: [guiligan](https://stackexchange.com/users/436247/guiligan) on 2014-07-31
 - score: 0
 
-<p>It depends on the country's law. Here in Brazil it doesn't matter where the business is from, if the client is in Brazil and, for any instance it sues the company, it will respond based on Brazil's laws. However, there is not any kind of approval to "operate" your online business.</p>
+It depends on the country's law. Here in Brazil it doesn't matter where the business is from, if the client is in Brazil and, for any instance it sues the company, it will respond based on Brazil's laws. However, there is not any kind of approval to "operate" your online business.
 
-<p>Remember that some products might require specific approvals from local authorities (eg. a cellphone in Brazil requires an approval seal from Anatel, the national agency for telecommunications); however, an online service company shouldn't have many concerns with this.</p>
-
+Remember that some products might require specific approvals from local authorities (eg. a cellphone in Brazil requires an approval seal from Anatel, the national agency for telecommunications); however, an online service company shouldn't have many concerns with this.
 
 
 

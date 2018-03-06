@@ -4,30 +4,27 @@
 - tagged: `growth`, `market-research`, `forecasting`, `market-size`
 - score: 8
 
-<p>Let's say a business has opened up a new market segment which was being completely ignored before. The service has already been presented to test markets and begun accumulating users with an overwhelmingly positive response of, "We've been WAITING FOREVER for someone to do this!"</p>
+Let's say a business has opened up a new market segment which was being completely ignored before. The service has already been presented to test markets and begun accumulating users with an overwhelmingly positive response of, "We've been WAITING FOREVER for someone to do this!"
 
-<p>Obviously that's a great position to be in, and it would be easy for the founder(s) of this startup to get excited and start thinking about all of the potential there must be. </p>
+Obviously that's a great position to be in, and it would be easy for the founder(s) of this startup to get excited and start thinking about all of the potential there must be. 
 
-<blockquote>
-  <p>If the small market we've been able to reach out to is this excited,
-  just think what will happen when we start doing more marketing and
-  reach a broader audience!</p>
-</blockquote>
+> If the small market we've been able to reach out to is this excited,
+> just think what will happen when we start doing more marketing and
+> reach a broader audience!
 
-<p>But ultimately there is a limit to the size of this market segment. To an excited founder, it seems like it must be infinitely big based on the response, but what can be done to bring this back down to earth and forecast the size of this relatively untapped market?</p>
+But ultimately there is a limit to the size of this market segment. To an excited founder, it seems like it must be infinitely big based on the response, but what can be done to bring this back down to earth and forecast the size of this relatively untapped market?
 
-<p>Obviously, expanding with additional new products, services, etc. will expand the market reach,  but let's pretend this business wants to know the market size for just the current service offering.</p>
+Obviously, expanding with additional new products, services, etc. will expand the market reach,  but let's pretend this business wants to know the market size for just the current service offering.
 
-<p>To give a starting point for figuring this out:</p>
+To give a starting point for figuring this out:
 
-<p>Let's say you're producing personalized widgets. Up until now, it's been generally considered too expensive to get your widgets custom made with your own design. From a manufacturing standpoint, it is hard to customize these widgets, but your company has developed a method to make it more time and cost effective.</p>
+Let's say you're producing personalized widgets. Up until now, it's been generally considered too expensive to get your widgets custom made with your own design. From a manufacturing standpoint, it is hard to customize these widgets, but your company has developed a method to make it more time and cost effective.
 
-<p>There is already a decent market out there for the mass produced widgets in a variety of different styles. But people are incredibly excited to be able to design their own widgets.  </p>
+There is already a decent market out there for the mass produced widgets in a variety of different styles. But people are incredibly excited to be able to design their own widgets.  
 
-<p>So the market for custom widgets is a subsection of the overall market for widgets (plus a small portion that wouldn't want the standard widgets). But how do you determine the size of the subsection if no one has directly marketed to it before?</p>
+So the market for custom widgets is a subsection of the overall market for widgets (plus a small portion that wouldn't want the standard widgets). But how do you determine the size of the subsection if no one has directly marketed to it before?
 
-<p>I think that should be specific enough to work from while still being general enough to be applicable to other situations as well.</p>
-
+I think that should be specific enough to work from while still being general enough to be applicable to other situations as well.
 
 
 ## Answer 905
@@ -35,22 +32,23 @@
 - posted by: [Corbin](https://stackexchange.com/users/5129216/corbin) on 2014-10-05
 - score: 1
 
-<p>Start out by doing secondary research on the overall widget market. This will help you find the size of the general market. Then find out a place where you could find a lot of potential customers, (conventions, stores, ect), and hand out a survey that would ask a questions a long the line of:</p>
+Start out by doing secondary research on the overall widget market. This will help you find the size of the general market. Then find out a place where you could find a lot of potential customers, (conventions, stores, ect), and hand out a survey that would ask a questions a long the line of:
 
-<ol>
-<li><p>What type of widgets have you bought in the past?
-(list of companies)</p></li>
-<li><p>Would you be interested in a customized widget?
-(yes, or no)</p></li>
-<li><p>What would you be willing to pay for a customized widget?
-(price scale) </p></li>
-</ol>
+ 1. What type of widgets have you bought in the past?
+(list of companies)
 
-<p>1 would tell you your market share. 2. Would tell you the willingness to buy your purposed product and the would forecast your markets size. </p>
+ 2. Would you be interested in a customized widget?
+(yes, or no)
 
-<p>Here's a page I found quickly that does a pretty decent job of describing market research:</p>
+ 3. What would you be willing to pay for a customized widget?
+(price scale) 
 
-<p><a href="http://businesscasestudies.co.uk/food-standards-agency/market-research-and-consumer-protection/primary-and-secondary-research.html#axzz3FFw5pSP8" rel="nofollow">http://businesscasestudies.co.uk/food-standards-agency/market-research-and-consumer-protection/primary-and-secondary-research.html#axzz3FFw5pSP8</a></p>
+1 would tell you your market share. 2. Would tell you the willingness to buy your purposed product and the would forecast your markets size. 
+
+Here's a page I found quickly that does a pretty decent job of describing market research:
+
+http://businesscasestudies.co.uk/food-standards-agency/market-research-and-consumer-protection/primary-and-secondary-research.html#axzz3FFw5pSP8
+
 
 
 

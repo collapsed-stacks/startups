@@ -4,19 +4,16 @@
 - tagged: `payment`, `salary`, `hours`
 - score: 4
 
-<p>We are a startup of 6 people, and we want to calculate the salary of the staff. But the problem is that the staffs' conditions are really different:</p>
+We are a startup of 6 people, and we want to calculate the salary of the staff. But the problem is that the staffs' conditions are really different:
 
-<ul>
-<li>Some people are working at home. They come to the office once or twice a week, give reports, get to-do lists, and continue to work at home.</li>
-<li>Some people are working part-time, some work full-time, and some work extra-full-time !!</li>
-<li>Some people come to the office when we ask them. They do their regular work at home or elsewhere, and when we need them to come to the office and do some special works, we call them and they come. Usually 2-3 times a week.</li>
-<li>Some people work at the office, and some work out of the office. Some work both in and out of office.</li>
-</ul>
+- Some people are working at home. They come to the office once or twice a week, give reports, get to-do lists, and continue to work at home.
+- Some people are working part-time, some work full-time, and some work extra-full-time !!
+- Some people come to the office when we ask them. They do their regular work at home or elsewhere, and when we need them to come to the office and do some special works, we call them and they come. Usually 2-3 times a week.
+- Some people work at the office, and some work out of the office. Some work both in and out of office.
 
-<p>As you see, it is very difficult to calculate the salary based on the daily worked hours.</p>
+As you see, it is very difficult to calculate the salary based on the daily worked hours.
 
-<p><strong><em>So, how should we calculate the salary of staff?</em></strong></p>
-
+***So, how should we calculate the salary of staff?***
 
 
 ## Answer 9339
@@ -24,18 +21,17 @@
 - posted by: [jdero](https://stackexchange.com/users/1972448/jdero) on 2016-05-28
 - score: 4
 
-<p>Even a startup should have a CEO. Someone should be making the decision here.</p>
+Even a startup should have a CEO. Someone should be making the decision here.
 
-<p>It seems like you've already listed out the major factors, but you left out two very important inputs: skill and experience.</p>
+It seems like you've already listed out the major factors, but you left out two very important inputs: skill and experience.
 
-<p>The largest your company gets, the less people should be talking about who gets paid what. It shouldn't be general knowledge and it shouldn't become a democracy.</p>
+The largest your company gets, the less people should be talking about who gets paid what. It shouldn't be general knowledge and it shouldn't become a democracy.
 
-<p>As a startup cofounder, I know it's important to discriminate on these factors and hold 1-on-1 conversations and be logical. It's likely, especially in a startup, that everyone will discuss their salaries with each other and it's your job to hold fair logical procedures for evaluating it - everyone likes the idea of fairness: your employees working less shouldn't make as much as those who work more, unless somehow they provide a skill which is more valuable to the company in less time (at a proportionate amount).</p>
+As a startup cofounder, I know it's important to discriminate on these factors and hold 1-on-1 conversations and be logical. It's likely, especially in a startup, that everyone will discuss their salaries with each other and it's your job to hold fair logical procedures for evaluating it - everyone likes the idea of fairness: your employees working less shouldn't make as much as those who work more, unless somehow they provide a skill which is more valuable to the company in less time (at a proportionate amount).
 
-<p>tldr; I wish I could just say salary_calc = 32000*(1/2*skill_rating)*(40/num_hours_worked) where skill_rating is .1 - 100 depending on skill and industry</p>
+tldr; I wish I could just say salary_calc = 32000*(1/2*skill_rating)*(40/num_hours_worked) where skill_rating is .1 - 100 depending on skill and industry
 
-<p>Furthermore, I see little reasoning in paying more OR less to remote workers, unless they are using home equipment which you provide a stipend for work expenses &amp; external communication in place of office supplies</p>
-
+Furthermore, I see little reasoning in paying more OR less to remote workers, unless they are using home equipment which you provide a stipend for work expenses & external communication in place of office supplies
 
 
 ## Answer 9354
@@ -43,23 +39,18 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2016-05-30
 - score: 2
 
-<p>To me, the only factor that seems relevant in those that you listed is whether they're expected to work full time or not. The only question that really counts is:</p>
+To me, the only factor that seems relevant in those that you listed is whether they're expected to work full time or not. The only question that really counts is:
 
-<blockquote>
-  <p>At what price point are they not actively looking for a new job?</p>
-</blockquote>
+> At what price point are they not actively looking for a new job?
 
-<p>Keep market rate in mind: what you should pay your staff to work for you is more or less what they can get away with by working elsewhere. Ideally plus some, to make sure they stick around instead of looking at job listings. Market rate is <em>extremely</em> subjective, of course. Two similar profiles might command very different salaries owing to better networks and/or past experience.</p>
+Keep market rate in mind: what you should pay your staff to work for you is more or less what they can get away with by working elsewhere. Ideally plus some, to make sure they stick around instead of looking at job listings. Market rate is _extremely_ subjective, of course. Two similar profiles might command very different salaries owing to better networks and/or past experience.
 
-<p>Ask what individual members in your team what they'd like to get paid (as in "fair" to them), rather than what pay seems "fair" to the others. Bring it up in 1-1 conversations: you might discover that your engineers have interviewed for $10k/mo positions in SV but are happy to work for a lot less to stay near home, while the others' sorrier day to day reality amounts to catching an occasional $5 job on Fiverr. If so, you should probably pay the former more than the latter - there's a lot more risk of them going away.</p>
+Ask what individual members in your team what they'd like to get paid (as in "fair" to them), rather than what pay seems "fair" to the others. Bring it up in 1-1 conversations: you might discover that your engineers have interviewed for $10k/mo positions in SV but are happy to work for a lot less to stay near home, while the others' sorrier day to day reality amounts to catching an occasional $5 job on Fiverr. If so, you should probably pay the former more than the latter - there's a lot more risk of them going away.
 
-<p>Two asides:</p>
+Two asides:
 
-<ol>
-<li>Employees (particularly youngsters) are generally happy getting paid whatever covers their day to day expenses, plus enough to make their more or less distant aspirations come a bit closer month to month. The ones who actively think in terms of "could I be making more elsewhere?" are a rather special breed.</li>
-<li>Try to locate a more experienced mentor - or at the very least, more seasoned entrepreneurs who you can talk to and bounce ideas off - at local <a href="http://www.meetup.com" rel="nofollow">meetups</a>. Try the ones related to startups, marketing, and innovation, rather than the techie ones that engineers prefer to go to.</li>
-</ol>
-
+1. Employees (particularly youngsters) are generally happy getting paid whatever covers their day to day expenses, plus enough to make their more or less distant aspirations come a bit closer month to month. The ones who actively think in terms of "could I be making more elsewhere?" are a rather special breed.
+2. Try to locate a more experienced mentor - or at the very least, more seasoned entrepreneurs who you can talk to and bounce ideas off - at local [meetups](http://www.meetup.com). Try the ones related to startups, marketing, and innovation, rather than the techie ones that engineers prefer to go to.
 
 
 ## Answer 9409

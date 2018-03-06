@@ -4,8 +4,7 @@
 - tagged: `valuation`
 - score: -1
 
-<p>I came across this article which says TutorVista was valued at 213 Million USD while being sold to Pearson. The site as of today says it has done 10,966,000 sessions. A session lasts at most an hour so $10,966,000 revenue of the company till now. How did investors valuate it for $213 million USD?</p>
-
+I came across this article which says TutorVista was valued at 213 Million USD while being sold to Pearson. The site as of today says it has done 10,966,000 sessions. A session lasts at most an hour so $10,966,000 revenue of the company till now. How did investors valuate it for $213 million USD?
 
 
 ## Answer 12399
@@ -33,12 +32,11 @@
 - posted by: [DonQuiKong](https://stackexchange.com/users/9739821/donquikong) on 2017-04-03
 - score: 0
 
-<p>It depends on the interest rate and the profit the investor expects. A company making 10€ profit per year at an interest rate of 100%/a would be worth 10€, at an interest rate of 10% 100 Euro. </p>
+It depends on the interest rate and the profit the investor expects. A company making 10€ profit per year at an interest rate of 100%/a would be worth 10€, at an interest rate of 10% 100 Euro. 
 
-<p>Adding increasing profit over time makes the calculus harder but the logik stays the same.</p>
+Adding increasing profit over time makes the calculus harder but the logik stays the same.
 
-<p>Note that the interest rate is arbitrarily whatever the investor considers necessary, not the market rate.</p>
-
+Note that the interest rate is arbitrarily whatever the investor considers necessary, not the market rate.
 
 
 ## Answer 12415

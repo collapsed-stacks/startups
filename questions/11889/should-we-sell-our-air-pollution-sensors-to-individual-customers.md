@@ -4,92 +4,79 @@
 - tagged: `tech-company`, `sales`, `market-research`, `customer-service`, `sell`
 - score: 5
 
-<p>I'm a co-founder of a company that provides:</p>
+I'm a co-founder of a company that provides:
 
-<ul>
-<li>air pollution sensors</li>
-<li>interactive air pollution map (website and Android app) where the air quality is presented</li>
-</ul>
+- air pollution sensors
+- interactive air pollution map (website and Android app) where the air quality is presented
 
-<p><a href="https://i.stack.imgur.com/zGIX2.jpg" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/zGIX2.jpg" alt="enter image description here"></a>
-The map is available for everyone.</p>
+[![enter image description here][1]][1]
+The map is available for everyone.
 
-<h2>Background - what do we do now, how the problem started</h2>
+Background - what do we do now, how the problem started
+-------------------------------------------------------
 
-<p>As for now, we have a business model for leasing our sensors to cities (the government in general). They are paying initial payment (for the sensor, mounting, configuring etc.) + monthly fee (for maintaining and periodically calibrating the sensor and maintaining our website). This business goes fine.</p>
+As for now, we have a business model for leasing our sensors to cities (the government in general). They are paying initial payment (for the sensor, mounting, configuring etc.) + monthly fee (for maintaining and periodically calibrating the sensor and maintaining our website). This business goes fine.
 
-<p>However, there are many e-mails from individual customers that are fascinated with our idea of distributed dense network of air pollution sensors and they want to buy our sensors for their location as well.</p>
+However, there are many e-mails from individual customers that are fascinated with our idea of distributed dense network of air pollution sensors and they want to buy our sensors for their location as well.
 
-<hr>
+----------
 
-<p><strong>There are few questions that I'd like to have answer for:</strong></p>
+**There are few questions that I'd like to have answer for:**
 
-<ul>
-<li>Should we sell sensors to individuals or just sell them to cities, towns etc. as we do now?</li>
-<li>If we should sell sensors to individuals, then on what terms? Should we resign from the idea of monthly fee?</li>
-<li>Should we show the sensors that would be bought by that customers on our map?</li>
-<li>Do you have any pros/cons to add?</li>
-</ul>
+- Should we sell sensors to individuals or just sell them to cities, towns etc. as we do now?
+- If we should sell sensors to individuals, then on what terms? Should we resign from the idea of monthly fee?
+- Should we show the sensors that would be bought by that customers on our map?
+- Do you have any pros/cons to add?
 
-<p>We are just a startup. This is complex problem and any advice would be appreciated.</p>
+We are just a startup. This is complex problem and any advice would be appreciated.
 
-<hr>
+----------
 
-<h2>Selling sensors to individuals (in general)</h2>
+Selling sensors to individuals (in general)
+------------------------------
+**Pros:**
 
-<p><strong>Pros:</strong></p>
+- More money.
+- More active points on our map (if we decide to show them).
 
-<ul>
-<li>More money.</li>
-<li>More active points on our map (if we decide to show them).</li>
-</ul>
+**Cons:**
 
-<p><strong>Cons:</strong></p>
+- Need to provide customer service.
 
-<ul>
-<li>Need to provide customer service.</li>
-</ul>
+----------
 
-<hr>
+**We can divide these customers into two cases:**
 
-<p><strong>We can divide these customers into two cases:</strong></p>
+People that want to buy sensor within area of existing sensor network
+------------------------------------------------------------------------
 
-<h2>People that want to buy sensor within area of existing sensor network</h2>
+**Pros:**
 
-<p><strong>Pros:</strong></p>
+- They are near our headquarters, so possible warranty is handled easily - if something happens to the sensor, we can deliver a new one in the same day.
+- We can mount our sensors by ourselves, so we can make sure that the sensor is mounted correctly and in the right place.
+- We have better control over reliability of data presented on our website - with the dense network of measuring sensors we can detect an outliner easily and we can physically check if sensor is OK by going to the place where the sensor is.
 
-<ul>
-<li>They are near our headquarters, so possible warranty is handled easily - if something happens to the sensor, we can deliver a new one in the same day.</li>
-<li>We can mount our sensors by ourselves, so we can make sure that the sensor is mounted correctly and in the right place.</li>
-<li>We have better control over reliability of data presented on our website - with the dense network of measuring sensors we can detect an outliner easily and we can physically check if sensor is OK by going to the place where the sensor is.</li>
-</ul>
+People that want to buy our sensor and are far away from our dense network of sensors
+------------------------------------------------------------------------
+**Pros:**
 
-<h2>People that want to buy our sensor and are far away from our dense network of sensors</h2>
+- Showing measurements from remote location where no sensors were previously may raise awareness of badly polluted air in people's minds and therefore attract city to buy more sensors.
 
-<p><strong>Pros:</strong></p>
+**Cons:**
 
-<ul>
-<li>Showing measurements from remote location where no sensors were previously may raise awareness of badly polluted air in people's minds and therefore attract city to buy more sensors.</li>
-</ul>
+- Handling potential warranties would require extra time and resources.
+- We won't be able to mount the sensor by ourselves or that would cost us extra money, so we have no control over how the sensor is mounted.
+- We have less control over validating if the measurements are correct. However, it's still possible but in limited way.
+- It may happen that the cities won't be interested in our offer anymore because the citizens would buy many of our sensors in particular city.
 
-<p><strong>Cons:</strong></p>
+**Additional information:**
 
-<ul>
-<li>Handling potential warranties would require extra time and resources.</li>
-<li>We won't be able to mount the sensor by ourselves or that would cost us extra money, so we have no control over how the sensor is mounted.</li>
-<li>We have less control over validating if the measurements are correct. However, it's still possible but in limited way.</li>
-<li>It may happen that the cities won't be interested in our offer anymore because the citizens would buy many of our sensors in particular city.</li>
-</ul>
+- We've installed above 100 sensors and from that number about 1 sensor started to work improperly in about 2 months time.
+- One of our concerns are the users who can take sensor away from the location where it was mounted. For example, take it indoor. We have temperature sensor and we can scan WiFi networks, so it can be detected but in limited way.
+- We really want to care about quality of the data. We want to be reliable.
+- We are not sure yet how often the calibration of the sensors will be needed. We approximate it for about 2 years now.
 
-<p><strong>Additional information:</strong></p>
-
-<ul>
-<li>We've installed above 100 sensors and from that number about 1 sensor started to work improperly in about 2 months time.</li>
-<li>One of our concerns are the users who can take sensor away from the location where it was mounted. For example, take it indoor. We have temperature sensor and we can scan WiFi networks, so it can be detected but in limited way.</li>
-<li>We really want to care about quality of the data. We want to be reliable.</li>
-<li>We are not sure yet how often the calibration of the sensors will be needed. We approximate it for about 2 years now.</li>
-</ul>
-
+  [1]: https://i.stack.imgur.com/zGIX2.jpg
 
 
 ## Answer 11895

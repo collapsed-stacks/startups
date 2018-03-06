@@ -4,18 +4,17 @@
 - tagged: `employees`
 - score: 8
 
-<p>I'm currently an IT student and I'm creating a company with other students of my university.</p>
+I'm currently an IT student and I'm creating a company with other students of my university.
 
-<p>We have known each others from the start of our studies (which we are about to complete) and since the beginning we are friends.</p>
+We have known each others from the start of our studies (which we are about to complete) and since the beginning we are friends.
 
-<p>When I had the idea for the company, they decided to follow me.</p>
+When I had the idea for the company, they decided to follow me.
 
-<p>The trouble is that recently they posted things on a chat we use for work which would be ok on a personal chat but not on a profesional one.</p>
+The trouble is that recently they posted things on a chat we use for work which would be ok on a personal chat but not on a profesional one.
 
-<p>We now are coworkers as well as friends prior to the creation of the project, and even though I believe they are professionals I want to be sure that this transition from friends to coworkers happen in the best conditions.</p>
+We now are coworkers as well as friends prior to the creation of the project, and even though I believe they are professionals I want to be sure that this transition from friends to coworkers happen in the best conditions.
 
-<p>How can I make this transition in the smoothest yet effective way?</p>
-
+How can I make this transition in the smoothest yet effective way?
 
 
 ## Answer 12604
@@ -23,20 +22,19 @@
 - posted by: [Kev Price](https://stackexchange.com/users/1109274/kev-price) on 2017-05-04
 - score: 5
 
-<p>I don't see anything wrong with being personal friends at work. Myself, my co founder and our team chatted about everything and anything during office hours. Both face to face and on internal comms.</p>
+I don't see anything wrong with being personal friends at work. Myself, my co founder and our team chatted about everything and anything during office hours. Both face to face and on internal comms.
 
-<p>I feel it made us a better team because the work was not about the work but instead the improvement of the lives of all of us. Work was a means to achieve that so we all worked hard.</p>
+I feel it made us a better team because the work was not about the work but instead the improvement of the lives of all of us. Work was a means to achieve that so we all worked hard.
 
-<p>One thing that helps is having different channels of communication for different things. We used Slack, this let us have separate channels for different conversations.</p>
+One thing that helps is having different channels of communication for different things. We used Slack, this let us have separate channels for different conversations.
 
-<p>General chat was for everything non work related, then we had channels for different business areas (sales, marketing, development etc)</p>
+General chat was for everything non work related, then we had channels for different business areas (sales, marketing, development etc)
 
-<p>It allowed us to keep noise on topics to a minimum and not lose specific thinking around things cos it was segmented. Whilst still allowing us all to be friends.</p>
+It allowed us to keep noise on topics to a minimum and not lose specific thinking around things cos it was segmented. Whilst still allowing us all to be friends.
 
-<p>The culture of your business will depend on what you want it to be (collectively). If you want it silent and everyone focused then everyone has to be on board else people won't enjoy it, become unmotivated. I think the main thing to consider is if things are getting done.</p>
+The culture of your business will depend on what you want it to be (collectively). If you want it silent and everyone focused then everyone has to be on board else people won't enjoy it, become unmotivated. I think the main thing to consider is if things are getting done.
 
-<p>If work is getting done and you're enjoying it then that's great. If it's not getting done then it needs addressing - and since you're friends, probably addressing carefully, in keeping with the group's current dynamic.</p>
-
+If work is getting done and you're enjoying it then that's great. If it's not getting done then it needs addressing - and since you're friends, probably addressing carefully, in keeping with the group's current dynamic.
 
 
 ## Answer 12605
@@ -44,12 +42,11 @@
 - posted by: [BrettFromLA](https://stackexchange.com/users/2813127/brettfromla) on 2017-05-04
 - score: 2
 
-<p>Discuss it as a group! All of you are smart. You can all speak openly with each other. If everyone discusses it - perhaps for several days, or even weeks - you will come up with an arrangement that works for the firm and that everyone is comfortable with.</p>
+Discuss it as a group! All of you are smart. You can all speak openly with each other. If everyone discusses it - perhaps for several days, or even weeks - you will come up with an arrangement that works for the firm and that everyone is comfortable with.
 
-<p>The hierarchy of the firm will be paramount. Friends are typically equals, but this is YOUR business: YOU are the president / CEO / boss, and they are employees of the firm. Employees can be reprimanded or even terminated for insubordination. Your friends don't consider themselves "subordinate" to you, but in business, that will need to be an understanding.</p>
+The hierarchy of the firm will be paramount. Friends are typically equals, but this is YOUR business: YOU are the president / CEO / boss, and they are employees of the firm. Employees can be reprimanded or even terminated for insubordination. Your friends don't consider themselves "subordinate" to you, but in business, that will need to be an understanding.
 
-<p>(By the way - good luck! I'm envious of your plans! It sounds like a really fun endeavor!)</p>
-
+(By the way - good luck! I'm envious of your plans! It sounds like a really fun endeavor!)
 
 
 ## Answer 12621

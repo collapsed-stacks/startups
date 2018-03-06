@@ -4,13 +4,12 @@
 - tagged: `business-model`, `business-registration`, `web-development`
 - score: 0
 
-<p>My friend and I have a startup that deals in online hotel booking systems. 
-Recently, after some research we came across a business which is "Channel Manager". On portal to update all your online booking engines. </p>
+My friend and I have a startup that deals in online hotel booking systems. 
+Recently, after some research we came across a business which is "Channel Manager". On portal to update all your online booking engines. 
 
-<p>We want to create that system, but the issue is that we are unable to find APIs for bookings engines like "Booking.com". So how do channel managers work with these booking engines. </p>
+We want to create that system, but the issue is that we are unable to find APIs for bookings engines like "Booking.com". So how do channel managers work with these booking engines. 
 
-<p>Any help is appreciated. </p>
-
+Any help is appreciated. 
 
 
 ## Answer 9628
@@ -18,10 +17,9 @@ Recently, after some research we came across a business which is "Channel Manage
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2016-07-06
 - score: 1
 
-<p>Insofar as I've understood it (I once had lengthy chats with someone in the hospitality business), channel managers typically work direct with hotels/users and with one another (picking up a small commission in the process).</p>
+Insofar as I've understood it (I once had lengthy chats with someone in the hospitality business), channel managers typically work direct with hotels/users and with one another (picking up a small commission in the process).
 
-<p>They do so much like ad networks do - i.e. direct between publishers and eyeballs or indirectly through RTB systems. Or, indeed, financial brokers.</p>
-
+They do so much like ad networks do - i.e. direct between publishers and eyeballs or indirectly through RTB systems. Or, indeed, financial brokers.
 
 
 

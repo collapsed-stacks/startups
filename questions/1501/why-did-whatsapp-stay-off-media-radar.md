@@ -4,16 +4,16 @@
 - tagged: `tech-company`, `mobile-apps`, `advertising`, `stealth`, `yc-startup-school`
 - score: 8
 
-<p>In <a href="http://www.youtube.com/watch?v=4QRx0RsnmmU&amp;t=28m57s" rel="nofollow">this video</a> you can see the founder saying that they tried to stay off the media radar for as long as possible. </p>
+In [this video][1] you can see the founder saying that they tried to stay off the media radar for as long as possible. 
 
-<p>Does anyone know what the benefits to such a strategy would be or why they chose it?</p>
+[1]: http://www.youtube.com/watch?v=4QRx0RsnmmU&t=28m57s
 
-<blockquote>
-  <p>Jan Koum: To be fair, its been our goal to stay off Techcrunch for as long as
-  possible, or any media. Our goal has been to stay under the radar and
-  avoid media for as long as we can. (28:57-29:09)</p>
-</blockquote>
+Does anyone know what the benefits to such a strategy would be or why they chose it?
 
+
+> Jan Koum: To be fair, its been our goal to stay off Techcrunch for as long as
+> possible, or any media. Our goal has been to stay under the radar and
+> avoid media for as long as we can. (28:57-29:09)
 
 
 ## Answer 1518

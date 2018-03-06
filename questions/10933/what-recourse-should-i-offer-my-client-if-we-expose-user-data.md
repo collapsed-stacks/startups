@@ -4,18 +4,17 @@
 - tagged: `data`, `privacy`
 - score: 13
 
-<p>I've developed an app to analyse user data for a client. They've asked me what recourse they will have if the data is exposed (is made accessible to others). I'm not too sure how to answer this question. We've taken the usual best practices with the data: we don't actually store any sensitive information except for their API key which could be used to retrieve sensitive information from their system, the API key is stored encrypted, w/ key rotation, etc.</p>
+I've developed an app to analyse user data for a client. They've asked me what recourse they will have if the data is exposed (is made accessible to others). I'm not too sure how to answer this question. We've taken the usual best practices with the data: we don't actually store any sensitive information except for their API key which could be used to retrieve sensitive information from their system, the API key is stored encrypted, w/ key rotation, etc.
 
-<p>But it's the internet, even with all the best practices there's always a chance something could get compromised.</p>
+But it's the internet, even with all the best practices there's always a chance something could get compromised.
 
-<p>I don't really want to go back to them and say they have no recourse, but we're a (very) small operation.</p>
+I don't really want to go back to them and say they have no recourse, but we're a (very) small operation.
 
-<p>I've looked through some other posts, and references and looked up privacy policies and it seems that as a general rule people don't have any recourse if best practice has been used and the vendor notifies them if they become aware of a breech.</p>
+I've looked through some other posts, and references and looked up privacy policies and it seems that as a general rule people don't have any recourse if best practice has been used and the vendor notifies them if they become aware of a breech.
 
-<p>How should we respond? Is there any other kind of recourse that I've overlooked that they would reasonably expect?</p>
+How should we respond? Is there any other kind of recourse that I've overlooked that they would reasonably expect?
 
-<p>We're working with an Australian client but the system is on US servers.</p>
-
+We're working with an Australian client but the system is on US servers.
 
 
 ## Answer 10935
@@ -42,24 +41,23 @@
 - posted by: [Daniel Anderson](https://stackexchange.com/users/8398759/daniel-anderson) on 2016-08-14
 - score: 7
 
-<p>As a professional developer working in the field for more than 30 years, there's no more horrifying thought that the prospect of losing a customer's data.  And the short answer is, there may not <strong><em>be</em></strong> an answer you can give this particular client that will satisfy them.  As Anonymous pointed out, they sound like they're a litigious lot, which is potentially disastrous for a small firm without the resources to absorb the hit of things go awry.</p>
+As a professional developer working in the field for more than 30 years, there's no more horrifying thought that the prospect of losing a customer's data.  And the short answer is, there may not ***be*** an answer you can give this particular client that will satisfy them.  As Anonymous pointed out, they sound like they're a litigious lot, which is potentially disastrous for a small firm without the resources to absorb the hit of things go awry.
 
-<p>Now, that being said, I have had clients who were <em>reasonably</em> satisfied that I was willing to carry insurance against data loss or some type of breach resulting from my work, and I also provided information about a company I'd developed a relationship with that specialized in data recovery.</p>
+Now, that being said, I have had clients who were *reasonably* satisfied that I was willing to carry insurance against data loss or some type of breach resulting from my work, and I also provided information about a company I'd developed a relationship with that specialized in data recovery.
 
-<p><strong><em>HOWEVER</em></strong>, what you <em>must</em> do in this case is get the client away from thinking about the negative "what ifs" of dealing with your company.  The question they've asked has put you on the defensive, and no war has ever been won on defense.</p>
+***HOWEVER***, what you *must* do in this case is get the client away from thinking about the negative "what ifs" of dealing with your company.  The question they've asked has put you on the defensive, and no war has ever been won on defense.
 
-<p>What's key here is to be proactive and positive in explaining the measures you take to safeguard their data and look out for their best interests without making it sound like something bad is inevitable, if that makes sense.  Talking about it in the "when it happens" mode is a bad place to be, because all they'll do is continue to come up with more questions you can't really answer.</p>
+What's key here is to be proactive and positive in explaining the measures you take to safeguard their data and look out for their best interests without making it sound like something bad is inevitable, if that makes sense.  Talking about it in the "when it happens" mode is a bad place to be, because all they'll do is continue to come up with more questions you can't really answer.
 
-<p>You need to talk to them about data loss and breaches as if they're minor annoyances and about as likely as you winning the lottery.  In other words, you have to downplay the possibility of a breach or loss ever occurring in the first place and discuss it from the standpoint of why what you do assures their data is safe and secure.</p>
+You need to talk to them about data loss and breaches as if they're minor annoyances and about as likely as you winning the lottery.  In other words, you have to downplay the possibility of a breach or loss ever occurring in the first place and discuss it from the standpoint of why what you do assures their data is safe and secure.
 
-<p>This is less of a technical issue for you and more of a public relations matter.  The customer has called you out and wants you to explain why they should trust you.  Tell them.  Be honest.</p>
+This is less of a technical issue for you and more of a public relations matter.  The customer has called you out and wants you to explain why they should trust you.  Tell them.  Be honest.
 
-<p><em>Above all</em>, <strong><em>DON'T BE AFRAID TO WALK AWAY FROM THE DEAL.</em></strong>  There's nothing worse than a needy, whiny, impossible-to-satisfy customer.  As a small shop, you're probably scared to death that if you walk away from them then you may not get another customer.  What you <em>should</em> be afraid of is a customer like this who is already making you think you need to have an attorney available just in case they get an itch to sue.  There are always more clients, trust me.</p>
+*Above all*, ***DON'T BE AFRAID TO WALK AWAY FROM THE DEAL.***  There's nothing worse than a needy, whiny, impossible-to-satisfy customer.  As a small shop, you're probably scared to death that if you walk away from them then you may not get another customer.  What you *should* be afraid of is a customer like this who is already making you think you need to have an attorney available just in case they get an itch to sue.  There are always more clients, trust me.
 
-<p>I hope this helps.</p>
+I hope this helps.
 
-<p>Good luck!</p>
-
+Good luck!
 
 
 ## Answer 10940
@@ -146,9 +144,10 @@
 - posted by: [Neil](https://stackexchange.com/users/2711480/neil) on 2016-08-15
 - score: 0
 
-<p>I would include a general clause about disputes going through an independent arbitration service e.g. <a href="http://www.cedr.com/solve/arbitration/" rel="nofollow">http://www.cedr.com/solve/arbitration/</a>. There are loads of these, just make sure that you find one that is reputable and serves your region(s). Then you can point your prospective client at this part of the contract. It is worth also thinking about why they want this. Have they recently been hacked and now they are sensitive? Perhaps it is worth showing them how you have made your app protection and seek their advice on how it could be improved (minute the meeting in case...)</p>
+I would include a general clause about disputes going through an independent arbitration service e.g. http://www.cedr.com/solve/arbitration/. There are loads of these, just make sure that you find one that is reputable and serves your region(s). Then you can point your prospective client at this part of the contract. It is worth also thinking about why they want this. Have they recently been hacked and now they are sensitive? Perhaps it is worth showing them how you have made your app protection and seek their advice on how it could be improved (minute the meeting in case...)
 
-<p>If they push for specific clauses and penalty amounts then I would suggest considering advice from other answers (running a mile...).</p>
+If they push for specific clauses and penalty amounts then I would suggest considering advice from other answers (running a mile...).
+
 
 
 
@@ -157,20 +156,19 @@
 - posted by: [fiprojects](https://stackexchange.com/users/5370155/fiprojects) on 2016-08-15
 - score: 0
 
-<p>I suggest you seek Liability cover (it costs me under 500euro a year to cover 5million USD per incident - I cannot lift/shift physical hardware, but I can program it). </p>
+I suggest you seek Liability cover (it costs me under 500euro a year to cover 5million USD per incident - I cannot lift/shift physical hardware, but I can program it). 
 
-<p>Be polite to your client - tell them that you have done your professional best but you understand their concern - remind them that even with the entire resources of a country, attempts on a President or Prime Minister are sometimes made, and sometimes the attempts are successful. </p>
+Be polite to your client - tell them that you have done your professional best but you understand their concern - remind them that even with the entire resources of a country, attempts on a President or Prime Minister are sometimes made, and sometimes the attempts are successful. 
 
-<p>Agree a schedule with your client that you have frequent (quarterly/half yearly) meetings to discuss potential new threats. This should help reduce the risk and/or impact to their business. </p>
+Agree a schedule with your client that you have frequent (quarterly/half yearly) meetings to discuss potential new threats. This should help reduce the risk and/or impact to their business. 
 
-<p>Beyond this, if there is a specific area of concern they have they should share it so you can address it.</p>
+Beyond this, if there is a specific area of concern they have they should share it so you can address it.
 
-<p>But... being honest... if the worst was to happen your client would have to follow a path no different than they would with any of their other service suppliers. An arbitration or court would decide if you folks were negligent in your service. Think of September 11th and ask yourself could those who built the building have done anything to have reduced the impact? Short answer is no because nobody ever expected the situation that occurred. You have considered every conceivable situation and covered your bases - if there is something you have missed, you'll apply your best efforts to resolve.</p>
+But... being honest... if the worst was to happen your client would have to follow a path no different than they would with any of their other service suppliers. An arbitration or court would decide if you folks were negligent in your service. Think of September 11th and ask yourself could those who built the building have done anything to have reduced the impact? Short answer is no because nobody ever expected the situation that occurred. You have considered every conceivable situation and covered your bases - if there is something you have missed, you'll apply your best efforts to resolve.
 
-<p>I suspect your client is not out to trick you but they just want comforting that you have given their best interests serious thought. They are perfectly professional to ask, and they would not have selected you to deliver a service had they not thought you competent. But they have legal obligations to ensure the data they carry is properly respected. (This question should have been raised when you folks first bid for the project though).</p>
+I suspect your client is not out to trick you but they just want comforting that you have given their best interests serious thought. They are perfectly professional to ask, and they would not have selected you to deliver a service had they not thought you competent. But they have legal obligations to ensure the data they carry is properly respected. (This question should have been raised when you folks first bid for the project though).
 
-<p>Best of luck!</p>
-
+Best of luck!
 
 
 ## Answer 10943
@@ -178,14 +176,13 @@
 - posted by: [JS.](https://stackexchange.com/users/118990/js) on 2016-08-15
 - score: 0
 
-<p>I know nothing about your system, but just though I might offer a suggestion.</p>
+I know nothing about your system, but just though I might offer a suggestion.
 
-<p>Is it possible for you to run all or part of your app on their systems?  If your app can do all it needs to with private data while on their system and avoid leaking private data to the outside. you could, in theory, shift much of the onus of data protection back to them.</p>
+Is it possible for you to run all or part of your app on their systems?  If your app can do all it needs to with private data while on their system and avoid leaking private data to the outside. you could, in theory, shift much of the onus of data protection back to them.
 
-<p>Alternately, it might be possible to structure your software so that only a part need run on their system.</p>
+Alternately, it might be possible to structure your software so that only a part need run on their system.
 
-<p>It's unlikely that this is feasible, but just food for thought.</p>
-
+It's unlikely that this is feasible, but just food for thought.
 
 
 

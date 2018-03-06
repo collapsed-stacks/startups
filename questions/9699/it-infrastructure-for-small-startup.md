@@ -4,20 +4,20 @@
 - tagged: `software`, `hardware`
 - score: 4
 
-<p>New startup happening over the next month or so. It's an Engineering company  I am interested in people opinions on the best IT infrastructure for me. Its been a while so i am open to ideas.</p>
+New startup happening over the next month or so. It's an Engineering company  I am interested in people opinions on the best IT infrastructure for me. Its been a while so i am open to ideas.
 
-<p>5 people,  Quite heavy on data, Video etc. need to be able to show customer video remotely etc. 
+5 people,  Quite heavy on data, Video etc. need to be able to show customer video remotely etc. 
 we need good access to our data remotely.
-Security is a priority too.<br>
-Scaleability,</p>
+Security is a priority too.  
+Scaleability,
 
-<p>Is Microsoft server essentials the best solution?
+Is Microsoft server essentials the best solution?
 Citrix Xenapp? or VPN?
 Software firewall or hardware?
-Wireless network or hardwired?</p>
+Wireless network or hardwired?
 
-<p>What about using gmail for business?</p>
-
+What about using gmail for business?
+ 
 
 
 ## Answer 9701

@@ -4,20 +4,19 @@
 - tagged: `tech-company`, `investors`, `young-entrepreneurs`
 - score: 8
 
-<p>Im looking for suggestions here. Im new to this area of StackExchange (typically in StackOverflow) and I've been trying to launch my own startup centered on web and mobile apps for the past few years now. </p>
+Im looking for suggestions here. Im new to this area of StackExchange (typically in StackOverflow) and I've been trying to launch my own startup centered on web and mobile apps for the past few years now. 
 
-<p>I am 16 years old and I know there are many other minors who have achieved business success within the app industry and I want to know if and where I am taking an ineffective approach gaining success as a young entrepreneur.</p>
+I am 16 years old and I know there are many other minors who have achieved business success within the app industry and I want to know if and where I am taking an ineffective approach gaining success as a young entrepreneur.
 
-<p>Right now I have launched 4 mobile apps and a handful of websites (1 being a social network run on mySql) and have generated a very little amount of income through in app purchases and freelancing (under $1000). I am right now pursuing investors to fund my next mobile game, mainly by calling/emailing and exploiting every contact I have. </p>
+Right now I have launched 4 mobile apps and a handful of websites (1 being a social network run on mySql) and have generated a very little amount of income through in app purchases and freelancing (under $1000). I am right now pursuing investors to fund my next mobile game, mainly by calling/emailing and exploiting every contact I have. 
 
-<p>there are stories upon stories of teenage entrepreneurs who create 1 game and obtain millions via in app purchases, investors, etc. Clearly these other teenagers must have put in a lot more work or received more help than meets the eye, but I still think my approach has been pretty identical to these teen wunderkinds. </p>
+there are stories upon stories of teenage entrepreneurs who create 1 game and obtain millions via in app purchases, investors, etc. Clearly these other teenagers must have put in a lot more work or received more help than meets the eye, but I still think my approach has been pretty identical to these teen wunderkinds. 
 
-<p>There isn't a day where Im not drafting more emails or working on my project or reaching out for opportunities (weekend, week day, christmas, whatever). I would attribute my lack of success to a lack of work but I really don't think that is the case. I am thinking that maybe the work I am doing is in fact work, however it is not moving me closer to the goal of running a successful startup. </p>
+There isn't a day where Im not drafting more emails or working on my project or reaching out for opportunities (weekend, week day, christmas, whatever). I would attribute my lack of success to a lack of work but I really don't think that is the case. I am thinking that maybe the work I am doing is in fact work, however it is not moving me closer to the goal of running a successful startup. 
 
-<p>My question really is this: What is productive work when trying to launch a startup as a teen coder/designer? Am I on the right track or have I failed already? </p>
+My question really is this: What is productive work when trying to launch a startup as a teen coder/designer? Am I on the right track or have I failed already? 
 
-<p>Any ideas for working effectively as opposed to just all day EVERY day with no results?</p>
-
+Any ideas for working effectively as opposed to just all day EVERY day with no results?
 
 
 ## Answer 9493
@@ -25,26 +24,21 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2016-06-17
 - score: 6
 
-<p>Based on your question, your most important issue is that your lens is distorted.</p>
+Based on your question, your most important issue is that your lens is distorted.
 
-<blockquote>
-  <p>I am 16 years old and I know there are many other minors who have achieved business success within the app industry and I want to know if and where I am taking an ineffective approach gaining success as a young entrepreneur.</p>
-</blockquote>
+> I am 16 years old and I know there are many other minors who have achieved business success within the app industry and I want to know if and where I am taking an ineffective approach gaining success as a young entrepreneur.
 
-<p>This is woefully incorrect. For every kid who succeeds, there are a dozens upon dozens who fail. This is true at age 16 but also at later ages. The thing is you're constantly hearing about those who succeed but hardly ever about those who don't. Set your expectations right: entrepreneurship is a road filled with cadavers (and wrecked relationships owing to poor work-life balance; don't do that).</p>
+This is woefully incorrect. For every kid who succeeds, there are a dozens upon dozens who fail. This is true at age 16 but also at later ages. The thing is you're constantly hearing about those who succeed but hardly ever about those who don't. Set your expectations right: entrepreneurship is a road filled with cadavers (and wrecked relationships owing to poor work-life balance; don't do that).
 
-<blockquote>
-  <p>Clearly these other teenagers must have put in a lot more work or received more help than meets the eye, but I still think my approach has been pretty identical to these teen wunderkinds.</p>
-</blockquote>
+> Clearly these other teenagers must have put in a lot more work or received more help than meets the eye, but I still think my approach has been pretty identical to these teen wunderkinds.
 
-<p>The blunt truth is that the only real difference between you and most of them is that they got lucky. Take my word for it on this one: those kids had no more idea of what they ought to do than you did, and they put the same type of effort in their project as you're putting in. More often than not, the difference was an external factor - one that was completely beyond their control - that kicked in at an opportune moment. And, again, this holds true at much later ages as well.</p>
+The blunt truth is that the only real difference between you and most of them is that they got lucky. Take my word for it on this one: those kids had no more idea of what they ought to do than you did, and they put the same type of effort in their project as you're putting in. More often than not, the difference was an external factor - one that was completely beyond their control - that kicked in at an opportune moment. And, again, this holds true at much later ages as well.
 
-<p>The sorriest aspect of it and the way it gets reported is when these kids and young adults are in denial over what actually happened. They end up thinking they did something brilliant and putting it forward. And, of course, since they were successful once they tend to attract yet more external factors which in term make their success more likely in their next ventures. However talented they actually are, the sorry truth is that their success is in no way replicable by the next guy.</p>
+The sorriest aspect of it and the way it gets reported is when these kids and young adults are in denial over what actually happened. They end up thinking they did something brilliant and putting it forward. And, of course, since they were successful once they tend to attract yet more external factors which in term make their success more likely in their next ventures. However talented they actually are, the sorry truth is that their success is in no way replicable by the next guy.
 
-<p>The cynic in me would additionally suggest that, in these cases, the greater their ego and self-denial, the more likely they'll end up writing a business book (on management, entrepreneurship, startups, what have you). Consider the difference between, say, the self-congratulating writings of a Ben Horowitz at one end, the more methodical writings of a Marc Roberge in the middle, and the much humbler lessons learned of a Steve Blank at the other end. When reading startup advice, keep a sharp eye out for self-congratulation and impractical advice - it's often a tell-tale sign that the author is confusing luck with talent.</p>
+The cynic in me would additionally suggest that, in these cases, the greater their ego and self-denial, the more likely they'll end up writing a business book (on management, entrepreneurship, startups, what have you). Consider the difference between, say, the self-congratulating writings of a Ben Horowitz at one end, the more methodical writings of a Marc Roberge in the middle, and the much humbler lessons learned of a Steve Blank at the other end. When reading startup advice, keep a sharp eye out for self-congratulation and impractical advice - it's often a tell-tale sign that the author is confusing luck with talent.
 
-<p>With this hopefully out of the way, your last question begs for a methodology. For this, a good starting point could be <a href="https://steveblank.com">Steve Blank's blog</a>. Particularly its archives - they're a great source of priceless entrepreneurial advice that you can pick up good learnings from. A TL;DR summary could be: get in front of customers to figure out what they want to pay for; then figure out the smallest subset thereof that they'll <em>actually</em> pay for; then build.</p>
-
+With this hopefully out of the way, your last question begs for a methodology. For this, a good starting point could be [Steve Blank's blog](https://steveblank.com). Particularly its archives - they're a great source of priceless entrepreneurial advice that you can pick up good learnings from. A TL;DR summary could be: get in front of customers to figure out what they want to pay for; then figure out the smallest subset thereof that they'll _actually_ pay for; then build.
 
 
 ## Answer 9527
@@ -52,16 +46,15 @@
 - posted by: [yobddigi](https://stackexchange.com/users/6393138/yobddigi) on 2016-06-22
 - score: 0
 
-<p>You're only 16. Don't judge yourself to much. I started freelancing at 14 and I'm only just working on my first project with backing from investors. </p>
+You're only 16. Don't judge yourself to much. I started freelancing at 14 and I'm only just working on my first project with backing from investors. 
 
-<p>For the most part it will be every day with no success and I know how that feels. So do all the "successful" individuals you where referring to, you just don't here about it. Do you think zuckerburg woke up one morning and was instantly successful? Don't get discouraged by the lack of interest you may be receiving.  </p>
+For the most part it will be every day with no success and I know how that feels. So do all the "successful" individuals you where referring to, you just don't here about it. Do you think zuckerburg woke up one morning and was instantly successful? Don't get discouraged by the lack of interest you may be receiving.  
 
-<p>Because of your age you will have to make sure you have put your work into your presentation. Most business plans have at least 500 hours spent on them. For my first startup I spent four months on my business plan before I talked to any investors and it payed of. I actually had an investor approach me, although this is extremely rare, it puts you in a whole different position than if you have to approach investors. </p>
+Because of your age you will have to make sure you have put your work into your presentation. Most business plans have at least 500 hours spent on them. For my first startup I spent four months on my business plan before I talked to any investors and it payed of. I actually had an investor approach me, although this is extremely rare, it puts you in a whole different position than if you have to approach investors. 
 
-<p>Another point is that Angel investors don't normally invest until you have a MVP, they normally come in at your second round of investment. The first round, or seed investment, normally comes from people who know you and are investing because they like you not because they like your idea. This might be another reason why you aren't getting much interest. </p>
+Another point is that Angel investors don't normally invest until you have a MVP, they normally come in at your second round of investment. The first round, or seed investment, normally comes from people who know you and are investing because they like you not because they like your idea. This might be another reason why you aren't getting much interest. 
 
-<p>Good luck!</p>
-
+Good luck!
 
 
 ## Answer 11537

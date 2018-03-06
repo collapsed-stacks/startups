@@ -4,12 +4,11 @@
 - tagged: `tech-company`, `software`, `growth`
 - score: 5
 
-<p>We're at about 35 employees with 3 offices in the east and west coasts. We don't even have a company directory, just a shared contact book. I realized i don't even know everyone's name in my office.</p>
+We're at about 35 employees with 3 offices in the east and west coasts. We don't even have a company directory, just a shared contact book. I realized i don't even know everyone's name in my office.
 
-<p>We're actively hiring so, I thought it might be a good time to establish a private company social network with apps like Yammer, Chatter, or Socialtext. Wondering if this is the right time?</p>
+We're actively hiring so, I thought it might be a good time to establish a private company social network with apps like Yammer, Chatter, or Socialtext. Wondering if this is the right time?
 
-<p>What are some other strategies to enhance company culture and get new people acquainted better and stay up to date with projects and events?</p>
-
+What are some other strategies to enhance company culture and get new people acquainted better and stay up to date with projects and events?
 
 
 ## Answer 7813
@@ -17,12 +16,11 @@
 - posted by: [Luke Gedeon](https://stackexchange.com/users/1119600/luke-gedeon) on 2015-11-11
 - score: 3
 
-<p>We started using slack.com with three people and found it incredibly helpful.</p>
+We started using slack.com with three people and found it incredibly helpful.
 
-<p>The right time, though, is when you have someone willing to set it up, invite everybody and do the work to make it a place people see value in.</p>
+The right time, though, is when you have someone willing to set it up, invite everybody and do the work to make it a place people see value in.
 
-<p>Definitely keep your pitch simple. Don't even imply that someone would have to log in to get work done. Keep it optional for a month or maybe forever and start to put valuable resources into it. Great links, internal documents, helpful discussions, Q&amp;A/FAQ, and a bio for early adopters will act as magnets to pull people in. You could even start interviewing team-members and publish exclusively on the network.</p>
-
+Definitely keep your pitch simple. Don't even imply that someone would have to log in to get work done. Keep it optional for a month or maybe forever and start to put valuable resources into it. Great links, internal documents, helpful discussions, Q&A/FAQ, and a bio for early adopters will act as magnets to pull people in. You could even start interviewing team-members and publish exclusively on the network.
 
 
 

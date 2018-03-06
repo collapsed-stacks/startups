@@ -4,7 +4,7 @@
 - tagged: `copyright`, `lawyer`
 - score: 0
 
-<p>I have a need for a disclaimer that is quite tricky and doesn't fit in the normal templates. Since the site aims to engage people internationally I don't want a lawyer specialized in USA r Germany for example.</p>
+I have a need for a disclaimer that is quite tricky and doesn't fit in the normal templates. Since the site aims to engage people internationally I don't want a lawyer specialized in USA r Germany for example.
 
 
 ## No Answers

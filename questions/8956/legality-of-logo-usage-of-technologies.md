@@ -4,9 +4,9 @@
 - tagged: `legal`, `logo`
 - score: 3
 
-<p>I am developing a web application which will contain blogs/tutorials for various open source technologies. I want to use each technologies' logo and tagline on my index page.</p>
+I am developing a web application which will contain blogs/tutorials for various open source technologies. I want to use each technologies' logo and tagline on my index page.
 
-<p>Is it legal?</p>
+Is it legal?
 
 
 

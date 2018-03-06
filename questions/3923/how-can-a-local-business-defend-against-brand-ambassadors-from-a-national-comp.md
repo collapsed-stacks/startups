@@ -4,12 +4,11 @@
 - tagged: `marketing`, `customer-development`, `brand`
 - score: 2
 
-<p>I received an email today from a national company asking me to be a "local brand ambassador" for them.  Apparently they did not do their research, or they would have seen that I actually run a local business that is in direct competition to them.</p>
+I received an email today from a national company asking me to be a "local brand ambassador" for them.  Apparently they did not do their research, or they would have seen that I actually run a local business that is in direct competition to them.
 
-<p>So, now I have some advanced notice that a large-scale, national competitor is preparing to release a potentially aggressive marketing/branding strategy in my market.  What steps can I take, as a small business with limited time and resources, to defend against this strategy?  Or, should I even be worried about it at all?</p>
+So, now I have some advanced notice that a large-scale, national competitor is preparing to release a potentially aggressive marketing/branding strategy in my market.  What steps can I take, as a small business with limited time and resources, to defend against this strategy?  Or, should I even be worried about it at all?
 
-<p>Note: The company has already been in the market for some time (as an online directory of independent service providers).  The only difference is that now they are preparing to become more directly engaged with the local community (i.e., my customer base).  </p>
-
+Note: The company has already been in the market for some time (as an online directory of independent service providers).  The only difference is that now they are preparing to become more directly engaged with the local community (i.e., my customer base).  
 
 
 ## Answer 3932

@@ -4,16 +4,15 @@
 - tagged: `business-plan`, `revenue`, `market-size`, `game-studio`
 - score: 6
 
-<p>In order to make some estimations of income and sever costs, I'd like to model how many new users per month I might expect from a moderately successful mobile game.</p>
+In order to make some estimations of income and sever costs, I'd like to model how many new users per month I might expect from a moderately successful mobile game.
 
-<p>In my spreadsheet, I let the total amount of new users be a variable.</p>
+In my spreadsheet, I let the total amount of new users be a variable.
 
-<p>Now, I'm currently using a normal distribution to model the amount of users per month, but a normal distribution is symmetric and it doesn't seem right that market reach grows as fast as it shrinks (I'd expect some slow start, a quick growth period, followed by a slow decrease of installations).</p>
+Now, I'm currently using a normal distribution to model the amount of users per month, but a normal distribution is symmetric and it doesn't seem right that market reach grows as fast as it shrinks (I'd expect some slow start, a quick growth period, followed by a slow decrease of installations).
 
-<p>Question: what kind of curve would fit the pattern of new users installing such app?</p>
+Question: what kind of curve would fit the pattern of new users installing such app?
 
-<p>(I understand this depends on many factors within and out of our control including how successful the app is, how marketing is developed, etc. However I'm curious as to how market reach / installations go when a title gets a minimum of reach in this industry.)</p>
-
+(I understand this depends on many factors within and out of our control including how successful the app is, how marketing is developed, etc. However I'm curious as to how market reach / installations go when a title gets a minimum of reach in this industry.)
 
 
 ## Answer 8555

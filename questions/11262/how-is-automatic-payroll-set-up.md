@@ -4,14 +4,14 @@
 - tagged: `billing`, `pay`
 - score: 2
 
-<p>For a start up company, how is automatic pay stub created?</p>
+For a start up company, how is automatic pay stub created?
 
-<p>I have seen free programs such as zenefits floating around would this auto pay be possible via the zenefits program?</p>
+I have seen free programs such as zenefits floating around would this auto pay be possible via the zenefits program?
 
-<p>What I mean by auto pay is for example:
-Employee gives you his account number and routing number and the money gets deposited automatically.</p>
+What I mean by auto pay is for example:
+Employee gives you his account number and routing number and the money gets deposited automatically.
 
-<p>Thanks for any help.</p>
+Thanks for any help.
 
 
 

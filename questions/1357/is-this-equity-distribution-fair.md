@@ -4,47 +4,44 @@
 - tagged: `equity`
 - score: 6
 
-<p>So I'm starting a Web Agency company with my 2 friends. So far we've already decided to do this equity sharing.</p>
+So I'm starting a Web Agency company with my 2 friends. So far we've already decided to do this equity sharing.
 
-<p>40% (me),<br>
-20% (friend 1),<br>
-20% (friend 2),<br>
-then 20% goes to the company's bank (technically this 20% is still in my control and still considered as my money).</p>
+40% (me),  
+20% (friend 1),  
+20% (friend 2),  
+then 20% goes to the company's bank (technically this 20% is still in my control and still considered as my money).
 
-<p><strong>Our roles are:</strong></p>
+**Our roles are:**
 
-<p><strong><em>A. Me (CEO)</em></strong></p>
+***A. Me (CEO)***
 
-<ul>
-<li>UI / UX Designer (one of our service)</li>
-<li>Web Developer (will also design and code our Web Agency site and business cards)</li>
-<li>provides money (for: business cards, email registrations/payments, web hosting, domain registration, 3rd party apps payments like Basecamp, etc.)</li>
-<li>handles meetings</li>
-<li>business decisions</li>
-<li>share ideas etc</li>
-</ul>
+* UI / UX Designer (one of our service)
+* Web Developer (will also design and code our Web Agency site and business cards)
+* provides money (for: business cards, email registrations/payments, web hosting, domain registration, 3rd party apps payments like Basecamp, etc.)
+* handles meetings
+* business decisions
+* share ideas etc
 
-<p><strong><em>B. Friend 1</em></strong></p>
 
-<ul>
-<li>Overall management / Project manager</li>
-<li>Company papers / registration</li>
-<li>Sell and promote our products</li>
-<li>Pitch and talks to potential clients</li>
-<li>shares ideas</li>
-</ul>
+***B. Friend 1***
 
-<p><strong><em>C. Friend 2</em></strong></p>
+* Overall management / Project manager
+* Company papers / registration
+* Sell and promote our products
+* Pitch and talks to potential clients
+* shares ideas
 
-<ul>
-<li>All about marketing</li>
-<li>Pitch and talks to potential clients</li>
-<li>Sell and promote our products</li>
-<li>shares ideas</li>
-</ul>
 
-<p>Is this fair enough for me and the other 2?</p>
+***C. Friend 2***
 
+* All about marketing
+* Pitch and talks to potential clients
+* Sell and promote our products
+* shares ideas
+
+
+
+Is this fair enough for me and the other 2?
 
 
 ## Answer 1359
@@ -52,34 +49,27 @@ then 20% goes to the company's bank (technically this 20% is still in my control
 - posted by: [Jared Wadsworth](https://stackexchange.com/users/5056044/jared-wadsworth) on 2014-11-12
 - score: 7
 
-<p>"Fairness" in and of itself is an interesting topic, one which we don't have the time to discuss, and will probably will never come to a conclusion on. </p>
+"Fairness" in and of itself is an interesting topic, one which we don't have the time to discuss, and will probably will never come to a conclusion on. 
 
-<p>All that matters in your startup company is that everyone is happy. <strong>a happy startup is a productive startup.</strong></p>
+All that matters in your startup company is that everyone is happy. **a happy startup is a productive startup.**
 
-<p>In the end, you need to decide what you want. While its great to start a business with your buddies, it can lead to lots of troubles, and often they center around money, or control. </p>
+In the end, you need to decide what you want. While its great to start a business with your buddies, it can lead to lots of troubles, and often they center around money, or control. 
 
-<p>Things to think about:</p>
+Things to think about:
 
-<ol>
-<li><strong>How important is money to you?</strong></li>
-</ol>
+ 1. **How important is money to you?**
 
-<p>If you're starting a business to earn lots of money, than the structure you have there is great, you'll earn 40% and 20% will be pushed back into the company. Remember though that it takes 1-3 years before startups start to "make money" (assuming they survive those first years). You're setup so that when you do finally expand, you'll have up to 60% of the profit, assuming you have a good business that could be lots of money. The disadvantages to this approach are that with money as your focus, you potentially sacrifice quality of your product, as well as employee loyalty. When they have to work for next to nothing for those first years, only to make a third of what you do in the end, it may be hard for them to continue, especially if they receive offers from outside.</p>
+If you're starting a business to earn lots of money, than the structure you have there is great, you'll earn 40% and 20% will be pushed back into the company. Remember though that it takes 1-3 years before startups start to "make money" (assuming they survive those first years). You're setup so that when you do finally expand, you'll have up to 60% of the profit, assuming you have a good business that could be lots of money. The disadvantages to this approach are that with money as your focus, you potentially sacrifice quality of your product, as well as employee loyalty. When they have to work for next to nothing for those first years, only to make a third of what you do in the end, it may be hard for them to continue, especially if they receive offers from outside.
 
-<ol start="2">
-<li><strong>How important is having your friends there with you?</strong></li>
-</ol>
+ 2. **How important is having your friends there with you?**
 
-<p>Do you want your friends there, or are they, put bluntly, a means to an end? If you want them to form the base of your future company (CFOs etc.) Then you may consider giving them a bigger portion of the company. If you want them to grow with the company, then treat them like you trust and respect them. </p>
+Do you want your friends there, or are they, put bluntly, a means to an end? If you want them to form the base of your future company (CFOs etc.) Then you may consider giving them a bigger portion of the company. If you want them to grow with the company, then treat them like you trust and respect them. 
 
-<ol start="3">
-<li><strong>How much work will your friends be doing?</strong></li>
-</ol>
+ 3. **How much work will your friends be doing?**
 
-<p>The last factor to think about is how much of the work they will be doing. From what you said, it sounds like you'll be doing the bulk of the work. Do you really need two marketers where you'll be the only developer? Will they be doing something else in addition to sales? What will their average day look like compared to yours? If you're working 12-18 hour days, and they are working 6-10, you obviously deserve more. On the other hand, if they are constantly out there selling, even when they aren't "on the clock" They deserve more. </p>
+The last factor to think about is how much of the work they will be doing. From what you said, it sounds like you'll be doing the bulk of the work. Do you really need two marketers where you'll be the only developer? Will they be doing something else in addition to sales? What will their average day look like compared to yours? If you're working 12-18 hour days, and they are working 6-10, you obviously deserve more. On the other hand, if they are constantly out there selling, even when they aren't "on the clock" They deserve more. 
 
-<p>All in all, you need to figure out what they're worth to the company, and what you're worth. Remember ideas are worthless, so just because you came up with it, that means nothing. Work, progress, and in the end money from sales are what matter. I would suggest a 30-25-25-20 split where you get 35% and the company 20%, but you need to figure out whats the best approach for you, and your company.</p>
-
+All in all, you need to figure out what they're worth to the company, and what you're worth. Remember ideas are worthless, so just because you came up with it, that means nothing. Work, progress, and in the end money from sales are what matter. I would suggest a 30-25-25-20 split where you get 35% and the company 20%, but you need to figure out whats the best approach for you, and your company.
 
 
 ## Answer 1627

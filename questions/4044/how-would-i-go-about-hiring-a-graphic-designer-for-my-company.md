@@ -4,8 +4,7 @@
 - tagged: `hiring`, `freelancing`
 - score: 5
 
-<p>I am at the point to where I just need a good graphic designer. My company creates websites and we need some graphics to go with these. We are also looking into selling logo design. I'm not currently at the point to where I want to hire somebody full time, so I want more of a freelancer that is paid for the amount of work that they do, not a salary. How would I find somebody like this? Even after I find them, how would I go about the interview process and getting all of the details figured out? Is hiring somebody like this different than hiring full time programmers?</p>
-
+I am at the point to where I just need a good graphic designer. My company creates websites and we need some graphics to go with these. We are also looking into selling logo design. I'm not currently at the point to where I want to hire somebody full time, so I want more of a freelancer that is paid for the amount of work that they do, not a salary. How would I find somebody like this? Even after I find them, how would I go about the interview process and getting all of the details figured out? Is hiring somebody like this different than hiring full time programmers?
 
 
 ## Answer 4068
@@ -13,14 +12,14 @@
 - posted by: [Helping Hands](https://stackexchange.com/users/5276537/helping-hands) on 2015-04-21
 - score: 2
 
-<p>After reading your requirements, I agree with you. You should hire a part time freelancing designer on hour basis/fixed rate. </p>
+After reading your requirements, I agree with you. You should hire a part time freelancing designer on hour basis/fixed rate. 
 
-<p>First of all, check popular freelancing sites and find a freelancer designer whose rate is in your budget, has enough experience to meet your deadlines, etc. Then interview them, and ask them to show you recent designs they have made like web designs, logo designs, etc. Also check their freelancing profile and see how strong that is and how other people gave feedback for that designer.</p>
+First of all, check popular freelancing sites and find a freelancer designer whose rate is in your budget, has enough experience to meet your deadlines, etc. Then interview them, and ask them to show you recent designs they have made like web designs, logo designs, etc. Also check their freelancing profile and see how strong that is and how other people gave feedback for that designer.
 
-<p>Once you get someone perfect, then explain your work to them, like how you work, what type of work you will assign and your whole process, and if they agree and they're suitable, then you can hire immediately.</p>
+Once you get someone perfect, then explain your work to them, like how you work, what type of work you will assign and your whole process, and if they agree and they're suitable, then you can hire immediately.
 
-<p>Also I would suggest trying to find a local and nearby freelancer. </p>
-
+Also I would suggest trying to find a local and nearby freelancer. 
+ 
 
 
 ## Answer 4097
@@ -28,15 +27,16 @@
 - posted by: [Community](https://stackexchange.com/users/-1/community) on 2015-04-23
 - score: 1
 
-<p>There are numerous avenues to find designers to freelance for your organisation such as job listing websites, linkedin, recruitment agencies and depending on where you are located there may also be creative-industry specific job boards or design organisations with databases of candidates.</p>
+There are numerous avenues to find designers to freelance for your organisation such as job listing websites, linkedin, recruitment agencies and depending on where you are located there may also be creative-industry specific job boards or design organisations with databases of candidates.
 
-<p>If you aren't sure that you are equipped to find the best designer for your needs and have the financial flexibility, design industry specific recruitment agencies are a good resource as they have their own screening processes. </p>
+If you aren't sure that you are equipped to find the best designer for your needs and have the financial flexibility, design industry specific recruitment agencies are a good resource as they have their own screening processes. 
 
-<p>Deciding whether they are right for you is partially subjective and related to rapport and cultural fit for your company. To help find a more objectively "good" designer it helps to look towards their experience, education and portfolio.</p>
+Deciding whether they are right for you is partially subjective and related to rapport and cultural fit for your company. To help find a more objectively "good" designer it helps to look towards their experience, education and portfolio.
 
-<p>In terms of their education, look for a diploma or degree background as a minimum to ensure they understand the technical requirements within the role. For experience, look for designers that have more work within your particular niche - branding and logo design to ensure their experience is a better fit for your needs. </p>
+In terms of their education, look for a diploma or degree background as a minimum to ensure they understand the technical requirements within the role. For experience, look for designers that have more work within your particular niche - branding and logo design to ensure their experience is a better fit for your needs. 
 
-<p>Hiring creatives and the associated interview and screening processes should involve a portfolio interview. This is a great opportunity to understand the candidates design process and design thinking, asking them specifics about how they came to a creative solution and why their chosen design was best for that client.</p>
+Hiring creatives and the associated interview and screening processes should involve a portfolio interview. This is a great opportunity to understand the candidates design process and design thinking, asking them specifics about how they came to a creative solution and why their chosen design was best for that client.
+
 
 
 

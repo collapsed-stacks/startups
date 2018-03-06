@@ -4,8 +4,11 @@
 - tagged: `security`
 - score: 1
 
-<p>I have been looking for a secure alternative to Skype, and <a href="http://privatoria.net" rel="nofollow">Privatoria</a> and <a href="http://telegram.org" rel="nofollow">Telegram</a> seem to be at the top. Which is better and why?</p>
+I have been looking for a secure alternative to Skype, and [Privatoria][1] and [Telegram][2] seem to be at the top. Which is better and why?
 
+
+  [1]: http://privatoria.net
+  [2]: http://telegram.org
 
 ## No Answers
 

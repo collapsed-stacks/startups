@@ -4,14 +4,13 @@
 - tagged: `business-registration`, `open-source`
 - score: 3
 
-<p>I am not interested at this time in starting a business. My health is too poor. What I am doing is writing open source software to keep my skills up and would like to release it under a fictitious name.</p>
+ I am not interested at this time in starting a business. My health is too poor. What I am doing is writing open source software to keep my skills up and would like to release it under a fictitious name.
 
-<p>Do I need to do anything so the software copyright is assigned to that name? At some point I hope to roll the software into a business.</p>
+Do I need to do anything so the software copyright is assigned to that name? At some point I hope to roll the software into a business.
 
-<p>I am in the US, more specifically Washington state.</p>
+I am in the US, more specifically Washington state.
 
-<p>Thanks</p>
-
+Thanks
 
 
 ## Answer 9454

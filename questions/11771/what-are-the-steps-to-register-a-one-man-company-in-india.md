@@ -4,9 +4,10 @@
 - tagged: `business-registration`, `india`
 - score: 0
 
-<p>I wanted to register a single person company but I am not sure about the steps. Can I register it myself online?
+I wanted to register a single person company but I am not sure about the steps. Can I register it myself online?
 Do I really need a lawyer to register a company as he is asking for 15k just to register the company and get a tan number.
-Please help.</p>
+Please help.
+
 
 
 
@@ -15,31 +16,31 @@ Please help.</p>
 - posted by: [Devendra Singh](https://stackexchange.com/users/6079352/devendra-singh) on 2016-12-28
 - score: 1
 
-<p>An eligible start-up is defined as the following few entities:</p>
+An eligible start-up is defined as the following few entities:
 
-<p>Private Limited Company (The Companies Act,2013)
+Private Limited Company (The Companies Act,2013)
 Registered Partnership Firm (The Indian Partnership Act,1932)
 Limited Liability Partnership (The Limited Liability Partnership Act,2008)
-** Please note that one-person companies are also eligible under the Start-up India Initiative.</p>
+** Please note that one-person companies are also eligible under the Start-up India Initiative.
 
-<p>Registration of Start-up</p>
+Registration of Start-up
 
-<p>Option 1: An entity can register itself through MCA or Registrar of Firms using the existing processes and subsequently register itself on the Startup India portal and mobile app as a “Startup” to avail the benefits.</p>
+Option 1: An entity can register itself through MCA or Registrar of Firms using the existing processes and subsequently register itself on the Startup India portal and mobile app as a “Startup” to avail the benefits.
 
-<p>Option 2: An entity can register itself through the Startup India portal and mobile app using a seamless process. This facility would be made available in the second phase of the Startup India portal and mobile app launch.</p>
+Option 2: An entity can register itself through the Startup India portal and mobile app using a seamless process. This facility would be made available in the second phase of the Startup India portal and mobile app launch.
 
-<p>Log in to Startup India <a href="http://startupindia.gov.in/registration.php" rel="nofollow noreferrer">Portal</a>
+Log in to Startup India [Portal](http://startupindia.gov.in/registration.php)
 Choose your legal entity
 Input your incorporation/registration number
 Input your incorporation/registration date
 Input PAN number (optional)
-Input your address with postal code &amp; state
+Input your address with postal code & state
 Input authorized representative details
 Input director(s)/partner(s) details
 Choose and upload supporting documents and self-certification
 Incorporation/registration certificate of company/LLP/Partnership
 Registration to avail tax and IPR
-Certify the official notification terms and conditions</p>
+Certify the official notification terms and conditions
 
 
 

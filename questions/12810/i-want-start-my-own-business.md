@@ -4,10 +4,9 @@
 - tagged: `idea`
 - score: -1
 
-<p>I am 30 year old and I am interested to start my own but lacking on guidance and support </p>
+I am 30 year old and I am interested to start my own but lacking on guidance and support 
 
-<p>Please suggest </p>
-
+Please suggest 
 
 
 ## Answer 12812

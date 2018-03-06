@@ -4,8 +4,7 @@
 - tagged: `marketing`, `lean-startup`, `affiliate-marketing`
 - score: 1
 
-<p>I want to start a niche directory, and I'm wondering if there is a way to take a percentage of each sale that I refer to the businesses listed on the directory? Thanks in advance!</p>
-
+I want to start a niche directory, and I'm wondering if there is a way to take a percentage of each sale that I refer to the businesses listed on the directory? Thanks in advance!
 
 ## No Answers
 

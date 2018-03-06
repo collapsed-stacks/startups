@@ -4,8 +4,7 @@
 - tagged: `investment`, `investors`, `partnership`, `co-founder`
 - score: 0
 
-<p>I'm a CEO &amp; founder of a digital marketing agency. Recently, I have build a new startup project. It's a 80% an online business and my company can build all supports and asset for this project. Now i need to find a good business partner to bring some money for working capital for x% of the company.</p>
-
+I'm a CEO & founder of a digital marketing agency. Recently, I have build a new startup project. It's a 80% an online business and my company can build all supports and asset for this project. Now i need to find a good business partner to bring some money for working capital for x% of the company.
 
 ## No Answers
 

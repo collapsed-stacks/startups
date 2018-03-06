@@ -4,14 +4,13 @@
 - tagged: `mobile-apps`, `enterprise`
 - score: 1
 
-<p>I have a good amount of experience in mobile development, not so much in business, and I wanted to learn about the general business model for building enterprise apps.</p>
+I have a good amount of experience in mobile development, not so much in business, and I wanted to learn about the general business model for building enterprise apps.
 
-<p>For example (hypothetically), say there's an online retailer that sells car parts. And I build an educational app teaching users how to fix cars. How would I go about partnering with that company so I can tailor the app to them, and say include links to their site, and recommend products from their site and such.</p>
+For example (hypothetically), say there's an online retailer that sells car parts. And I build an educational app teaching users how to fix cars. How would I go about partnering with that company so I can tailor the app to them, and say include links to their site, and recommend products from their site and such.
 
-<p>Would I need a license for the app? Would I need to form a LLC?</p>
+Would I need a license for the app? Would I need to form a LLC?
 
-<p>To sum up the question, I'm interesting in learning how indie developers are targeting enterprises.</p>
-
+To sum up the question, I'm interesting in learning how indie developers are targeting enterprises.
 
 ## No Answers
 

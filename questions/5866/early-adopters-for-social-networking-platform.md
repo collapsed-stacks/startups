@@ -4,8 +4,7 @@
 - tagged: `lean-startup`, `social-networking`, `launch`, `pre-launch`
 - score: 0
 
-<p>I am looking desperately for a set of people with some common interests to be the early adopters for a social networking platform that I am developing. How can I find such a group? It will be great if they are from the same city that I am in.</p>
-
+I am looking desperately for a set of people with some common interests to be the early adopters for a social networking platform that I am developing. How can I find such a group? It will be great if they are from the same city that I am in.
 
 
 ## Answer 5869
@@ -13,8 +12,7 @@
 - posted by: [Alain](https://stackexchange.com/users/21866/alain) on 2015-07-28
 - score: 1
 
-<p>That's actually not too hard: start by organizing a local meetup around the theme of your social network. Bring some food, invite interesting speakers/guests. Do whatever it takes to make the meetup worth attending.</p>
-
+That's actually not too hard: start by organizing a local meetup around the theme of your social network. Bring some food, invite interesting speakers/guests. Do whatever it takes to make the meetup worth attending.
 
 
 ## Answer 5881

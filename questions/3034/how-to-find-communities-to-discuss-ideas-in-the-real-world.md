@@ -4,8 +4,7 @@
 - tagged: `networking`, `communication`
 - score: 4
 
-<p>I graduated from a design masters a  couple of years ago and worked at a design startup. I've developed  a start up idea myself, but now I'm finding it hard to find the right kind of peeople to discuss and develop the idea. Even just casual conversations are difficult to have because the details are quite specific. I need to find the right kind of people who are curious and interested in ideas. How can I find these kind of communities in my local area? I'm currently based near Leicester UK?</p>
-
+I graduated from a design masters a  couple of years ago and worked at a design startup. I've developed  a start up idea myself, but now I'm finding it hard to find the right kind of peeople to discuss and develop the idea. Even just casual conversations are difficult to have because the details are quite specific. I need to find the right kind of people who are curious and interested in ideas. How can I find these kind of communities in my local area? I'm currently based near Leicester UK?
 
 
 ## Answer 3056
@@ -13,17 +12,14 @@
 - posted by: [Esqarrouth](https://stackexchange.com/users/3055586/esqarrouth) on 2015-01-18
 - score: 5
 
-<p>Here are the tools I use for this:</p>
+Here are the tools I use for this:
 
-<ul>
-<li><a href="http://www.meetup.com">http://www.meetup.com</a>  </li>
-<li><a href="http://www.eventbrite.com">http://www.eventbrite.com</a>  </li>
-<li>Facebook / Linkedin groups - Just search your interest field + your location, example: Jedi Tatooine. You will find some interesting groups and events about this.  </li>
-<li>University classes/events about your topic are also nice place to find people.</li>
-</ul>
+ - http://www.meetup.com  
+ - http://www.eventbrite.com  
+ - Facebook / Linkedin groups - Just search your interest field + your location, example: Jedi Tatooine. You will find some interesting groups and events about this.  
+ - University classes/events about your topic are also nice place to find people.
 
-<p>Fast google search: <a href="http://www.meetup.com/Leicester-Lean-Startup-Circle/">http://www.meetup.com/Leicester-Lean-Startup-Circle/</a></p>
-
+Fast google search: http://www.meetup.com/Leicester-Lean-Startup-Circle/
 
 
 ## Answer 3043
@@ -31,17 +27,18 @@
 - posted by: [Henry Taylor](https://stackexchange.com/users/1734959/henry-taylor) on 2015-01-17
 - score: 2
 
-<p>I don't know much about your country or home town, but I would suggest that you should be looking for the same kinds of people whom you will be seeking once your product is ready for market, namely customers and investors. </p>
+I don't know much about your country or home town, but I would suggest that you should be looking for the same kinds of people whom you will be seeking once your product is ready for market, namely customers and investors. 
 
-<p>For your idea to succeed after it is created, you are going to have to get people excited about it.  You will need to show them how it addresses some unfulfilled need in their lives.    You're going to have to help them instantly realize how much better your product is over their current solution.</p>
+For your idea to succeed after it is created, you are going to have to get people excited about it.  You will need to show them how it addresses some unfulfilled need in their lives.    You're going to have to help them instantly realize how much better your product is over their current solution.
 
-<p>The challenges you are going to face post-release, are exactly the same problems you are facing today.  Within the limited attention span of the average listener, how do you give them enough of your products details to set the hook and make them hungry for more.  If you can't do it now when there is no money on the line, it will get even harder once your desperate to make a sale.</p>
+The challenges you are going to face post-release, are exactly the same problems you are facing today.  Within the limited attention span of the average listener, how do you give them enough of your products details to set the hook and make them hungry for more.  If you can't do it now when there is no money on the line, it will get even harder once your desperate to make a sale.
 
-<p>Now for an answer...  Turn around, away from the quest for "the right people" and look at your product.  What is its single, undeniably attractive aspect?  Can you describe that function or feature in a dozen words or less?  twelve short words.  </p>
+Now for an answer...  Turn around, away from the quest for "the right people" and look at your product.  What is its single, undeniably attractive aspect?  Can you describe that function or feature in a dozen words or less?  twelve short words.  
 
-<p>Once you've found those words, its time to turn back to the gathering crowds.  Hit'em with your words, then follow it up with a question which they might be able to answer.</p>
+Once you've found those words, its time to turn back to the gathering crowds.  Hit'em with your words, then follow it up with a question which they might be able to answer.
 
-<p>"I'm writing a social smartphone app to help people avoid their ex-lovers!  How do you think I should market it?"</p>
+"I'm writing a social smartphone app to help people avoid their ex-lovers!  How do you think I should market it?"
+
 
 
 

@@ -4,24 +4,23 @@
 - tagged: `mobile-apps`, `software`, `united-kingdom`
 - score: 2
 
-<p>I am a software engineer and in my spare time I like to make apps and build websites etc. The motivation has always been to make money but most of the projects I’ve worked on in the past have failed to do that.</p>
+I am a software engineer and in my spare time I like to make apps and build websites etc. The motivation has always been to make money but most of the projects I’ve worked on in the past have failed to do that.
 
-<p>Recently however, an app I made a while ago (~1 year) suddenly started generating sales. This rekindled my interest in writing apps and I’ve managed to churn out 3 in the last month.</p>
+Recently however, an app I made a while ago (~1 year) suddenly started generating sales. This rekindled my interest in writing apps and I’ve managed to churn out 3 in the last month.
 
-<p>Luckily these new apps are also making profit. I’m currently making around £150 per month, but in the next week I’m hoping to convert these from Android to iOS, which will hopefully double that figure.</p>
+Luckily these new apps are also making profit. I’m currently making around £150 per month, but in the next week I’m hoping to convert these from Android to iOS, which will hopefully double that figure.
 
-<p>I realise that these figures are small-fry and that this is still at the level of something that should be considered a hobby but I don’t think it’s unrealistic for me to make around 30 apps for both iOS and Android in the coming year, and if (big if!) I can replicate the success I’ve had so far, that might generate a significant profit.</p>
+I realise that these figures are small-fry and that this is still at the level of something that should be considered a hobby but I don’t think it’s unrealistic for me to make around 30 apps for both iOS and Android in the coming year, and if (big if!) I can replicate the success I’ve had so far, that might generate a significant profit.
 
-<p>I was wondering if I could get some advice about how I would go about forming a company from all these small projects, as they’re all currently published under my own name. For instance, my developer accounts with both Google and Apple are registered in my name, as are a couple of domain names.</p>
+I was wondering if I could get some advice about how I would go about forming a company from all these small projects, as they’re all currently published under my own name. For instance, my developer accounts with both Google and Apple are registered in my name, as are a couple of domain names.
 
-<p>Also, the apps already have sales figures, and reading HMRC and other government pages it says that a company is formed as soon as something generates sales. So how would I deal with historic app sales?</p>
+Also, the apps already have sales figures, and reading HMRC and other government pages it says that a company is formed as soon as something generates sales. So how would I deal with historic app sales?
 
-<p>Also I was wondering about how best to structure the company? Is it even worth going Ltd or am I just opening myself up to unnecessary costs and taxes?</p>
+Also I was wondering about how best to structure the company? Is it even worth going Ltd or am I just opening myself up to unnecessary costs and taxes?
 
-<p>I also wouldn’t like to pigeon-hole myself into making one kind of app, so the name that I’m currently using – eduapp – wouldn’t be suitable. Could I form a company called Holding Company Ltd and then trademark the name eduapp and use that as a brand for certain apps?</p>
+I also wouldn’t like to pigeon-hole myself into making one kind of app, so the name that I’m currently using – eduapp – wouldn’t be suitable. Could I form a company called Holding Company Ltd and then trademark the name eduapp and use that as a brand for certain apps?
 
-<p>I’d be really grateful for any advice I could get from people more experienced than me with this sort of thing!</p>
-
+I’d be really grateful for any advice I could get from people more experienced than me with this sort of thing!
 
 
 ## Answer 1141

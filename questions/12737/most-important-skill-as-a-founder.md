@@ -4,10 +4,9 @@
 - tagged: `skills`
 - score: 4
 
-<p>I have the following situation. We have a product which is still in development and we have funding and an environment at an university for that. If the product turns out to work it will solve several problems an industry had before so we want to turn it into a start-up. The point is we are funded for 2 years and until then a functional first product is the goal combined with a kickstarter campaign for initial marketing and funding of the production. Now my issue is the following: I do not work at the development, this is done by my two cofounders. I have a technical background though. I have a day job but want to develop skills needed when the start up "goes live". What are skills you think are the most important in an early stage? Please be specific persistance and intelligence is sort of a prerequisite for considering to start up. </p>
+I have the following situation. We have a product which is still in development and we have funding and an environment at an university for that. If the product turns out to work it will solve several problems an industry had before so we want to turn it into a start-up. The point is we are funded for 2 years and until then a functional first product is the goal combined with a kickstarter campaign for initial marketing and funding of the production. Now my issue is the following: I do not work at the development, this is done by my two cofounders. I have a technical background though. I have a day job but want to develop skills needed when the start up "goes live". What are skills you think are the most important in an early stage? Please be specific persistance and intelligence is sort of a prerequisite for considering to start up. 
 
-<p>Thank you for the advice.</p>
-
+Thank you for the advice.
 
 
 ## Answer 12751
@@ -15,49 +14,41 @@
 - posted by: [Smit](https://stackexchange.com/users/7665731/smit) on 2017-05-30
 - score: 4
 
-<p>Congratulations on your startup.</p>
+Congratulations on your startup.
 
-<p>According to me, there are 2 skills that every cofounder should have:</p>
+According to me, there are 2 skills that every cofounder should have:
 
-<ul>
-<li>Comminication</li>
-<li>Managing people</li>
-</ul>
+- Comminication
+- Managing people
 
-<p>These are soft skills but that will help you stay longer in the market.</p>
+These are soft skills but that will help you stay longer in the market.
 
-<p>It is important to note, there many other skills that you will require and there are many roles that you will need to play when the startup goes live. Such as:</p>
+It is important to note, there many other skills that you will require and there are many roles that you will need to play when the startup goes live. Such as:
 
-<p>Roles such as:</p>
+Roles such as:
 
-<ul>
-<li>Project Mangement</li>
-<li>System Analyst</li>
-<li>Marketing</li>
-</ul>
+- Project Mangement
+- System Analyst
+- Marketing
 
-<p>Skills such as:</p>
+Skills such as:
 
-<ul>
-<li>Pitching</li>
-</ul>
+- Pitching
 
-<p>Above all, the <strong>most</strong> important skills that you will definitely need is:</p>
+Above all, the **most** important skills that you will definitely need is:
 
-<ul>
-<li>Managing yourself</li>
-<li>Time Management</li>
-</ul>
+- Managing yourself
+- Time Management
 
-<p>Do take note, on my personal level: I always had this question while building the startup:</p>
 
-<blockquote>
-  <p>I wish I knew this</p>
-</blockquote>
+Do take note, on my personal level: I always had this question while building the startup:
 
-<p>But it is important that you will encounter many more "things" that you need to learn but above soft skills will help you learn new things faster.</p>
+> I wish I knew this
 
-<p>Hope this helps.</p>
+But it is important that you will encounter many more "things" that you need to learn but above soft skills will help you learn new things faster.
+
+Hope this helps.
+
 
 
 

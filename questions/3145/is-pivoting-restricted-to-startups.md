@@ -4,8 +4,7 @@
 - tagged: `pivoting`
 - score: 4
 
-<p>Many old businesses have changed their core business models over the years. Nintendo went from making playing cards to making video games, BMW first manufactured airplane engines and Nokia started out as pulp mill. Could these situations be considered pivots even though the previous business model had been successful for some time? Or is there something fundamental about a pivot that restricts it to companies in their early stages?</p>
-
+Many old businesses have changed their core business models over the years. Nintendo went from making playing cards to making video games, BMW first manufactured airplane engines and Nokia started out as pulp mill. Could these situations be considered pivots even though the previous business model had been successful for some time? Or is there something fundamental about a pivot that restricts it to companies in their early stages?
 
 
 ## Answer 3149

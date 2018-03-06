@@ -4,9 +4,8 @@
 - tagged: `incorporation`
 - score: -1
 
-<p>I'm trying to find alternatives to firms assisting in registering companies in jurisdictions such as  St. vincent and the Grenadniens and the British Virgin Islands. 
-Any good ideas?</p>
-
+I'm trying to find alternatives to firms assisting in registering companies in jurisdictions such as  St. vincent and the Grenadniens and the British Virgin Islands. 
+Any good ideas?
 
 ## No Answers
 

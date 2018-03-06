@@ -4,10 +4,9 @@
 - tagged: `international`, `funding`, `venture-capital`
 - score: 7
 
-<p>I'm starting a software-based startup with a small team (outside of USA). Initially it will be a mobile app (Android &amp; iOS) along with a web interface, which will later be expanded into other platforms. It's hard to gain traction without proper marketing and also processes like hosting, and other paid services required by the application we're developing needs a somewhat large amount of money. I'm interested in establishing my products internationally (main target audience is USA). </p>
+I'm starting a software-based startup with a small team (outside of USA). Initially it will be a mobile app (Android & iOS) along with a web interface, which will later be expanded into other platforms. It's hard to gain traction without proper marketing and also processes like hosting, and other paid services required by the application we're developing needs a somewhat large amount of money. I'm interested in establishing my products internationally (main target audience is USA). 
 
-<p>So we need to find someone (or a company) to invest in our startup. How and where should I start? Are there any places (websites, summits, etc) I should be visiting? Some tips to "woo-in" potential investors are also appreciated. </p>
-
+So we need to find someone (or a company) to invest in our startup. How and where should I start? Are there any places (websites, summits, etc) I should be visiting? Some tips to "woo-in" potential investors are also appreciated. 
 
 
 ## Answer 275

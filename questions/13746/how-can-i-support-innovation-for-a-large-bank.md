@@ -4,8 +4,7 @@
 - tagged: `business-model`, `idea`, `lean-startup`, `design`
 - score: 0
 
-<p>How do large Banks like ING, ABN And Rabobank innovate and what can major IT companies like Accenture, Wipro, Tata Consultancy Services, etc offer them to innovate better?</p>
-
+How do large Banks like ING, ABN And Rabobank innovate and what can major IT companies like Accenture, Wipro, Tata Consultancy Services, etc offer them to innovate better?
 
 ## No Answers
 

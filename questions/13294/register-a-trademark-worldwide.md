@@ -4,14 +4,13 @@
 - tagged: `business-registration`, `trademark`, `brand`
 - score: 1
 
-<p>I have a company name let's say ABC.</p>
+I have a company name let's say ABC.
 
-<p>I live in Canada and I want to register my company's name worldwide and prevent someone else using ABC as a brand name</p>
+I live in Canada and I want to register my company's name worldwide and prevent someone else using ABC as a brand name
 
-<p>How can I do that? Is there a way to do it once? (Canada is not a member of the MAdrid's agreement of the World intellectual Property Organization)</p>
+How can I do that? Is there a way to do it once? (Canada is not a member of the MAdrid's agreement of the World intellectual Property Organization)
 
-<p>Thank you</p>
-
+Thank you
 
 
 ## Answer 13295

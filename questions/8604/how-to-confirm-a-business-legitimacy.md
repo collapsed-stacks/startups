@@ -4,10 +4,9 @@
 - tagged: `web-development`
 - score: 1
 
-<p>I'm currently working on a new website where I want businesses to sign up. What is the best way to validate a business' legitimacy as to avoid spammers etc. What system would work best?</p>
+I'm currently working on a new website where I want businesses to sign up. What is the best way to validate a business' legitimacy as to avoid spammers etc. What system would work best?
 
-<p>Thank you.</p>
-
+Thank you.
 
 ## No Answers
 

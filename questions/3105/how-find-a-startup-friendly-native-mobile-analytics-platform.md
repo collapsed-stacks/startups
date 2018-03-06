@@ -4,10 +4,12 @@
 - tagged: `mobile-apps`, `analytics`
 - score: 1
 
-<p>A lot of the current analytics for mobile are either focused on web, get data updated really late, are filled with bunch of data which aren't very important for startups, expensive.</p>
+A lot of the current analytics for mobile are either focused on web, get data updated really late, are filled with bunch of data which aren't very important for startups, expensive.
 
-<p>How do you find a startup friendly native mobile analytics platform - and what's the best way to determine its fitness for commonly used <a href="http://500hats.typepad.com/500blogs/2007/09/startup-metrics.html" rel="nofollow">startup metrics</a> such as: acquisition, activation, retention, referral, revenue, cohort analysis, etc.</p>
+How do you find a startup friendly native mobile analytics platform - and what's the best way to determine its fitness for commonly used [startup metrics][1] such as: acquisition, activation, retention, referral, revenue, cohort analysis, etc.
 
+
+  [1]: http://500hats.typepad.com/500blogs/2007/09/startup-metrics.html
 
 
 ## Answer 3107

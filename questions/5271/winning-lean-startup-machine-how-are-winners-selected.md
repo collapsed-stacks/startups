@@ -4,8 +4,7 @@
 - tagged: `lean`, `competitive-events`, `lean-startup-machine`
 - score: 0
 
-<p>Even though the Lean Startup Machine events are focused on startup teams rapidly engaging markets to produce measurable results, comparing the results between the teams seems like it might be hard to do. How are winners selected?</p>
-
+Even though the Lean Startup Machine events are focused on startup teams rapidly engaging markets to produce measurable results, comparing the results between the teams seems like it might be hard to do. How are winners selected?
 
 
 ## Answer 5272

@@ -4,8 +4,7 @@
 - tagged: `pivoting`
 - score: 2
 
-<p>The pivot has become a popular idea with startups. Many successful pivots such as twitter and groupon have helped fuel this. I get the impression that many founders are expecting at least one pivot. Based on this they may see the initial idea as a throwaway, just a placeholder used to discover the pivot idea. Does this mentality exist and can it cause a dangerous lack of enthusiasm for the first iteration of the product?</p>
-
+The pivot has become a popular idea with startups. Many successful pivots such as twitter and groupon have helped fuel this. I get the impression that many founders are expecting at least one pivot. Based on this they may see the initial idea as a throwaway, just a placeholder used to discover the pivot idea. Does this mentality exist and can it cause a dangerous lack of enthusiasm for the first iteration of the product?
 
 
 ## Answer 3181

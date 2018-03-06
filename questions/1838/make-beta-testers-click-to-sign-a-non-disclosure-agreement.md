@@ -4,8 +4,7 @@
 - tagged: `legal`, `mobile-apps`, `website`, `non-disclosure-agreement`
 - score: 4
 
-<p>Legally speaking, if I were to make a non disclosure agreement that had to be clicked on before signing into my mobile app and website, would that hold up in court if the agreement was breached? </p>
-
+Legally speaking, if I were to make a non disclosure agreement that had to be clicked on before signing into my mobile app and website, would that hold up in court if the agreement was breached? 
 
 
 ## Answer 1848
@@ -30,21 +29,23 @@
 - posted by: [Henry Taylor](https://stackexchange.com/users/1734959/henry-taylor) on 2015-01-02
 - score: 1
 
-<p>I agree with theonlydanever, Great Question.</p>
+I agree with theonlydanever, Great Question.
 
-<p>The only thing I have to add is that testing is a little late in the race to be considering protecting your IP.  Testing usually occurs after months of development and within weeks of the general release to the public.  </p>
+The only thing I have to add is that testing is a little late in the race to be considering protecting your IP.  Testing usually occurs after months of development and within weeks of the general release to the public.  
 
-<p>You already have the lead on any potential competition simply because your software is code-complete.  You might need to polish its UX for a little, but your competitors haven't even started coding yet.</p>
+You already have the lead on any potential competition simply because your software is code-complete.  You might need to polish its UX for a little, but your competitors haven't even started coding yet.
 
-<p>It's sort of like turning around when the finish line is in sight, just to check that nobody jumped the starting gun.  It doesn't make a lot of sense.</p>
+It's sort of like turning around when the finish line is in sight, just to check that nobody jumped the starting gun.  It doesn't make a lot of sense.
 
-<p>Schedule of things to do...</p>
+Schedule of things to do...
 
-<p>Monday : Get Testers To "Sign" An NDA, swearing that they won't talk about the product.</p>
+Monday : Get Testers To "Sign" An NDA, swearing that they won't talk about the product.
 
-<p>Friday : Beg Bloggers and Early Adopters to talk about the product.</p>
+Friday : Beg Bloggers and Early Adopters to talk about the product.
 
-<p>???</p>
+???
+
+
 
 
 

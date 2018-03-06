@@ -4,45 +4,42 @@
 - tagged: `business-registration`, `business-structure`
 - score: 1
 
-<h1>BACKGROUND \ DEFINITIONS</h1>
+BACKGROUND \ DEFINITIONS
+=========
+When choosing a business structure, LLC, S-Corp, etc: it can viewed as a process.  Assuming that one is in the USA: the **inputs** of the process include choosing:
 
-<p>When choosing a business structure, LLC, S-Corp, etc: it can viewed as a process.  Assuming that one is in the USA: the <strong>inputs</strong> of the process include choosing:</p>
+ 1. business structure for the purpose of IRS taxation filing
+ 2. business structure for the purpose of filing at the state level
+ 3. number of partners in the small business
 
-<ol>
-<li>business structure for the purpose of IRS taxation filing</li>
-<li>business structure for the purpose of filing at the state level</li>
-<li>number of partners in the small business</li>
-</ol>
+For this discussion, we can refer to a combination of line items 1&2 as a ***'business-structure pair'***.  Example a Florida LLC (1) that files as an IRS S-Corp (2) enjoys [state-income tax (5.5%) exemption.][1]
 
-<p>For this discussion, we can refer to a combination of line items 1&amp;2 as a <strong><em>'business-structure pair'</em></strong>.  Example a Florida LLC (1) that files as an IRS S-Corp (2) enjoys <a href="http://www.investopedia.com/articles/personal-finance/101315/taxes-florida-small-businesses-basics.asp" rel="nofollow noreferrer">state-income tax (5.5%) exemption.</a></p>
+Outputs of the process include advantages and disadvantages when compared to other choices:
 
-<p>Outputs of the process include advantages and disadvantages when compared to other choices:</p>
+ 4. Double Taxation (disadvantage)
+ 5. Exemptions from annual reports, directors + shareholder meetings (advantage)
+ 6. [State income tax exemption (advantage)][1]
+ 7. Federal income tax advantages / disadvantages
+ 8. Other TBD considerations
 
-<ol start="4">
-<li>Double Taxation (disadvantage)</li>
-<li>Exemptions from annual reports, directors + shareholder meetings (advantage)</li>
-<li><a href="http://www.investopedia.com/articles/personal-finance/101315/taxes-florida-small-businesses-basics.asp" rel="nofollow noreferrer">State income tax exemption (advantage)</a></li>
-<li>Federal income tax advantages / disadvantages</li>
-<li>Other TBD considerations</li>
-</ol>
+Ideally there a grid (table) that enumerates the combinations of 'business-structure pairs' on the vertical axis and the outputs of key outcomes / consideration on the horizontal axis (line items 4,5,6...)
 
-<p>Ideally there a grid (table) that enumerates the combinations of 'business-structure pairs' on the vertical axis and the outputs of key outcomes / consideration on the horizontal axis (line items 4,5,6...)</p>
+QUESTION
+======
 
-<h1>QUESTION</h1>
+ - Does such a unicorn (grid) exist?
+ - If not, what other key considerations should one consider (line items
+   8+)
+ - Are there any additional inputs to the process?
 
-<ul>
-<li>Does such a unicorn (grid) exist?</li>
-<li>If not, what other key considerations should one consider (line items
-8+)</li>
-<li>Are there any additional inputs to the process?</li>
-</ul>
+If there are other critical inputs to the process, please feel free to edit the question or post a comment, as identifying inputs (and outputs) are central to this Q&A.  One could make the case that **specific context** (below) are inputs to the process.
 
-<p>If there are other critical inputs to the process, please feel free to edit the question or post a comment, as identifying inputs (and outputs) are central to this Q&amp;A.  One could make the case that <strong>specific context</strong> (below) are inputs to the process.</p>
+SPECIFIC CONTEXT
+==============
+A Florida company with no employees (all work to be done through contractors) with one owner and no investors.
 
-<h1>SPECIFIC CONTEXT</h1>
 
-<p>A Florida company with no employees (all work to be done through contractors) with one owner and no investors.</p>
-
+  [1]: http://www.investopedia.com/articles/personal-finance/101315/taxes-florida-small-businesses-basics.asp
 
 ## No Answers
 

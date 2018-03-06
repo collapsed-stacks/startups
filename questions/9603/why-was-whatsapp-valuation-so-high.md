@@ -4,10 +4,9 @@
 - tagged: `mobile-apps`, `social-networking`, `valuation`
 - score: 6
 
-<p>When looking at the figures of the valuation of the users, I am surprised of the high differences between the valuation of a whatsapp user (roughly 50$) against, say a viber user (roughly 3$, but I am not sure that these valuations took place at the same time).</p>
+When looking at the figures of the valuation of the users, I am surprised of the high differences between the valuation of a whatsapp user (roughly 50$) against, say a viber user (roughly 3$, but I am not sure that these valuations took place at the same time).
 
-<p>How come these differences were so high ? These applications seem to gather the same data from the users, after all...</p>
-
+How come these differences were so high ? These applications seem to gather the same data from the users, after all...
 
 
 ## Answer 9610
@@ -15,19 +14,17 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2016-07-03
 - score: 3
 
-<p>Methinks you're not aware that you're comparing apples to oranges. When it comes to acquisitions, the only thing that counts is how big a check the buyer is willing to write. The rest - call it assets, fundamentals, whatever - is nothing short of cosmetic. It matters, of course, but the key is to understand that the same company can have <em>very</em> different valuations depending on the buyer.</p>
+Methinks you're not aware that you're comparing apples to oranges. When it comes to acquisitions, the only thing that counts is how big a check the buyer is willing to write. The rest - call it assets, fundamentals, whatever - is nothing short of cosmetic. It matters, of course, but the key is to understand that the same company can have _very_ different valuations depending on the buyer.
 
-<p>In this case, Rakuten is a conglomerate with over 40 business lines. It's into just about everything online that you can think of: retail, travel agent, bank loans, brokerage, etc. By buying Viber, it's expanding in yet another business. Presumably, it's doing so with the aim of using augmented chat as a commercial platform for its other lines of business.</p>
+In this case, Rakuten is a conglomerate with over 40 business lines. It's into just about everything online that you can think of: retail, travel agent, bank loans, brokerage, etc. By buying Viber, it's expanding in yet another business. Presumably, it's doing so with the aim of using augmented chat as a commercial platform for its other lines of business.
 
-<p>Facebook, in contrast, paid for a company that could have been part of its downfall:</p>
+Facebook, in contrast, paid for a company that could have been part of its downfall:
 
-<ul>
-<li><p>Chat is an essential part of social media platforms. Particularly on mobile, where chat apps are the ones that get opened most. It's where a lot of future hotness is going to happen. Expect a slew of developments in the coming years on chat-related apps as companies battle to effectively replace SMS. Apple gave a <a href="http://www.macrumors.com/2016/06/13/apple-unveils-new-messages-app-features-in-ios-10/" rel="nofollow">taste of what's coming</a> in iOS 10.</p></li>
-<li><p>Facebook's user base is <a href="http://qz.com/209542/mark-zuckerberg-is-30-facebooks-users-are-aging-too/" rel="nofollow">starting to age</a>. That's usually not a good sign when you're a social media portal. When you lose the younger audience, you're well on your way to becoming the next MySpace. Plus, it had just <a href="http://blogs.wsj.com/digits/2013/11/13/snapchat-spurned-3-billion-acquisition-offer-from-facebook/" rel="nofollow">failed to purchase Snapchat</a>.</p></li>
-</ul>
+- Chat is an essential part of social media platforms. Particularly on mobile, where chat apps are the ones that get opened most. It's where a lot of future hotness is going to happen. Expect a slew of developments in the coming years on chat-related apps as companies battle to effectively replace SMS. Apple gave a [taste of what's coming](http://www.macrumors.com/2016/06/13/apple-unveils-new-messages-app-features-in-ios-10/) in iOS 10.
 
-<p>Put another way, on the one hand side you've a conglomerate that is investing in a new distribution channel for its other business lines, and on the other you've a company that is preemptively buying competitors to remain the relevant social media.</p>
+- Facebook's user base is [starting to age](http://qz.com/209542/mark-zuckerberg-is-30-facebooks-users-are-aging-too/). That's usually not a good sign when you're a social media portal. When you lose the younger audience, you're well on your way to becoming the next MySpace. Plus, it had just [failed to purchase Snapchat](http://blogs.wsj.com/digits/2013/11/13/snapchat-spurned-3-billion-acquisition-offer-from-facebook/).
 
+Put another way, on the one hand side you've a conglomerate that is investing in a new distribution channel for its other business lines, and on the other you've a company that is preemptively buying competitors to remain the relevant social media.
 
 
 ## Answer 9608
@@ -35,22 +32,19 @@
 - posted by: [Dawny33](https://stackexchange.com/users/6444670/dawny33) on 2016-07-03
 - score: 2
 
-<p>When social networking and messaging startups are being evaluated, the most important factors or variables which comes into place are the monthly active users and also the networking effect.</p>
+When social networking and messaging startups are being evaluated, the most important factors or variables which comes into place are the monthly active users and also the networking effect.
 
-<p>Now, considering the numbers of both Whatsapp and Viber:</p>
+Now, considering the numbers of both Whatsapp and Viber:
 
-<blockquote>
-  <p>Viber : <strong>754 million registered users</strong> </p>
-  
-  <p>Whatsapp : <strong>1000 million monthly active users</strong></p>
-</blockquote>
+> Viber : **754 million registered users** 
+> 
+> Whatsapp : **1000 million monthly active users**
 
-<p>Users need to be very active on the product for the company to exploit the networking effect, and whatsapp numbers speaks for itelf.</p>
+Users need to be very active on the product for the company to exploit the networking effect, and whatsapp numbers speaks for itelf.
 
-<p>Networking effect is a very viral and a highly influencing effect in the domain of chat and social networks. So, with such a huge monthly active users numbers, Whatsapp pretty much towers over Viber, whose total registered users number is lesser than Whatsapp's monthly active users stat.</p>
+Networking effect is a very viral and a highly influencing effect in the domain of chat and social networks. So, with such a huge monthly active users numbers, Whatsapp pretty much towers over Viber, whose total registered users number is lesser than Whatsapp's monthly active users stat.
 
-<p>In addition, Whatsapp is now backed by a company which has the lion share of the market in the social networks domain, which is a very influential backing, and also highly boosts the valuation.</p>
-
+In addition, Whatsapp is now backed by a company which has the lion share of the market in the social networks domain, which is a very influential backing, and also highly boosts the valuation.
 
 
 ## Answer 9653

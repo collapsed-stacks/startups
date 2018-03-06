@@ -4,15 +4,18 @@
 - tagged: `social-networking`, `trademark`, `domain-name`
 - score: 4
 
-<p>I am about to close a startup of mine, started over 6 years ago.</p>
+I am about to close a startup of mine, started over 6 years ago.
 
-<p>At first, I only thought of selling the domain name, but then I realized that, if bundled properly, it may be worth much more, as 6+ years of high visibility through Google Search, plus 3 years in a row in which sales grew about 500% per year, may be worth something.</p>
+At first, I only thought of selling the domain name, but then I realized that, if bundled properly, it may be worth much more, as 6+ years of high visibility through Google Search, plus 3 years in a row in which sales grew about 500% per year, may be worth something.
 
-<p>This domain also has matching Facebook, Twitter, Youtube and Google Play accounts (exact name as domain as tradename and trademark.</p>
+This domain also has matching Facebook, Twitter, Youtube and Google Play accounts (exact name as domain as tradename and trademark.
 
-<p>What is the best venue to go about this?</p>
 
-<p>Note: Maximizing sale value is not the only factor. An important consideration is also a safe and trustworthy way to transfer payment.</p>
+What is the best venue to go about this?
+
+Note: Maximizing sale value is not the only factor. An important consideration is also a safe and trustworthy way to transfer payment.
+
+
 
 
 
@@ -21,20 +24,19 @@
 - posted by: [Jeremy Parsons](https://stackexchange.com/users/497810/jeremy-parsons) on 2014-10-23
 - score: 4
 
-<p>The quick answer to your question is: <strong>go look at Flippa.com</strong>, as probably the most active market for domains plus content. If current revenue is small, my guess is that a third party business or domain broker won't see much realizable value.</p>
+The quick answer to your question is: **go look at Flippa.com**, as probably the most active market for domains plus content. If current revenue is small, my guess is that a third party business or domain broker won't see much realizable value.
 
-<p>There may be other choices. </p>
+There may be other choices. 
 
-<p>Do you feel you've proved that the market you were aiming at isn't there, or is dominated by a major player? If so, then <strong>you may have assets worth selling</strong>, as long as you remember that the whole is <em>less</em> than the sum of the parts. So make the longest list you can of assets, and against each one, ask </p>
+Do you feel you've proved that the market you were aiming at isn't there, or is dominated by a major player? If so, then **you may have assets worth selling**, as long as you remember that the whole is *less* than the sum of the parts. So make the longest list you can of assets, and against each one, ask 
 
-<ol>
-<li><p>How could I monetize this?</p></li>
-<li><p>Who else might value this, and why?</p></li>
-</ol>
+1. How could I monetize this?
 
-<p>Once you have your list, triage. If there's no obvious buyer but there is a monetization route, invest a little time trying it out. So for instance, could your website morph into a simple content site to leverage the search engine history? If there's value to a third party then try some direct approaches.</p>
+2. Who else might value this, and why?
 
-<p>Or do you feel that while you hit the wall, <strong>someone else might be ready to take it forward</strong>. Given new vision, new leadership and new resources, many projects could be viable. If that's possible, get out there and network. The deal you offer is a way for someone to earn their way to a majority share, with a <em>future</em> exit route for you. Will that suit everyone? No way! But the right person...</p>
+Once you have your list, triage. If there's no obvious buyer but there is a monetization route, invest a little time trying it out. So for instance, could your website morph into a simple content site to leverage the search engine history? If there's value to a third party then try some direct approaches.
+
+Or do you feel that while you hit the wall, **someone else might be ready to take it forward**. Given new vision, new leadership and new resources, many projects could be viable. If that's possible, get out there and network. The deal you offer is a way for someone to earn their way to a majority share, with a *future* exit route for you. Will that suit everyone? No way! But the right person...
 
 
 
@@ -43,10 +45,9 @@
 - posted by: [blunders](https://stackexchange.com/users/216182/blunders) on 2014-10-20
 - score: 1
 
-<p>Aside from generic domains it is assumed that the domain owner has trademark rights, otherwise the (real) trademark owner might be able to take control of the domain. </p>
+Aside from generic domains it is assumed that the domain owner has trademark rights, otherwise the (real) trademark owner might be able to take control of the domain. 
 
-<p>Domain resellers offer escrow services, so payment is likely a non-issue.</p>
-
+Domain resellers offer escrow services, so payment is likely a non-issue.
 
 
 

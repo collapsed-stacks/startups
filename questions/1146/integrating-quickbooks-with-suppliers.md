@@ -4,8 +4,7 @@
 - tagged: `finance`
 - score: 3
 
-<p>Can someone recommend the best EDI option for quickbooks? If one of my suppliers is using QuickBooks (and possibly other financial platforms), I would like them to be able to send invoices directly to my QuickBooks account rather than dealing with paper mailings.</p>
-
+Can someone recommend the best EDI option for quickbooks? If one of my suppliers is using QuickBooks (and possibly other financial platforms), I would like them to be able to send invoices directly to my QuickBooks account rather than dealing with paper mailings.
 
 
 ## Answer 1415

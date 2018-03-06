@@ -4,8 +4,7 @@
 - tagged: `idea`
 - score: 19
 
-<p>Does anyone have any noteworthy examples of successful entrepreneurs using blogs throughout their startup in a productive way?  I mean even at the stage BEFORE they launch a product, or even have an idea.</p>
-
+Does anyone have any noteworthy examples of successful entrepreneurs using blogs throughout their startup in a productive way?  I mean even at the stage BEFORE they launch a product, or even have an idea.
 
 
 ## Answer 988
@@ -13,12 +12,11 @@
 - posted by: [Robert Cartaino](https://stackexchange.com/users/34933/robert-cartaino) on 2014-10-14
 - score: 13
 
-<h3><a href="http://blog.stackoverflow.com/2008/04/podcast-1/">The Stack Overflow Blog</a></h3>
+###[The Stack Overflow Blog](http://blog.stackoverflow.com/2008/04/podcast-1/)
 
-<p>The founders of Stack Exchange, Joel Spolsky and Jeff Atwood, started blogging in March 2008 about what would soon become the largest, most successful programmers' website on the planet &mdash; a full six months before the site made its first appearance.</p>
+The founders of Stack Exchange, Joel Spolsky and Jeff Atwood, started blogging in March 2008 about what would soon become the largest, most successful programmers' website on the planet &mdash; a full six months before the site made its first appearance.
 
-<p>The strong lead up and constant user engagement were <em>instrumental</em> to the impressive launch and ongoing success of the network.</p>
-
+The strong lead up and constant user engagement were *instrumental* to the impressive launch and ongoing success of the network.
 
 
 ## Answer 992
@@ -26,12 +24,11 @@
 - posted by: [Ed Cottrell](https://stackexchange.com/users/2348349/ed-cottrell) on 2014-10-15
 - score: 6
 
-<p>Not a waste at all.</p>
+Not a waste at all.
 
-<p>As Robert pointed out, Stack Overflow is a classic example.</p>
+As Robert pointed out, Stack Overflow is a classic example.
 
-<p>There are countless others. One example is <a href="http://pinchofyum.com/">Pinch of Yum</a>, which is part blog and part product line. The founders/owners publish <a href="http://pinchofyum.com/category/making-money-from-a-food-blog">a monthly report of their income</a>, which should be required reading for all entrepreneurs who are just getting started, especially those who are bootstrapping (rather than raising lots of funding). The 2 of them are pulling roughly $30,000/month in net income, and a surprisingly large amount of that does not come from the blog itself, even though that's what started things for them.</p>
-
+There are countless others. One example is [Pinch of Yum](http://pinchofyum.com/), which is part blog and part product line. The founders/owners publish [a monthly report of their income](http://pinchofyum.com/category/making-money-from-a-food-blog), which should be required reading for all entrepreneurs who are just getting started, especially those who are bootstrapping (rather than raising lots of funding). The 2 of them are pulling roughly $30,000/month in net income, and a surprisingly large amount of that does not come from the blog itself, even though that's what started things for them.
 
 
 ## Answer 1000
@@ -54,8 +51,7 @@
 - posted by: [John Barbour](https://stackexchange.com/users/3162731/john-barbour) on 2014-10-22
 - score: 0
 
-<p>Look at developers.airbnb.com, many of the big web names have blogs about their business model or technical issues. Just remember who you will want the audience to be and write coherently. I'm prototyping an electronic device that will allow a new business model, but the model will take participation from others before it's real value is obvious, so I'm writing to generate interest from early adopters.</p>
-
+Look at developers.airbnb.com, many of the big web names have blogs about their business model or technical issues. Just remember who you will want the audience to be and write coherently. I'm prototyping an electronic device that will allow a new business model, but the model will take participation from others before it's real value is obvious, so I'm writing to generate interest from early adopters.
 
 
 ## Answer 4022

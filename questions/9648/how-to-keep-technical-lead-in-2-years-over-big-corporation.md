@@ -4,17 +4,18 @@
 - tagged: `tech-company`, `investors`, `pitch`
 - score: 5
 
-<p>Suppose the main value of startup A is a breakthrough technology that no one has figured out yet and they are looking for VC funding.</p>
+Suppose the main value of startup A is a breakthrough technology that no one has figured out yet and they are looking for VC funding.
 
-<p>The most common and toughest question from the VC is, "How can you guarantee your technical lead in 2 years if Facebook/Google whom has thousands of genius Stanford/MIT PhD graduates decides to work on this?"</p>
+The most common and toughest question from the VC is, "How can you guarantee your technical lead in 2 years if Facebook/Google whom has thousands of genius Stanford/MIT PhD graduates decides to work on this?"
 
-<p>Saying a few brains in a startup can beat thousands of genius brains is unrealistic.</p>
+Saying a few brains in a startup can beat thousands of genius brains is unrealistic.
 
-<p>Saying eventually the startup cannot hold the technical lead will likely result in no investments from VCs.</p>
+Saying eventually the startup cannot hold the technical lead will likely result in no investments from VCs.
 
-<p>Saying Facebook/Google won't decide to work on this is another way of saying the breakthrough technology from the startup is unimportant. </p>
+Saying Facebook/Google won't decide to work on this is another way of saying the breakthrough technology from the startup is unimportant. 
 
-<p>What's the best response to this kind of question?</p>
+What's the best response to this kind of question?
+
 
 
 
@@ -64,14 +65,13 @@
 - posted by: [RUser4512](https://stackexchange.com/users/6145228/ruser4512) on 2016-07-08
 - score: 0
 
-<p>How much would it cost for these large companies to develop the same idea than the one you developed ? And how much would they sell it ?</p>
+How much would it cost for these large companies to develop the same idea than the one you developed ? And how much would they sell it ?
 
-<p>Does gathering data helps you improving your service on a regular basis ? If so, having the first mover advantage is a real asset. </p>
+Does gathering data helps you improving your service on a regular basis ? If so, having the first mover advantage is a real asset. 
 
-<p>Fintech is about creating services in the financial sector. Some of them are directly sold to the banks, who have much more workforce than start-ups. Yet, if it is more expansive for them to create it and maintain it in a single institution than for you, there is no point in them copying you...</p>
+Fintech is about creating services in the financial sector. Some of them are directly sold to the banks, who have much more workforce than start-ups. Yet, if it is more expansive for them to create it and maintain it in a single institution than for you, there is no point in them copying you...
 
-<p>Besides, how big is your technical lead ? Bear in mine that Google bought DeepMind, did not copy it...</p>
-
+Besides, how big is your technical lead ? Bear in mine that Google bought DeepMind, did not copy it...
 
 
 

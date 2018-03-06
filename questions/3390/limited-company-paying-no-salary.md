@@ -4,12 +4,11 @@
 - tagged: `united-kingdom`, `salary`, `private-company`, `ltd`
 - score: 4
 
-<p>Is it possible to register a private limited company in the UK with myself as the sole director being paid no salary until the company starts making profit?</p>
+Is it possible to register a private limited company in the UK with myself as the sole director being paid no salary until the company starts making profit?
 
-<p>Is it then easy to move from paying nothing to setting up a salary?</p>
+Is it then easy to move from paying nothing to setting up a salary?
 
-<p>Also, assuming constant growth, would it be possible to keep increasing the salary? (I am aware of dividends - but if to start with I could only afford to pay out a minimum wage salary, I would want to increase that if an increase in profit allowed)</p>
-
+Also, assuming constant growth, would it be possible to keep increasing the salary? (I am aware of dividends - but if to start with I could only afford to pay out a minimum wage salary, I would want to increase that if an increase in profit allowed)
 
 
 ## Answer 3401

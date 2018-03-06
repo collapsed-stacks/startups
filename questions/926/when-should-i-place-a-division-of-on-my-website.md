@@ -4,8 +4,7 @@
 - tagged: `legal`
 - score: 5
 
-<p>I have a company, let's call it A. I have another company, let's call it B. A is the overlapping name for a few companies I had but I stopped with. The only company I have now is B, but the official name is A (B is a trade name). So do I have to place 'B is a division of A' on my website? Is it required?</p>
-
+I have a company, let's call it A. I have another company, let's call it B. A is the overlapping name for a few companies I had but I stopped with. The only company I have now is B, but the official name is A (B is a trade name). So do I have to place 'B is a division of A' on my website? Is it required?
 
 
 ## Answer 927

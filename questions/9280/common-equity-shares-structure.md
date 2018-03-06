@@ -4,17 +4,17 @@
 - tagged: `legal`, `equity`, `profit-sharing`
 - score: 3
 
-<p>Three people are establishing a startup; each will be acting as one of the following: CEO, CTO, COO. </p>
+Three people are establishing a startup; each will be acting as one of the following: CEO, CTO, COO. 
 
-<ol>
-<li><p>What are some of the common structures for such scenarios?</p></li>
-<li><p>How much equity should each get equally divided?</p></li>
-<li><p>How many shares is that?</p></li>
-<li><p>What is commonly left for investors and advisors and future hires in the pie?</p></li>
-</ol>
+1. What are some of the common structures for such scenarios?
 
-<p>I know every startup is different and should be tailored accordingly; but I was wondering if there are more common set ups that are favored or utilized?</p>
+1. How much equity should each get equally divided?
 
+1. How many shares is that?
+
+1. What is commonly left for investors and advisors and future hires in the pie?
+
+I know every startup is different and should be tailored accordingly; but I was wondering if there are more common set ups that are favored or utilized?
 
 
 ## Answer 9281
@@ -22,14 +22,13 @@
 - posted by: [Josh B'Gosh](https://stackexchange.com/users/8472084/josh-b-gosh) on 2016-05-21
 - score: 3
 
-<p>Here's an article I really like that talks about this:</p>
+Here's an article I really like that talks about this:
 
-<p><a href="https://gist.github.com/isaacsanders/1653078" rel="nofollow">https://gist.github.com/isaacsanders/1653078</a></p>
+https://gist.github.com/isaacsanders/1653078
 
-<p>Basically, you divide everything equally at the top level of management so that the founders feel evenly yoked.</p>
+Basically, you divide everything equally at the top level of management so that the founders feel evenly yoked.
 
-<p>Then there are typically 5-6 layers of employees added during the growth period (typically 5 years).  By the end— founders will own 50%, and each layer splits 10%.  Any money raised by investors dilutes the existing shares.</p>
-
+Then there are typically 5-6 layers of employees added during the growth period (typically 5 years).  By the end— founders will own 50%, and each layer splits 10%.  Any money raised by investors dilutes the existing shares.
 
 
 ## Answer 9282

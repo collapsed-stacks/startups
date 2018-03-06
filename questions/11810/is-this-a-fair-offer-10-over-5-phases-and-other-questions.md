@@ -4,24 +4,24 @@
 - tagged: `equity`
 - score: 5
 
-<p>I have recently received a proposition from a friend to go into business creating an app which he has conceptualized and specced out over the last few years. I am developer with 10+ years of experience and I would be driving the technical direction and initial development as well as probably managing the dev team once we hire one after we receive funding after the prototype is built. Details still need to be fully fleshed out. He is not a developer but is a technically oriented business guy with a track record for marketing digital products. He has even started to build a prototype - since this will be a game and we are using Unity, he has been able to figure out how to do some basic things in Unity. I haven't seen this prototype yet though. He is more of a marketing, business and 'idea guy' who also may know investors. I'll have a lot more details on the 2 roles we have initially after a call with him soon, but I wanted to be armed with the information I'm missing before that.</p>
+I have recently received a proposition from a friend to go into business creating an app which he has conceptualized and specced out over the last few years. I am developer with 10+ years of experience and I would be driving the technical direction and initial development as well as probably managing the dev team once we hire one after we receive funding after the prototype is built. Details still need to be fully fleshed out. He is not a developer but is a technically oriented business guy with a track record for marketing digital products. He has even started to build a prototype - since this will be a game and we are using Unity, he has been able to figure out how to do some basic things in Unity. I haven't seen this prototype yet though. He is more of a marketing, business and 'idea guy' who also may know investors. I'll have a lot more details on the 2 roles we have initially after a call with him soon, but I wanted to be armed with the information I'm missing before that.
 
-<p>He has offered me 10% over 5 'phases' he laid out, each phase he estimates would take 1 year except one of the phases would take 1-2 years. He offered that I vest 2% in the company per completion of the phase. As part of this offer, I would also receive 'payment/salary' after the first round of funding which would come after completion of phase 1 (protoype completion).</p>
+He has offered me 10% over 5 'phases' he laid out, each phase he estimates would take 1 year except one of the phases would take 1-2 years. He offered that I vest 2% in the company per completion of the phase. As part of this offer, I would also receive 'payment/salary' after the first round of funding which would come after completion of phase 1 (protoype completion).
 
-<p>I have done a bunch of research and read on these forums that typically the way this works is a 4 year vesting period which is laid out <a href="https://medium.com/@alain94040/founder-vesting-c214e86c59b0#.xann4jkda" rel="nofollow noreferrer">here</a>. I have also fooled around with the calculator found at <a href="http://foundrs.com/" rel="nofollow noreferrer">foundrs.com</a>.</p>
+I have done a bunch of research and read on these forums that typically the way this works is a 4 year vesting period which is laid out [here][1]. I have also fooled around with the calculator found at [foundrs.com][2].
 
-<p>I have a few questions I'm hoping I can get answers to:</p>
+I have a few questions I'm hoping I can get answers to:
 
-<ol>
-<li>Based on my reading, it seems a 4 year vesting schedule is the correct way to structure this. Have you ever seen this 'phase' based structuring? As a developer, I know damn well how accurate high level development estimates are, so I'm assuming no one actually does this and he's just knew to the software scene.</li>
-<li>In a 4 year vesting schedule, when do I receive the first shares? If there's no cliff, it sounds like I receive the first years shares instantly? IF that's the case, that means that I would vest fully in just 3 years, not 4. I don't undertstand the information found at the link above and hoping I could get that cleared up with an example.</li>
-<li>Based on a very rough estimate using the above-linked calculator using some assumptions, it came up with him being 74% and me being 26%. Does that seem about right to you? To me 10% seems very low! Considering it's just going to be the 2 of us for awhile until we receive funding, I'm not sure I could do this for just 10%.</li>
-<li>It seems he's looking to control 51%, where I get 10% and the remaining 39% is left for investors and other talent. Does this seem right to you? In typical startup, does it make sense for 1 person to clutch onto the majority share?</li>
-<li>He didn't lay out any kind of vesting schedule for himself. Does this make sense? It seems like as a founder he would also need to lay out his own vesting schedule as well?</li>
-</ol>
+ 1. Based on my reading, it seems a 4 year vesting schedule is the correct way to structure this. Have you ever seen this 'phase' based structuring? As a developer, I know damn well how accurate high level development estimates are, so I'm assuming no one actually does this and he's just knew to the software scene.
+ 2. In a 4 year vesting schedule, when do I receive the first shares? If there's no cliff, it sounds like I receive the first years shares instantly? IF that's the case, that means that I would vest fully in just 3 years, not 4. I don't undertstand the information found at the link above and hoping I could get that cleared up with an example.
+ 3. Based on a very rough estimate using the above-linked calculator using some assumptions, it came up with him being 74% and me being 26%. Does that seem about right to you? To me 10% seems very low! Considering it's just going to be the 2 of us for awhile until we receive funding, I'm not sure I could do this for just 10%.
+ 4. It seems he's looking to control 51%, where I get 10% and the remaining 39% is left for investors and other talent. Does this seem right to you? In typical startup, does it make sense for 1 person to clutch onto the majority share?
+ 5. He didn't lay out any kind of vesting schedule for himself. Does this make sense? It seems like as a founder he would also need to lay out his own vesting schedule as well?
 
-<p>Thank you SO much for taking the time to read this! Any help is GREATLY appreciated!</p>
+Thank you SO much for taking the time to read this! Any help is GREATLY appreciated!
 
+  [1]: https://medium.com/@alain94040/founder-vesting-c214e86c59b0#.xann4jkda
+  [2]: http://foundrs.com/
 
 
 ## Answer 11814
@@ -86,23 +86,21 @@
 - posted by: [Boston Startup CFO](https://stackexchange.com/users/9992633/boston-startup-cfo) on 2017-01-09
 - score: 3
 
-<ol>
-<li><p>Yes, a 4 year vesting term with a 1yr cliff is very typical for a startup.  I've also seen vesting for milestones that are met - so a "phase" completion could be considered a milestone.  If that doesn't work for you, you can always negotiate a better measure.</p></li>
-<li><p>This depends on the written agreement - typically you would vest monthly.  So you would own the first shares after the first month.  If you were offered 48,000 shares total over 4yrs then you would own 1,000 after the first month.  Make sure you are negotiating shares and not options.  You should also know how many total company shares will be allocated (so you know when/if your shares get diluted).  Use a cap table to ensure tracking and transparency.</p></li>
-<li><p>The calculator does not account for a variety of factors, so IMO it's not the most accurate indicator.  This really comes down to deliverables - what each of you bring to the business.  You should map out responsibilities and goals with the Founder (this should help your argument &amp; give the company structure). The product does not get built without you. </p></li>
-</ol>
+1. Yes, a 4 year vesting term with a 1yr cliff is very typical for a startup.  I've also seen vesting for milestones that are met - so a "phase" completion could be considered a milestone.  If that doesn't work for you, you can always negotiate a better measure.
 
-<p>3a. I would start with Phase 1.  You will be doing coding work for 20hrs/week.  How much would that cost in real dollars to replicate?  What is the Founder doing until the prototype is built &amp; how much time is he spending?  If you are doing the lion's share of the work - and responsible for the development &amp; launch of the first product you should be rewarded accordingly.  You should really consider yourself a co-founder.  I don't think 35%-40% of shares is unreasonable - and you can probably make a good argument for way more especially if vesting is over 4yrs (so start high when negotiating).</p>
+2. This depends on the written agreement - typically you would vest monthly.  So you would own the first shares after the first month.  If you were offered 48,000 shares total over 4yrs then you would own 1,000 after the first month.  Make sure you are negotiating shares and not options.  You should also know how many total company shares will be allocated (so you know when/if your shares get diluted).  Use a cap table to ensure tracking and transparency.
 
-<p>3b. Post funding: your standing in the company will change to an employee and manager.  You should negotiate your salary and stock/options for this new role as independent from phase 1.  You are now getting paid to do your job and the stock should be an incentive.  IMPORTANT: You should also have an agreement in place if the company does not receive funding after phase 1, like acquiring more shares over a shorter vesting period. If there isn't enough revenue to pay a salary, you want to protect yourself.</p>
+3. The calculator does not account for a variety of factors, so IMO it's not the most accurate indicator.  This really comes down to deliverables - what each of you bring to the business.  You should map out responsibilities and goals with the Founder (this should help your argument & give the company structure). The product does not get built without you. 
 
-<ol start="4">
-<li><p>Yes, single founders always want to hold on to the majority of shares. In the case of co-founders it is easier to implement 4yr vesting for each founder. So yes, 10% is way too low IMO.  If you are truly the "technical" side of the business, you should be compensated as such. If the Founder does not view you in that light, do you want to really move forward? It really comes down to what the sacrifice of 20hrs/week of nights and weekends mean to you. Yes, he can find someone else, but make sure whatever you agree to makes sense for you. Consider what happens if the app is not a success.</p></li>
-<li><p>As mentioned in #4 above, he considers himself as a single Founder. So unless you make a compelling argument as to being a co-founder it is difficult to force his hand to create vesting.  But this can always be negotiated.</p></li>
-</ol>
+3a. I would start with Phase 1.  You will be doing coding work for 20hrs/week.  How much would that cost in real dollars to replicate?  What is the Founder doing until the prototype is built & how much time is he spending?  If you are doing the lion's share of the work - and responsible for the development & launch of the first product you should be rewarded accordingly.  You should really consider yourself a co-founder.  I don't think 35%-40% of shares is unreasonable - and you can probably make a good argument for way more especially if vesting is over 4yrs (so start high when negotiating).
 
-<p>Don't sell yourself short - especially if you've never sacrificed the 20hrs/week on nights/weekends (it's rough).  It's OK to say no - you can find other opportunities at sites like CoFounderlab/Founderdating or at startup events.  Good luck!</p>
+3b. Post funding: your standing in the company will change to an employee and manager.  You should negotiate your salary and stock/options for this new role as independent from phase 1.  You are now getting paid to do your job and the stock should be an incentive.  IMPORTANT: You should also have an agreement in place if the company does not receive funding after phase 1, like acquiring more shares over a shorter vesting period. If there isn't enough revenue to pay a salary, you want to protect yourself.
 
+4. Yes, single founders always want to hold on to the majority of shares. In the case of co-founders it is easier to implement 4yr vesting for each founder. So yes, 10% is way too low IMO.  If you are truly the "technical" side of the business, you should be compensated as such. If the Founder does not view you in that light, do you want to really move forward? It really comes down to what the sacrifice of 20hrs/week of nights and weekends mean to you. Yes, he can find someone else, but make sure whatever you agree to makes sense for you. Consider what happens if the app is not a success.
+
+5. As mentioned in #4 above, he considers himself as a single Founder. So unless you make a compelling argument as to being a co-founder it is difficult to force his hand to create vesting.  But this can always be negotiated.
+
+Don't sell yourself short - especially if you've never sacrificed the 20hrs/week on nights/weekends (it's rough).  It's OK to say no - you can find other opportunities at sites like CoFounderlab/Founderdating or at startup events.  Good luck!
 
 
 

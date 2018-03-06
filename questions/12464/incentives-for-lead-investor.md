@@ -4,17 +4,14 @@
 - tagged: `investors`
 - score: 0
 
-<p>My company is looking to raise a Series A round. My understanding is that there will generally be a lead VC that is in charge of the following:</p>
+My company is looking to raise a Series A round. My understanding is that there will generally be a lead VC that is in charge of the following:
 
-<ul>
-<li>Finding other VCs to contribute to the round</li>
-<li>Negotiating with the entrepreneurs</li>
-<li>Doing due-diligence on behalf of the other investors</li>
-<li>Organising legals on behalf of the other investors</li>
-</ul>
+ - Finding other VCs to contribute to the round
+ - Negotiating with the entrepreneurs
+ - Doing due-diligence on behalf of the other investors
+ - Organising legals on behalf of the other investors
 
-<p>It seems the lead investor does more work than the other investor participants. How does the lead investor get compensated for that work? Do they get a better valuation than the other investors? Do they get "karma" with the other investors? Do they get other privileges?</p>
-
+It seems the lead investor does more work than the other investor participants. How does the lead investor get compensated for that work? Do they get a better valuation than the other investors? Do they get "karma" with the other investors? Do they get other privileges?
 
 
 ## Answer 12475

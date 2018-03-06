@@ -4,14 +4,13 @@
 - tagged: `hardware`, `fulfilment`
 - score: 2
 
-<p>I'm working on developing the software for a small device that people will plug into their home networks. It will fill an unserved niche and all of the tests I've run suggest that there's a market for it.</p>
+I'm working on developing the software for a small device that people will plug into their home networks. It will fill an unserved niche and all of the tests I've run suggest that there's a market for it.
 
-<p>The device itself can be realized by putting a Raspberry PI into a case and installing an SD card with my software on it. Package it up and ship it out.</p>
+The device itself can be realized by putting a Raspberry PI into a case and installing an SD card with my software on it. Package it up and ship it out.
 
-<p>My issue is that I'd like to outsource that whole side of the business. I don't want a basement full of hardware and have to assemble, ship it out and deal with returns. I'd rather focus on development, marketing and support.</p>
+My issue is that I'd like to outsource that whole side of the business. I don't want a basement full of hardware and have to assemble, ship it out and deal with returns. I'd rather focus on development, marketing and support.
 
-<p>What options do I have here? If this were a router product, I've seen that FlashRouters has a program to do exactly this. I've also seen lots of companies that will deal with manufacturing and handling custom hardware. I'm sort of in the middle. Does anyone have any experience with this sort of thing?</p>
-
+What options do I have here? If this were a router product, I've seen that FlashRouters has a program to do exactly this. I've also seen lots of companies that will deal with manufacturing and handling custom hardware. I'm sort of in the middle. Does anyone have any experience with this sort of thing?
 
 
 ## Answer 13571
@@ -28,10 +27,9 @@
 - posted by: [Euripedes Rocha Filho](https://stackexchange.com/users/2494942/euripedes-rocha-filho) on 2017-11-05
 - score: -1
 
-<p>You will probably find some company that can handle this for you, but I would advise against it. At least in the first moment.</p>
+You will probably find some company that can handle this for you, but I would advise against it. At least in the first moment.
 
-<p>You'll probably have valuble feedback and will understand better the process. After this initial phase you'll be able to understand the issues you may face and them you outsource it. From your question I feel that you are still in the initial phase. </p>
-
+You'll probably have valuble feedback and will understand better the process. After this initial phase you'll be able to understand the issues you may face and them you outsource it. From your question I feel that you are still in the initial phase. 
 
 
 ## Answer 13704
@@ -39,8 +37,7 @@
 - posted by: [Pablo Rivera - Yelluw](https://stackexchange.com/users/12380190/pablo-rivera-yelluw) on 2017-11-29
 - score: -1
 
-<p>You might be able to find someone locally who can do everything for you at a lower cost. Since this is not some very elaborate process, you can hire or contract a student (or someone unemployed) to do it at home. Just ship your inventory to their location (or pay for a small storage space locally).</p>
-
+You might be able to find someone locally who can do everything for you at a lower cost. Since this is not some very elaborate process, you can hire or contract a student (or someone unemployed) to do it at home. Just ship your inventory to their location (or pay for a small storage space locally).
 
 
 

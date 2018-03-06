@@ -4,14 +4,13 @@
 - tagged: `united-states`, `taxes`, `retail`, `importing`
 - score: 4
 
-<p>I'm thinking of starting an online retail for electronic parts. Like microchip, passive parts etc.<br />
- I know how to create everything for the website and follow merchant credit card rules. And done so in the past. But for someone else.</p>
+I'm thinking of starting an online retail for electronic parts. Like microchip, passive parts etc.<br />
+ I know how to create everything for the website and follow merchant credit card rules. And done so in the past. But for someone else.
 
-<p>So I never got a good idea how they setup everything business wise plus the company had a warehouse in florida. My product can range from here in az, US to japan. </p>
+So I never got a good idea how they setup everything business wise plus the company had a warehouse in florida. My product can range from here in az, US to japan. 
 
-<p>So I can assume sales tax may work differently<br />. 
-Plus I don't know what paper work I need. </p>
-
+So I can assume sales tax may work differently<br />. 
+Plus I don't know what paper work I need. 
 
 
 ## Answer 7396
@@ -36,12 +35,11 @@ If you end up shipping from other states you will need to charge sales tax in th
 - posted by: [SRDC](https://stackexchange.com/users/5438059/srdc) on 2015-11-05
 - score: 1
 
-<p>First, sales tax has nothing/little to do with the IRS (income tax). Sales tax is assessed by the individual states and local authorities. What creates 'nexus' varies from state to state but is usually some form of physical presence by you or an agent (even 3rd party) of your company.</p>
+First, sales tax has nothing/little to do with the IRS (income tax). Sales tax is assessed by the individual states and local authorities. What creates 'nexus' varies from state to state but is usually some form of physical presence by you or an agent (even 3rd party) of your company.
 
-<p>Second, if you are setting up a large website, you may want to look into a service such as Avalara, or TaxJar, among others, that automates sales tax calculation and recordkeeping, and even filing for you. At the least, their representatives can be very helpful, if not sometimes a bit on the persistent side.</p>
+Second, if you are setting up a large website, you may want to look into a service such as Avalara, or TaxJar, among others, that automates sales tax calculation and recordkeeping, and even filing for you. At the least, their representatives can be very helpful, if not sometimes a bit on the persistent side.
 
-<p>DISCLAIMER: This is NOT legal advice, and I am not an attorney. Check the relevant laws and consult with an attorney!</p>
-
+DISCLAIMER: This is NOT legal advice, and I am not an attorney. Check the relevant laws and consult with an attorney!
 
 
 

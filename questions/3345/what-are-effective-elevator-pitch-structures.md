@@ -4,10 +4,11 @@
 - tagged: `pitch`
 - score: 5
 
-<p>The "We help [target] [action verb] [benefit]" format is a good one, but not the only one. <a href="https://startups.stackexchange.com/a/3344/1111">Denis</a></p>
+The "We help [target] [action verb] [benefit]" format is a good one, but not the only one. [Denis][1]
 
-<p>What are other effective formats to use for our business?</p>
+What are other effective formats to use for our business?
 
+  [1]: https://startups.stackexchange.com/a/3344/1111
 
 
 ## Answer 3349
@@ -15,32 +16,29 @@
 - posted by: [Okyasoft](https://stackexchange.com/users/294248/okyasoft) on 2015-02-05
 - score: 2
 
-<p>You can use something like the following that I wrote as part of an another answer <a href="https://startups.stackexchange.com/a/1797/318">here</a>.</p>
+You can use something like the following that I wrote as part of an another answer [here](https://startups.stackexchange.com/a/1797/318).
 
-<blockquote>
-  <p>For (target customer)</p>
-  
-  <p>who (statement of the need or opportunity),</p>
-  
-  <p>the (product/service name)</p>
-  
-  <p>is a (product/service category)</p>
-  
-  <p>that (statement of benefit)</p>
-</blockquote>
+> For (target customer)
+> 
+> who (statement of the need or opportunity),
+> 
+> the (product/service name)
+> 
+> is a (product/service category)
+> 
+> that (statement of benefit)
 
-<p>e.g. For the recently IPO'd enterprise company BOX, its value proposition could be</p>
+e.g. For the recently IPO'd enterprise company BOX, its value proposition could be
 
-<p>For  enterprise users</p>
+For  enterprise users
 
-<p>Who  want safe and secure storage of documents</p>
+Who  want safe and secure storage of documents
 
-<p>the  BOX</p>
+the  BOX
 
-<p>is a cloud-based file sharing service</p>
+is a cloud-based file sharing service
 
-<p>that provides end-to-end encryption. </p>
-
+that provides end-to-end encryption. 
 
 
 ## Answer 3354
@@ -48,28 +46,27 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-02-06
 - score: 2
 
-<p>The answer you linked to actually gave two examples of alternative formats:</p>
+The answer you linked to actually gave two examples of alternative formats:
 
-<ul>
-<li><p>"I bust traffic tickets."</p></li>
-<li><p>"I deliver turn-key software that helps VCs do their accounting and expedite their reporting to investors."</p></li>
-</ul>
+- "I bust traffic tickets."
 
-<p>The "We help action target benefit" format tends to shine because it comes naturally in a conversation. (It's also a great starting point to spell out what a company is about.) But it's not set in stone as the two examples above illustrate.</p>
+- "I deliver turn-key software that helps VCs do their accounting and expedite their reporting to investors."
 
-<p>The important bits are that your one- or two-liner must:</p>
+The "We help action target benefit" format tends to shine because it comes naturally in a conversation. (It's also a great starting point to spell out what a company is about.) But it's not set in stone as the two examples above illustrate.
 
-<ul>
-<li><p>Be descriptive and understandable.</p></li>
-<li><p>Be easy and natural to speak out loud.</p></li>
-<li><p>Articulate a key benefit.</p></li>
-<li><p>(If it's narrow,) state who your audience is.</p></li>
-</ul>
+The important bits are that your one- or two-liner must:
 
-<p>If you're not sure about your one-liner, literally <em>test</em> your elevator pitch or your unique selling proposition with a 12-year old.</p>
+- Be descriptive and understandable.
 
-<p>Really. Catch a random young adolescent in the street, tell them you need a minute of their time to test the comprehensibility of a marketing statement, speak your catchy elevator pitch out loud then and there, and ask them what message they got out of it. If they articulate the key benefit back at you, you're good.</p>
+- Be easy and natural to speak out loud.
 
+- Articulate a key benefit.
+
+- (If it's narrow,) state who your audience is.
+
+If you're not sure about your one-liner, literally *test* your elevator pitch or your unique selling proposition with a 12-year old.
+
+Really. Catch a random young adolescent in the street, tell them you need a minute of their time to test the comprehensibility of a marketing statement, speak your catchy elevator pitch out loud then and there, and ask them what message they got out of it. If they articulate the key benefit back at you, you're good.
 
 
 ## Answer 13045

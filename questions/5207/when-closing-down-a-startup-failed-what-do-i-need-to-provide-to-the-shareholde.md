@@ -4,12 +4,11 @@
 - tagged: `taxes`, `stock`
 - score: 4
 
-<p>I have a startup, raised some money, struggled to bring the product to market... anyways we are shutting it down.  The investors want to claim their investment as a loss on their taxes.  Do I provide them a form, or is it simply a part of their taxes that they handle?</p>
+I have a startup, raised some money, struggled to bring the product to market... anyways we are shutting it down.  The investors want to claim their investment as a loss on their taxes.  Do I provide them a form, or is it simply a part of their taxes that they handle?
 
-<p>Want to make sure to take care of them.</p>
+Want to make sure to take care of them.
 
-<p><strong>UPDATE:</strong> This is a USA based company.  Specifically Washington state.</p>
-
+**UPDATE:** This is a USA based company.  Specifically Washington state.
 
 
 ## Answer 5210
@@ -17,10 +16,9 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-05-07
 - score: 3
 
-<p>It depends on your country.</p>
+It depends on your country.
 
-<p>Fwiw, in France you'd go to court, have a judge liquidate the company, and then provide the investors with a copy of the decision. (Unless the investors are arguing over scraps, they'll usually have agreed on who gets what in advance and the judge will OK it.)</p>
-
+Fwiw, in France you'd go to court, have a judge liquidate the company, and then provide the investors with a copy of the decision. (Unless the investors are arguing over scraps, they'll usually have agreed on who gets what in advance and the judge will OK it.)
 
 
 ## Answer 5222

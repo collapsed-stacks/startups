@@ -4,14 +4,13 @@
 - tagged: `legal`
 - score: 4
 
-<p>I'm not sure if this is the correct exchange for this type of question. If not perhaps someone could direct me to a more appropriate exchange. I'll try to keep this brief and add more details as requested.</p>
+I'm not sure if this is the correct exchange for this type of question. If not perhaps someone could direct me to a more appropriate exchange. I'll try to keep this brief and add more details as requested.
 
-<p>Back in April, I joined two others in a project to build a web app. Our intent was to create an LLC (or some other legal entity) where each of us would have a 1/3 interest in the business. No legal entity was ever formed, and nothing was ever signed. From roughly April to mid June, I spent approximately 200 hours researching and developing the app. The other two guys had no role in any of the development and spent no time in any part of the development.</p>
+Back in April, I joined two others in a project to build a web app. Our intent was to create an LLC (or some other legal entity) where each of us would have a 1/3 interest in the business. No legal entity was ever formed, and nothing was ever signed. From roughly April to mid June, I spent approximately 200 hours researching and developing the app. The other two guys had no role in any of the development and spent no time in any part of the development.
 
-<p>About six weeks ago it became apparent to me this arrangement wasn't going to work. I was the one doing all the work, and one of the other guys decided the time wasn't right for him to move forward with this. Because of this, and a couple other reasons, I decided I didn't want to form a parntership with them.</p>
+About six weeks ago it became apparent to me this arrangement wasn't going to work. I was the one doing all the work, and one of the other guys decided the time wasn't right for him to move forward with this. Because of this, and a couple other reasons, I decided I didn't want to form a parntership with them.
 
-<p>My question is this, who owns the source code to the app? I claim I do since I put 100% of the effort and time writing it, and wasn't paid anything. One of the other guys, who is an attorney, claims I only have a 1/3 interest in the app. Who is right?</p>
-
+My question is this, who owns the source code to the app? I claim I do since I put 100% of the effort and time writing it, and wasn't paid anything. One of the other guys, who is an attorney, claims I only have a 1/3 interest in the app. Who is right?
 
 
 ## Answer 5873
@@ -36,14 +35,13 @@
 - posted by: [stevenrcfox](https://stackexchange.com/users/42876/stevenrcfox) on 2015-07-29
 - score: 3
 
-<p>This is not actually an un-common situation in start-ups, in that other members of the group may not have skills to contribute beyond ideas and suggestions in the development phase.</p>
+This is not actually an un-common situation in start-ups, in that other members of the group may not have skills to contribute beyond ideas and suggestions in the development phase.
 
-<p>The more interesting question is if you have the skills and contacts to get it from product to market. If so, and if they are still not pulling weight then by all means go for it. On the other hand if you do not have the marketing skills or contacts, and your co-founders do, then sticking with them is the best approach, so long as they actually do something with it now that its developed.</p>
+The more interesting question is if you have the skills and contacts to get it from product to market. If so, and if they are still not pulling weight then by all means go for it. On the other hand if you do not have the marketing skills or contacts, and your co-founders do, then sticking with them is the best approach, so long as they actually do something with it now that its developed.
 
-<p>For future reference, the correct way to deal with this is to build in dynamic equity splits into your agreements, so that as the contribution and commitment of the founders becomes clear then  the equity can reflect the contributions.</p>
+For future reference, the correct way to deal with this is to build in dynamic equity splits into your agreements, so that as the contribution and commitment of the founders becomes clear then  the equity can reflect the contributions.
 
-<p>I'd suggest reading 'Co-founders Dilemmas' which discusses equity splits and choosing co-founders among other decisions.</p>
-
+I'd suggest reading 'Co-founders Dilemmas' which discusses equity splits and choosing co-founders among other decisions.
 
 
 ## Answer 5875
@@ -51,10 +49,9 @@
 - posted by: [Mowzer](https://stackexchange.com/users/1803081/mowzer) on 2015-07-29
 - score: 2
 
-<p>Nobody paid you? You didn't sign anything? You wrote all the code yourself? And you have possession of all the code and didn't share it?</p>
+Nobody paid you? You didn't sign anything? You wrote all the code yourself? And you have possession of all the code and didn't share it?
 
-<p>What reason would you have to think anybody in the group owes anything to any other member of the group or to the group itself?</p>
-
+What reason would you have to think anybody in the group owes anything to any other member of the group or to the group itself?
 
 
 

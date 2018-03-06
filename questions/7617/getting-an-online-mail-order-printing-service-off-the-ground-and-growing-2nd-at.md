@@ -4,36 +4,35 @@
 - tagged: `marketing`, `bootstrapping`
 - score: 3
 
-<p>A few years ago I noticed a gap in the market for VERY high quality hand processed printing services (EG photos, artwork, posters), low quantity, high quality, good margin.</p>
+A few years ago I noticed a gap in the market for VERY high quality hand processed printing services (EG photos, artwork, posters), low quantity, high quality, good margin.
 
-<p>I set up a basic but working website, and it worked but wasnt particularly profitable, primarily because I was running it as a side-line. Basically it would pay for its own Adwords costs. I then sold the equipment &amp; business and moved on...</p>
+I set up a basic but working website, and it worked but wasnt particularly profitable, primarily because I was running it as a side-line. Basically it would pay for its own Adwords costs. I then sold the equipment & business and moved on...
 
-<p>Anyway, I am now in a position where I can invest in better equipment and spend a couple of months working on a decent new website, branding, UX etc etc and want to give it another go, but properly.
-There is still a gap for this sort of service in the UK, aimed at photographers, artists etc who want to display or sell their work.</p>
+Anyway, I am now in a position where I can invest in better equipment and spend a couple of months working on a decent new website, branding, UX etc etc and want to give it another go, but properly.
+There is still a gap for this sort of service in the UK, aimed at photographers, artists etc who want to display or sell their work.
 
-<p>My question is really, how can i kick the new business into hyper-growth? I am not able to throw thousands of pounds at advertising, so need to make the most of what is available free or cheaply (Bootstrapping??)</p>
+My question is really, how can i kick the new business into hyper-growth? I am not able to throw thousands of pounds at advertising, so need to make the most of what is available free or cheaply (Bootstrapping??)
 
-<p>My re-startup plan:</p>
+My re-startup plan:
 
-<ul>
-<li><p>Get the equipment in place and the process refined</p></li>
-<li><p>Get shipping materials</p></li>
-<li>Get the brand finalised </li>
-<li>Get the website finished and tested</li>
-<li>open the generic social media accounts</li>
-<li>Launch...</li>
-<li>run adwords (low budget, highly targeted)</li>
-<li>print stuff and send it, repeat</li>
-</ul>
+ - Get the equipment in place and the process refined
 
-<p><strong>This is basically where i got to last time, it sort of stagnated at this point. Now comes the hard bit, growth. Ideas include:</strong></p>
+ - Get shipping materials
+ - Get the brand finalised 
+ - Get the website finished and tested
+ - open the generic social media accounts
+ - Launch...
+ - run adwords (low budget, highly targeted)
+ - print stuff and send it, repeat
 
-<ul>
-<li>Include leaflet, business card etc with every sale offering small discount for referrals, and try to get buyers to "like" and post their prints on social media, share etc etc.</li>
-<li><p>Contact art &amp; photography magazines &amp; websites and encourage them to try the service for free.</p></li>
-<li><p>Encourage repeat business with email shots and offers.</p></li>
-</ul>
+**This is basically where i got to last time, it sort of stagnated at this point. Now comes the hard bit, growth. Ideas include:**
 
+ - Include leaflet, business card etc with every sale offering small discount for referrals, and try to get buyers to "like" and post their prints on social media, share etc etc.
+ - Contact art & photography magazines & websites and encourage them to try the service for free.
+
+ - Encourage repeat business with email shots and offers.
+
+ 
 
 
 ## Answer 13703
@@ -41,14 +40,11 @@ There is still a gap for this sort of service in the UK, aimed at photographers,
 - posted by: [Pablo Rivera - Yelluw](https://stackexchange.com/users/12380190/pablo-rivera-yelluw) on 2017-11-29
 - score: 0
 
-<p>Before you do anything, and I mean anything, you should focus on this:</p>
+Before you do anything, and I mean anything, you should focus on this:
 
-<blockquote>
-  <p>Contact art &amp; photography magazines &amp; websites and encourage them to try the service for free.</p>
-</blockquote>
+>Contact art & photography magazines & websites and encourage them to try the service for free.
 
-<p>Do it for 3 months. If they buy from you, have someone else print it. Even if all you earn is $1. Why? You need to validate the business before you invest your money into it. Every other thing in your list can be done if this works out.</p>
-
+Do it for 3 months. If they buy from you, have someone else print it. Even if all you earn is $1. Why? You need to validate the business before you invest your money into it. Every other thing in your list can be done if this works out.
 
 
 ## Answer 7619

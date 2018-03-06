@@ -4,8 +4,7 @@
 - tagged: `software`, `website`, `advertising`
 - score: 3
 
-<p>My company created TransitArt: Material UI Timetables KIT (<a href="http://transitart.io" rel="nofollow">http://transitart.io</a>). It's a set of services and mobile apps for easy passenger information visualization and integration. Right now we're looking for some high quality feedback about our project. What are some ways of getting it? Usage the Facebook groups have shown no results for us.</p>
-
+My company created TransitArt: Material UI Timetables KIT (http://transitart.io). It's a set of services and mobile apps for easy passenger information visualization and integration. Right now we're looking for some high quality feedback about our project. What are some ways of getting it? Usage the Facebook groups have shown no results for us.
 
 
 ## Answer 7565
@@ -13,14 +12,13 @@
 - posted by: [Luke Gedeon](https://stackexchange.com/users/1119600/luke-gedeon) on 2015-10-15
 - score: 2
 
-<p>I will provide a little bit of general feedback. First, you will want to find someone that is strong in English to fix several confusing grammatical errors (<a href="http://kvp.kdari.com/" rel="nofollow">http://kvp.kdari.com/</a> and many others can help with that) and then find someone like <a href="http://bigfishresults.com/" rel="nofollow">http://bigfishresults.com/</a> or other SEO company, to help you make it clear who you are selling to.</p>
+I will provide a little bit of general feedback. First, you will want to find someone that is strong in English to fix several confusing grammatical errors (http://kvp.kdari.com/ and many others can help with that) and then find someone like http://bigfishresults.com/ or other SEO company, to help you make it clear who you are selling to.
 
-<p>People are going to decide in just a few seconds whether you are what they are looking for and then they will leave. I stuck around a little longer because I wanted to answer this question, but I am still not sure <strong>who</strong> you want to pay <strong>how much</strong> for <strong>what</strong>.</p>
+People are going to decide in just a few seconds whether you are what they are looking for and then they will leave. I stuck around a little longer because I wanted to answer this question, but I am still not sure **who** you want to pay **how much** for **what**.
 
-<p>Beyond that, you can get answers to specific business questions on this site. For example, "How do we target businesses and developers at the same time?" The more specific the question the better your chance of getting a good answer. That will probably mean asking quite a few separate questions, but that is fine because many other people are likely to have similar questions.</p>
+Beyond that, you can get answers to specific business questions on this site. For example, "How do we target businesses and developers at the same time?" The more specific the question the better your chance of getting a good answer. That will probably mean asking quite a few separate questions, but that is fine because many other people are likely to have similar questions.
 
-<p>General usage notes: Check to see if anyone else has asked the same question. If they have, vote for it and join in that conversation as much as you can. Also, remember to vote for and approve answers to all of your questions.</p>
-
+General usage notes: Check to see if anyone else has asked the same question. If they have, vote for it and join in that conversation as much as you can. Also, remember to vote for and approve answers to all of your questions.
 
 
 ## Answer 7564
@@ -28,10 +26,9 @@
 - posted by: [Saif Al Falah](https://stackexchange.com/users/1405882/saif-al-falah) on 2015-10-15
 - score: 1
 
-<p>Identify your target audience. Form focus groups from the members of your target audience.</p>
+Identify your target audience. Form focus groups from the members of your target audience.
 
-<p>For me, reddit has been a good source of feedback (esp. r/startups).</p>
-
+For me, reddit has been a good source of feedback (esp. r/startups).
 
 
 ## Answer 7583

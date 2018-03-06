@@ -4,12 +4,11 @@
 - tagged: `finance`
 - score: 1
 
-<p>Am a young entrepreneur. When i google i found that 1500 crores company.
+Am a young entrepreneur. When i google i found that 1500 crores company.
 How to measure my company value. Am so curious to know that.
-Kindly Guide me to do that.</p>
+Kindly Guide me to do that.
 
-<p>Thanks in advance</p>
-
+Thanks in advance
 
 ## No Answers
 

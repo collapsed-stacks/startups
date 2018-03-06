@@ -4,45 +4,48 @@
 - tagged: `legal`, `funding`, `contracts`, `incorporation`
 - score: 2
 
-<h1>Background</h1>
+# Background
 
-<p>We're setting up a self-organizing, horizontal and open company where ownership is (de facto) defined by dynamic shares (DS), which are created when a worker contributes towards the company. The legal implementation of this involves a company (C later on) that forms contributors agreements with the workers and acts as a portfolio buying the DS off the users. </p>
+We're setting up a self-organizing, horizontal and open company where ownership is (de facto) defined by dynamic shares (DS), which are created when a worker contributes towards the company. The legal implementation of this involves a company (C later on) that forms contributors agreements with the workers and acts as a portfolio buying the DS off the users. 
 
-<h1>Involved parties</h1>
+# Involved parties
 
-<p>A: An investor, individual, both wealthy enough to be concidered an accredited investor and falling in "friends or family" category, so probably no blocking regulations.</p>
+A: An investor, individual, both wealthy enough to be concidered an accredited investor and falling in "friends or family" category, so probably no blocking regulations.
 
-<p>C: Company that de facto acts as a holding company buying the "dynamic shares" off the workers. De jure this is implemented by an elaborate contractual framework, where the contributing users are essentially contract workers. The contractual framework is somewhat complex, but we have that mostly figured out and it is not the topic of this question. The company has not yet been set up, but will be located in Ireland.</p>
+C: Company that de facto acts as a holding company buying the "dynamic shares" off the workers. De jure this is implemented by an elaborate contractual framework, where the contributing users are essentially contract workers. The contractual framework is somewhat complex, but we have that mostly figured out and it is not the topic of this question. The company has not yet been set up, but will be located in Ireland.
 
-<p>K: Placeholder limited liability company located in Finland. Has ended up doing things not directly related to C as well.</p>
+K: Placeholder limited liability company located in Finland. Has ended up doing things not directly related to C as well.
 
-<p>J: Main developer that needs money immediately to buy food etc.</p>
+J: Main developer that needs money immediately to buy food etc.
 
-<h1>What is happening de facto</h1>
+# What is happening de facto
 
-<p>A pays J money on a monthly basis for exchange of the dynamic shares he has created during that interval.</p>
+A pays J money on a monthly basis for exchange of the dynamic shares he has created during that interval.
 
-<h1>Planned legal relations</h1>
+# Planned legal relations
 
-<p>1) J&lt;->K</p>
 
-<p>J works for K as a freelancer. J gets paid. K gets the DS created by J during that time.</p>
+1) J<->K
 
-<p>2) K&lt;->C</p>
+J works for K as a freelancer. J gets paid. K gets the DS created by J during that time.
 
-<p>Shareholders agreement etc documentation is set up so that C gets the DS owned by K and in exchange K gets a monetary equivalent of C's shares.</p>
+2) K<->C
 
-<p>3) A&lt;->C</p>
+Shareholders agreement etc documentation is set up so that C gets the DS owned by K and in exchange K gets a monetary equivalent of C's shares.
 
-<p>A buys the shares of C from K. The interval between A giving K money (eventually enabling J to buy food) is estimated to be between 6 and 24 months.</p>
+3) A<->C
 
-<h1>Actual questions</h1>
+A buys the shares of C from K. The interval between A giving K money (eventually enabling J to buy food) is estimated to be between 6 and 24 months.
 
-<p>1) seems pretty trivial and just the matter of handling things right in the contributors agreement.</p>
+# Actual questions
 
-<p>2) seems again something that could be a bit tricky, but something that should be completely arrangeable based on my limited legal understanding.</p>
+1) seems pretty trivial and just the matter of handling things right in the contributors agreement.
 
-<p>What I'm wondering is what is the correct way to handle 3)? This shouldn't be that different from a run-of-the-mill company forming a subsidiary and selling equity out of it before it has been incorporated.</p>
+2) seems again something that could be a bit tricky, but something that should be completely arrangeable based on my limited legal understanding.
+
+What I'm wondering is what is the correct way to handle 3)? This shouldn't be that different from a run-of-the-mill company forming a subsidiary and selling equity out of it before it has been incorporated.
+
+
 
 
 ## No Answers

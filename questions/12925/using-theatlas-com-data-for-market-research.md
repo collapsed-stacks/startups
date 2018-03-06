@@ -4,12 +4,11 @@
 - tagged: `legal`, `tech-company`, `marketing`, `intellectual-property`, `market-research`
 - score: 1
 
-<p>In an effort to use as much free and/or open data in market research as possible I found the site theatlas.com. </p>
+In an effort to use as much free and/or open data in market research as possible I found the site theatlas.com. 
 
-<p>Can the data and charts featured on the site be legally used in market research for a startup ? They mention their source, if the data is used in market research it would also be referenced but I'm wondering about what can and can't be done. </p>
+Can the data and charts featured on the site be legally used in market research for a startup ? They mention their source, if the data is used in market research it would also be referenced but I'm wondering about what can and can't be done. 
 
-<p>Thanks for any experience or tips that anyone could share. </p>
-
+Thanks for any experience or tips that anyone could share. 
 
 
 ## Answer 12926

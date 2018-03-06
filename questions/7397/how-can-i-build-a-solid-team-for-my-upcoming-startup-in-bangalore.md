@@ -4,9 +4,8 @@
 - tagged: `founder`, `co-founder`
 - score: 3
 
-<p>I have an idea. I need 2 people to join me to work on the start-up.
-Where and how can I find co-founders in Bangalore? How can I build a solid team?</p>
-
+I have an idea. I need 2 people to join me to work on the start-up.
+Where and how can I find co-founders in Bangalore? How can I build a solid team?
 
 
 ## Answer 7402
@@ -29,19 +28,18 @@ Where and how can I find co-founders in Bangalore? How can I build a solid team?
 - posted by: [Stefan Scubasteven Lekovic](https://stackexchange.com/users/6988198/stefan-scubasteven-lekovic) on 2015-09-21
 - score: 1
 
-<p>Well I'd suggest firstly establishing what kind people and what positions are integral for your start up. 
+Well I'd suggest firstly establishing what kind people and what positions are integral for your start up. 
 Freelancers is a good alternative for filling up positions. Its an means to an end.
-I used the site <a href="http://www.upworks.com" rel="nofollow">http://www.upworks.com</a>
+I used the site http://www.upworks.com
 to find a temporary freelancer. But you can find people there willing to become a part of your team. 
-Downside: it's not free. </p>
+Downside: it's not free. 
 
-<p>Other alternatives are incubators. You can find many likeminded people there.</p>
+Other alternatives are incubators. You can find many likeminded people there.
 
-<p>An example I found with a quick Google search is:
-<a href="http://bangalorealphalab.in/" rel="nofollow">http://bangalorealphalab.in/</a></p>
+An example I found with a quick Google search is:
+http://bangalorealphalab.in/
 
-<p>Try searching around for other incubators. I guess you'd find quite a few</p>
-
+Try searching around for other incubators. I guess you'd find quite a few
 
 
 ## Answer 11367

@@ -4,8 +4,7 @@
 - tagged: `terminology`
 - score: 1
 
-<p>Young and new to business. A "50 million company" was mentioned by someone, but it is unclear to me what that means. What did they mean?</p>
-
+Young and new to business. A "50 million company" was mentioned by someone, but it is unclear to me what that means. What did they mean?
 
 
 ## Answer 5242
@@ -13,12 +12,11 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-05-09
 - score: 1
 
-<p>Depending on the context, it'll usually mean:</p>
+Depending on the context, it'll usually mean:
 
-<ol>
-<li><p>A company with $50M of annual sales.</p></li>
-<li><p>A company valued at $50M.</p></li>
-</ol>
+1. A company with $50M of annual sales.
+
+2. A company valued at $50M.
 
 
 

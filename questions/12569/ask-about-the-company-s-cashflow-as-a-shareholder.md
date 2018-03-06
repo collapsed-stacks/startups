@@ -4,8 +4,7 @@
 - tagged: `legal`, `equity`, `united-kingdom`, `private-company`, `shares`
 - score: 3
 
-<p>In the UK, does a shareholder in a startup have a right to ask about complete details of the company's cashflow? (who earns what salary, how much money is paid for the office, etc)</p>
-
+In the UK, does a shareholder in a startup have a right to ask about complete details of the company's cashflow? (who earns what salary, how much money is paid for the office, etc)
 
 
 ## Answer 12573
@@ -13,12 +12,11 @@
 - posted by: [Kev Price](https://stackexchange.com/users/1109274/kev-price) on 2017-04-27
 - score: 2
 
-<p>What rights a shareholder has should be documented in the shareholder agreement and other documents.</p>
+What rights a shareholder has should be documented in the shareholder agreement and other documents.
 
-<p>However it's usual practice to send out a monthly 'executive report' to shareholders which should give them a monthly overview of what they need to know.</p>
+However it's usual practice to send out a monthly 'executive report' to shareholders which should give them a monthly overview of what they need to know.
 
-<p>That includes cash flow, sales, marketing, update on actions taken that month. Anything else agreed on that should be regularly reported.</p>
-
+That includes cash flow, sales, marketing, update on actions taken that month. Anything else agreed on that should be regularly reported.
 
 
 

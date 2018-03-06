@@ -4,16 +4,15 @@
 - tagged: `product`, `brand`
 - score: 3
 
-<p>I am a software developer and I.T. professional with additional expertise in blogging and e-reporting</p>
+I am a software developer and I.T. professional with additional expertise in blogging and e-reporting
 
-<p>I am wishing to start up a company that will create and manage another company's (client) I.T. systems, online marketing and anything else digital.</p>
+I am wishing to start up a company that will create and manage another company's (client) I.T. systems, online marketing and anything else digital.
 
-<p>The primus of the company is that we will consult any other company on any solution they wish, we will charge for the consultation if a solution is devised and implemented, depending on their contract type we will then manage the solution (e.g. if a company wants a login system, we will create it, create a database of login information, and manage that database for that company if they so wish). We will also provide blogging and social networking services for that company, we will become their outsourced I.T. department and online solution/management team.</p>
+The primus of the company is that we will consult any other company on any solution they wish, we will charge for the consultation if a solution is devised and implemented, depending on their contract type we will then manage the solution (e.g. if a company wants a login system, we will create it, create a database of login information, and manage that database for that company if they so wish). We will also provide blogging and social networking services for that company, we will become their outsourced I.T. department and online solution/management team.
 
-<p>I trust that in a world where dependency on IT and online capabilities is growing, demand will be plenty</p>
+I trust that in a world where dependency on IT and online capabilities is growing, demand will be plenty
 
-<p>But how can I better predict and record the amount of demand for my service? Like surveys possibly? But how can I make sure they are answered honestly? Any other way of predicting demand/possible consumer interest?</p>
-
+But how can I better predict and record the amount of demand for my service? Like surveys possibly? But how can I make sure they are answered honestly? Any other way of predicting demand/possible consumer interest?
 
 
 ## Answer 1193

@@ -4,31 +4,39 @@
 - tagged: `crowd-funding`
 - score: 1
 
-<h1>BACKGROUND</h1>
+BACKGROUND
+====
+For this discussion, suppose a critical problem that affects travelers and it would effectively increase the cost of a fare by 0.3%.   The system is not directly used by travelers and is used by transit officials. **Backers will NOT receive anything tangible.** Traveler benefits include reduced travel time and stress reduction (i.e. 'not missing the boat').  
 
-<p>For this discussion, suppose a critical problem that affects travelers and it would effectively increase the cost of a fare by 0.3%.   The system is not directly used by travelers and is used by transit officials. <strong>Backers will NOT receive anything tangible.</strong> Traveler benefits include reduced travel time and stress reduction (i.e. 'not missing the boat').  </p>
+**Funding is NOT needed to implement / build the prototype or the production system.** 
 
-<p><strong>Funding is NOT needed to implement / build the prototype or the production system.</strong> </p>
+ISSUE
+===
 
-<h1>ISSUE</h1>
+I want to understand if the public is willing to support and not just glad-hand me when I explain the idea to people that I meet. I have not met anyone that said: here is the problem with your system and that concerns me.
 
-<p>I want to understand if the public is willing to support and not just glad-hand me when I explain the idea to people that I meet. I have not met anyone that said: here is the problem with your system and that concerns me.</p>
+QUESTION
+====
+**Is there any history of anyone using crowdfunding to gauge public support or is there a better way?**  
 
-<h1>QUESTION</h1>
+I am contemplating starting a kickstarter, where no one can fund more than the minimum donation ($1 ?) and set a nominal target to pay for specialized software that would accelerate the last 30% of software development (~$10K).  The target amount is not important because money is not needed to fund the project  
 
-<p><strong>Is there any history of anyone using crowdfunding to gauge public support or is there a better way?</strong>  </p>
+If the project reaches a certain level of success, I would like to have the option to refund the backers.  **Is there any precedent for this or mechanism to accomplish refunding backers?**
 
-<p>I am contemplating starting a kickstarter, where no one can fund more than the minimum donation ($1 ?) and set a nominal target to pay for specialized software that would accelerate the last 30% of software development (~$10K).  The target amount is not important because money is not needed to fund the project  </p>
+DISCUSSION
+=======
+Q. If you do not need funding then why bother with crowdfunding?
 
-<p>If the project reaches a certain level of success, I would like to have the option to refund the backers.  <strong>Is there any precedent for this or mechanism to accomplish refunding backers?</strong></p>
+A. The money is unimportant in the sense that it is not an obstacle to completing the project, however, it does provide a sense of whether the crowdfunding audience (and travellers in general?) would be supportive as a product stakeholder.  ASSUMPTION: A stranger that is willing to part with $1 is not glad-handing the idea / system.  The nominal donation is important in the sense that it weeds out glad-handing and is an indicator of public support.
 
-<h1>DISCUSSION</h1>
+If it were practical to make the minimum $0.25 I would like to do this, however, but I suspect the minimum is ~$5 because of transaction costs.
 
-<p>Q. If you do not need funding then why bother with crowdfunding?</p>
 
-<p>A. The money is unimportant in the sense that it is not an obstacle to completing the project, however, it does provide a sense of whether the crowdfunding audience (and travellers in general?) would be supportive as a product stakeholder.  ASSUMPTION: A stranger that is willing to part with $1 is not glad-handing the idea / system.  The nominal donation is important in the sense that it weeds out glad-handing and is an indicator of public support.</p>
 
-<p>If it were practical to make the minimum $0.25 I would like to do this, however, but I suspect the minimum is ~$5 because of transaction costs.</p>
+  
+
+
+
 
 
 ## No Answers

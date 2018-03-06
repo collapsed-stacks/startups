@@ -4,20 +4,17 @@
 - tagged: `tech-company`, `competition`
 - score: 4
 
-<p>Given a company, is there a website where I can find out examples of its competitors?</p>
+Given a company, is there a website where I can find out examples of its competitors?
 
-<p>Given two companies, is there a website where I can find out if they are competitors?</p>
+Given two companies, is there a website where I can find out if they are competitors?
 
-<p>For example,
-MediaMath is a company that does internet marketing. I am not familiar with their business model, so want to know examples of its competitors. For example, are the following companies its competitors</p>
+For example,
+MediaMath is a company that does internet marketing. I am not familiar with their business model, so want to know examples of its competitors. For example, are the following companies its competitors
 
-<ul>
-<li>Doubleclick, (someone said it is not a competitor of Mediamath, i.e. they are not competing in the same business)</li>
-<li>Atlas</li>
-</ul>
+- Doubleclick, (someone said it is not a competitor of Mediamath, i.e. they are not competing in the same business)
+- Atlas
 
-<p>Thanks.</p>
-
+Thanks.
 
 
 ## Answer 9465
@@ -25,10 +22,9 @@ MediaMath is a company that does internet marketing. I am not familiar with thei
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2016-06-13
 - score: 3
 
-<p>Look into SimilarWeb.</p>
+Look into SimilarWeb.
 
-<p>Another good option is Google itself. Abuse Google auto-complete, and start typing "[company] vs". You'll get competitors more often than not, and then rinse and repeat with the competitors.</p>
-
+Another good option is Google itself. Abuse Google auto-complete, and start typing "[company] vs". You'll get competitors more often than not, and then rinse and repeat with the competitors.
 
 
 ## Answer 9467
@@ -36,17 +32,17 @@ MediaMath is a company that does internet marketing. I am not familiar with thei
 - posted by: [Tomer Bin](https://stackexchange.com/users/7630882/tomer-bin) on 2016-06-14
 - score: 1
 
-<p>You can try to google the company/product alternatives.
-<a href="https://www.google.com/webhp?sourceid=chrome-instant&amp;ion=1&amp;espv=2&amp;ie=UTF-8#q=MediaMath+alternatives" rel="nofollow">https://www.google.com/webhp?sourceid=chrome-instant&amp;ion=1&amp;espv=2&amp;ie=UTF-8#q=MediaMath+alternatives</a>
-you can find here many options</p>
+You can try to google the company/product alternatives.
+https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=MediaMath+alternatives
+you can find here many options
 
-<p><a href="https://www.g2crowd.com/products/mediamath/competitors/alternatives" rel="nofollow">https://www.g2crowd.com/products/mediamath/competitors/alternatives</a>
-from: <a href="https://www.g2crowd.com" rel="nofollow">https://www.g2crowd.com</a> 
+https://www.g2crowd.com/products/mediamath/competitors/alternatives
+from: https://www.g2crowd.com 
 or:
-<a href="http://alternativeto.net/" rel="nofollow">http://alternativeto.net/</a></p>
+http://alternativeto.net/
 
-<p>-Tomer</p>
 
+-Tomer
 
 
 

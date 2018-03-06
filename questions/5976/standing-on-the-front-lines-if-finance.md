@@ -4,9 +4,8 @@
 - tagged: `startup-costs`, `yc-startup-school`, `startup-weekend`
 - score: -1
 
-<p>What play the important roles in pitching a great way to build capital?
-Other than the facts such as return,cash flow, revenue, etc.</p>
-
+What play the important roles in pitching a great way to build capital?
+Other than the facts such as return,cash flow, revenue, etc.
 
 
 ## Answer 5979

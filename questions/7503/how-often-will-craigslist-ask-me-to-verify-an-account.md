@@ -4,12 +4,11 @@
 - tagged: `marketing`, `growth`, `advertising`
 - score: 2
 
-<p>I am trying to advertise my business through craigslist but I am constantly getting bombarded by my competition's seemingly endless amount of ads. So I am trying to produce multiple craigslist profiles to post more ads.</p>
+I am trying to advertise my business through craigslist but I am constantly getting bombarded by my competition's seemingly endless amount of ads. So I am trying to produce multiple craigslist profiles to post more ads.
 
-<p>I have 5 profiles that are verified and it was a pain to get them verified.</p>
+I have 5 profiles that are verified and it was a pain to get them verified.
 
-<p>I am wondering now that I have my profiles verified, is it possible to post multiple ads on those craigslist profiles without craigslist asking me to verify again? Is there a limit to how many ads I can post before craigslist gets suspicious of me again? </p>
-
+I am wondering now that I have my profiles verified, is it possible to post multiple ads on those craigslist profiles without craigslist asking me to verify again? Is there a limit to how many ads I can post before craigslist gets suspicious of me again? 
 
 ## No Answers
 

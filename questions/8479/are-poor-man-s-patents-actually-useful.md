@@ -4,20 +4,17 @@
 - tagged: `intellectual-property`, `patent`
 - score: 9
 
-<p>I've heard many times over the years <a href="http://www.ehow.com/how_5358538_poor-mans-patent.html">from the internet</a> and other sources that I can essentially patent my invention for free.</p>
+I've heard many times over the years [from the internet](http://www.ehow.com/how_5358538_poor-mans-patent.html) and other sources that I can essentially patent my invention for free.
 
-<p>The process goes something like this:</p>
+The process goes something like this:
 
-<ol>
-<li>Write down everything about my invention.</li>
-<li>Mail it to myself.</li>
-<li>Never open that mail.</li>
-</ol>
+ 1. Write down everything about my invention.
+ 2. Mail it to myself.
+ 3. Never open that mail.
 
-<p>The post office will mark the envelope with the date and time, thus securing my effective "filing date," for only the cost of mailing something.</p>
+The post office will mark the envelope with the date and time, thus securing my effective "filing date," for only the cost of mailing something.
 
-<p>Can I enforce this "poor man's patent?" What legal rights does this process give me?</p>
-
+Can I enforce this "poor man's patent?" What legal rights does this process give me?
 
 
 ## Answer 8480
@@ -25,40 +22,39 @@
 - posted by: [Matthew Haugen](https://stackexchange.com/users/1325646/matthew-haugen) on 2016-02-07
 - score: 8
 
-<p>This myth is (mostly) nonsense.</p>
+This myth is (mostly) nonsense.
 
-<p>It's been going around for <em>a long time</em>, and I'm positive it's never done anything but hurt anyone who fell to its trap.</p>
+It's been going around for *a long time*, and I'm positive it's never done anything but hurt anyone who fell to its trap.
 
-<p><strong>What it doesn't give you.</strong></p>
+**What it doesn't give you.**
 
-<p>The general philosophy behind having a patent system is that it encourages the sharing of scientific knowledge, by giving the assignee the explicit right to forbid others from performing it. Mailing a letter in secret doesn't accomplish that, and no patent system will honor it.</p>
+The general philosophy behind having a patent system is that it encourages the sharing of scientific knowledge, by giving the assignee the explicit right to forbid others from performing it. Mailing a letter in secret doesn't accomplish that, and no patent system will honor it.
 
-<p>And that's really the end of the story. You gain no rights by taking those steps.</p>
+And that's really the end of the story. You gain no rights by taking those steps.
 
-<p><strong>What it <em>does</em> give you.</strong></p>
+**What it *does* give you.**
 
-<p>If you make your "poor man's patent" publicly available, you might be able to act as prior art to someone else who tries to get a patent. One of the requirements to get a patent is that the invention is "novel," meaning it's never been done before and disclosed to the public.</p>
+If you make your "poor man's patent" publicly available, you might be able to act as prior art to someone else who tries to get a patent. One of the requirements to get a patent is that the invention is "novel," meaning it's never been done before and disclosed to the public.
 
-<p>The bar for "publicly available" is somewhat fuzzy, but an envelope in your desk won't count. This is where variations on the myth, like posting a YouTube video or writing a page on a website, have come up. They're no more valid, except in potentially providing this prior art.</p>
+The bar for "publicly available" is somewhat fuzzy, but an envelope in your desk won't count. This is where variations on the myth, like posting a YouTube video or writing a page on a website, have come up. They're no more valid, except in potentially providing this prior art.
 
-<p>Of course, everyone else is still free then to use it however they please, they just can't stop you from doing it. You aren't getting a patent of any sort, nor anything equivalent.</p>
+Of course, everyone else is still free then to use it however they please, they just can't stop you from doing it. You aren't getting a patent of any sort, nor anything equivalent.
 
-<p>And in many countries, you're even throwing out your rights to obtain a patent at all, even if you choose to down the road, although the same does apply for disclosing your invention through a release.</p>
+And in many countries, you're even throwing out your rights to obtain a patent at all, even if you choose to down the road, although the same does apply for disclosing your invention through a release.
 
-<p>And if you're worried about being able to do it yourself--i.e. if you're already using it in the world--the thing you publish won't help you any more than that does.</p>
+And if you're worried about being able to do it yourself--i.e. if you're already using it in the world--the thing you publish won't help you any more than that does.
 
-<p>That all said, patent applications are, by default, held private for the first eighteen months after they're filed. If you wanted to use this arbitrary form of non-protection, you'd have to catch the application before it was granted, contact the examiner, and prove your case, or else it would have to go through expensive litigation to be invalidated.</p>
+That all said, patent applications are, by default, held private for the first eighteen months after they're filed. If you wanted to use this arbitrary form of non-protection, you'd have to catch the application before it was granted, contact the examiner, and prove your case, or else it would have to go through expensive litigation to be invalidated.
 
-<p>So really, I don't think this has much merit at all.</p>
+So really, I don't think this has much merit at all.
 
-<p><strong>What you can do instead.</strong></p>
+**What you can do instead.**
 
-<p>It's not nearly as cheap, and it only lasts a year, but the official form of this process is called a "Provisional Patent Application." You should have a patent professional draft it, so it can be a few thousand dollars, but you basically write down all the context and a basic description of your invention. You can then, any time within the following year, file a non-provisional that claims the filing date of your provisional.</p>
+It's not nearly as cheap, and it only lasts a year, but the official form of this process is called a "Provisional Patent Application." You should have a patent professional draft it, so it can be a few thousand dollars, but you basically write down all the context and a basic description of your invention. You can then, any time within the following year, file a non-provisional that claims the filing date of your provisional.
 
-<p>This way, you can delay the full expense of writing claims and filing a non-provisional (a "patent") for the time it takes you to raise some money, or even improve or narrow in on your invention.</p>
+This way, you can delay the full expense of writing claims and filing a non-provisional (a "patent") for the time it takes you to raise some money, or even improve or narrow in on your invention.
 
-<p>There's no cheap substitute for a patent. Patents are a business decision not to be taken lightly.</p>
-
+There's no cheap substitute for a patent. Patents are a business decision not to be taken lightly.
 
 
 ## Answer 8488

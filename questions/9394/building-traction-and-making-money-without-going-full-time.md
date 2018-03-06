@@ -4,16 +4,13 @@
 - tagged: `marketing`, `mobile-apps`, `advertising`, `partnership`
 - score: 5
 
-<ul>
-<li>we can afford the servers, should be able to handle 30k</li>
-<li>Mobile app</li>
-<li>API and back end we have built from scratch</li>
-</ul>
+- we can afford the servers, should be able to handle 30k
+- Mobile app
+- API and back end we have built from scratch
 
-<p>The mobile app is a social media app on ios, there are two of us and as we both have day jobs we want to make money through in app store items and ads. At this stage there isn't much point in getting investment.</p>
+The mobile app is a social media app on ios, there are two of us and as we both have day jobs we want to make money through in app store items and ads. At this stage there isn't much point in getting investment.
 
-<p>Can anyone recommend which ad service is the best? Also, what is the best way to build traction without hiring an expensive PR/Marketing agency?</p>
-
+Can anyone recommend which ad service is the best? Also, what is the best way to build traction without hiring an expensive PR/Marketing agency?
 
 
 ## Answer 9754
@@ -21,12 +18,11 @@
 - posted by: [Edward Moffett](https://stackexchange.com/users/4961599/edward-moffett) on 2016-07-22
 - score: 1
 
-<p>To answer your second question (gaining traction)</p>
+To answer your second question (gaining traction)
 
-<p>The key thing to gaining traction is to talk to your customers, and in doing so you will learn how they like to buy and how to build a relationship with them.</p>
+The key thing to gaining traction is to talk to your customers, and in doing so you will learn how they like to buy and how to build a relationship with them.
 
-<p>You can also get involved in the communities which your app would be applicable to. Not just pushing your app, but generally helping out and being involved in the community so that you are trusted. </p>
-
+You can also get involved in the communities which your app would be applicable to. Not just pushing your app, but generally helping out and being involved in the community so that you are trusted. 
 
 
 

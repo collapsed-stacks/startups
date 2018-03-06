@@ -4,8 +4,10 @@
 - tagged: `website`
 - score: 2
 
-<p>I'm a Computer Science undergrad. For our thesis next next year we're planning to make a web app that allows the user to upload a photo and the others will comment etc. Our idea is inspired  <a href="https://www.thehunt.com/" rel="nofollow">here</a> because we noticed that it's the common problem in our city. We like our thesis to be our stepping stone to be in a startup. And here's the thing we're afraid that no one will got interested on our work. Tips anyone? Should we continue it? </p>
+I'm a Computer Science undergrad. For our thesis next next year we're planning to make a web app that allows the user to upload a photo and the others will comment etc. Our idea is inspired  [here][1] because we noticed that it's the common problem in our city. We like our thesis to be our stepping stone to be in a startup. And here's the thing we're afraid that no one will got interested on our work. Tips anyone? Should we continue it? 
 
+
+  [1]: https://www.thehunt.com/
 
 
 ## Answer 2977

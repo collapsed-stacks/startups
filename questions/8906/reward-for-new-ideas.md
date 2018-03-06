@@ -4,21 +4,18 @@
 - tagged: `equity`, `idea`
 - score: 5
 
-<p>Imagine our startup company works on 2 ideas currently.</p>
+Imagine our startup company works on 2 ideas currently.
 
-<p>The founders and the employees in different layers work for the company, get their salary (in cash or IOU), and have respective amount of shares.</p>
+The founders and the employees in different layers work for the company, get their salary (in cash or IOU), and have respective amount of shares.
 
-<p>Now, one person (either founder or employee), suggest a nice idea to add to the company. The R&amp;D department evaluates the idea, and the board decides to add this nice idea to the company's line of regular works (production, sales, ...).</p>
+Now, one person (either founder or employee), suggest a nice idea to add to the company. The R&D department evaluates the idea, and the board decides to add this nice idea to the company's line of regular works (production, sales, ...).
 
-<p><strong><em>Now the question is:</em></strong></p>
+***Now the question is:***
 
-<ol>
-<li>How shall the company reward that person who brought that nice idea? Cash or shares, or both? And how much % !?</li>
-<li>How shall the company treat these idea-holders so that they get motivated to bring more perfect ideas to the company?</li>
-</ol>
+1. How shall the company reward that person who brought that nice idea? Cash or shares, or both? And how much % !?
+2. How shall the company treat these idea-holders so that they get motivated to bring more perfect ideas to the company?
 
-<p>Thanks a lot.</p>
-
+Thanks a lot.
 
 
 ## Answer 8907
@@ -26,17 +23,14 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2016-04-07
 - score: 7
 
-<p>This is nothing close to what would happen in reality, tbh... If it's a startup:</p>
+This is nothing close to what would happen in reality, tbh... If it's a startup:
 
-<ol>
-<li>No sane startup would ever work on two ideas concurrently.</li>
-<li>There is no R&amp;D department (or any department) - the whole startup is a single department.</li>
-<li>Work contracts usually stipulate that ideas you come up with will belong to your employer.</li>
-<li>Ideas are worthless without execution <em>anyway</em>.</li>
-</ol>
+1. No sane startup would ever work on two ideas concurrently.
+2. There is no R&D department (or any department) - the whole startup is a single department.
+3. Work contracts usually stipulate that ideas you come up with will belong to your employer.
+4. Ideas are worthless without execution _anyway_.
 
-<p>So really, the only sensible thing to reply in my opinion is: expect a tap on the back and a bone at best - delivering such ideas is your job. If you'd like to reap the real rewards (and take the real risks that come with it) you'll want to create a company.</p>
-
+So really, the only sensible thing to reply in my opinion is: expect a tap on the back and a bone at best - delivering such ideas is your job. If you'd like to reap the real rewards (and take the real risks that come with it) you'll want to create a company.
 
 
 ## Answer 8909
@@ -44,18 +38,15 @@
 - posted by: [Mowzer](https://stackexchange.com/users/1803081/mowzer) on 2016-04-07
 - score: 1
 
-<p>Expanding on @DennisDeBergandy's answer:</p>
+Expanding on @DennisDeBergandy's answer:
 
-<p>The employment agreement should cover this.</p>
+The employment agreement should cover this.
 
-<p>Many startup employment agreements:</p>
+Many startup employment agreements:
 
-<ol>
-<li>Restrict employees from competing with the company.</li>
-<li>Transfer intellectual property ownership from employee to company.</li>
-<li>Compensate employee with company stock.</li>
-</ol>
-
+1. Restrict employees from competing with the company.
+1. Transfer intellectual property ownership from employee to company.
+1. Compensate employee with company stock.
 
 
 

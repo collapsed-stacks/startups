@@ -4,11 +4,10 @@
 - tagged: `tech-company`, `marketing`, `startup-costs`, `testing`
 - score: 1
 
-<p>What steps do I need to take before creating landing page for the project? 
-Are there any good web services to check if your idea solves people's problems and there is nothing similar to your project yet? </p>
+What steps do I need to take before creating landing page for the project? 
+Are there any good web services to check if your idea solves people's problems and there is nothing similar to your project yet? 
 
-<p>We have a problem with testing utility and innovation of our products in primary stage - we found solution to problem that our idea based on too late and we wasted two weeks of work. ;)</p>
-
+We have a problem with testing utility and innovation of our products in primary stage - we found solution to problem that our idea based on too late and we wasted two weeks of work. ;)
 
 
 ## Answer 642
@@ -16,10 +15,9 @@ Are there any good web services to check if your idea solves people's problems a
 - posted by: [blunders](https://stackexchange.com/users/216182/blunders) on 2014-09-07
 - score: 3
 
-<p>Believe you might misunderstand how markets work. Having a solution is only half the battle, and in fact, often not as important as having a market for the solution. The solution is not only what it is, but how it is presented. </p>
+Believe you might misunderstand how markets work. Having a solution is only half the battle, and in fact, often not as important as having a market for the solution. The solution is not only what it is, but how it is presented. 
 
-<p>Being completely original is not as important as being able to sell your idea. If you have a solution, market it, since that's the next step, not insuring that you don't have competition. </p>
-
+Being completely original is not as important as being able to sell your idea. If you have a solution, market it, since that's the next step, not insuring that you don't have competition. 
 
 
 ## Answer 645
@@ -27,39 +25,36 @@ Are there any good web services to check if your idea solves people's problems a
 - posted by: [SilentSteel](https://stackexchange.com/users/1092182/silentsteel) on 2014-09-07
 - score: 1
 
-<p>I agree that this is hard. There are 3 parts IMHO.</p>
+I agree that this is hard. There are 3 parts IMHO.
 
-<p><strong>Finding Competitors:</strong></p>
+**Finding Competitors:**
+ 
+ - Really get into the Devil's advocate mindset- how can I show this idea sucks and is done already? Otherwise, I find I get a blindspot.
+ 
+ - Google, but spend a long time. Go past page 1 and 2. Try keyword variations. Really dig.
+ 
+ - Post on forums for that market, and ask what is recommended as a solution to the problem.
+ 
+ - As wacky as this is, hire someone- can be a junior or a friend- to find competitors. They will find more than you, since they are
+   without bias. The results will be hard to take sometimes, as they may
+   find serious competitors, but it's better than the alternative.
 
-<ul>
-<li><p>Really get into the Devil's advocate mindset- how can I show this idea sucks and is done already? Otherwise, I find I get a blindspot.</p></li>
-<li><p>Google, but spend a long time. Go past page 1 and 2. Try keyword variations. Really dig.</p></li>
-<li><p>Post on forums for that market, and ask what is recommended as a solution to the problem.</p></li>
-<li><p>As wacky as this is, hire someone- can be a junior or a friend- to find competitors. They will find more than you, since they are
-without bias. The results will be hard to take sometimes, as they may
-find serious competitors, but it's better than the alternative.</p></li>
-</ul>
+**Testing the Idea**
 
-<p><strong>Testing the Idea</strong></p>
+Before making a complex landing page, I'd consider:
 
-<p>Before making a complex landing page, I'd consider:</p>
+ - Craigslist, Kijiji, Fiverr.
 
-<ul>
-<li>Craigslist, Kijiji, Fiverr.</li>
-</ul>
+The way I think is: "If my idea is really great, I shouldn't need a billboard in Times Square to sell it. I should get a few emails about interest just from a few Craigslist ads"
 
-<p>The way I think is: "If my idea is really great, I shouldn't need a billboard in Times Square to sell it. I should get a few emails about interest just from a few Craigslist ads"</p>
+You can also consider KickStarter or IndiGoGo.
+KickOffLabs.com also helps.
 
-<p>You can also consider KickStarter or IndiGoGo.
-KickOffLabs.com also helps.</p>
+**Does it Matter?**
 
-<p><strong>Does it Matter?</strong></p>
-
-<ul>
-<li><p>If you are hitting a niche or have a design or UX or feature that is 10X better than the competitor, all this might not be relevant. But, the risk is very high. Startups like that are a 5 year life investment. So be very certain that you are committed.</p></li>
-<li><p>Also, if you are part of a funded business with a marketing budget, this might not be as relevant. You don't need 100% of a market to be successful if you have a similar base. But I'd stay away- as tempting as it may be- to move into a vertical market that doesn't have any overlap.</p></li>
-</ul>
-
+ - If you are hitting a niche or have a design or UX or feature that is 10X better than the competitor, all this might not be relevant. But, the risk is very high. Startups like that are a 5 year life investment. So be very certain that you are committed.
+ 
+ - Also, if you are part of a funded business with a marketing budget, this might not be as relevant. You don't need 100% of a market to be successful if you have a similar base. But I'd stay away- as tempting as it may be- to move into a vertical market that doesn't have any overlap.
 
 
 ## Answer 653

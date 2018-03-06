@@ -4,14 +4,13 @@
 - tagged: `startup-costs`, `investment`
 - score: 1
 
-<p>I would like to write a book about a subject I'm particularly very interested on and I believe I'm well aware of.</p>
+I would like to write a book about a subject I'm particularly very interested on and I believe I'm well aware of.
 
-<p>I'm not sure on my abilities of writing but I'm pretty sure I know enough of the subject that many people could learn from it.</p>
+I'm not sure on my abilities of writing but I'm pretty sure I know enough of the subject that many people could learn from it.
 
-<p>So, can I launch a book with little or no money getting at least a little profit from it? How would that be?</p>
+So, can I launch a book with little or no money getting at least a little profit from it? How would that be?
 
-<p>If so, I'm intended to do it for now and depending on the results I may invest more money in the future to reach a bigger audience with a newer version of the same book or even a whole new book.</p>
-
+If so, I'm intended to do it for now and depending on the results I may invest more money in the future to reach a bigger audience with a newer version of the same book or even a whole new book.
 
 
 ## Answer 3528

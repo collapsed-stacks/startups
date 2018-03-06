@@ -4,12 +4,11 @@
 - tagged: `europe`, `vat`
 - score: 5
 
-<p>I'm trying to get my head around the changes to the EU's VAT laws that occurred in 2015 as my UK SaaS business is starting to contract with EU customers. A lot of the VAT documentation online is consumer-focused (i.e. where the buyer is not VAT registered).</p>
+I'm trying to get my head around the changes to the EU's VAT laws that occurred in 2015 as my UK SaaS business is starting to contract with EU customers. A lot of the VAT documentation online is consumer-focused (i.e. where the buyer is not VAT registered).
 
-<p>So with an example, using the euro for currency simplicity:</p>
+So with an example, using the euro for currency simplicity:
 
-<p>If I'm a UK business, and I sell SaaS access for 1000 euros to a French business, who owes VAT? To whom is it owed? How much is owed?</p>
-
+If I'm a UK business, and I sell SaaS access for 1000 euros to a French business, who owes VAT? To whom is it owed? How much is owed?
 
 
 ## Answer 9826

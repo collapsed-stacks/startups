@@ -4,24 +4,21 @@
 - tagged: `marketing`, `united-kingdom`, `outsourcing`
 - score: 2
 
-<p>There are a lot of freelance sites out there but I'm having difficulty finding the right kind of people e.g. - professional tone, good grasp of English and tactful to do a range of per job / per hour marketing tasks. Any tips for finding people?</p>
+There are a lot of freelance sites out there but I'm having difficulty finding the right kind of people e.g. - professional tone, good grasp of English and tactful to do a range of per job / per hour marketing tasks. Any tips for finding people?
 
-<p>These aren't actually boring tasks, they just require time to do.</p>
+These aren't actually boring tasks, they just require time to do.
 
-<p>Kinds of tasks I am looking at:</p>
+Kinds of tasks I am looking at:
 
-<ul>
-<li>Researching websites, blogs, organisations that are relevant to a
-product and emailing them to ask if they are interesting in
-back-linking / participating. </li>
-<li>Posting an item on a social media sites- one per day for different products</li>
-<li>Following a media correspondence plan to ask for coverage / review / promotion of a
-product. </li>
-<li>Researching funding resourcing</li>
-</ul>
+ - Researching websites, blogs, organisations that are relevant to a
+   product and emailing them to ask if they are interesting in
+   back-linking / participating. 
+ - Posting an item on a social media sites- one per day for different products
+ - Following a media correspondence plan to ask for coverage / review / promotion of a
+   product. 
+ - Researching funding resourcing
 
-<p>I'm keen to either go the UK based assistant route, Eastern Europe or look further East e.g. India / Philipines / Malaysia.</p>
-
+I'm keen to either go the UK based assistant route, Eastern Europe or look further East e.g. India / Philipines / Malaysia.
 
 
 ## Answer 3529
@@ -52,12 +49,11 @@ product. </li>
 - posted by: [Edward Moffett](https://stackexchange.com/users/4961599/edward-moffett) on 2015-03-13
 - score: 2
 
-<p>An approach which we successfully tried this summer is to use an intern or someone who is currently studying. </p>
+An approach which we successfully tried this summer is to use an intern or someone who is currently studying. 
 
-<p>The advantages to you are that they can be very bright; with an excellent grasp of English, particularly if you go for someone interested in writing; are willing to work part-time while they study / do bursts over the holidays; they are cheap, especially given their ability. Also, it may be the only way you are able to afford someone with expertise in the area you are after, e.g. chemical engineering.</p>
+The advantages to you are that they can be very bright; with an excellent grasp of English, particularly if you go for someone interested in writing; are willing to work part-time while they study / do bursts over the holidays; they are cheap, especially given their ability. Also, it may be the only way you are able to afford someone with expertise in the area you are after, e.g. chemical engineering.
 
-<p>They are keen to get some CV points, learn about the business environment, get a lead to a job, gain experience and apply the skills they are learning.</p>
-
+They are keen to get some CV points, learn about the business environment, get a lead to a job, gain experience and apply the skills they are learning.
 
 
 

@@ -4,25 +4,31 @@
 - tagged: `market-research`
 - score: 4
 
-<p>So far from what I've read,</p>
 
-<ul>
-<li><p>You shouldn't choose a product that has too many ratings (1000+ reviews on the best sellers list dominated by 9+ people) as its way too competitive. </p></li>
-<li><p>You shouldn't choose a product that has too few ratings (top sellers have 1-10 reviews) as you won't be able to sell anything. </p></li>
-<li><p>choosing a niche product is usually a good idea. </p></li>
-</ul>
+So far from what I've read,
 
-<p>Other than that I have a few products in mind that I can import from aliexpress. For one of these products, the best sellers list is only dominated by 3-4 people and most of them have only 300-400 reviews.</p>
 
-<p>Is there any way to tell if it has potential to sell well? </p>
+- You shouldn't choose a product that has too many ratings (1000+ reviews on the best sellers list dominated by 9+ people) as its way too competitive. 
 
-<p>What about useful software designed specifically for online arbitrage?</p>
+- You shouldn't choose a product that has too few ratings (top sellers have 1-10 reviews) as you won't be able to sell anything. 
 
-<p>What about forums that are specific for trying to make a profit off of Amazon arbitrage?</p>
+- choosing a niche product is usually a good idea. 
 
-<p>Lastly what do you guys think about retail arbitrage? For example using an app to scan which items from retail stores have potential to turn a profit on Amazon?</p>
 
-<p>Thanks. </p>
+Other than that I have a few products in mind that I can import from aliexpress. For one of these products, the best sellers list is only dominated by 3-4 people and most of them have only 300-400 reviews.
+
+ 
+
+
+Is there any way to tell if it has potential to sell well? 
+
+What about useful software designed specifically for online arbitrage?
+
+What about forums that are specific for trying to make a profit off of Amazon arbitrage?
+
+Lastly what do you guys think about retail arbitrage? For example using an app to scan which items from retail stores have potential to turn a profit on Amazon?
+
+Thanks. 
 
 
 

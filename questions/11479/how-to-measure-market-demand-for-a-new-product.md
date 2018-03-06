@@ -4,8 +4,7 @@
 - tagged: `marketing`, `business-plan`, `market-research`
 - score: 1
 
-<p>What is the industry standard method for estimating market demand on a brand new product?</p>
-
+What is the industry standard method for estimating market demand on a brand new product?
 
 
 ## Answer 11480

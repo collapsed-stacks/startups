@@ -4,10 +4,9 @@
 - tagged: `tech-company`, `software`
 - score: 3
 
-<p><a href="https://www.desmos.com/" rel="nofollow noreferrer">Desmos</a> is a online graphing calculator which is used daily by millions of students for learning math. It offers a low-latency, highly available service (it can even be embedded in other sites) even though it is completely free and doesn't show a single advertisement.</p>
+[Desmos](https://www.desmos.com/) is a online graphing calculator which is used daily by millions of students for learning math. It offers a low-latency, highly available service (it can even be embedded in other sites) even though it is completely free and doesn't show a single advertisement.
 
-<p>How then, I am at a loss to understand, does it make money? Where does it draw its funding from?</p>
-
+How then, I am at a loss to understand, does it make money? Where does it draw its funding from?
 
 
 ## Answer 13551
@@ -47,14 +46,11 @@
 - posted by: [Edward Craig](https://stackexchange.com/users/8882535/edward-craig) on 2017-10-28
 - score: 2
 
-<blockquote>
-  <p>How then, I am at a loss to understand, does it make money?</p>
-</blockquote>
+>How then, I am at a loss to understand, does it make money?
 
-<p>They license their API to other partners.  Depending on their financial projections, it would be very possible to get investment capital.</p>
+They license their API to other partners.  Depending on their financial projections, it would be very possible to get investment capital.
 
-<p>Edit:  Reworded answer</p>
-
+Edit:  Reworded answer
 
 
 

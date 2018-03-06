@@ -4,10 +4,9 @@
 - tagged: `tech-company`, `crowd-funding`, `hardware`
 - score: 6
 
-<p>My company sells hardware that allows charging of one mobile phone by plugging it into another.</p>
+My company sells hardware that allows charging of one mobile phone by plugging it into another.
 
-<p>We just launched an Indiegogo campaign, but I'm curious now of what other crowdfunding platforms or sites could we have used. What might have been our options, and what would have been their advantages and disadvantages?</p>
-
+We just launched an Indiegogo campaign, but I'm curious now of what other crowdfunding platforms or sites could we have used. What might have been our options, and what would have been their advantages and disadvantages?
 
 
 ## Answer 3189
@@ -87,12 +86,12 @@ Notes: Technoloy oriented platform, this is a good site if your start-up is base
 - posted by: [Rogelio](https://stackexchange.com/users/267060/rogelio) on 2015-01-27
 - score: 1
 
-<p>If your startup is B2B, you can reach lots of sofisticated investors on crowdfinancing sites like startupvalley, fundable.com or if you are based in the UK crowdcube.com, where you offer equity. You can offer discounts on your products for your investors, that will become your firsts beta testers and will guide your development.
-If your product is B2C, you'll get better exposure on the sites featured by demirb, just offer your product to your backers and move your campaign on your social networks, just follow your targets. See some useful links:</p>
+If your startup is B2B, you can reach lots of sofisticated investors on crowdfinancing sites like startupvalley, fundable.com or if you are based in the UK crowdcube.com, where you offer equity. You can offer discounts on your products for your investors, that will become your firsts beta testers and will guide your development.
+If your product is B2C, you'll get better exposure on the sites featured by demirb, just offer your product to your backers and move your campaign on your social networks, just follow your targets. See some useful links:
 
-<p>a complete list: <a href="http://en.wikipedia.org/wiki/Comparison_of_crowd_funding_services" rel="nofollow">http://en.wikipedia.org/wiki/Comparison_of_crowd_funding_services</a></p>
+a complete list: http://en.wikipedia.org/wiki/Comparison_of_crowd_funding_services
 
-<p><a href="http://plantostart.com/10-crowdfunding-websites-entrepreneurs/" rel="nofollow">http://plantostart.com/10-crowdfunding-websites-entrepreneurs/</a></p>
+http://plantostart.com/10-crowdfunding-websites-entrepreneurs/
 
 
 
@@ -101,8 +100,7 @@ If your product is B2C, you'll get better exposure on the sites featured by demi
 - posted by: [Jason ](https://stackexchange.com/users/5270470/jason) on 2015-01-31
 - score: 1
 
-<p>If you are targeting the consumer area (sounds like you are), Indiegogo and Kickstarter are your best options as those are the well known crowdfunding solutions. </p>
-
+If you are targeting the consumer area (sounds like you are), Indiegogo and Kickstarter are your best options as those are the well known crowdfunding solutions. 
 
 
 ## Answer 8321

@@ -4,10 +4,12 @@
 - tagged: `crowd-funding`
 - score: 1
 
-<p>Star Citizen is the <a href="https://en.wikipedia.org/wiki/List_of_highest_funded_crowdfunding_projects" rel="nofollow">all-time highest</a> funded crowdfunding project:</p>
+Star Citizen is the [all-time highest][1] funded crowdfunding project:
 
-<p>I want to know why so many people thought Star Citizen deserved to be given money for it to succeed. What made so many people want to contribute their two cents? I believe there's something else besides people wanting a "space life simulator" that explains the amount raised is above $93 million.</p>
+I want to know why so many people thought Star Citizen deserved to be given money for it to succeed. What made so many people want to contribute their two cents? I believe there's something else besides people wanting a "space life simulator" that explains the amount raised is above $93 million.
 
+
+  [1]: https://en.wikipedia.org/wiki/List_of_highest_funded_crowdfunding_projects
 
 ## No Answers
 

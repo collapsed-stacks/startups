@@ -4,10 +4,9 @@
 - tagged: `business-model`, `business-capital`
 - score: 2
 
-<p>I've realized that my business may have large sums of money for short periods of time, say 30-90 days at most. I'd like to take advantage of that if I can.</p>
+I've realized that my business may have large sums of money for short periods of time, say 30-90 days at most. I'd like to take advantage of that if I can.
 
-<p>Can a business make interest income with short term money?</p>
-
+Can a business make interest income with short term money?
 
 
 ## Answer 802

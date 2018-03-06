@@ -4,10 +4,9 @@
 - tagged: `website`, `chicken-egg`, `content`
 - score: 6
 
-<p>Since some websites base their content on what people build for them while they use the site, how do they deal with having no content at the beginning of their existence?</p>
+Since some websites base their content on what people build for them while they use the site, how do they deal with having no content at the beginning of their existence?
 
-<p>Websites like chictopia or others don't have much "user on-boarding" or content strategy towards explaining how it works and the benefits of it, they just have the UGC there working as the only content.</p>
-
+Websites like chictopia or others don't have much "user on-boarding" or content strategy towards explaining how it works and the benefits of it, they just have the UGC there working as the only content.
 
 
 ## Answer 1805

@@ -4,8 +4,7 @@
 - tagged: `business-plan`, `united-kingdom`, `vat`
 - score: 0
 
-<p>In the UKdoes the break even include VAT or Not is it the total price of the item?</p>
-
+In the UKdoes the break even include VAT or Not is it the total price of the item?
 
 
 ## Answer 8281
@@ -13,30 +12,29 @@
 - posted by: [Mruf](https://stackexchange.com/users/3246202/mruf) on 2016-01-07
 - score: 1
 
-<p>Accounting has nothing to do with break even analysis (BEA). Therefore VAT has NO influence on BEA.</p>
+Accounting has nothing to do with break even analysis (BEA). Therefore VAT has NO influence on BEA.
 
-<p>Lets say you your own price for your product is 1000€/a, the tax rate is 20%, so you collect 1200€/a. You also invested 4000€ to start your venture and you will have costs of 600€/a.</p>
+Lets say you your own price for your product is 1000€/a, the tax rate is 20%, so you collect 1200€/a. You also invested 4000€ to start your venture and you will have costs of 600€/a.
 
-<p>VAT is collected by your startup and transferred to treasury (I hope that is the right term and usage) within a certain time frame. So your earnings per year are increased by 200€ and reduced by 200€ again.</p>
+VAT is collected by your startup and transferred to treasury (I hope that is the right term and usage) within a certain time frame. So your earnings per year are increased by 200€ and reduced by 200€ again.
 
-<p>The BEA shows a time span, in which you have more money <strong>earned</strong> then spend for your venture. So only the earnings influence BEA.</p>
+The BEA shows a time span, in which you have more money **earned** then spend for your venture. So only the earnings influence BEA.
 
-<p>Also there is a difference. VAT collection and calculation is a task/number which represents the past, while Break Even Analysis is a tool to predict the future. You try to keep prediction tools simple. Mostly they don't display reality, but they make different approaches comparable!</p>
+Also there is a difference. VAT collection and calculation is a task/number which represents the past, while Break Even Analysis is a tool to predict the future. You try to keep prediction tools simple. Mostly they don't display reality, but they make different approaches comparable!
 
-<p>Let's do our simple example without VAT: (BEP = Break Even Point)</p>
+Let's do our simple example without VAT: (BEP = Break Even Point)
 
-<p>0 = -4000 + (1000 - 600) * BEP</p>
+0 = -4000 + (1000 - 600) * BEP
+ 
+BEP = 10
 
-<p>BEP = 10</p>
+Now with VAT:
 
-<p>Now with VAT:</p>
+0 = -4000 + (1200 - 600) * BEP - (1000 * 0,2) * BEP
 
-<p>0 = -4000 + (1200 - 600) * BEP - (1000 * 0,2) * BEP</p>
+BEP = 10
 
-<p>BEP = 10</p>
-
-<p>(Please be careful, this could be extended to any complexity and is not true for every case, example: interest business like banking or investment groups. But i hope you get the point)</p>
-
+(Please be careful, this could be extended to any complexity and is not true for every case, example: interest business like banking or investment groups. But i hope you get the point)
 
 
 

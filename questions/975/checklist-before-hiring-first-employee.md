@@ -4,16 +4,16 @@
 - tagged: `united-states`, `legal`, `employees`
 - score: 14
 
-<p>I have been flying solo up until now, but am at a point where the amount of work is more than one person can realistically handle (at least to do it well) and the revenue justifies adding on an hourly employee.</p>
+I have been flying solo up until now, but am at a point where the amount of work is more than one person can realistically handle (at least to do it well) and the revenue justifies adding on an hourly employee.
 
-<p>I have never hired anyone before though, so I want to make sure all of my ducks are in a row before taking that step.</p>
+I have never hired anyone before though, so I want to make sure all of my ducks are in a row before taking that step.
 
-<p>What all do I need to have in place <strong>both legally</strong> (workers comp, unemployment insurance, etc) <strong>and practically</strong> (such as training for the specific tasks the employee will be doing).</p>
+What all do I need to have in place **both legally** (workers comp, unemployment insurance, etc) **and practically** (such as training for the specific tasks the employee will be doing).
 
-<p>If it makes a difference, the work being done is not a particularly skilled task (doesn't require years of experience or a college degree) but it will require some training. It will be an hourly wage not a salary, and I don't intend to give any equity or really offer any special benefits at this point - it's an entry level position with an average wage for that type of job in the area we're in.</p>
 
-<p>The business is located in the United States - specifically we are in Oklahoma. </p>
+If it makes a difference, the work being done is not a particularly skilled task (doesn't require years of experience or a college degree) but it will require some training. It will be an hourly wage not a salary, and I don't intend to give any equity or really offer any special benefits at this point - it's an entry level position with an average wage for that type of job in the area we're in.
 
+The business is located in the United States - specifically we are in Oklahoma. 
 
 
 ## Answer 1188
@@ -61,12 +61,11 @@ If your business has established employee benefit programs such as health insura
 - posted by: [Marcus D](https://stackexchange.com/users/258531/marcus-d) on 2014-10-23
 - score: 0
 
-<p>I have experience in UK and Oz, but dont know the USA legal side, so I'll have to skip on that aspect.</p>
+I have experience in UK and Oz, but dont know the USA legal side, so I'll have to skip on that aspect.
 
-<p>In our business we have found tasks that are easily outsourced having specialist knowledge, that isnt part of our core "sales" business. The ones we chose initially were payroll, accounting, bookkeeping and some aspects of telesales.</p>
+In our business we have found tasks that are easily outsourced having specialist knowledge, that isnt part of our core "sales" business. The ones we chose initially were payroll, accounting, bookkeeping and some aspects of telesales.
 
-<p>To answer your question more directly, if you want to be able to hire people at an hourly wage, I would write down in detail the steps around particaular tasks then get your hourly staff to follow these processes. It's sort of like the "franchise" model, that will enable you to delegate work off to other staff. There is a fairly easy read "The E Myth Revisited" by Michael E. Gerber that goes through this idea in more detail.</p>
-
+To answer your question more directly, if you want to be able to hire people at an hourly wage, I would write down in detail the steps around particaular tasks then get your hourly staff to follow these processes. It's sort of like the "franchise" model, that will enable you to delegate work off to other staff. There is a fairly easy read "The E Myth Revisited" by Michael E. Gerber that goes through this idea in more detail.
 
 
 

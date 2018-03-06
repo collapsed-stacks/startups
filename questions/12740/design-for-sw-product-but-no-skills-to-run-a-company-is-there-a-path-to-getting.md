@@ -4,17 +4,16 @@
 - tagged: `software`, `intellectual-property`, `venture-capital`, `fundraising`, `business-proposal`
 - score: 0
 
-<p>my first question on this forum so please be gentle.</p>
+my first question on this forum so please be gentle.
 
-<p>I am a technician and as such have spent time to make sure that my concept can be implemented using the next generation software and hardware. I have the environment to draw on talent as I am in Chicago and live near IIT, UIC and have contacts in Northwestern. I have SOME skills in VC world as my first startup was with Kleiner Perkins and Tom Perkins was our chairman. 
+I am a technician and as such have spent time to make sure that my concept can be implemented using the next generation software and hardware. I have the environment to draw on talent as I am in Chicago and live near IIT, UIC and have contacts in Northwestern. I have SOME skills in VC world as my first startup was with Kleiner Perkins and Tom Perkins was our chairman. 
 BUT 
-I have NO allusions that I could run a company OR a desire to do so. I would like to present my idea to a trustworthy and interested group of people and have them fund and run the company with me taking some compensation for the idea, the initial design and for ongoing guidance.  </p>
+I have NO allusions that I could run a company OR a desire to do so. I would like to present my idea to a trustworthy and interested group of people and have them fund and run the company with me taking some compensation for the idea, the initial design and for ongoing guidance.  
 
-<p>I have NO idea how the funding world works these days or how to approach anyone in Chicago as to how to start this discussion. If it were the valley this would not be a problem but in Chicago I have no idea as to where to start. </p>
+I have NO idea how the funding world works these days or how to approach anyone in Chicago as to how to start this discussion. If it were the valley this would not be a problem but in Chicago I have no idea as to where to start. 
 
-<p>Is this a situation that is common place OR a non starter as any VC company would need the "founder" to fully invest all their time in their idea?
-AND how would I protect my intellectual property in the initial discussion phase?</p>
-
+Is this a situation that is common place OR a non starter as any VC company would need the "founder" to fully invest all their time in their idea?
+AND how would I protect my intellectual property in the initial discussion phase?
 
 ## No Answers
 

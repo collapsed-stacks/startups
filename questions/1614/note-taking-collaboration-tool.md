@@ -4,21 +4,20 @@
 - tagged: `tech-company`
 - score: 2
 
-<p>I'm searching for a note taking tool for my Startup, properties as listed below.</p>
+I'm searching for a note taking tool for my Startup, properties as listed below.
 
-<ul>
-<li>Windows &amp; Mac desktop applications (wont be a browser app)</li>
-<li>Android &amp; Ios apps.</li>
-<li>Decent interface such as Evernote or inote</li>
-<li>Automatic sync.</li>
-<li>5 people collaboration</li>
-<li>Free</li>
-</ul>
+- Windows & Mac desktop applications (wont be a browser app)
+- Android & Ios apps.
+- Decent interface such as Evernote or inote
+- Automatic sync.
+- 5 people collaboration
+- Free
 
-<p>As extra if it supports spreadsheets that would be awesome but not necessary. 
-Basically we want Evernote which syncs as good as dropbox.</p>
+As extra if it supports spreadsheets that would be awesome but not necessary. 
+Basically we want Evernote which syncs as good as dropbox.
 
-<p>Note: Evernote either syncs when clicked on sync or at the best, syncs every 5 minutes.</p>
+Note: Evernote either syncs when clicked on sync or at the best, syncs every 5 minutes.
+
 
 
 

@@ -4,11 +4,10 @@
 - tagged: `startup-costs`, `united-kingdom`
 - score: 4
 
-<p>Say that you are building a product, but in the meantime you wanna have a business name to interact with third parties.
-Does it cost any money, other than incorporation fees, to have a company that does not yet conduct real business?</p>
+Say that you are building a product, but in the meantime you wanna have a business name to interact with third parties.
+Does it cost any money, other than incorporation fees, to have a company that does not yet conduct real business?
 
-<p>I'm in the UK.</p>
-
+I'm in the UK.
 
 
 ## Answer 1244
@@ -16,21 +15,21 @@ Does it cost any money, other than incorporation fees, to have a company that do
 - posted by: [John Looker](https://stackexchange.com/users/5196682/john-looker) on 2014-11-02
 - score: 2
 
-<p>Once you've incorporated a company through Companies House, registered and produced the statutory registers, then there are no usual additional fees until the annual return.</p>
+Once you've incorporated a company through Companies House, registered and produced the statutory registers, then there are no usual additional fees until the annual return.
 
-<p>See here for information on annual return fees: <a href="http://www.incorporationservices.co.uk/faqs.shtml#09" rel="nofollow">http://www.incorporationservices.co.uk/faqs.shtml#09</a></p>
+See here for information on annual return fees: http://www.incorporationservices.co.uk/faqs.shtml#09
 
-<p>If you make any changes to the company then it may require additional fees, such as change of name etc.</p>
+If you make any changes to the company then it may require additional fees, such as change of name etc.
 
-<p>A complete list of fees are here: <a href="http://www.companieshouse.gov.uk/toolsToHelp/ourPrices.shtml" rel="nofollow">http://www.companieshouse.gov.uk/toolsToHelp/ourPrices.shtml</a></p>
+A complete list of fees are here: http://www.companieshouse.gov.uk/toolsToHelp/ourPrices.shtml
 
-<p>A company must deliver an annual return whether it has traded or not. See here: <a href="http://www.companieshouse.gov.uk/director/" rel="nofollow">http://www.companieshouse.gov.uk/director/</a></p>
+A company must deliver an annual return whether it has traded or not. See here: http://www.companieshouse.gov.uk/director/
 
-<p>Some other considerations are:
+Some other considerations are:
 - Whether you use an accountant.
-- The protection of intellectual property: <a href="https://www.gov.uk/intellectual-property-an-overview/overview" rel="nofollow">https://www.gov.uk/intellectual-property-an-overview/overview</a></p>
+- The protection of intellectual property: https://www.gov.uk/intellectual-property-an-overview/overview
 
-<p>If in doubt of what is necessary consult an accountant.</p>
+If in doubt of what is necessary consult an accountant.
 
 
 
@@ -39,12 +38,11 @@ Does it cost any money, other than incorporation fees, to have a company that do
 - posted by: [Jeremy Parsons](https://stackexchange.com/users/497810/jeremy-parsons) on 2014-11-03
 - score: 1
 
-<p>You haven't indicated why you want a company, and if there's no very specific reason, it's often sensible to leave incorporation until you know you're ready to trade.</p>
+You haven't indicated why you want a company, and if there's no very specific reason, it's often sensible to leave incorporation until you know you're ready to trade.
 
-<p>Alternatively, you could acquire a dormant company quite cheaply, if you need a company that you intend to trade. That saves a lot of the admin, and in due course you can bring the company out of dormancy. There are lots of formation agents who as well as helping form businesses hold a stock of dormant companies for sale, of various ages and make-ups.</p>
+Alternatively, you could acquire a dormant company quite cheaply, if you need a company that you intend to trade. That saves a lot of the admin, and in due course you can bring the company out of dormancy. There are lots of formation agents who as well as helping form businesses hold a stock of dormant companies for sale, of various ages and make-ups.
 
-<p>Finally, you could find a business that is willing to "host" your startup in the early stages. That can work out well if you're making a business that has no great requirement for fixed assets, but could be more trouble than it's worth if it needs a complex agreement.</p>
-
+Finally, you could find a business that is willing to "host" your startup in the early stages. That can work out well if you're making a business that has no great requirement for fixed assets, but could be more trouble than it's worth if it needs a complex agreement.
 
 
 

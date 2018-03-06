@@ -4,10 +4,11 @@
 - tagged: `legal`
 - score: 1
 
-<p>Can anyone point me to a free and good resource for templates which provide a contract between a UK LTD company and a contributing artist (for both music and graphics).</p>
+Can anyone point me to a free and good resource for templates which provide a contract between a UK LTD company and a contributing artist (for both music and graphics).
 
-<p>I'm keen to lock in a time-limted exclusive world-wide right to distribute and use this artists work in the game, paying royalties rather than paying outright for the content, and providing protection for both parties.</p>
+I'm keen to lock in a time-limted exclusive world-wide right to distribute and use this artists work in the game, paying royalties rather than paying outright for the content, and providing protection for both parties.
 
+ 
 
 
 ## Answer 1124

@@ -4,11 +4,14 @@
 - tagged: `legal`, `intellectual-property`, `web-development`
 - score: 5
 
-<p>I want to start a property search website.</p>
+I want to start a property search website.
 
-<p>But the problem is I don't have  information to show on the website. So I was thinking of getting this info via scanning other sites and showing it on my site. But I will show  the guest where this information has come from and when they want to inquire I will redirect to  the source site.</p>
+But the problem is I don't have  information to show on the website. So I was thinking of getting this info via scanning other sites and showing it on my site. But I will show  the guest where this information has come from and when they want to inquire I will redirect to  the source site.
 
-<p>I seen other sites like hotelscombined.com do this. But is this legal?</p>
+I seen other sites like hotelscombined.com do this. But is this legal?
+
+
+
 
 
 
@@ -50,18 +53,17 @@
 - posted by: [Jeremy Parsons](https://stackexchange.com/users/497810/jeremy-parsons) on 2014-11-03
 - score: 1
 
-<p>You're worrying about the wrong question.</p>
+You're worrying about the wrong question.
 
-<p>If you're successful, then you probably <em>either</em> expect that you're all about acquiring content without those sites, <em>or</em> that you're going to be aggregating content forever and adding value in some useful way.</p>
+If you're successful, then you probably *either* expect that you're all about acquiring content without those sites, *or* that you're going to be aggregating content forever and adding value in some useful way.
 
-<p>In the first case, a lot of growth hackers would suggest that you do whatever it takes to get initial content so you can press on to validation. The measure is going to be about content you acquire directly, and if you don't see a path emerge then you'll need to pivot.</p>
+In the first case, a lot of growth hackers would suggest that you do whatever it takes to get initial content so you can press on to validation. The measure is going to be about content you acquire directly, and if you don't see a path emerge then you'll need to pivot.
 
-<p>Some startups do this under a private beta or in complete stealth mode, only exposing their service under NDAs. That can work well if you have a team that looks highly investable, or if you're pitching your service to realtors say, so that you're using the scraped content for demo purposes. But if it's consumers you need to validate with, the longer you delay engaging with a big market, the lower your chances.</p>
+Some startups do this under a private beta or in complete stealth mode, only exposing their service under NDAs. That can work well if you have a team that looks highly investable, or if you're pitching your service to realtors say, so that you're using the scraped content for demo purposes. But if it's consumers you need to validate with, the longer you delay engaging with a big market, the lower your chances.
 
-<p>In the second case, you will more likely want to keep as much as possible of what you're doing inside the Ts &amp; Cs (making use of APIs and affiliate schemes wherever you can), because it's the value you're adding on top that you need to validate.</p>
+In the second case, you will more likely want to keep as much as possible of what you're doing inside the Ts & Cs (making use of APIs and affiliate schemes wherever you can), because it's the value you're adding on top that you need to validate.
 
-<p>So think about the long term, look at what you need to validate, and then worry about how the tactics of getting started could play out when you start to be successful enough to annoy someone.</p>
-
+So think about the long term, look at what you need to validate, and then worry about how the tactics of getting started could play out when you start to be successful enough to annoy someone.
 
 
 

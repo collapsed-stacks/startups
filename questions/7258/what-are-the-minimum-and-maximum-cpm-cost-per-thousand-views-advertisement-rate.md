@@ -4,8 +4,7 @@
 - tagged: `advertising`
 - score: 2
 
-<p>I am planning to launch a social networking website. In that I want to allow advertisements.For that i want to know Cost Per Thousand views advertisement rates?what are the minimum and maximum Cost Per Thousand Views ad rates for a website? Can i charge $20-30 if my website got famous?</p>
-
+I am planning to launch a social networking website. In that I want to allow advertisements.For that i want to know Cost Per Thousand views advertisement rates?what are the minimum and maximum Cost Per Thousand Views ad rates for a website? Can i charge $20-30 if my website got famous?
 
 
 ## Answer 7270
@@ -55,16 +54,15 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-09-04
 - score: 0
 
-<p>It completely depends on your audience, your channels (video, audio, display, text) and how you're selling your ads.</p>
+It completely depends on your audience, your channels (video, audio, display, text) and how you're selling your ads.
 
-<p>You can try to do some direct sales if you can deal with the logistics and throw in a few RTBs (real-time bidding) for when your direct clients' stock of ads run out. Or simply use RTBs directly (CPC, CPM, and/or CPA) so you're not worrying about selling the ads yourself. The first earns more but takes time and resources.</p>
+You can try to do some direct sales if you can deal with the logistics and throw in a few RTBs (real-time bidding) for when your direct clients' stock of ads run out. Or simply use RTBs directly (CPC, CPM, and/or CPA) so you're not worrying about selling the ads yourself. The first earns more but takes time and resources.
 
-<p>In either case, the more select/valuable your audience, the better the CPM you can snatch. And note that advertisers won't be interested in wasting their time on sites with a small audience. If your traffic is too small your only recourse are RTBs.</p>
+In either case, the more select/valuable your audience, the better the CPM you can snatch. And note that advertisers won't be interested in wasting their time on sites with a small audience. If your traffic is too small your only recourse are RTBs.
 
-<p>Being famous or popular is irrelevant. What counts is what your user base consists of and what it's doing on your site. If you build a social network for 1% individuals, investment bankers and entrepreneurs will pay a lot more than $20-30 to put their ads in front of them. If you're building a social network where teenagers are posting lol cat videos, there's not a chance in hell you'll be able to charge that much.</p>
+Being famous or popular is irrelevant. What counts is what your user base consists of and what it's doing on your site. If you build a social network for 1% individuals, investment bankers and entrepreneurs will pay a lot more than $20-30 to put their ads in front of them. If you're building a social network where teenagers are posting lol cat videos, there's not a chance in hell you'll be able to charge that much.
 
-<p>To get a rough idea of how much you can expect to make, look into similar websites and check their CPMs. Contact them if needed: pose as a potential advertiser and ask.</p>
-
+To get a rough idea of how much you can expect to make, look into similar websites and check their CPMs. Contact them if needed: pose as a potential advertiser and ask.
 
 
 

@@ -4,13 +4,14 @@
 - tagged: `business-plan`, `market-research`, `minimum-viable-product`, `project-management`
 - score: 4
 
-<p>I'm a Senior Software Developer in a Global Company, I'm ok with my job at the moment, I'm doing what I like and I'm giving the expected results for the company. </p>
+I'm a Senior Software Developer in a Global Company, I'm ok with my job at the moment, I'm doing what I like and I'm giving the expected results for the company. 
 
-<p>BUT (there is always a but), I'm not happy at all, I'm considering to start my own company and I'm kind of afraid about the market and what kind of things I should take care, before even think to quit my job.</p>
+BUT (there is always a but), I'm not happy at all, I'm considering to start my own company and I'm kind of afraid about the market and what kind of things I should take care, before even think to quit my job.
 
-<p>Sometimes I do some freelancer job it means that I have some customers already and I also have some projects in mind that I could start.</p>
+Sometimes I do some freelancer job it means that I have some customers already and I also have some projects in mind that I could start.
 
-<p>So, I would like to hear afrom anyone who had the same experience.</p>
+So, I would like to hear afrom anyone who had the same experience.
+
 
 
 

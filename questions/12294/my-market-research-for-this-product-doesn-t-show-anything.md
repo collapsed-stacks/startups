@@ -4,21 +4,23 @@
 - tagged: `market-research`, `product`, `resale`
 - score: 2
 
-<p>I'm moved from Europe to the USA and I'm little shocked that I couldn't find any businesses that provide what is so popular in Eastern Europe.</p>
+I'm moved from Europe to the USA and I'm little shocked that I couldn't find any businesses that provide what is so popular in Eastern Europe.
 
-<p>I'm thinking of bringing it to the US market and starting my own startup but first I need to understand why it isn't here. I don't feel like I would need too big of an investment to put in for this kind of store.</p>
+I'm thinking of bringing it to the US market and starting my own startup but first I need to understand why it isn't here. I don't feel like I would need too big of an investment to put in for this kind of store.
 
-<p>In Europe, there are "fruit syrup on tap businesses" that sell many types of these syrups by drafting them directly into the client's bottle. They also offer a bottle if the customer doesn't have any. It is very popular and people love it. People can make water mixes at home simply by just adding a small amount of the syrup and mixing with water they have a ready drink. They also sell vine but I'm not focused on that right now as that requires extra permits.</p>
+In Europe, there are "fruit syrup on tap businesses" that sell many types of these syrups by drafting them directly into the client's bottle. They also offer a bottle if the customer doesn't have any. It is very popular and people love it. People can make water mixes at home simply by just adding a small amount of the syrup and mixing with water they have a ready drink. They also sell vine but I'm not focused on that right now as that requires extra permits.
 
-<p>The stores look like this:
-<a href="https://i.stack.imgur.com/fJbTu.jpg" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/fJbTu.jpg" alt="enter image description here"></a></p>
+The stores look like this:
+[![enter image description here][1]][1]
 
-<p>Now I understand that people in the USA are very influenced by brands like Coca Cola, Sprite and so on but there is also some prejudice that these soft drinks are not as healthy. Here is where I come in. With healthy, many times without preservatives fruit syrups, people can get directly from the tap and pay the amount they ask.</p>
 
-<p>So I don't fully understand where the catch is. Is the legislative in obtaining permits for this kind of business very difficult? I understand if I'm selling an eatable product I need licenses and permits but I don't think it would be too big of a problem if I only resell and not manufacture it. Or people are simply not interested? </p>
+  [1]: https://i.stack.imgur.com/fJbTu.jpg
 
-<p>State: Ohio</p>
+Now I understand that people in the USA are very influenced by brands like Coca Cola, Sprite and so on but there is also some prejudice that these soft drinks are not as healthy. Here is where I come in. With healthy, many times without preservatives fruit syrups, people can get directly from the tap and pay the amount they ask.
 
+So I don't fully understand where the catch is. Is the legislative in obtaining permits for this kind of business very difficult? I understand if I'm selling an eatable product I need licenses and permits but I don't think it would be too big of a problem if I only resell and not manufacture it. Or people are simply not interested? 
+
+State: Ohio
 
 
 ## Answer 12295

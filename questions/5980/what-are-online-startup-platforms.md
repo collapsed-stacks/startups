@@ -4,8 +4,7 @@
 - tagged: `startup-costs`, `lean-startup`, `online-tool`, `startup-weekend`
 - score: 2
 
-<p>I want to startup a company with my few applications that I have built as me university project. Since the government rules of my country for startup in not comfortable, I am looking for online platforms where I can startup easily and promote my business.</p>
-
+I want to startup a company with my few applications that I have built as me university project. Since the government rules of my country for startup in not comfortable, I am looking for online platforms where I can startup easily and promote my business.
 
 ## No Answers
 

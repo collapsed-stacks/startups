@@ -4,15 +4,14 @@
 - tagged: `marketing`, `social-networking`, `user-acquisition`
 - score: 0
 
-<p>I've built up a social network that could, at least in my opinion, revolutionize the whole social networking industry because it has innovative functions and market research has shown that people find it amazing. 
-My problem: I'm just 16 and I don't have any money that I could spend on advertising. Therefor I've spend a lot of time making my product as engaging as possible and I'm trying to get in a viral growth engine so that the users share the app by themselves.</p>
+I've built up a social network that could, at least in my opinion, revolutionize the whole social networking industry because it has innovative functions and market research has shown that people find it amazing. 
+My problem: I'm just 16 and I don't have any money that I could spend on advertising. Therefor I've spend a lot of time making my product as engaging as possible and I'm trying to get in a viral growth engine so that the users share the app by themselves.
 
-<p>I'd like to target especially the generation Snapchat, that means young people between 14 and 24.</p>
+I'd like to target especially the generation Snapchat, that means young people between 14 and 24.
 
-<p>Do you guys know any special techniques, ways that similar startups have achieved growth or special strategies to acquire users in this target group for nearly no money?</p>
+Do you guys know any special techniques, ways that similar startups have achieved growth or special strategies to acquire users in this target group for nearly no money?
 
-<p>Thanks for every answer!</p>
-
+Thanks for every answer!
 
 
 ## Answer 13184

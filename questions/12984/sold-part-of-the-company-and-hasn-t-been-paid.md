@@ -4,14 +4,13 @@
 - tagged: `partnership`, `partners`, `shares`
 - score: 1
 
-<p>2 years ago I sold 50% of my company to a person for 50k. At that point I received only 20% of that amount. Things hasn't been so great between us, and he is now trying to sell his part, take the money and leave the company in financial issues, as also he has been taking money from the company as salary, while I haven't.</p>
+2 years ago I sold 50% of my company to a person for 50k. At that point I received only 20% of that amount. Things hasn't been so great between us, and he is now trying to sell his part, take the money and leave the company in financial issues, as also he has been taking money from the company as salary, while I haven't.
 
-<p>I know most of the recommendations would be to find a lawyer and fight for the shares that weren't paid, but is there any other alternative?</p>
+I know most of the recommendations would be to find a lawyer and fight for the shares that weren't paid, but is there any other alternative?
 
-<p>I have proof of all this, so it is not a problem to prove it. Unfortunately lawyers are so expensive and as far I know just going to court will cost 30k.</p>
+I have proof of all this, so it is not a problem to prove it. Unfortunately lawyers are so expensive and as far I know just going to court will cost 30k.
 
-<p>I am located in Ireland.</p>
-
+I am located in Ireland.
 
 
 ## Answer 12985

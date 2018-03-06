@@ -4,16 +4,15 @@
 - tagged: `payment`, `billing`
 - score: 1
 
-<p>Say, I have a project that users will pay for on recurring basis, or any other way with credit cards.</p>
+Say, I have a project that users will pay for on recurring basis, or any other way with credit cards.
 
-<p>I don't need the billing system to be highly flexible or customizable as it's made just for this project. I suppose I can even have only one bank in the backend to process the payments. Being a programmer I can do some dirty job to connect their system to my project.</p>
+I don't need the billing system to be highly flexible or customizable as it's made just for this project. I suppose I can even have only one bank in the backend to process the payments. Being a programmer I can do some dirty job to connect their system to my project.
 
-<p>I wonder, what's the shortest path from the payment page to my account? Is it possible that I go to bank, tell them that I want to accept payments online via CC and put the money on my account in this bank and then they provide me with some tools to integrate?</p>
+I wonder, what's the shortest path from the payment page to my account? Is it possible that I go to bank, tell them that I want to accept payments online via CC and put the money on my account in this bank and then they provide me with some tools to integrate?
 
-<p>I know I can use Stripe, Braintree or any other of the myriad of billing systems but I am interested in how they work on the side of actual processing of the payments. As these services are attractive to developers because of their simplicity, I wonder what amount of crap and boring stuff they have to deal with?</p>
+I know I can use Stripe, Braintree or any other of the myriad of billing systems but I am interested in how they work on the side of actual processing of the payments. As these services are attractive to developers because of their simplicity, I wonder what amount of crap and boring stuff they have to deal with?
 
-<p>Can I learn more about it somewhere? Are there special conditions I have to conform to before being able to accept payments besides having a company?</p>
-
+Can I learn more about it somewhere? Are there special conditions I have to conform to before being able to accept payments besides having a company?
 
 
 ## Answer 11694

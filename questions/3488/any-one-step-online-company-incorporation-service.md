@@ -4,28 +4,28 @@
 - tagged: `incorporation`, `online-tool`
 - score: 1
 
-<p>I saw a lot of online incorporation services, like :
-<a href="https://valcu.co/" rel="nofollow">https://valcu.co/</a>
-<a href="http://startupr.com/" rel="nofollow">http://startupr.com/</a>
+I saw a lot of online incorporation services, like :
+https://valcu.co/
+http://startupr.com/
 and
-<a href="https://www.clerky.com/" rel="nofollow">https://www.clerky.com/</a></p>
+https://www.clerky.com/
 
-<p>They seem pretty seamless and quite cheap, but none of them seem to provide bank account opening and virtual address in the US.</p>
+They seem pretty seamless and quite cheap, but none of them seem to provide bank account opening and virtual address in the US.
 
-<p>I live in Hong Kong (I'm not a US citizen), I would like to open a Delaware corporation (requirement from my investor)</p>
+I live in Hong Kong (I'm not a US citizen), I would like to open a Delaware corporation (requirement from my investor)
 
-<p>Any online tool would do, as long as it's painless.</p>
+Any online tool would do, as long as it's painless.
 
-<p>Any of you had experience doing this ?</p>
+Any of you had experience doing this ?
 
-<p>EDIT :</p>
 
-<p>After deeper research I found out that remote opening of a US bank account is impossible for non-US citizens. You have to go there at least once.</p>
+EDIT :
 
-<p>But, the good news is a US company doesn't <strong>have</strong> to have a US bank account !</p>
+After deeper research I found out that remote opening of a US bank account is impossible for non-US citizens. You have to go there at least once.
 
-<p>So I will simply open a US company with a HK bank account. In my case it should do.</p>
+But, the good news is a US company doesn't **have** to have a US bank account !
 
+So I will simply open a US company with a HK bank account. In my case it should do.
 
 
 ## Answer 3490
@@ -33,7 +33,7 @@ and
 - posted by: [Okyasoft](https://stackexchange.com/users/294248/okyasoft) on 2015-02-23
 - score: 2
 
-<p>Opening a bank account in US is a separate process and has other additional requirements thus it is typically not included. May be it is better if you can try and work with a local law firm in Hong Kong that has experience in it.</p>
+Opening a bank account in US is a separate process and has other additional requirements thus it is typically not included. May be it is better if you can try and work with a local law firm in Hong Kong that has experience in it.
 
 
 

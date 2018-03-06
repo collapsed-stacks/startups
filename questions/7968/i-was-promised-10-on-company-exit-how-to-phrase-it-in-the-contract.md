@@ -4,22 +4,19 @@
 - tagged: `equity`, `contracts`, `stock-options`, `exit`
 - score: 4
 
-<p>I work with the company for many years and they want me on-board full time as an exec.</p>
+I work with the company for many years and they want me on-board full time as an exec.
 
-<p>I am involved in the process of drafting a contract. They want to give me the 10% of company but only on event of the company exit.</p>
+I am involved in the process of drafting a contract. They want to give me the 10% of company but only on event of the company exit.
 
-<p>What should I keep in mind when drafting or reviewing this portion of a contract?</p>
+What should I keep in mind when drafting or reviewing this portion of a contract?
 
-<p>Also, I spend already many years with the company and would like to keep that 10% as an option even if I leave a company after few years. Say I leave them after 5 years but 1 year later they got sold.</p>
+Also, I spend already many years with the company and would like to keep that 10% as an option even if I leave a company after few years. Say I leave them after 5 years but 1 year later they got sold.
 
-<p>Some ideas / questions:</p>
+Some ideas / questions:
 
-<ul>
-<li>I've read about accelerated vesting on exit. I was thinking that this can be used to vest equity in 'change of control' or IPO.</li>
-<li>Perhaps it would be better to use options instead of equity, since company is reluctant to give away 10% shares before the exit. My thinking is that receiving options that can be cashed in the event of exit means I can keep them even if I leave the company. </li>
-<li>Not sure if non-dilution clause is a good idea, from what I read it is frown upon everywhere.</li>
-</ul>
-
+* I've read about accelerated vesting on exit. I was thinking that this can be used to vest equity in 'change of control' or IPO.
+* Perhaps it would be better to use options instead of equity, since company is reluctant to give away 10% shares before the exit. My thinking is that receiving options that can be cashed in the event of exit means I can keep them even if I leave the company. 
+* Not sure if non-dilution clause is a good idea, from what I read it is frown upon everywhere.
 
 
 ## Answer 11637

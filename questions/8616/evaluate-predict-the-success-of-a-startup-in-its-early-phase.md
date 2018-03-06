@@ -4,12 +4,11 @@
 - tagged: `tech-company`, `investment`, `investors`, `accelerators`, `incubators`
 - score: 5
 
-<p>I have read that some incubators are using models to predict the success of a startup in the pre-launch phase.</p>
+I have read that some incubators are using models to predict the success of a startup in the pre-launch phase.
 
-<p>However, I currently haven't found any academic approaches.</p>
+However, I currently haven't found any academic approaches.
 
-<p>Any suggestions about state of the art approaches and papers about predicting the success of a startup in the pre-launch phase?</p>
-
+Any suggestions about state of the art approaches and papers about predicting the success of a startup in the pre-launch phase?
 
 
 ## Answer 8711

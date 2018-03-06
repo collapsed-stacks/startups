@@ -4,8 +4,7 @@
 - tagged: `legal`
 - score: 1
 
-<p>What can be said about the relation between companies and shares in South African Law, the advantages and disadvantages as an introduction in depth to the topic about companies and shares</p>
-
+What can be said about the relation between companies and shares in South African Law, the advantages and disadvantages as an introduction in depth to the topic about companies and shares
 
 ## No Answers
 

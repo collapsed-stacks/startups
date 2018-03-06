@@ -4,10 +4,9 @@
 - tagged: `legal`, `united-kingdom`, `c-corporation`
 - score: 0
 
-<p>Do I still have to register my company here in the UK? Or can I just register my startup as a C-Corp and that's it?</p>
+Do I still have to register my company here in the UK? Or can I just register my startup as a C-Corp and that's it?
 
-<p>Also, if I were to register as a C-Corp in Delaware, am I still eligible to SEIS?</p>
-
+Also, if I were to register as a C-Corp in Delaware, am I still eligible to SEIS?
 
 ## No Answers
 

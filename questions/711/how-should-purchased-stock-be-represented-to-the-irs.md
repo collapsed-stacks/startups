@@ -4,10 +4,9 @@
 - tagged: `united-states`, `taxes`, `stock-options`, `contractors`
 - score: 3
 
-<p>I'm an independent contractor working for a startup. I've been given the option to purchase some stock of the company at current pre-funding value. How do I represent this on my US taxes?</p>
+I'm an independent contractor working for a startup. I've been given the option to purchase some stock of the company at current pre-funding value. How do I represent this on my US taxes?
 
-<p>I am not trading work for equity: I have been given the specific option to purchase these shares.</p>
-
+I am not trading work for equity: I have been given the specific option to purchase these shares.
 
 
 ## Answer 713
@@ -15,19 +14,17 @@
 - posted by: [eggyal](https://stackexchange.com/users/310184/eggyal) on 2014-09-13
 - score: 5
 
-<p>Since you are an independent contractor, you cannot have been granted "statutory options".  Your options are instead considered to be "non-statutory".</p>
+Since you are an independent contractor, you cannot have been granted "statutory options".  Your options are instead considered to be "non-statutory".
 
-<p>From what you have said, it is also likely that your option does <em>not</em> have a "readily determinable value"&mdash;for example, it is neither traded on an established market nor can you make a risk-free gain from its immediate exercise (as might have been the case if the underlying stock was currently trading for more than the strike price on an established market).</p>
+From what you have said, it is also likely that your option does *not* have a "readily determinable value"&mdash;for example, it is neither traded on an established market nor can you make a risk-free gain from its immediate exercise (as might have been the case if the underlying stock was currently trading for more than the strike price on an established market).
 
-<p>As such, you do not have any income tax liability for the options until either:</p>
+As such, you do not have any income tax liability for the options until either:
 
-<ul>
-<li><p>they are exercised and the resulting stock becomes substantially vested (i.e. is not subject to any restrictions under which you might be required to give it back)&mdash;you then recognise taxable income of the difference between the option's strike price and the stock's then fair market value; or</p></li>
-<li><p>you transfer the option&mdash;you then recognise taxable income of the value thereby received <em>and</em> if transferred in a non-arm's length transaction, you subsequently recognise further taxable income (of the difference between the option's strike price plus the received value and the stock's then fair market value).</p></li>
-</ul>
+* they are exercised and the resulting stock becomes substantially vested (i.e. is not subject to any restrictions under which you might be required to give it back)&mdash;you then recognise taxable income of the difference between the option's strike price and the stock's then fair market value; or
 
-<p>See the <a href="http://www.irs.gov/publications/p525/ar02.html#en_US_2013_publink1000229198">Stock Options</a> section of IRS Publication 525 ("Taxable and Nontaxable Income") for more information.</p>
+* you transfer the option&mdash;you then recognise taxable income of the value thereby received *and* if transferred in a non-arm's length transaction, you subsequently recognise further taxable income (of the difference between the option's strike price plus the received value and the stock's then fair market value).
 
+See the [Stock Options](http://www.irs.gov/publications/p525/ar02.html#en_US_2013_publink1000229198) section of IRS Publication 525 ("Taxable and Nontaxable Income") for more information.
 
 
 ## Answer 735
@@ -35,12 +32,11 @@
 - posted by: [ErstwhileIII](https://stackexchange.com/users/2320529/erstwhileiii) on 2014-09-16
 - score: -1
 
-<p>For IRS purposes, you do NOT have an event when you purchase stock. You will need to keep the amount that you paid, however, for tax purposes.</p>
+For IRS purposes, you do NOT have an event when you purchase stock. You will need to keep the amount that you paid, however, for tax purposes.
 
-<p>The taxable event occurs when you SELL the stock.</p>
+The taxable event occurs when you SELL the stock.
 
-<p>If, as unlikely as it may be, the company you work for pays a dividend, then that is a tax event also.</p>
-
+If, as unlikely as it may be, the company you work for pays a dividend, then that is a tax event also.
 
 
 

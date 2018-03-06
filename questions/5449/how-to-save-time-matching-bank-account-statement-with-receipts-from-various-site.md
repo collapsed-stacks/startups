@@ -4,15 +4,16 @@
 - tagged: `accounting`
 - score: 4
 
-<p>Every month I waste hours logging in to various online services to find receipts that match the transactions in my bank account statement.</p>
+Every month I waste hours logging in to various online services to find receipts that match the transactions in my bank account statement.
 
-<p><strong>For example</strong> </p>
+**For example** 
 
-<p>I might have a transaction "July 4th, 13.50 EUR amazon.co.jp", so now I have to go to Amazon and try to look at the order list to find the order that would be 13.50 so I can download the receipt. Next, "July 5th, 19.95 USD basecamp" so I log in to Basecamp to find a receipt for that. When it comes to a transaction from Google, it can take me 30 minutes to match the bank transactions with receipts as their services are so vast (app engine, adwords, apps etc.).</p>
+I might have a transaction "July 4th, 13.50 EUR amazon.co.jp", so now I have to go to Amazon and try to look at the order list to find the order that would be 13.50 so I can download the receipt. Next, "July 5th, 19.95 USD basecamp" so I log in to Basecamp to find a receipt for that. When it comes to a transaction from Google, it can take me 30 minutes to match the bank transactions with receipts as their services are so vast (app engine, adwords, apps etc.).
 
-<p>Is there a better way? </p>
+Is there a better way? 
 
-<p>I'm already using 1Password to at least make logging in easier, but I still have to navigate each site to find and download/screenshot the receipt.</p>
+I'm already using 1Password to at least make logging in easier, but I still have to navigate each site to find and download/screenshot the receipt.
+
 
 
 

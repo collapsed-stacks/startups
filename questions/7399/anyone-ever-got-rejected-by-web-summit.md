@@ -4,11 +4,10 @@
 - tagged: `startup-costs`
 - score: 4
 
-<p>My company has just been selected for Web Summit 2015. </p>
+My company has just been selected for Web Summit 2015. 
 
-<p>Has anyone been 'rejected' from the selection process before?<br >
- I'd like to check on their authenticity. </p>
-
+Has anyone been 'rejected' from the selection process before?<br >
+ I'd like to check on their authenticity. 
 
 
 ## Answer 11029
@@ -16,10 +15,9 @@
 - posted by: [Janet Todorova](https://stackexchange.com/users/7047617/janet-todorova) on 2016-08-28
 - score: 3
 
-<p>No need to clarify which web summit - the startup community knows the background story of The Web Summit and it's reputation. And no, I haven't heard of rejected startups.</p>
+No need to clarify which web summit - the startup community knows the background story of The Web Summit and it's reputation. And no, I haven't heard of rejected startups.
 
-<p>What happened a few years ago to a friend and their startup was they passed several application rounds, incl. they had to ask their friends on social media to vote for them. In the end the organisers told them they successfully qualified to attend and now have to pay 3k to visit (was not mentioned earlier). Since all their network was already involved they couldn't reject the invitation and took part, but felt scammed.</p>
-
+What happened a few years ago to a friend and their startup was they passed several application rounds, incl. they had to ask their friends on social media to vote for them. In the end the organisers told them they successfully qualified to attend and now have to pay 3k to visit (was not mentioned earlier). Since all their network was already involved they couldn't reject the invitation and took part, but felt scammed.
 
 
 ## Answer 9195

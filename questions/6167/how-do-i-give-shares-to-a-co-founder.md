@@ -4,8 +4,7 @@
 - tagged: `equity`, `llc`
 - score: 3
 
-<p>I have founded an LLC with a partner and want to bring in two more co-founders for a n% of the company. How would I go about doing this legally, what document would I need to accomplish this?</p>
-
+I have founded an LLC with a partner and want to bring in two more co-founders for a n% of the company. How would I go about doing this legally, what document would I need to accomplish this?
 
 
 ## Answer 6168

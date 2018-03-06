@@ -4,12 +4,15 @@
 - tagged: `entrepreneurship`
 - score: 5
 
-<p>While I was reading through another forum post (<a href="https://startups.stackexchange.com/questions/3028/how-much-learning-how-much-working">"How Much Learning, How Much Working?"</a>) on recommended-reading for wrapping your head around basic entrepreneurial skills, someone pointed out that starting and sustaining a business is "seen as glamorous but many people do not have the personality, skills, or dedication to be successful entrepreneurs".</p>
+While I was reading through another forum post (["How Much Learning, How Much Working?"][1]) on recommended-reading for wrapping your head around basic entrepreneurial skills, someone pointed out that starting and sustaining a business is "seen as glamorous but many people do not have the personality, skills, or dedication to be successful entrepreneurs".
 
-<p>So my question is, <strong>what is the ideal "personality" of a successful entrepreneur?</strong> And, if one does not have this personality, how might they work towards it? </p>
 
-<p>I do not believe this to be an opinion-based question as it should be a matter of statistics... some are simply better entrepreneurs than others.</p>
+So my question is, **what is the ideal "personality" of a successful entrepreneur?** And, if one does not have this personality, how might they work towards it? 
 
+
+I do not believe this to be an opinion-based question as it should be a matter of statistics... some are simply better entrepreneurs than others.
+
+  [1]: https://startups.stackexchange.com/questions/3028/how-much-learning-how-much-working
 
 
 ## Answer 3217
@@ -143,37 +146,30 @@
 - posted by: [JPM](https://stackexchange.com/users/5523828/jpm) on 2015-01-28
 - score: 1
 
-<p>There is an interesting section in a book called "The Smart Startup: A Better Approach to Online Business for Entrepreneurs" by Sonya Zhang and Neal Cabage (Available to read on Safari E-books, just grab a free 30 day trail) that I feel covers this question quite well. Below is an extract from the first chapter in the book, "Why Become an Entrepreneur", which discusses this topic;</p>
+There is an interesting section in a book called "The Smart Startup: A Better Approach to Online Business for Entrepreneurs" by Sonya Zhang and Neal Cabage (Available to read on Safari E-books, just grab a free 30 day trail) that I feel covers this question quite well. Below is an extract from the first chapter in the book, "Why Become an Entrepreneur", which discusses this topic;
 
-<blockquote>
-  <p>The field of psychology has produced an interesting body of research around the topic of personality and pairing it with career choices. Carl Jung first introduced the idea of psychological types in the 1920s. Katherine Briggs and her daughter Isabel Briggs Myers later added to these ideas, creating the Myers-Briggs Type Indicator (MBTI), which assigns one of sixteen possible personalities based on a series of self-assessment questions. A generation later, in the 1950s, David Keirsey took up the task of applying MBTI and the related theories to determine appropriate societal roles and career choices. The resulting personality assessment test, known as the Keirsey Temperament Sorter, is a common tool used by career counselors today.</p>
-</blockquote>
+> The field of psychology has produced an interesting body of research around the topic of personality and pairing it with career choices. Carl Jung first introduced the idea of psychological types in the 1920s. Katherine Briggs and her daughter Isabel Briggs Myers later added to these ideas, creating the Myers-Briggs Type Indicator (MBTI), which assigns one of sixteen possible personalities based on a series of self-assessment questions. A generation later, in the 1950s, David Keirsey took up the task of applying MBTI and the related theories to determine appropriate societal roles and career choices. The resulting personality assessment test, known as the Keirsey Temperament Sorter, is a common tool used by career counselors today.
 
-<p>It then goes onto discuss how Jung identified 4 fundamental personality types with Myers-Briggs expanding on this to make a total of eight personality types and 16 different combinations. These personality types are;</p>
+It then goes onto discuss how Jung identified 4 fundamental personality types with Myers-Briggs expanding on this to make a total of eight personality types and 16 different combinations. These personality types are;
 
-<ul>
-<li>Extroversion or introversion (E/I)</li>
-<li>Sensing or intuition (S/N)</li>
-<li>Thinking or feeling (T/F)</li>
-<li>Judging or perceiving (J/P)</li>
-</ul>
+- Extroversion or introversion (E/I)
+- Sensing or intuition (S/N)
+- Thinking or feeling (T/F)
+- Judging or perceiving (J/P)
 
-<p>The book gives a thorough explanation of the details of each personality type so I really suggest you read it but the general agreement is that the ideal personality types for an entrepreneur are ENTP and ENTJ.</p>
+The book gives a thorough explanation of the details of each personality type so I really suggest you read it but the general agreement is that the ideal personality types for an entrepreneur are ENTP and ENTJ.
 
-<p>It does however, state that other personality types are suited and have more impact in different roles. For example an ENTP personality type might be more ideal for the technology start up in Silicon Valley, focused on developing an innovative product.</p>
+It does however, state that other personality types are suited and have more impact in different roles. For example an ENTP personality type might be more ideal for the technology start up in Silicon Valley, focused on developing an innovative product.
 
-<p>Obviously you can succeeded in a start up without these personality types but it gives you a good idea on perhaps where you would be best suited in a Start Up venture.</p>
+Obviously you can succeeded in a start up without these personality types but it gives you a good idea on perhaps where you would be best suited in a Start Up venture.
 
-<blockquote>
-  <p>And, if one does not have this personality, how might they work towards it?</p>
-</blockquote>
+> And, if one does not have this personality, how might they work towards it?
 
-<p>With regards to this question, I believe it is a case of getting out there are practicing the area of yourself you want to improve on. Evaluate yourself and identify what you want to improve on and what you think you do and don't do well within that area.</p>
+With regards to this question, I believe it is a case of getting out there are practicing the area of yourself you want to improve on. Evaluate yourself and identify what you want to improve on and what you think you do and don't do well within that area.
 
-<p>If you're more of a technical person and aren't very comfortable approaching people or speaking publicly, see if there is something at work or at school that you can get involved that has these types of activities involved in them. Try to really push yourself out of your comfort zone and before you know it, it will become second nature to you.</p>
+If you're more of a technical person and aren't very comfortable approaching people or speaking publicly, see if there is something at work or at school that you can get involved that has these types of activities involved in them. Try to really push yourself out of your comfort zone and before you know it, it will become second nature to you.
 
-<p>Hope this answers your question.</p>
-
+Hope this answers your question.
 
 
 ## Answer 3215
@@ -181,16 +177,15 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-01-28
 - score: 0
 
-<p>To me the main characteristics are:</p>
+To me the main characteristics are:
 
-<ul>
-<li><p>Empathetic business sense: A flair for spotting problems that others have and are willing to pay to see go away. You won't have a startup to create without this.</p></li>
-<li><p>Fearless enthusiasm: Uncompromising enthusiasm with occasionally reckless dauntlessness. You'll procrastinate without this -- especially in David vs Goliath moments or when people you care about tell you "it'll never work." (In some sense, most startups fail before they're even started.)</p></li>
-<li><p>Charismatic leadership: A knack for convincing others to work for you, and a penchant for delegating tasks. You won't scale, or not as well, without this.</p></li>
-</ul>
+- Empathetic business sense: A flair for spotting problems that others have and are willing to pay to see go away. You won't have a startup to create without this.
 
-<p>You can make do without them -- some get lucky, some fail, some muddle through.</p>
+- Fearless enthusiasm: Uncompromising enthusiasm with occasionally reckless dauntlessness. You'll procrastinate without this -- especially in David vs Goliath moments or when people you care about tell you "it'll never work." (In some sense, most startups fail before they're even started.)
 
+- Charismatic leadership: A knack for convincing others to work for you, and a penchant for delegating tasks. You won't scale, or not as well, without this.
+
+You can make do without them -- some get lucky, some fail, some muddle through.
 
 
 

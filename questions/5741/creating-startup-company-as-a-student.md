@@ -4,14 +4,19 @@
 - tagged: `legal`, `business-registration`
 - score: 2
 
-<p>I am 14 years old student living in Ukraine. I have my own idea that I want to realise: run my own business and sell my product(s) worldwide. I want to create an accessory for iOS devices. I have experience as an iOS developer and worked with embedded computing development boards such as <a href="http://arduino.cc" rel="nofollow">Arduino</a> and <a href="http://www.ti.com/launchpad" rel="nofollow">LaunchPad</a>. I want to use <a href="https://developer.apple.com/homekit/" rel="nofollow">Apple's HomeKit</a>. To developer iOS application for HomeKit-enabled
- accessory I only need <a href="https://developer.apple.com/programs/" rel="nofollow">Apple Developer Program</a>, which I have. But to develop HomeKit hardware, I need <a href="https://developer.apple.com/programs/mfi/" rel="nofollow">Apple MFI license</a>. It is available only for officially registered companies and need validations. So my question is:</p>
+I am 14 years old student living in Ukraine. I have my own idea that I want to realise: run my own business and sell my product(s) worldwide. I want to create an accessory for iOS devices. I have experience as an iOS developer and worked with embedded computing development boards such as [Arduino][1] and [LaunchPad][2]. I want to use [Apple's HomeKit][3]. To developer iOS application for HomeKit-enabled
+ accessory I only need [Apple Developer Program][4], which I have. But to develop HomeKit hardware, I need [Apple MFI license][5]. It is available only for officially registered companies and need validations. So my question is:
 
-<ol>
-<li>Is there any official way to register company to a person with <strong>NO</strong> age of majority? If yes, how much does it cost and what is procedure of doing that?</li>
-<li>Is there any website like <a href="https://www.kickstarter.com" rel="nofollow">Kickstarter</a> available in Ukraine and available for students?</li>
-</ol>
+ 1. Is there any official way to register company to a person with **NO** age of majority? If yes, how much does it cost and what is procedure of doing that?
+ 2. Is there any website like [Kickstarter][6] available in Ukraine and available for students?
 
+
+  [1]: http://arduino.cc
+  [2]: http://www.ti.com/launchpad
+  [3]: https://developer.apple.com/homekit/
+  [4]: https://developer.apple.com/programs/
+  [5]: https://developer.apple.com/programs/mfi/
+  [6]: https://www.kickstarter.com
 
 
 ## Answer 5743
@@ -19,13 +24,10 @@
 - posted by: [Alain](https://stackexchange.com/users/21866/alain) on 2015-07-15
 - score: 3
 
-<p>You have two problems:</p>
+You have two problems:
 
-<ol>
-<li>Underage: in most places, anything you sign is void and doesn't count. Just find a proxy, typically a parent, to handle the paperwork, and do all the rest of the work yourself.</li>
-<li>Ukraine: there are currently restrictions that prevent many companies from doing business with Ukraine. Not sure how to work around it. You could try to incorporate somewhere else, if that's possible.</li>
-</ol>
-
+ 1. Underage: in most places, anything you sign is void and doesn't count. Just find a proxy, typically a parent, to handle the paperwork, and do all the rest of the work yourself.
+ 2. Ukraine: there are currently restrictions that prevent many companies from doing business with Ukraine. Not sure how to work around it. You could try to incorporate somewhere else, if that's possible.
 
 
 

@@ -4,26 +4,19 @@
 - tagged: `equity`, `idea`
 - score: 31
 
-<p>Assume:</p>
+Assume:
 
-<ul>
-<li>Person <strong><em>A</em></strong> supplies an <strong><em>idea</em></strong> for an app.</li>
-<li>Person <strong><em>B</em></strong> <strong><em>builds</em></strong> the app.</li>
-</ul>
+- Person ***A*** supplies an ***idea*** for an app.
+- Person ***B*** ***builds*** the app.
 
-<p>Question:</p>
+Question:
 
-<blockquote>
-  <ul>
-  <li>In percentage terms, how much is the idea worth in the marketplace?</li>
-  <li>What percentages should <strong><em>A</em></strong> and <strong><em>B</em></strong> receive, respectively?</li>
-  </ul>
-</blockquote>
+> - In percentage terms, how much is the idea worth in the marketplace?
+> - What percentages should ***A*** and ***B*** receive, respectively?
 
-<p>Clarification:</p>
+Clarification:
 
-<p>Please don't respond with "It depends on what <strong><em>A</em></strong> and <strong><em>B</em></strong> agree." (Or any variation thereof.) Yes, thank you, we all already know that. This question is about marketplace valuation in general. Assume a non-specific, generic app idea. (For the mathematically inclined, consider this a question about the <strong><em>median statistic</em></strong> for similar situations.)</p>
-
+Please don't respond with "It depends on what ***A*** and ***B*** agree." (Or any variation thereof.) Yes, thank you, we all already know that. This question is about marketplace valuation in general. Assume a non-specific, generic app idea. (For the mathematically inclined, consider this a question about the ***median statistic*** for similar situations.)
 
 
 ## Answer 7777
@@ -56,19 +49,18 @@
 - posted by: [Peteris](https://stackexchange.com/users/152198/peteris) on 2015-11-10
 - score: 29
 
-<h2>Zero</h2>
+## Zero ##
 
-<p>An idea alone is generally considered worthless. A common scenario is where 'the idea guy' gets a major portion of the company value, but not for 'handing over' a general idea or concept, but for important contributions in the following areas:</p>
+An idea alone is generally considered worthless. A common scenario is where 'the idea guy' gets a major portion of the company value, but not for 'handing over' a general idea or concept, but for important contributions in the following areas:
 
-<ul>
-<li>idea validation in detail - customer analysis, mockups, interviews, etc that test and validate neccessary assumptions, identify obstacles and exact customer nichers;</li>
-<li>initial sales, and development of the sales process - pitch deck, sales arguments, marketing;</li>
-<li>negotiating and otherwise making possible all the required deals with various partners and suppliers;</li>
-<li>continuously provide domain-specific expertise that the startup needs but otherwise wouldn't have;</li>
-<li>often also manage the business plan, the financial estimates (and ensuring how they're met afterwards) and all the effort related to acquisition of external funding.</li>
-</ul>
+ - idea validation in detail - customer analysis, mockups, interviews, etc that test and validate neccessary assumptions, identify obstacles and exact customer nichers;
+ - initial sales, and development of the sales process - pitch deck, sales arguments, marketing;
+ - negotiating and otherwise making possible all the required deals with various partners and suppliers;
+ - continuously provide domain-specific expertise that the startup needs but otherwise wouldn't have;
+ - often also manage the business plan, the financial estimates (and ensuring how they're met afterwards) and all the effort related to acquisition of external funding.
 
-<p>Those things are very valuable, and in most early startups cannot be covered well by other people than the 'idea originator' who tends to be the only one with the appropriate background, skills and connections - but the idea itself isn't valuable, and also is quite likely to be simply thrown out and replaced with a better one during the validation and development.</p>
+Those things are very valuable, and in most early startups cannot be covered well by other people than the 'idea originator' who tends to be the only one with the appropriate background, skills and connections - but the idea itself isn't valuable, and also is quite likely to be simply thrown out and replaced with a better one during the validation and development.
+
 
 
 
@@ -94,10 +86,9 @@
 - posted by: [triggerNZ](https://stackexchange.com/users/7861/triggernz) on 2015-11-11
 - score: 5
 
-<p>My approach to this is: If you approach me with an idea, and I develop it, I agree to split the equity according to the amount of work done. So if I am coding 40 hours a week and you are out there trying to raise funds/make sales 40 hours a week, it is 50/50. </p>
+My approach to this is: If you approach me with an idea, and I develop it, I agree to split the equity according to the amount of work done. So if I am coding 40 hours a week and you are out there trying to raise funds/make sales 40 hours a week, it is 50/50. 
 
-<p>Now what does the idea get you? It gets you the job. If it were not your idea, I would go out trying to find the best person for the job. Given that the idea is yours, and you have any experience relevant to the job you will be doing, you don't have to interview. Seems like not much, but as others have stated, ideas are a dime a dozen.</p>
-
+Now what does the idea get you? It gets you the job. If it were not your idea, I would go out trying to find the best person for the job. Given that the idea is yours, and you have any experience relevant to the job you will be doing, you don't have to interview. Seems like not much, but as others have stated, ideas are a dime a dozen.
 
 
 ## Answer 7781
@@ -116,20 +107,19 @@
 - posted by: [djechlin](https://stackexchange.com/users/1413944/djechlin) on 2015-11-10
 - score: 4
 
-<p>How much do you think an idea is worth without testing it?</p>
+How much do you think an idea is worth without testing it?
 
-<p>If you said "a lot", congratulations! Your startup won't be needing market research, customer feedback or analytics at any point. I assume you won't be engaging in agile development either since it sounds like you have a complete feature set figured out. Presumably it won't go obsolete by the time you finish building it, so kudos there.</p>
+If you said "a lot", congratulations! Your startup won't be needing market research, customer feedback or analytics at any point. I assume you won't be engaging in agile development either since it sounds like you have a complete feature set figured out. Presumably it won't go obsolete by the time you finish building it, so kudos there.
 
-<p>If you can't tell the sarcasm, pretty much no one in the startup space believes any of that anymore.</p>
+If you can't tell the sarcasm, pretty much no one in the startup space believes any of that anymore.
 
-<p>Conversely...</p>
+Conversely...
 
-<p>How much do you think building an app is worth without maintaining it?</p>
+How much do you think building an app is worth without maintaining it?
 
-<p>If you said "a lot", congratulations! You will never need to worry about scaling, upgrading your hardware, changing your private keys, conforming to new browser standards, or adapting to new phones. Or maybe you're selling shrink wrap software? I guess there won't be any sequels again. So again you would be wrong.</p>
+If you said "a lot", congratulations! You will never need to worry about scaling, upgrading your hardware, changing your private keys, conforming to new browser standards, or adapting to new phones. Or maybe you're selling shrink wrap software? I guess there won't be any sequels again. So again you would be wrong.
 
-<p><strong>"Ideas" and "building" are not one-time tasks.</strong> Developers/engineers seem to get this but a lot of people have trouble with this concept on the business end. Someone wants to have an idea and generally not bring any business expertise to the table or do any work and expect that to be worth something. Business expertise and hard work are worth a lot. Ideas by themselves are not. None.</p>
-
+**"Ideas" and "building" are not one-time tasks.** Developers/engineers seem to get this but a lot of people have trouble with this concept on the business end. Someone wants to have an idea and generally not bring any business expertise to the table or do any work and expect that to be worth something. Business expertise and hard work are worth a lot. Ideas by themselves are not. None.
 
 
 ## Answer 7787
@@ -137,20 +127,19 @@
 - posted by: [Jay](https://stackexchange.com/users/36232/jay) on 2015-11-10
 - score: 3
 
-<p>I'd say it depends on two key factors: How original is the idea? And how well-developed is it?</p>
+I'd say it depends on two key factors: How original is the idea? And how well-developed is it?
 
-<p>Anybody can say, "We should make a way cool video game" or "Let's open an Italian restaurant." General, vague ideas like that are worth pretty much zero. I could toss out dozens of them in ten minutes.</p>
+Anybody can say, "We should make a way cool video game" or "Let's open an Italian restaurant." General, vague ideas like that are worth pretty much zero. I could toss out dozens of them in ten minutes.
 
-<p>A truly original insight might be worth something. Like, "Hey, as the world is round, then it follows that we could reach the Far East by sailing west." But the idea itself isn't worth much. Columbus isn't famous because he thought about the idea of crossing the Atlantic Ocean, but because he actually did it.</p>
+A truly original insight might be worth something. Like, "Hey, as the world is round, then it follows that we could reach the Far East by sailing west." But the idea itself isn't worth much. Columbus isn't famous because he thought about the idea of crossing the Atlantic Ocean, but because he actually did it.
 
-<p>The more details you work out, the more valuable the idea becomes. Like, "I bet it's possible to build a machine, let's call it 'radio', that transmits sound without wires". Worth nothing. But if you can describe the principles on which it would actually work, now it's worth something. If you draw a schematic for a practical device, that's worth a lot.</p>
+The more details you work out, the more valuable the idea becomes. Like, "I bet it's possible to build a machine, let's call it 'radio', that transmits sound without wires". Worth nothing. But if you can describe the principles on which it would actually work, now it's worth something. If you draw a schematic for a practical device, that's worth a lot.
 
-<p>Or in the case of a software app, "Let's build an app to do accounting." Worth zero. "Let's build an app to do accounting, and here's how it would be different and better than competing apps on the market, and here's the documentation of the six months of market research I did analyzing the competition, and here's the ERD I came up with for the database, and here are mock-ups of the 40 main screens, and here's pseudo-code for the unique logic processes", that would be worth something.</p>
+Or in the case of a software app, "Let's build an app to do accounting." Worth zero. "Let's build an app to do accounting, and here's how it would be different and better than competing apps on the market, and here's the documentation of the six months of market research I did analyzing the competition, and here's the ERD I came up with for the database, and here are mock-ups of the 40 main screens, and here's pseudo-code for the unique logic processes", that would be worth something.
 
-<p>But how much? If you're looking for someone to say, "The idea is worth X% and the construction is worth Y%", I don't see how anyone could give such a number. Even if we had all the details of just what the "idea" was, it would be subjective and debatable. If, to make up a number, 30% of the time invested in the project was developing the design and 70% was building it, then that 30/70 split is a workable starting point. If the ideas behind the design are original and insightful and unique, maybe they're worth more than the raw hours. If they're routine, then no.</p>
+But how much? If you're looking for someone to say, "The idea is worth X% and the construction is worth Y%", I don't see how anyone could give such a number. Even if we had all the details of just what the "idea" was, it would be subjective and debatable. If, to make up a number, 30% of the time invested in the project was developing the design and 70% was building it, then that 30/70 split is a workable starting point. If the ideas behind the design are original and insightful and unique, maybe they're worth more than the raw hours. If they're routine, then no.
 
-<p>The real measure in economics is, "What would a willing buyer pay?" (i.e. someone who is not forced to buy because you're holding a gun to his head or threatening him with a lawsuit, and excluding sweetheart deals like the buyer is your father-in-law trying to help you out.) If person A has an idea for a new app, and he placed advertisements on appropriate websites saying "Idea for new app for sale" (presumably with just enough information to give buyers an idea what the new app is about without giving away the idea), how much would people pay? How much would you pay?</p>
-
+The real measure in economics is, "What would a willing buyer pay?" (i.e. someone who is not forced to buy because you're holding a gun to his head or threatening him with a lawsuit, and excluding sweetheart deals like the buyer is your father-in-law trying to help you out.) If person A has an idea for a new app, and he placed advertisements on appropriate websites saying "Idea for new app for sale" (presumably with just enough information to give buyers an idea what the new app is about without giving away the idea), how much would people pay? How much would you pay?
 
 
 ## Answer 7791
@@ -158,17 +147,16 @@
 - posted by: [joojaa](https://stackexchange.com/users/1407800/joojaa) on 2015-11-10
 - score: 3
 
-<p>An idea can be worth a lot. Its just that it requires very special circumstances to be worth anything at all. Ideas also do not in general become useful in the way is described here.</p>
+An idea can be worth a lot. Its just that it requires very special circumstances to be worth anything at all. Ideas also do not in general become useful in the way is described here.
 
-<p>In the example you have a person with an idea and a developper taking that idea to frution. But that can not happen, impossible. The only way that could happen is that the developer and the person with the idea is the same person. In all other cases the final product is a meeting of ideas by the developer and the idea originator who acts more like a seed than anything else. It is therefore hard to quantify the contribution.</p>
+In the example you have a person with an idea and a developper taking that idea to frution. But that can not happen, impossible. The only way that could happen is that the developer and the person with the idea is the same person. In all other cases the final product is a meeting of ideas by the developer and the idea originator who acts more like a seed than anything else. It is therefore hard to quantify the contribution.
 
-<p>Almost certainly that seed of an idea has nearly no value. But here is the catch, if you have an idea and can convince a developper to join your quest for bringing the idea to reality, then you are describing something more valuable than an idea.
-You are describing, a sales skill. That has a value... The ability to sell the idea is worth something that skill can indeed be worh 99% of the entire thing. But it has to be continued to be sold day in day out for years to come.</p>
+Almost certainly that seed of an idea has nearly no value. But here is the catch, if you have an idea and can convince a developper to join your quest for bringing the idea to reality, then you are describing something more valuable than an idea.
+You are describing, a sales skill. That has a value... The ability to sell the idea is worth something that skill can indeed be worh 99% of the entire thing. But it has to be continued to be sold day in day out for years to come.
 
-<p>It can later turn out that the meeting of minds or the result is inded worth quite a lot. But the original idea is not usually worth much its the energy that got wasted in the process thats most of the value.</p>
+It can later turn out that the meeting of minds or the result is inded worth quite a lot. But the original idea is not usually worth much its the energy that got wasted in the process thats most of the value.
 
-<p>So i would say idea 0%, original sale of idea 10% building the mockups and final app 10%-50%. Marketting strategy and sales <strong>rest</strong>.</p>
-
+So i would say idea 0%, original sale of idea 10% building the mockups and final app 10%-50%. Marketting strategy and sales **rest**.
 
 
 ## Answer 7774
@@ -176,36 +164,34 @@ You are describing, a sales skill. That has a value... The ability to sell the i
 - posted by: [Xerosigma](https://stackexchange.com/users/988766/xerosigma) on 2015-11-10
 - score: 2
 
-<p>They're both <strong>equally worthless</strong> without:</p>
+They're both **equally worthless** without:
 
-<h1>Good Execution</h1>
+Good Execution
+===
 
-<p>But assuming:</p>
+But assuming:
 
-<ul>
-<li><strong>A</strong> simply supplies an idea.</li>
-<li><strong>B</strong> simply builds the application.</li>
-<li>Neither will take part in running the company.</li>
-<li>And this is a start-up with two people.</li>
-</ul>
+- **A** simply supplies an idea.
+- **B** simply builds the application.
+- Neither will take part in running the company.
+- And this is a start-up with two people.
 
-<h1>50/50</h1>
+50/50
+====
 
-<p>I would consider pondering a more realistic spread and factor in the role of <strong>C</strong> "the executor" - the one who will drive sales, acquire customers, maintain relationships, raise funds, etc.</p>
+I would consider pondering a more realistic spread and factor in the role of **C** "the executor" - the one who will drive sales, acquire customers, maintain relationships, raise funds, etc.
 
-<h1>20/20/60 - A/B/C</h1>
+20/20/60 - A/B/C
+===
 
-<p>It's execution that truly determines value. Consider this:</p>
+It's execution that truly determines value. Consider this:
 
-<ul>
-<li>If the application is poor but the idea is good: Probability of failure increases.</li>
-<li>If the application is good but the idea is poor: Probability of failure increases.</li>
-<li>If both the application and idea are poor: Probability of failure increases.</li>
-<li>If either the application and/or the idea are poor but execution is good: <strong>$$$</strong></li>
-</ul>
+- If the application is poor but the idea is good: Probability of failure increases.
+- If the application is good but the idea is poor: Probability of failure increases.
+- If both the application and idea are poor: Probability of failure increases.
+- If either the application and/or the idea are poor but execution is good: **$$$**
 
-<p>Scams are examples of this logic. Given the above - If either A or B are taking active roles in the execution of the idea, distribution would change significantly.</p>
-
+Scams are examples of this logic. Given the above - If either A or B are taking active roles in the execution of the idea, distribution would change significantly.
 
 
 ## Answer 11307
@@ -213,26 +199,23 @@ You are describing, a sales skill. That has a value... The ability to sell the i
 - posted by: [CJ Cornell](https://stackexchange.com/users/526591/cj-cornell) on 2016-10-09
 - score: 2
 
-<p>I like all the other answers too.  But I was going to offer 2 of my own.</p>
+I like all the other answers too.  But I was going to offer 2 of my own.
 
-<ol>
-<li><p>Value of an Ideas = $0.10/12  or 12 for $0.10</p></li>
-<li><p>Having a product idea is like having an idea for a cooking recipe for a tasty entree.  If that's all you have, it's kind of worthless.
+1. Value of an Ideas = $0.10/12  or 12 for $0.10
+
+2. Having a product idea is like having an idea for a cooking recipe for a tasty entree.  If that's all you have, it's kind of worthless.
 If you have the ability to actually cook it ... great ... and it might please some friends and family but that's it, no other real value.
-but if you have the ability to cook it and start a restaurant based on the tasty entree ... then it could be worth millions.... except of course you need to figure out things like:</p>
+but if you have the ability to cook it and start a restaurant based on the tasty entree ... then it could be worth millions.... except of course you need to figure out things like:
+- marketing the restaurant
+- hiring waiters, and other staff
+- charging enough money 
+- raising enough money to open the restaurant in the first place.
+- etc etc
 
-<ul>
-<li>marketing the restaurant</li>
-<li>hiring waiters, and other staff</li>
-<li>charging enough money </li>
-<li>raising enough money to open the restaurant in the first place.</li>
-<li>etc etc</li>
-</ul></li>
-</ol>
+But if you *only* have an idea for a recipe, and *can't* cook ... will then you'll have to team up with a chef (who probably will not be all that impressed with your mere idea for a recipe). And you'd better bring other skills to the table (like that bullet list above)
 
-<p>But if you <em>only</em> have an idea for a recipe, and <em>can't</em> cook ... will then you'll have to team up with a chef (who probably will not be all that impressed with your mere idea for a recipe). And you'd better bring other skills to the table (like that bullet list above)</p>
+Get it?
 
-<p>Get it?</p>
 
 
 
@@ -241,27 +224,23 @@ but if you have the ability to cook it and start a restaurant based on the tasty
 - posted by: [Randy B.](https://stackexchange.com/users/7273198/randy-b) on 2015-11-10
 - score: 1
 
-<p>There are so many right answers to this.</p>
+There are so many right answers to this.
 
-<p>The Micro Economics answer is that ANYTHING, be it guns, butter, or ideas are worth the most that someone is willing to pay for such a good or service at that time.  However I figure you are trying to settle something here and you need something a little more specific, so with that in mind...</p>
+The Micro Economics answer is that ANYTHING, be it guns, butter, or ideas are worth the most that someone is willing to pay for such a good or service at that time.  However I figure you are trying to settle something here and you need something a little more specific, so with that in mind...
 
-<p>If there are two parts to the production of an end product, the inspiration and the fabrication, you have to figure out the following:</p>
+If there are two parts to the production of an end product, the inspiration and the fabrication, you have to figure out the following:
 
-<ol>
-<li>What is a conservative NET revenue expectation from the product?  How many units do you expect to sell over the next x months or y years and at what price?  Consider all costs incurred, from parts and labor to marketing, shrinkage, QA rejects, promotional copies, wholesale vs retail...</li>
-</ol>
+ 1. What is a conservative NET revenue expectation from the product?  How many units do you expect to sell over the next x months or y years and at what price?  Consider all costs incurred, from parts and labor to marketing, shrinkage, QA rejects, promotional copies, wholesale vs retail...
 
-<p>This step will set the value of the finished idea for the two parties involved over a predetermined timespan.</p>
+This step will set the value of the finished idea for the two parties involved over a predetermined timespan.
 
-<ol start="2">
-<li>How complete is the idea?  Is it a concept or a blueprint?  Could you hand the specifications to anyone out there and get it made or are you looking for someone to solve the manufacturing problems or even the technical ones that you may have?</li>
-</ol>
+ 2. How complete is the idea?  Is it a concept or a blueprint?  Could you hand the specifications to anyone out there and get it made or are you looking for someone to solve the manufacturing problems or even the technical ones that you may have?
 
-<p>Step 2 provides the statistics for the split.  If what is required for fabrication can be done by anyone, then I would postulate that market rate for the materials and labour of a sufficient caliber would be expected.  (If mechanical engineers contract out for $75/hour and that is what you need, then you should be looking for that person at that rate.  If all you need is an electronics guy with a soldering iron, then maybe $35/hour.  But if the idea has issues and you need someone with a hard to find background, and they recognize this, keep an eye on your nose or you will pay through it.</p>
+Step 2 provides the statistics for the split.  If what is required for fabrication can be done by anyone, then I would postulate that market rate for the materials and labour of a sufficient caliber would be expected.  (If mechanical engineers contract out for $75/hour and that is what you need, then you should be looking for that person at that rate.  If all you need is an electronics guy with a soldering iron, then maybe $35/hour.  But if the idea has issues and you need someone with a hard to find background, and they recognize this, keep an eye on your nose or you will pay through it.
 
-<p>So the end result is that the idea value is a factor of the revenue it can generate in a reasonable amount of time, minus the costs associated with building of the unit or prototype.  Costs that include manpower of a certain caliber, and if you have not negotiated up front an your idea was a good one, I hope you have references for the guy you hired to get the thing made.</p>
+So the end result is that the idea value is a factor of the revenue it can generate in a reasonable amount of time, minus the costs associated with building of the unit or prototype.  Costs that include manpower of a certain caliber, and if you have not negotiated up front an your idea was a good one, I hope you have references for the guy you hired to get the thing made.
 
-<p>Good luck.</p>
+Good luck.
 
 
 
@@ -270,8 +249,7 @@ but if you have the ability to cook it and start a restaurant based on the tasty
 - posted by: [Tushar Sharma](https://stackexchange.com/users/7278055/tushar-sharma) on 2015-11-11
 - score: 0
 
-<p>In today's world there are a lot of developers like really a huge lot of developers, They all know how to build an app BUT not everyone has  "out of the box" thinking to make something which is unique.  Facebook, tumblr,twitter, stackoverflow, even a chair was once an idea see their value now. </p>
-
+In today's world there are a lot of developers like really a huge lot of developers, They all know how to build an app BUT not everyone has  "out of the box" thinking to make something which is unique.  Facebook, tumblr,twitter, stackoverflow, even a chair was once an idea see their value now. 
 
 
 ## Answer 7831
@@ -312,10 +290,9 @@ but if you have the ability to cook it and start a restaurant based on the tasty
 - posted by: [Aminadav](https://stackexchange.com/users/1273992/aminadav) on 2016-08-03
 - score: 0
 
-<p>If someone gives an idea how to reach billions of users, or make a good revenue. The idea worth millions.</p>
+If someone gives an idea how to reach billions of users, or make a good revenue. The idea worth millions.
 
-<p>Just an idea for creating an app worth nothing.</p>
-
+Just an idea for creating an app worth nothing.
 
 
 ## Answer 11299
@@ -323,8 +300,7 @@ but if you have the ability to cook it and start a restaurant based on the tasty
 - posted by: [John A](https://stackexchange.com/users/9350209/john-a) on 2016-10-08
 - score: 0
 
-<p>Most ideas all by themselves are worthless. People don't truly understand what it takes to communicate, incubate, prototype, produce and deliver a finished product in the various markets. I am an idea guy. That's what I do for a living. I know what it takes to start a company and an idea. I did that for twenty-five years before I became a person who just sells his ideas. I believe that if someone truly believes in an idea and understands the recipe to launch such a package "than don't listen to anyone". Follow your dream. But understand, "if your not capable to do it on your own, you need to be able to know your short coming". You will pay in time, loss of IP, and be kicked around at every corner. People will run with your idea and leave you at the curb. But it can be done. Find an ethical, honest person or company to partner up with. Start with a family member for financial backing. If you only have an idea, you will be at the mercy of everyone you touch. However, if you take a great idea to a great partner or company, you could very well get a great return for nothing more than an idea. What will it be worth ? It depends on your power to negotiate. Spend more time studying that. For every person, company and opportunity will be different. The percentage factors are up to your power of negotiating. Every move you make is a push and shove situation. It's like playing poker. Don't show your hole hand and play your cards like someone's looking over your shoulder.</p>
-
+Most ideas all by themselves are worthless. People don't truly understand what it takes to communicate, incubate, prototype, produce and deliver a finished product in the various markets. I am an idea guy. That's what I do for a living. I know what it takes to start a company and an idea. I did that for twenty-five years before I became a person who just sells his ideas. I believe that if someone truly believes in an idea and understands the recipe to launch such a package "than don't listen to anyone". Follow your dream. But understand, "if your not capable to do it on your own, you need to be able to know your short coming". You will pay in time, loss of IP, and be kicked around at every corner. People will run with your idea and leave you at the curb. But it can be done. Find an ethical, honest person or company to partner up with. Start with a family member for financial backing. If you only have an idea, you will be at the mercy of everyone you touch. However, if you take a great idea to a great partner or company, you could very well get a great return for nothing more than an idea. What will it be worth ? It depends on your power to negotiate. Spend more time studying that. For every person, company and opportunity will be different. The percentage factors are up to your power of negotiating. Every move you make is a push and shove situation. It's like playing poker. Don't show your hole hand and play your cards like someone's looking over your shoulder.
 
 
 ## Answer 11313

@@ -4,10 +4,9 @@
 - tagged: `united-states`, `investment`
 - score: 9
 
-<p>I've heard of the recently enacted Title IV regulations allowing non-accredited investors to participate in funding startups, but I'm still not entirely sure what this means.</p>
+I've heard of the recently enacted Title IV regulations allowing non-accredited investors to participate in funding startups, but I'm still not entirely sure what this means.
 
-<p>What exactly are the rules for raising money under Title IV and how do they differ from the pre-existing crowdfunding rules of the JOBS act. How does this law affect startups and small investors?</p>
-
+What exactly are the rules for raising money under Title IV and how do they differ from the pre-existing crowdfunding rules of the JOBS act. How does this law affect startups and small investors?
 
 
 ## Answer 7788

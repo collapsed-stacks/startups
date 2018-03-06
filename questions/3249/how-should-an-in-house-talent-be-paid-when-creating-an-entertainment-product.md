@@ -4,10 +4,9 @@
 - tagged: `startup-costs`, `employees`, `payment`, `salary`
 - score: 1
 
-<p>For example, when companies like Pixar create in-house artworks and their employees fill positions like the directors's chair and/or key talent positions, how are they getting paid?
+For example, when companies like Pixar create in-house artworks and their employees fill positions like the directors's chair and/or key talent positions, how are they getting paid?
 Is this part of their annual salary? Or are they receiving a royalty?
-What's the best way a company should go about this?</p>
-
+What's the best way a company should go about this?
 
 ## No Answers
 

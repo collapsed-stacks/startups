@@ -4,7 +4,7 @@
 - tagged: `payment`
 - score: 1
 
-<p>Are there ways to receive payments on the site without establish business? I thought about PayPal but it require business account for this purpose. Does somebody know something?</p>
+Are there ways to receive payments on the site without establish business? I thought about PayPal but it require business account for this purpose. Does somebody know something?
 
 
 ## No Answers

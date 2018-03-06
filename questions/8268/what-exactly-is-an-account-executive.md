@@ -4,31 +4,26 @@
 - tagged: `sales`, `growth`, `communication`
 - score: 4
 
-<p>Every now and then I look at job listings for stuff I am qualified for (or not).  A very common role I see is <strong>account executive</strong> (such as <a href="http://jobs.impraise.com/o/account-executive-us">here</a>).  Can someone explain to me what they do?</p>
+Every now and then I look at job listings for stuff I am qualified for (or not).  A very common role I see is **account executive** (such as [here](http://jobs.impraise.com/o/account-executive-us)).  Can someone explain to me what they do?
 
-<p>Here is one sample taken from a job listing.  Truthfully I don't care particularly about this one just in general:</p>
+Here is one sample taken from a job listing.  Truthfully I don't care particularly about this one just in general:
 
-<blockquote>
-  <p>In your role, you will: </p>
-  
-  <ul>
-  <li>Be responsible for achieving a monthly/quarterly quota</li>
-  <li>Work closely with your Sales Development Reps to acquire new leads</li>
-  <li>Proactively generate new pipeline opportunities</li>
-  <li>Negotiate and close deals</li>
-  <li>Manage sales pipeline</li>
-  <li>Continuously improve sales process</li>
-  </ul>
-</blockquote>
+>In your role, you will: 
+>
+> * Be responsible for achieving a monthly/quarterly quota
+> * Work closely with your Sales Development Reps to acquire new leads
+> * Proactively generate new pipeline opportunities
+> * Negotiate and close deals
+> * Manage sales pipeline
+> * Continuously improve sales process
 
-<p>To someone in sales, these must be self-explanatory, but I am a coder, so these are new concepts for me.  What is going on here?  What do these phrases mean? </p>
+To someone in sales, these must be self-explanatory, but I am a coder, so these are new concepts for me.  What is going on here?  What do these phrases mean? 
 
-<p><strong>negotiate and close deals</strong> or what is the <strong>sales pipeline</strong> and how do we manage it?  and there is a <strong>quota</strong> so this has to be done fairly consistently.</p>
+**negotiate and close deals** or what is the **sales pipeline** and how do we manage it?  and there is a **quota** so this has to be done fairly consistently.
 
-<p>It sounds like this job is a good for someone who is persuasive or at least able to reason with the client.  This is a very different skill set for a hacker.</p>
+It sounds like this job is a good for someone who is persuasive or at least able to reason with the client.  This is a very different skill set for a hacker.
 
-<p>Thanks for explaining this to someone from the other side.  To my defense, I have seen the CEO and CTO of different companies argue with one another, so I guess these misunderstanding may happen on their level too.</p>
-
+Thanks for explaining this to someone from the other side.  To my defense, I have seen the CEO and CTO of different companies argue with one another, so I guess these misunderstanding may happen on their level too.
 
 
 ## Answer 8678
@@ -86,24 +81,19 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2016-01-06
 - score: 1
 
-<p>When your sales team reaches a certain size it can make sense to specialize what it's doing. You'd then typically have:</p>
+When your sales team reaches a certain size it can make sense to specialize what it's doing. You'd then typically have:
 
-<ul>
-<li>sales development reps chase and warm new leads</li>
-<li>account executives close warm leads</li>
-<li>account managers farm existing clients</li>
-</ul>
+- sales development reps chase and warm new leads
+- account executives close warm leads
+- account managers farm existing clients
 
-<p>The specific role names and task lists differ from a company to the next. The job description you posted fits somewhere between a closer ("negotiate and close deals"), a farmer ("generate new pipeline opportunities"), and a manager ("continuously improve the sales process").</p>
+The specific role names and task lists differ from a company to the next. The job description you posted fits somewhere between a closer ("negotiate and close deals"), a farmer ("generate new pipeline opportunities"), and a manager ("continuously improve the sales process").
 
-<blockquote>
-  <p>It sounds like this job is a good for someone who is persuasive or at least able to reason with the client. This is a very different skill set for a hacker.</p>
-</blockquote>
+> It sounds like this job is a good for someone who is persuasive or at least able to reason with the client. This is a very different skill set for a hacker.
 
-<p>Actually, it's not unless you're selling low-tech stuff.</p>
+Actually, it's not unless you're selling low-tech stuff.
 
-<p>When you sell high-tech stuff your buyer will usually be someone technical, and closing the latter mostly has to do with articulating how the solution you're putting forward will solve their problem. The kicker often comes when it becomes clear to them it'll cost them less or take less time than doing it themselves. Engineers tend to be much better at this than non-engineers.</p>
-
+When you sell high-tech stuff your buyer will usually be someone technical, and closing the latter mostly has to do with articulating how the solution you're putting forward will solve their problem. The kicker often comes when it becomes clear to them it'll cost them less or take less time than doing it themselves. Engineers tend to be much better at this than non-engineers.
 
 
 

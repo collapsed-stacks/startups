@@ -4,13 +4,14 @@
 - tagged: `trademark`
 - score: 2
 
-<p>Let's say I want to register www.buyusedshoes.com as a trademark "BuyUsedShoes." If I search the USPTO website, no entries come up for this search. Let's say my site allows you to buy used shoes.</p>
+Let's say I want to register www.buyusedshoes.com as a trademark "BuyUsedShoes." If I search the USPTO website, no entries come up for this search. Let's say my site allows you to buy used shoes.
 
-<p>However, there's another company with the website www.sellusedshoes.com with a registered trademark "SellUsedShoes." And let's say their site allows you to sell used shoes.</p>
+However, there's another company with the website www.sellusedshoes.com with a registered trademark "SellUsedShoes." And let's say their site allows you to sell used shoes.
 
-<p>So now there's another company with a slight variation in the company/domain name, and we're in a similar (if not the same) industry.</p>
+So now there's another company with a slight variation in the company/domain name, and we're in a similar (if not the same) industry.
 
-<p>Would I be able to register this trademark?</p>
+Would I be able to register this trademark?
+
 
 
 
@@ -34,16 +35,15 @@
 - posted by: [Dogweather](https://stackexchange.com/users/37396/dogweather) on 2015-07-08
 - score: 0
 
-<p>I'll answer the question, putting aside the <em>descriptiveness</em> issue:</p>
+I'll answer the question, putting aside the _descriptiveness_ issue:
 
-<p>First, the <code>www</code> and <code>.com</code> are pretty much meaningless as far as the USPTO goes. The other thing to know about trademark law is; a trademark is <em>always</em> for the mark (text, picture, etc.) plus the classification. It's two pieces — never separate them. Also, as I mentioned in a comment, buying vs. selling is also pretty much irrelevant. And what's really important: the bottom line that USPTO inspectors and courts look to, is avoiding confusion for consumers. </p>
+First, the `www` and `.com` are pretty much meaningless as far as the USPTO goes. The other thing to know about trademark law is; a trademark is _always_ for the mark (text, picture, etc.) plus the classification. It's two pieces — never separate them. Also, as I mentioned in a comment, buying vs. selling is also pretty much irrelevant. And what's really important: the bottom line that USPTO inspectors and courts look to, is avoiding confusion for consumers. 
 
-<p>To your hypothetical: a NY company has <strong>registered</strong> the mark <code>SNAPPLES</code> for selling shoes. They might have the website www.snapples.com. A NJ company calls themselves <code>APPLES</code> for buying shoes. They have the website www.apples.com. They haven't yet registered their mark.</p>
+To your hypothetical: a NY company has **registered** the mark `SNAPPLES` for selling shoes. They might have the website www.snapples.com. A NJ company calls themselves `APPLES` for buying shoes. They have the website www.apples.com. They haven't yet registered their mark.
 
-<p>Let's also specify that <code>APPLES</code> and <code>SNAPPLES</code> target the same demographic, use the same kinds of marketing channels, place their ads and products in the same stores, and in the same geographical regions.</p>
+Let's also specify that `APPLES` and `SNAPPLES` target the same demographic, use the same kinds of marketing channels, place their ads and products in the same stores, and in the same geographical regions.
 
-<p>Chances are, if they try, <code>SNAPPLES</code> will contest the new registration and they will win; the application will be rejected. And further, based on their pre-existing registration, <code>SNAPPLES</code> will obtain an injunction to force <code>APPLES</code> to change their name. (Of course, they may try to do this even if <code>APPLES</code> doesn't seek registration. That's one of the purposes of registering in the first place.)</p>
-
+Chances are, if they try, `SNAPPLES` will contest the new registration and they will win; the application will be rejected. And further, based on their pre-existing registration, `SNAPPLES` will obtain an injunction to force `APPLES` to change their name. (Of course, they may try to do this even if `APPLES` doesn't seek registration. That's one of the purposes of registering in the first place.)
 
 
 

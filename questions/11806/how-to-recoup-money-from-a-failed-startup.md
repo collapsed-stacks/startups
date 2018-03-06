@@ -4,11 +4,11 @@
 - tagged: `startup-costs`, `business-capital`
 - score: 4
 
-<p>We spent 2 years building an online auction platform, got investors, applied for patents, ran ads, met with movers and shakers, etc but failed to gain enough momentum to keep things afloat.</p>
+We spent 2 years building an online auction platform, got investors, applied for patents, ran ads, met with movers and shakers, etc but failed to gain enough momentum to keep things afloat.
 
-<p>Our platform was quite interesting: an eBay/Skype/Craigslist cross - live video/audio/chat while browsing items for sale, similar to a live "trade show".  </p>
+Our platform was quite interesting: an eBay/Skype/Craigslist cross - live video/audio/chat while browsing items for sale, similar to a live "trade show".  
 
-<p>Any suggestions on how we could try recoup some of the costs?  Are there companies that buy out such projects?</p>
+Any suggestions on how we could try recoup some of the costs?  Are there companies that buy out such projects?
 
 
 
@@ -17,14 +17,13 @@
 - posted by: [fiprojects](https://stackexchange.com/users/5370155/fiprojects) on 2017-01-01
 - score: 4
 
-<p>Your project and code is worth less in new hands because they'll have to spend money in learning it and adjusting it for their own needs. Ask any construction worker and they will tell you that building something from new is a lot easier and cheaper than converting an existing structure.</p>
+Your project and code is worth less in new hands because they'll have to spend money in learning it and adjusting it for their own needs. Ask any construction worker and they will tell you that building something from new is a lot easier and cheaper than converting an existing structure.
 
-<p>@Mowzer comments have value - but you say you have been there, done that. I suggest you think carefully before walking away from this. During the early days of search engines, I knew one search engine company that lost traction to yahoo/askjeves/google and instead refocused on performing search for oil and gas industry. It saved their bacon, gave them an extra ten years of business and they were eventually bought out by a larger hardware company that wanted to have a software search platform. Thus break your service down into products and ask yourself who you might think could best use them. The video communication element might have potential for corporate conferencing especially if its hosted outside the US (Edward Snowdens revelations has ruffled some international feathers - I know this based on my consulting work and have been involved with contracts that clients insisted on various aspects to be held outside US jurisdiction for example). </p>
+@Mowzer comments have value - but you say you have been there, done that. I suggest you think carefully before walking away from this. During the early days of search engines, I knew one search engine company that lost traction to yahoo/askjeves/google and instead refocused on performing search for oil and gas industry. It saved their bacon, gave them an extra ten years of business and they were eventually bought out by a larger hardware company that wanted to have a software search platform. Thus break your service down into products and ask yourself who you might think could best use them. The video communication element might have potential for corporate conferencing especially if its hosted outside the US (Edward Snowdens revelations has ruffled some international feathers - I know this based on my consulting work and have been involved with contracts that clients insisted on various aspects to be held outside US jurisdiction for example). 
 
-<p>Perhaps also consider partnering with home crafters (think Etsy with video, or Michaels craft stores offering presentations or education online).</p>
+Perhaps also consider partnering with home crafters (think Etsy with video, or Michaels craft stores offering presentations or education online).
 
-<p>But if you really want to sell up... then the value you have is tied within your brand, patents, data and lessons you have collected over time. If you want to pull the plug and walk away, try talking to an administrator (the folk that debt collectors use to reclaim debt). A good administrator will have an idea on who would value what you have most. Best of luck</p>
-
+But if you really want to sell up... then the value you have is tied within your brand, patents, data and lessons you have collected over time. If you want to pull the plug and walk away, try talking to an administrator (the folk that debt collectors use to reclaim debt). A good administrator will have an idea on who would value what you have most. Best of luck
 
 
 ## Answer 11848
@@ -32,12 +31,11 @@
 - posted by: [Jeremy Parsons](https://stackexchange.com/users/497810/jeremy-parsons) on 2017-01-05
 - score: 4
 
-<p>There's an entire industry of company administrators and insolvency experts who have knowledge and expertise in identifying and disposing of assets from companies in distress. Software presents all kinds of special challenges compared to physical goods or customer lists, so it's maybe worth a shot, but don't get your hopes up. </p>
+There's an entire industry of company administrators and insolvency experts who have knowledge and expertise in identifying and disposing of assets from companies in distress. Software presents all kinds of special challenges compared to physical goods or customer lists, so it's maybe worth a shot, but don't get your hopes up. 
 
-<p>Patents are a somewhat special case. As a rule of thumb, the more distinctive the invention and the more general the application, the higher the potential value. Again, the vast majority of patents have no realisable value, but unlike systems that "rust" very fast, patents have a defined lifetime during which it is at least possible that you can make money by licensing the technology or/and pursuing legal action for infringement. </p>
+Patents are a somewhat special case. As a rule of thumb, the more distinctive the invention and the more general the application, the higher the potential value. Again, the vast majority of patents have no realisable value, but unlike systems that "rust" very fast, patents have a defined lifetime during which it is at least possible that you can make money by licensing the technology or/and pursuing legal action for infringement. 
 
-<p>Finally, some businesses fail as investments but are entirely viable. If the startup didn't show the traction and growth potential that justified investment, it may still be an opportunity as a small business. Is there a niche where you created real value? That niche could be enough to keep a small team happy for years, if it's viable at least to maintain the system with minimal effort. Or it might be worth a few months turning what you have today into a viable business that could be sold as a going concern.</p>
-
+Finally, some businesses fail as investments but are entirely viable. If the startup didn't show the traction and growth potential that justified investment, it may still be an opportunity as a small business. Is there a niche where you created real value? That niche could be enough to keep a small team happy for years, if it's viable at least to maintain the system with minimal effort. Or it might be worth a few months turning what you have today into a viable business that could be sold as a going concern.
 
 
 ## Answer 11808
@@ -58,10 +56,9 @@ Or you could maybe hire a business broker to handle the process.</p>
 - posted by: [Mowzer](https://stackexchange.com/users/1803081/mowzer) on 2016-12-31
 - score: 2
 
-<p>Increase your focus. Target a more narrow market. Customize better solutions for this new target based on the unique challenges they face relative to the broader market you envisioned serving with the latest iteration of your product.</p>
+Increase your focus. Target a more narrow market. Customize better solutions for this new target based on the unique challenges they face relative to the broader market you envisioned serving with the latest iteration of your product.
 
-<p>You could look for alternative applications of the code you wrote. This is called a <em>pivot</em>. If the marketplace is not ready to adopt your platform as is. Try to find a more targeted niche using the bulk of the code you have already written plus a few (hopefully minor) customizations to serve your more focused target market.</p>
-
+You could look for alternative applications of the code you wrote. This is called a *pivot*. If the marketplace is not ready to adopt your platform as is. Try to find a more targeted niche using the bulk of the code you have already written plus a few (hopefully minor) customizations to serve your more focused target market.
 
 
 ## Answer 11934

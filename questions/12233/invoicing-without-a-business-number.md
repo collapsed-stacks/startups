@@ -4,8 +4,7 @@
 - tagged: `legal`
 - score: 0
 
-<p>In Canada, by law, you must provide your business number when giving invoices. If a sole proprietor uses their name for their business name, they are not legally required to register their business (unless they exceed $30k). I do not have a number. Does this mean that I do not need it on my invoices?</p>
-
+In Canada, by law, you must provide your business number when giving invoices. If a sole proprietor uses their name for their business name, they are not legally required to register their business (unless they exceed $30k). I do not have a number. Does this mean that I do not need it on my invoices?
 
 ## No Answers
 

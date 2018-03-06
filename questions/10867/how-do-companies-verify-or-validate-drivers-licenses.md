@@ -4,8 +4,7 @@
 - tagged: `product`
 - score: 1
 
-<p>How do companies like Intellicheck or Jumio validate drivers licenses? Is there a service from government offices like the DMV that they can check against? Are they simply just visually inspecting the IDs without government validation?</p>
-
+How do companies like Intellicheck or Jumio validate drivers licenses? Is there a service from government offices like the DMV that they can check against? Are they simply just visually inspecting the IDs without government validation?
 
 
 ## Answer 10920
@@ -24,14 +23,11 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2016-08-06
 - score: 0
 
-<blockquote>
-  <p>Is there a service from government offices like the DMV that they can check against?</p>
-</blockquote>
+> Is there a service from government offices like the DMV that they can check against?
 
-<p>Yes. At least some State governments seem to provide online services that allow to check a license based on its digits:</p>
+Yes. At least some State governments seem to provide online services that allow to check a license based on its digits:
 
-<p><a href="https://services.flhsmv.gov/dlcheck/?AspxAutoDetectCookieSupport=1" rel="nofollow">https://services.flhsmv.gov/dlcheck/?AspxAutoDetectCookieSupport=1</a></p>
-
+https://services.flhsmv.gov/dlcheck/?AspxAutoDetectCookieSupport=1
 
 
 

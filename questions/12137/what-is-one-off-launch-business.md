@@ -4,11 +4,10 @@
 - tagged: `revenue`
 - score: 1
 
-<p>Could you please let me know What is one-off launch business? Can you bring example? Thanks in advance.</p>
+Could you please let me know What is one-off launch business? Can you bring example? Thanks in advance.
 
-<p>I have read it in this paragraph:
-Businesses that are successful in the long term generally have a predictable revenue model. Those categorized by huge peaks and troughs, one-off launches, and up-and-down months are far more difficult.</p>
-
+I have read it in this paragraph:
+Businesses that are successful in the long term generally have a predictable revenue model. Those categorized by huge peaks and troughs, one-off launches, and up-and-down months are far more difficult.
 
 
 ## Answer 12139

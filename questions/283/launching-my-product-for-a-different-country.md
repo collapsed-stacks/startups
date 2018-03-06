@@ -4,10 +4,9 @@
 - tagged: `united-states`, `international`, `entrepreneurism-abroad`
 - score: 5
 
-<p>I currently live in Brazil, and am developing a product that will (probably) not work well here, since our "entrepreneurial vein" is currently at birth. This product matches San Francisco and Silicon Valley area very much, so I'm planning to focus my launch there (by personally going and participating on local startup presentations and such).</p>
+I currently live in Brazil, and am developing a product that will (probably) not work well here, since our "entrepreneurial vein" is currently at birth. This product matches San Francisco and Silicon Valley area very much, so I'm planning to focus my launch there (by personally going and participating on local startup presentations and such).
 
-<p>Can I legally do this without opening a formal company in the US? I'm thinking about starting informal gathering resources through Paypal from my paying customers.</p>
-
+Can I legally do this without opening a formal company in the US? I'm thinking about starting informal gathering resources through Paypal from my paying customers.
 
 
 ## Answer 284

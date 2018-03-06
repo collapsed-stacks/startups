@@ -4,10 +4,12 @@
 - tagged: `tech-company`, `business-model`, `web-development`, `lean-startup`, `minimum-viable-product`
 - score: 7
 
-<p>My question is while building the MVP, how to avoid ending up with something totally not useful for your customers. The following picture explains the problem better :</p>
+My question is while building the MVP, how to avoid ending up with something totally not useful for your customers. The following picture explains the problem better :
 
-<p><img src="https://i.stack.imgur.com/7wbWB.jpg" alt="MVP"></p>
+![MVP][1]
 
+
+  [1]: http://i.stack.imgur.com/7wbWB.jpg
 
 
 ## Answer 1826
@@ -15,20 +17,17 @@
 - posted by: [Basit Anwer](https://stackexchange.com/users/150816/basit-anwer) on 2015-01-01
 - score: 7
 
-<p>Find the answer by questioning your customers. Build the product around their problem and not the other way around.</p>
+Find the answer by questioning your customers. Build the product around their problem and not the other way around.
 
-<p>In the picture you mentioned, the customers want a way to travel fast and with ease and not a feature of a car.</p>
+In the picture you mentioned, the customers want a way to travel fast and with ease and not a feature of a car.
 
-<p>So answer the following questions</p>
+So answer the following questions
 
-<ol>
-<li>What is the problem/need my audience is facing ?</li>
-<li>What is it that they want most ?</li>
-<li>What is it (unique or not) that I can offer ?</li>
-</ol>
+ 1. What is the problem/need my audience is facing ?
+ 2. What is it that they want most ?
+ 3. What is it (unique or not) that I can offer ?
 
-<p>Answer the questions and build an MVP by sacrificing everything else in the product.</p>
-
+Answer the questions and build an MVP by sacrificing everything else in the product.
 
 
 ## Answer 1827
@@ -36,25 +35,21 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-01-01
 - score: 5
 
-<p>Aim for the pain point, and build from there. Proceed in two steps:</p>
+Aim for the pain point, and build from there. Proceed in two steps:
 
-<ol>
-<li><p>Which problem(s) needs to get solved asap, to the point where your prospects are itching to pull out their checkbooks before they even see a working prototype?</p></li>
-<li><p>Which features/integrations do you need to add in addition, if any, in order to make it viable for your prospects to purchase your product <em>right now</em>? Make note of these.</p></li>
-</ol>
+1. Which problem(s) needs to get solved asap, to the point where your prospects are itching to pull out their checkbooks before they even see a working prototype?
 
-<p>This won't give you an MVP. It'll give you the <em>future</em> version of your product.</p>
+2. Which features/integrations do you need to add in addition, if any, in order to make it viable for your prospects to purchase your product *right now*? Make note of these.
 
-<p>Now, add this third step:</p>
+This won't give you an MVP. It'll give you the *future* version of your product.
 
-<ol start="3">
-<li>Which extra features can you actually <em>postpone</em>, while still keeping the problem solved and signed checks coming your way?</li>
-</ol>
+Now, add this third step:
 
-<p>Remove them all until you hit a sweet spot in terms of ETA and number of clients willing to buy without seeing a fully functional prototype. You now have an MVP.</p>
+3. Which extra features can you actually *postpone*, while still keeping the problem solved and signed checks coming your way?
 
-<p>And a roadmap for versions 2, 3, and so forth -- complete with a list of hot prospects for them.</p>
+Remove them all until you hit a sweet spot in terms of ETA and number of clients willing to buy without seeing a fully functional prototype. You now have an MVP.
 
+And a roadmap for versions 2, 3, and so forth -- complete with a list of hot prospects for them.
 
 
 

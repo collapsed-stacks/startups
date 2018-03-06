@@ -4,13 +4,13 @@
 - tagged: `domain-name`
 - score: 1
 
-<p>I am stuck with the name of the domain / shop. Maybe you can help me with some fresh ideas.</p>
+I am stuck with the name of the domain / shop. Maybe you can help me with some fresh ideas.
 
-<p>The shop will focus on selling phones, accessories, and maybe I will extend to sell more type of products (like Amazon).</p>
+The shop will focus on selling phones, accessories, and maybe I will extend to sell more type of products (like Amazon).
 
-<p>Also the problem is that I don't want that the name of the shop to contain keywords of the products, or "shop","market" and so on...</p>
+Also the problem is that I don't want that the name of the shop to contain keywords of the products, or "shop","market" and so on...
 
-<p>So, any help? </p>
+So, any help? 
 
 
 ## No Answers

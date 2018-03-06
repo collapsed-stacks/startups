@@ -4,8 +4,7 @@
 - tagged: `united-states`, `product`
 - score: 8
 
-<p>My team and I are working on a dog leash concept and would like to find a manufacturing supplier in the United States. Our Google Fu has not turned up many options. That said the site Alibaba makes it easy to find many Chinese manufacturers, but we have been unable to find a similar aggregation of US Manufacturers. Does such a site exist for US manufacturing? How do you go about finding a specific US manufacturing firm?</p>
-
+My team and I are working on a dog leash concept and would like to find a manufacturing supplier in the United States. Our Google Fu has not turned up many options. That said the site Alibaba makes it easy to find many Chinese manufacturers, but we have been unable to find a similar aggregation of US Manufacturers. Does such a site exist for US manufacturing? How do you go about finding a specific US manufacturing firm?
 
 
 ## Answer 2918
@@ -13,19 +12,17 @@
 - posted by: [Jason Mcmunn](https://stackexchange.com/users/5429346/jason-mcmunn) on 2015-01-08
 - score: 6
 
-<p>Thompson's Register is what I've used for the last 20 years.  Here is a link: <a href="http://www.thomasnet.com/">http://www.thomasnet.com/</a></p>
+Thompson's Register is what I've used for the last 20 years.  Here is a link: http://www.thomasnet.com/
 
-<p>They specialize in maintaining a directory of companies that do fulfillment. From their website:</p>
+They specialize in maintaining a directory of companies that do fulfillment. From their website:
 
-<blockquote>
-  <p>ThomasNet.com is like no other supplier discovery resource out there.
-  And it can help you meet your unique sourcing challenges in ways you
-  never could before -- whether its adding quality certified suppliers
-  to the supply chain, meeting diversity goals, identifying local job
-  shops, finding specific products or accelerating the design process.
-  Find out how to put it to work for you.</p>
-</blockquote>
 
+> ThomasNet.com is like no other supplier discovery resource out there.
+> And it can help you meet your unique sourcing challenges in ways you
+> never could before -- whether its adding quality certified suppliers
+> to the supply chain, meeting diversity goals, identifying local job
+> shops, finding specific products or accelerating the design process.
+> Find out how to put it to work for you.
 
 
 ## Answer 2934

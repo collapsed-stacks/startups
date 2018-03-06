@@ -4,10 +4,12 @@
 - tagged: `insurance`
 - score: 1
 
-<p><a href="http://www.trov.com/" rel="nofollow">Trov</a> is significantly growing up, and I don't understand how does this world’s only on-demand insurance platform makes profit.</p>
+[Trov][1] is significantly growing up, and I don't understand how does this world’s only on-demand insurance platform makes profit.
 
-<p>Do you have any idea about how the company makes profit ?</p>
+Do you have any idea about how the company makes profit ?
 
+
+  [1]: http://www.trov.com/
 
 ## No Answers
 

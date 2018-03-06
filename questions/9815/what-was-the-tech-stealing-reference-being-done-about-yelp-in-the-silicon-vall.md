@@ -4,20 +4,15 @@
 - tagged: `venture-capital`, `silicon-valley`
 - score: 1
 
-<p>In the Silicon Valley show, when the CEO was explaining the technology (the middle-ware to be specific) to a bunch of curious VCs, the marketing guy takes him out and explains to the CEO that the VC firm is stealing ideas from them:</p>
+In the Silicon Valley show, when the CEO was explaining the technology (the middle-ware to be specific) to a bunch of curious VCs, the marketing guy takes him out and explains to the CEO that the VC firm is stealing ideas from them:
 
-<blockquote>
-  <p>We used to do this at Hooli all the time. We schedule meetings with companies so that they explain their technologies, then introduce their ideas in our products</p>
-</blockquote>
+> We used to do this at Hooli all the time. We schedule meetings with companies so that they explain their technologies, then introduce their ideas in our products
 
-<p>Then, the CEO replies:</p>
+Then, the CEO replies:
 
-<blockquote>
-  <p>Like what happened to Yelp?</p>
-</blockquote>
+> Like what happened to Yelp?
 
-<p>So, <strong>what was the related incident of Yelp which they were referring to?  How did if effect Yelp?</strong></p>
-
+So, **what was the related incident of Yelp which they were referring to?  How did if effect Yelp?**
 
 
 ## Answer 9817
@@ -25,8 +20,7 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2016-07-30
 - score: 1
 
-<p>This <a href="https://www.reddit.com/r/SiliconValleyHBO/comments/339sty/just_like_what_happened_to_yelp/" rel="nofollow">Reddit thread</a> and <a href="https://www.quora.com/Was-Yelp-a-stolen-idea" rel="nofollow">Quora question</a> suggest it's likely a reference to the <a href="https://en.wikipedia.org/wiki/Yelp#Private_company_.282009.E2.80.932011.29" rel="nofollow">acquisition negotiations</a> Yelp entered into with Google, with Google Places following shortly after.</p>
-
+This [Reddit thread](https://www.reddit.com/r/SiliconValleyHBO/comments/339sty/just_like_what_happened_to_yelp/) and [Quora question](https://www.quora.com/Was-Yelp-a-stolen-idea) suggest it's likely a reference to the [acquisition negotiations](https://en.wikipedia.org/wiki/Yelp#Private_company_.282009.E2.80.932011.29) Yelp entered into with Google, with Google Places following shortly after.
 
 
 

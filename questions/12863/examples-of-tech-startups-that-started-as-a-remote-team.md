@@ -4,8 +4,7 @@
 - tagged: `remote`
 - score: 0
 
-<p>Would you care to share examples of successful tech startups that started with all members of the founders working remotely on the company without meeting in person initially? I'd guess a good portion of the open source projects might have started that way?</p>
-
+Would you care to share examples of successful tech startups that started with all members of the founders working remotely on the company without meeting in person initially? I'd guess a good portion of the open source projects might have started that way?
 
 
 ## Answer 12875

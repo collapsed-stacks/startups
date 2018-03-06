@@ -4,14 +4,13 @@
 - tagged: `funding`, `europe`
 - score: 0
 
-<p>Recently a friend of mine told me about EU's new program for funding new innovative small businesses/startups.</p>
+Recently a friend of mine told me about EU's new program for funding new innovative small businesses/startups.
 
-<p>I read about it in <a href="http://europa.eu/youreurope/business/funding-grants/eu-programmes/index_en.htm" rel="nofollow noreferrer">EU's website</a>, which provided useful brief on what &amp; how. It seems interesting.</p>
+I read about it in [EU's website](http://europa.eu/youreurope/business/funding-grants/eu-programmes/index_en.htm), which provided useful brief on what & how. It seems interesting.
 
-<p>Has anyone used the service here? what are the real benefits &amp; challenges you faced? How does it cover IT startups? Is there any mentoring / consultation services?</p>
+Has anyone used the service here? what are the real benefits & challenges you faced? How does it cover IT startups? Is there any mentoring / consultation services?
 
-<p>I'd appreciate any relevant bit of information / real-life experience.</p>
-
+I'd appreciate any relevant bit of information / real-life experience.
 
 ## No Answers
 

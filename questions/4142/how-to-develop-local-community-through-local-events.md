@@ -4,21 +4,18 @@
 - tagged: `community`
 - score: 2
 
-<p>We have a school app and we want to strengthen it by organizing a local event.
-But we don't know what type of an event we should organize.</p>
+We have a school app and we want to strengthen it by organizing a local event.
+But we don't know what type of an event we should organize.
 
-<ul>
-<li>What should be the subject? </li>
-<li>How should we spend time? </li>
-<li>How to make it so that people like it a lot and then tell their friends about it?</li>
-<li>How long should the event last?</li>
-</ul>
+- What should be the subject? 
+- How should we spend time? 
+- How to make it so that people like it a lot and then tell their friends about it?
+- How long should the event last?
 
-<p>any other advice?</p>
+any other advice?
 
-<p>Our main goal is to make the community around our application stronger using face to face interaction.
-and when it comes to our users the only 2 things in common is that they are all students in our university &amp; they use our application.</p>
-
+Our main goal is to make the community around our application stronger using face to face interaction.
+and when it comes to our users the only 2 things in common is that they are all students in our university & they use our application.
 
 
 ## Answer 4143
@@ -26,10 +23,9 @@ and when it comes to our users the only 2 things in common is that they are all 
 - posted by: [blunders](https://stackexchange.com/users/216182/blunders) on 2015-04-28
 - score: 1
 
-<p><strong>Talk to the community.</strong></p>
+**Talk to the community.**
 
-<p>My take is that speculating on what a community needs likely isn't going to play out very well. My suggestion would instead be to focus on figuring out who in the your target marketing segment is well connected, then directly engage then in one-on-one face-to-face meetings to see what they feel might be the best fit for their community.</p>
-
+My take is that speculating on what a community needs likely isn't going to play out very well. My suggestion would instead be to focus on figuring out who in the your target marketing segment is well connected, then directly engage then in one-on-one face-to-face meetings to see what they feel might be the best fit for their community.
 
 
 

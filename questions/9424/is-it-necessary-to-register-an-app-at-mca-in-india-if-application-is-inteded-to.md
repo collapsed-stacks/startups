@@ -4,10 +4,9 @@
 - tagged: `legal`, `mobile-apps`, `taxes`, `india`, `lawyer`
 - score: 4
 
-<p>I have made an android application which allows for buying or selling used books in the region of Pune, India. This application will be live for the next one month only.</p>
+I have made an android application which allows for buying or selling used books in the region of Pune, India. This application will be live for the next one month only.
 
-<p>I will be getting some money on each transaction. I do not understand if I should register it at MCA, India or not. Will there be any legal issues in this concern? Will there be any income tax issue?</p>
-
+I will be getting some money on each transaction. I do not understand if I should register it at MCA, India or not. Will there be any legal issues in this concern? Will there be any income tax issue?
 
 
 ## Answer 9442

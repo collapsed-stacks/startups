@@ -4,8 +4,7 @@
 - tagged: `business-model`, `pivoting`
 - score: 2
 
-<p>Are there types of pivots that are common in startups, and if so, what are they?</p>
-
+Are there types of pivots that are common in startups, and if so, what are they?
 
 
 ## Answer 3099

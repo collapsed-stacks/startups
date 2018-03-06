@@ -4,8 +4,7 @@
 - tagged: `business-registration`, `trademark`, `domain-name`
 - score: 1
 
-<p>I have registered an assumed business name, lets call it ArtHouse. After looking around online I found a website hosted in Illinois with the domain arthouse.com and has a logo ArtHouse®. After searching in the US database for registered business names, there were no records for another ArtHouse being filed. When I found the website, I then looked up the Trademark and found that the registered trademark is in fact active. Is it legal for this company to be operating under an unregistered business name? If they are 100% in legal ownership of the hypothetical name "ArtHouse", I would be willing to change my business name to something like ArtHousePDX or something else similar but I am wondering if the missing registration will affect anything in my favor.</p>
-
+I have registered an assumed business name, lets call it ArtHouse. After looking around online I found a website hosted in Illinois with the domain arthouse.com and has a logo ArtHouse®. After searching in the US database for registered business names, there were no records for another ArtHouse being filed. When I found the website, I then looked up the Trademark and found that the registered trademark is in fact active. Is it legal for this company to be operating under an unregistered business name? If they are 100% in legal ownership of the hypothetical name "ArtHouse", I would be willing to change my business name to something like ArtHousePDX or something else similar but I am wondering if the missing registration will affect anything in my favor.
 
 
 ## Answer 3474

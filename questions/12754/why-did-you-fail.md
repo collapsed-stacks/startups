@@ -4,10 +4,9 @@
 - tagged: `entrepreneurship`
 - score: -1
 
-<p>I know this will be a question which will be unpleasent to anwer, but I will ask it anyway. A  general wisdom of start-ups is to fail fast but never to fail twice. Because you can learn from mistakes much more then from successes. </p>
+I know this will be a question which will be unpleasent to anwer, but I will ask it anyway. A  general wisdom of start-ups is to fail fast but never to fail twice. Because you can learn from mistakes much more then from successes. 
 
-<p>Now my question for you: Where and why did you fail? </p>
-
+Now my question for you: Where and why did you fail? 
 
 
 ## Answer 12755
@@ -15,31 +14,31 @@
 - posted by: [flowersandcoffee](https://stackexchange.com/users/10629558/flowersandcoffee) on 2017-05-31
 - score: 3
 
-<p>They were not all necessarily my failures, but I learnt from them anyway, since they were really frustrating to witness. I'll give you my top 10. :) </p>
+They were not all necessarily my failures, but I learnt from them anyway, since they were really frustrating to witness. I'll give you my top 10. :) 
 
-<p>1.) <strong>Pay attention to your employees:</strong> I would say that one of the most important points to mention is that a lot of people do not listen to the people they have hired. If you hire someone you might want to listen to them. </p>
+1.) **Pay attention to your employees:** I would say that one of the most important points to mention is that a lot of people do not listen to the people they have hired. If you hire someone you might want to listen to them. 
 
-<p>2.) <strong>Keep your eye on your books:</strong> If you have no idea, where your money goes, you might as well close down. Know what your startup spends its money on, how to maximize your win and minimize your cost. </p>
+2.) **Keep your eye on your books:** If you have no idea, where your money goes, you might as well close down. Know what your startup spends its money on, how to maximize your win and minimize your cost. 
 
-<p>3.) <strong>Try to understand your market:</strong> If you don't know the market, you will have a product nobody wants to have. So get to know what people need and design a suitable product around your market.</p>
+3.) **Try to understand your market:** If you don't know the market, you will have a product nobody wants to have. So get to know what people need and design a suitable product around your market.
 
-<p>4.) <strong>Determine what your startup stands for and stick to it.</strong> You might want to think about this particular point more often, than you think. I cannot explain much to that point. If you have a solid policy you can also attract customers who might want to support you, your startup and product for the things you stand for.</p>
+4.) **Determine what your startup stands for and stick to it.** You might want to think about this particular point more often, than you think. I cannot explain much to that point. If you have a solid policy you can also attract customers who might want to support you, your startup and product for the things you stand for.
 
-<p>5.) <strong>Know what you are selling:</strong> You have to know anything there is to know about your product. The minute you start ignoring parts of how your product is made, how it is distributed etc., you'll be on your way of loosing a lot of money. <strong>This principle also applies to your company.</strong> </p>
+5.) **Know what you are selling:** You have to know anything there is to know about your product. The minute you start ignoring parts of how your product is made, how it is distributed etc., you'll be on your way of loosing a lot of money. **This principle also applies to your company.** 
 
-<p>6.) <strong>Know your investors:</strong> If you have someone how is investing in your company, you should probably try to get to know them. After all this person believes in your idea. Do them the curtesy of showing a litte business-love. </p>
+6.) **Know your investors:** If you have someone how is investing in your company, you should probably try to get to know them. After all this person believes in your idea. Do them the curtesy of showing a litte business-love. 
 
-<p>7.) <strong>Get rid of contra-productive people, things or ideas:</strong> You know when something is not right. So my advise to is to cut everything off that is bad for business. That includes friends, family and especially employees (even if they are loyal). You have to carry a business. Not people or bad ideas. </p>
+7.) **Get rid of contra-productive people, things or ideas:** You know when something is not right. So my advise to is to cut everything off that is bad for business. That includes friends, family and especially employees (even if they are loyal). You have to carry a business. Not people or bad ideas. 
 
-<p>8.) <strong>Look for a solid lawyer.</strong> At some point in your business-life you will have to settle or fight things with a lawyer. Get someone you can potentially trust and who knows his field well. (This point is a personal experience. It almost ruined our family business back then. So this is something I highly recommend you do, if you plan on starting a startup) </p>
+8.) **Look for a solid lawyer.** At some point in your business-life you will have to settle or fight things with a lawyer. Get someone you can potentially trust and who knows his field well. (This point is a personal experience. It almost ruined our family business back then. So this is something I highly recommend you do, if you plan on starting a startup) 
 
-<p>9.) <strong>Don't be afraid to take risks</strong> Well, as a latin proverb goes: fortes fortuna aduivat. Go out and risk it. Play. If you are confident, you'll be successful. </p>
+9.) **Don't be afraid to take risks** Well, as a latin proverb goes: fortes fortuna aduivat. Go out and risk it. Play. If you are confident, you'll be successful. 
 
-<p>10.) <strong>Love what you do, but stay professional.</strong> There is nothing to say against a little love and fun. But never forget you are also responsible for this business, the people who earn from it and most importantly your customers. </p>
+10.) **Love what you do, but stay professional.** There is nothing to say against a little love and fun. But never forget you are also responsible for this business, the people who earn from it and most importantly your customers. 
 
-<p>I hope to have given you a couple of good things. 
-Much love to you.  </p>
 
+I hope to have given you a couple of good things. 
+Much love to you.  
 
 
 ## Answer 12792
@@ -72,10 +71,9 @@ Much love to you.  </p>
 - posted by: [BrettFromLA](https://stackexchange.com/users/2813127/brettfromla) on 2017-05-31
 - score: 2
 
-<p>One of my web businesses failed because I didn't check how many competitors I had before I started. (There were a lot, and they were well established!)</p>
+One of my web businesses failed because I didn't check how many competitors I had before I started. (There were a lot, and they were well established!)
 
-<p>My next few web businesses failed because I had no long-term marketing plan, or I didn't stick with the marketing plan because it didn't produce results right away.</p>
-
+My next few web businesses failed because I had no long-term marketing plan, or I didn't stick with the marketing plan because it didn't produce results right away.
 
 
 ## Answer 12756
@@ -83,38 +81,33 @@ Much love to you.  </p>
 - posted by: [Smit](https://stackexchange.com/users/7665731/smit) on 2017-05-31
 - score: 1
 
-<p>Awesome answer by flowersandcoffee</p>
+Awesome answer by flowersandcoffee
 
-<p>The majority of startup failing is because of "people"</p>
+The majority of startup failing is because of "people"
 
-<p>People consists Employees, Customers, Shareholders and Government</p>
+People consists Employees, Customers, Shareholders and Government
 
-<p>1) Employees: I have always had an issue with good people leaving because I was not able to keep their goals in mind. Goals such their enhancement training, promotions.</p>
+1) Employees: I have always had an issue with good people leaving because I was not able to keep their goals in mind. Goals such their enhancement training, promotions.
 
-<p>2) Customers: </p>
+2) Customers: 
 
-<blockquote>
-  <p>Run business for people(especially customers) not for money</p>
-</blockquote>
+> Run business for people(especially customers) not for money
 
-<p>My father told me this and it actually works. Build product or service customer-centric. If you do not take customers seriously, it will be disastrous.</p>
+My father told me this and it actually works. Build product or service customer-centric. If you do not take customers seriously, it will be disastrous.
 
-<p>3) Shareholders:</p>
+3) Shareholders:
 
-<p>They invest in the idea, and it is important that you must have transparency; not hiding "future" plans.</p>
+They invest in the idea, and it is important that you must have transparency; not hiding "future" plans.
 
-<p>4) Government:</p>
+4) Government:
 
-<p>There may be government rules that may slow or shut the company down. If enough research is not done, it could lead to complete shutdown of the company.</p>
+There may be government rules that may slow or shut the company down. If enough research is not done, it could lead to complete shutdown of the company.
 
-<p>As known, there is no specific reason why startup fails but it is important to keep in mind to:</p>
+As known, there is no specific reason why startup fails but it is important to keep in mind to:
 
-<blockquote>
-  <p>Fail fast, recover faster</p>
-</blockquote>
+> Fail fast, recover faster
 
-<p>Hope this helps.</p>
-
+Hope this helps.
 
 
 

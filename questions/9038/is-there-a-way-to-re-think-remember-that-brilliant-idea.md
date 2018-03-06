@@ -4,21 +4,22 @@
 - tagged: `investors`
 - score: 1
 
-<p>I'm pretty sure that I am smarter than the average bear.   :)
+I'm pretty sure that I am smarter than the average bear.   :)
 Two or three days ago, I thought of a Brilliant (million-dollar) idea.
 Of course, I should have written down some notes about it, but, alas, I didn't.<br />
-I've been Trying to recall; it was something about a new Device or a Process...</p>
+I've been Trying to recall; it was something about a new Device or a Process...
 
-<p>And I really thought at the time that it was Seriously Doable and Marketable and it would be In-demand, and I haven't yet seen it on the market.</p>
+And I really thought at the time that it was Seriously Doable and Marketable and it would be In-demand, and I haven't yet seen it on the market.
 
-<p>I've sat in the same place where (I think) I was at the time,
+I've sat in the same place where (I think) I was at the time,
 with eyes closed for concentration; and eyes open for viewing the surroundings.
 Still, I cannot recall.
 My job requires that I take notes about what I do during the day.
 I've looked back at those notes, to no avail.  <br />
-(I do not think that the Brilliant idea was job-related).<br /></p>
+(I do not think that the Brilliant idea was job-related).<br />
 
-<p>Any suggestions as to how to jog the memory?</p>
+Any suggestions as to how to jog the memory?
+
 
 
 ## No Answers

@@ -4,8 +4,7 @@
 - tagged: `tech-company`, `cloud`, `servers`
 - score: 13
 
-<p>What are the advantages of Hosting in the cloud as opposed to buying conventional systems? Is there a difference in the security? Is there a longterm monetary advantage to buying hardware?</p>
-
+What are the advantages of Hosting in the cloud as opposed to buying conventional systems? Is there a difference in the security? Is there a longterm monetary advantage to buying hardware?
 
 
 ## Answer 308
@@ -47,18 +46,17 @@
 - posted by: [Matthew Haugen](https://stackexchange.com/users/1325646/matthew-haugen) on 2014-08-12
 - score: 4
 
-<p>Here's to this analogy again, it's kind of like buying or renting a house. There are advantages to each, and there are disadvantages to each. I think @jdero hit on the important parts as far as theoretical implementations are concerned.</p>
+Here's to this analogy again, it's kind of like buying or renting a house. There are advantages to each, and there are disadvantages to each. I think @jdero hit on the important parts as far as theoretical implementations are concerned.
 
-<p>With the cloud, you get a solid infrastructure that (probably) won't fail out from under you. You pay only for what you actually use, in theory anyway, you can scale with a couple clicks, you don't have to pay IT people, and you can access your information from absolutely anywhere without having to worry about things like failures, or even petty setup issues like firewalls.</p>
+With the cloud, you get a solid infrastructure that (probably) won't fail out from under you. You pay only for what you actually use, in theory anyway, you can scale with a couple clicks, you don't have to pay IT people, and you can access your information from absolutely anywhere without having to worry about things like failures, or even petty setup issues like firewalls.
 
-<p>With a private setup consisting of your own hardware, you can do a whole lot more (in theory anyway). You can put in exactly the hardware you want (say you need a whole lot of CPU and memory isn't overly important, you can do that), although that's less and less of an issue. You also get to work out software upgrades on your schedule, which means if you have some heavy-traffic event going on, there's no chance your service provider will schedule an overlapping maintenance event (of course, if you set up your cloud system right, that won't be an issue).</p>
+With a private setup consisting of your own hardware, you can do a whole lot more (in theory anyway). You can put in exactly the hardware you want (say you need a whole lot of CPU and memory isn't overly important, you can do that), although that's less and less of an issue. You also get to work out software upgrades on your schedule, which means if you have some heavy-traffic event going on, there's no chance your service provider will schedule an overlapping maintenance event (of course, if you set up your cloud system right, that won't be an issue).
 
-<p>But really, when all is said and done, it's just a matter of finances. Hardware is a one-time expenditure. As I said <em>way back when,</em> it's like a house. For the purposes of this analogy, we'll pretend you're paying up-front and mortgages don't exist. You can buy a house once, then it's yours to do with what you please. You can upgrade or change it as you wish, but you have to pay to keep it up. On the other hand, if you rent one, you'll be paying more regularly, but you'll also be all set for (some) disasters.</p>
+But really, when all is said and done, it's just a matter of finances. Hardware is a one-time expenditure. As I said *way back when,* it's like a house. For the purposes of this analogy, we'll pretend you're paying up-front and mortgages don't exist. You can buy a house once, then it's yours to do with what you please. You can upgrade or change it as you wish, but you have to pay to keep it up. On the other hand, if you rent one, you'll be paying more regularly, but you'll also be all set for (some) disasters.
 
-<p>Ultimately, it's a business decision more than a technical one. Would you rather pay a little, a lot, or a lot, a little?</p>
+Ultimately, it's a business decision more than a technical one. Would you rather pay a little, a lot, or a lot, a little?
 
-<p>There's a lot the cloud doesn't do right now. Azure SQL Database, for a random and specific example, doesn't support CLR functions. But every few months I see new features pushed out, so I think those sorts of limitations are going away.</p>
-
+There's a lot the cloud doesn't do right now. Azure SQL Database, for a random and specific example, doesn't support CLR functions. But every few months I see new features pushed out, so I think those sorts of limitations are going away.
 
 
 ## Answer 312
@@ -66,34 +64,29 @@
 - posted by: [Levi Blackstone](https://stackexchange.com/users/420597/levi-blackstone) on 2014-08-12
 - score: 2
 
-<p>This is another example of a business tradeoff that depends on your priorities.  As I see it, here are some of the major pluses and minuses to consider:</p>
+This is another example of a business tradeoff that depends on your priorities.  As I see it, here are some of the major pluses and minuses to consider:
 
-<p><strong>ADVANTAGES</strong></p>
+**ADVANTAGES**
 
-<ol>
-<li>Service Level Agreements (SLAs) - 
-Cloud providers make you a contract-backed guarantee of server uptime. The advantages of these assurances will become more apparent as your company grows, and unreliable service becomes a huge liability.</li>
-<li>Scalability -
-It's far easier to scale up as demand grows with cloud infrastructure. Plus, it becomes possible to scale up temporarily for periods of high demand. For example, if you are running an e-commerce website, the holiday shopping season tends to bring a substantial increase in traffic, and you want to make sure that your site doesn't buckle under the stress.</li>
-<li>Reliability - 
-Cloud providers have a lot of domain-specific experience, and are less likely to make hardware mistakes that could ruin your day (or your business) if something goes wrong. Redundant backups and a team of admins at the datacenters means that you should be able to get back up and running quickly in the event of a hardware failure.</li>
-<li>Staffing costs -
-Choosing to use cloud infrastructure means that you don't have to hire a team to run your hardware on-site. Some providers also offer support for managing your configurations and software, so you can avoid loading your budget down with your own IT staff. </li>
-</ol>
+ 1. Service Level Agreements (SLAs) - 
+Cloud providers make you a contract-backed guarantee of server uptime. The advantages of these assurances will become more apparent as your company grows, and unreliable service becomes a huge liability.
+ 2. Scalability -
+It's far easier to scale up as demand grows with cloud infrastructure. Plus, it becomes possible to scale up temporarily for periods of high demand. For example, if you are running an e-commerce website, the holiday shopping season tends to bring a substantial increase in traffic, and you want to make sure that your site doesn't buckle under the stress.
+ 3. Reliability - 
+Cloud providers have a lot of domain-specific experience, and are less likely to make hardware mistakes that could ruin your day (or your business) if something goes wrong. Redundant backups and a team of admins at the datacenters means that you should be able to get back up and running quickly in the event of a hardware failure.
+ 4. Staffing costs -
+Choosing to use cloud infrastructure means that you don't have to hire a team to run your hardware on-site. Some providers also offer support for managing your configurations and software, so you can avoid loading your budget down with your own IT staff. 
 
-<p><strong>DISADVANTAGES</strong></p>
+**DISADVANTAGES**
 
-<ol>
-<li>Security -
-Putting your confidential data in another company's hands is a calculated risk. There is always the possibility that your data could be mishandled or accessed/erased in a security breach. There have been <a href="http://searchaws.techtarget.com/news/2240223024/Code-Spaces-goes-dark-after-AWS-cloud-security-hack" rel="nofollow">instances</a> of smaller cloud providers being hacked and having all of their customer data wiped out. If you use cloud services, be careful which provider you trust, and have a contingency plan for catastrophic problems (i.e. off-site backups).</li>
-<li>Noisy neighbors - 
-A major real-world problem with cloud computing is the so-called "noisy neighbor" problem. In most cases, your server will be running as a virtual machine that shares the underlying hardware with other cloud customers. Depending on what the other VMs are doing, you could have unreliable computing and networking performance. There are ways to mitigate these problems beyond the scope of this question, but it is a very common complaint.</li>
-</ol>
+ 1. Security -
+Putting your confidential data in another company's hands is a calculated risk. There is always the possibility that your data could be mishandled or accessed/erased in a security breach. There have been [instances](http://searchaws.techtarget.com/news/2240223024/Code-Spaces-goes-dark-after-AWS-cloud-security-hack) of smaller cloud providers being hacked and having all of their customer data wiped out. If you use cloud services, be careful which provider you trust, and have a contingency plan for catastrophic problems (i.e. off-site backups).
+ 2. Noisy neighbors - 
+A major real-world problem with cloud computing is the so-called "noisy neighbor" problem. In most cases, your server will be running as a virtual machine that shares the underlying hardware with other cloud customers. Depending on what the other VMs are doing, you could have unreliable computing and networking performance. There are ways to mitigate these problems beyond the scope of this question, but it is a very common complaint.
 
-<p>Overall, I think the advantages of cloud systems far outweigh the disadvantages for a startup. As much as possible, you want to maintain focus on the core parts of your business (i.e. the product that differentiates you), and cloud services can save you a lot of time, energy, and (at least in the long run) money.</p>
+Overall, I think the advantages of cloud systems far outweigh the disadvantages for a startup. As much as possible, you want to maintain focus on the core parts of your business (i.e. the product that differentiates you), and cloud services can save you a lot of time, energy, and (at least in the long run) money.
 
-<p>Disclaimer: I work for Rackspace, but these opinions are my own.</p>
-
+Disclaimer: I work for Rackspace, but these opinions are my own.
 
 
 ## Answer 541
@@ -101,8 +94,7 @@ A major real-world problem with cloud computing is the so-called "noisy neighbor
 - posted by: [Chase Ouhrabka](https://stackexchange.com/users/4956076/chase-ouhrabka) on 2014-08-29
 - score: 0
 
-<p>I would recommend starting with the cloud and expanding to a separate server one you expand. It's low cost and easier to use. Also you can get some very useful analysis that wouldn't be as accessible with a tower type server unless you pay a lot more. </p>
-
+I would recommend starting with the cloud and expanding to a separate server one you expand. It's low cost and easier to use. Also you can get some very useful analysis that wouldn't be as accessible with a tower type server unless you pay a lot more. 
 
 
 

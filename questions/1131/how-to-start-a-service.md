@@ -4,12 +4,11 @@
 - tagged: `tech-company`, `customer-development`, `service`
 - score: 3
 
-<p>I've been developing some pen testing software on and off for almost a year now as I have time. My question is, once I've finished building a basic model, how do I find people to offer my services?</p>
+I've been developing some pen testing software on and off for almost a year now as I have time. My question is, once I've finished building a basic model, how do I find people to offer my services?
 
-<p>To be clear, I would essentially show them potential security breaches in their web site, and offer to help them fix it. I have already looked extensively into legal issues, and have multiple levels of tests. The initial test is simple, and can be done legally, then I would show them results, and offer to do some deeper testing, and help them to overcome the potential security breaches. </p>
+To be clear, I would essentially show them potential security breaches in their web site, and offer to help them fix it. I have already looked extensively into legal issues, and have multiple levels of tests. The initial test is simple, and can be done legally, then I would show them results, and offer to do some deeper testing, and help them to overcome the potential security breaches. 
 
-<p>I pretty much have the technical side down, I just need to know where to start. I thought about doing this test on various sites, and emailing the owners, but I feel like they would see that as spam. Any ideas on how to appear professional while soliciting a service?</p>
-
+I pretty much have the technical side down, I just need to know where to start. I thought about doing this test on various sites, and emailing the owners, but I feel like they would see that as spam. Any ideas on how to appear professional while soliciting a service?
 
 
 ## Answer 1137
@@ -17,18 +16,15 @@
 - posted by: [John Looker](https://stackexchange.com/users/5196682/john-looker) on 2014-10-24
 - score: 3
 
-<p>Become known in the industry by connecting with companies who are your potential clients. </p>
+Become known in the industry by connecting with companies who are your potential clients. 
 
-<ul>
-<li>The best time to do that is when they're looking.</li>
-<li>Go to pen testing trade shows and talk to them. Give them your business card and offer a free trial.</li>
-<li>If possible, join an internet site offering online pen testing services to companies. Join as a researcher to get known before going freelance.</li>
-<li>Much easier to get freelance work when you have a track record in the field.</li>
-<li>Build a social network of potential clients and blog about pen testing.</li>
-</ul>
+- The best time to do that is when they're looking.
+- Go to pen testing trade shows and talk to them. Give them your business card and offer a free trial.
+- If possible, join an internet site offering online pen testing services to companies. Join as a researcher to get known before going freelance.
+- Much easier to get freelance work when you have a track record in the field.
+- Build a social network of potential clients and blog about pen testing.
 
-<p>Talk to other pen testing researchers how they approach getting work.</p>
-
+Talk to other pen testing researchers how they approach getting work.
 
 
 ## Answer 1139

@@ -4,10 +4,9 @@
 - tagged: `united-states`, `billing`, `payment`
 - score: 2
 
-<p>Lets say I'm charging my user 0.03 BTC ($10 USD), and I receive 0.025 BTC, Refunding them is <em>really</em> difficult, So can I have a policy that If they get the amount wrong, there will be no refund of the money? ...So I keep the 0.025 BTC without delivering the product, or if the pay me 0.035 BTC I keep the change.</p>
+Lets say I'm charging my user 0.03 BTC ($10 USD), and I receive 0.025 BTC, Refunding them is *really* difficult, So can I have a policy that If they get the amount wrong, there will be no refund of the money? ...So I keep the 0.025 BTC without delivering the product, or if the pay me 0.035 BTC I keep the change.
 
-<p><strong>Note:</strong> A warning about exact change will be made clearly visible, so it won't come as a surprise.</p>
-
+**Note:** A warning about exact change will be made clearly visible, so it won't come as a surprise.
 
 
 ## Answer 1199

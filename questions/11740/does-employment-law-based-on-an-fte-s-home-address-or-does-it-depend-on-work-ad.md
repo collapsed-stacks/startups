@@ -4,12 +4,11 @@
 - tagged: `employees`
 - score: 1
 
-<p>Suppose I have a FTE who moves from NYC to Pa.  The work address is the same.</p>
+Suppose I have a FTE who moves from NYC to Pa.  The work address is the same.
 
-<p>Are there different right to hire/fire based on this?</p>
+Are there different right to hire/fire based on this?
 
-<p>Would a "right to work" state be different? </p>
-
+Would a "right to work" state be different? 
 
 ## No Answers
 

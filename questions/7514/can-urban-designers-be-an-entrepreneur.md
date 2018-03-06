@@ -4,14 +4,13 @@
 - tagged: `entrepreneurship`
 - score: 2
 
-<p>Everybody hopes to have her or his business. I am an urban designer and I want to have my own business.</p>
+Everybody hopes to have her or his business. I am an urban designer and I want to have my own business.
 
-<p>Urban designers are not only a physical designer. They find solutions to qualify people's life. In fact they are similar to doctors. They are City's doctor. Urban designers often work in a big group in a big company. Their domain work has been limited to designing urban space and places, providing land use schemes, create an inspirational approach to urban design, architecture and public realm etc.</p>
+Urban designers are not only a physical designer. They find solutions to qualify people's life. In fact they are similar to doctors. They are City's doctor. Urban designers often work in a big group in a big company. Their domain work has been limited to designing urban space and places, providing land use schemes, create an inspirational approach to urban design, architecture and public realm etc.
 
-<p>To me there are a lot of ways for urban designers to present their talent. For example they can be active in tourism industrial. They can establish travel agency and manage it.</p>
+To me there are a lot of ways for urban designers to present their talent. For example they can be active in tourism industrial. They can establish travel agency and manage it.
 
-<p>If you were urban designer how do you start your own business?</p>
-
+If you were urban designer how do you start your own business?
 
 
 ## Answer 8179
@@ -44,12 +43,11 @@
 - posted by: [Philipp](https://stackexchange.com/users/1777092/philipp) on 2015-10-10
 - score: 0
 
-<p>The most important question when you want to become self-employed with a consulting skill is "how do I find prospective customers"? </p>
+The most important question when you want to become self-employed with a consulting skill is "how do I find prospective customers"? 
 
-<p>I did not fully understand <em>what</em> you are doing, but it sounds to me like a niche skill needed by city planners working for city administrations and maybe a few companies. Often there will be lots of money involved. Getting such a job will likely require good contacts. Do you have a network which includes people who undertake such projects? If not, building it should be your first priority.</p>
+I did not fully understand *what* you are doing, but it sounds to me like a niche skill needed by city planners working for city administrations and maybe a few companies. Often there will be lots of money involved. Getting such a job will likely require good contacts. Do you have a network which includes people who undertake such projects? If not, building it should be your first priority.
 
-<p>Who are the people who decide on the land use schemes in your city? Whose consulting service are they using right now and how happy are they with them? Who are the people who decide on their budget? And where do all these people hang out ofter work? When you don't know, you better find out.</p>
-
+Who are the people who decide on the land use schemes in your city? Whose consulting service are they using right now and how happy are they with them? Who are the people who decide on their budget? And where do all these people hang out ofter work? When you don't know, you better find out.
 
 
 ## Answer 7914
@@ -57,10 +55,9 @@
 - posted by: [Tom](https://stackexchange.com/users/1841165/tom) on 2015-11-23
 - score: 0
 
-<p>For what I understund you're doing, you can start building your business by branding yourself as go-to-guy in your field. Creating and sharing good quality content related to that field, you will eventually be on everybodys lips when they look for urban designers. Congratulations, you've developed yourself a proper job in your field of expertice.</p>
+For what I understund you're doing, you can start building your business by branding yourself as go-to-guy in your field. Creating and sharing good quality content related to that field, you will eventually be on everybodys lips when they look for urban designers. Congratulations, you've developed yourself a proper job in your field of expertice.
 
-<p>Now, if you're not interested in just to trade hours for dollars, you should find a scalable model that lets you sit on drivers seat and let company do the heavy lifting. As you start to get recognition and bigger jobs by personal branding, you can hire people to work with you. As things grow, you can be more of a overseer and face of your company and reap the benefits.</p>
-
+Now, if you're not interested in just to trade hours for dollars, you should find a scalable model that lets you sit on drivers seat and let company do the heavy lifting. As you start to get recognition and bigger jobs by personal branding, you can hire people to work with you. As things grow, you can be more of a overseer and face of your company and reap the benefits.
 
 
 

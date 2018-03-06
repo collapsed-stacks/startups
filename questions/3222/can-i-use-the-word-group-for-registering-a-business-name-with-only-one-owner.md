@@ -4,14 +4,13 @@
 - tagged: `united-states`, `legal`, `llc`, `business-registration`, `maryland`
 - score: 3
 
-<p>Is it possible to register an LLC business name under US laws, with the term GROUP in it, while the business is a one person company?</p>
+Is it possible to register an LLC business name under US laws, with the term GROUP in it, while the business is a one person company?
 
-<p>Say something like: The blabla Group L.L.C.</p>
+Say something like: The blabla Group L.L.C.
 
-<p>(If it matters, the business is to be registered in the Maryland state).</p>
+(If it matters, the business is to be registered in the Maryland state).
 
-<p>Thanks.</p>
-
+Thanks.
 
 
 ## Answer 3224
@@ -42,12 +41,11 @@ e. L C
 - posted by: [Tomas M Flores Esq](https://stackexchange.com/users/5711618/tomas-m-flores-esq) on 2015-01-31
 - score: 2
 
-<p>I am an attorney in California, but your question falls under Federal law. </p>
+I am an attorney in California, but your question falls under Federal law. 
 
-<p>Yes - you can register a business name that includes the word "GROUP" even if you are currently operating as an individual.  However, merely registering an LLC does not protect your business name against competitors who might use the same name.  It is a better idea to register a trademark at the USPTO (uspto.gov).  </p>
+Yes - you can register a business name that includes the word "GROUP" even if you are currently operating as an individual.  However, merely registering an LLC does not protect your business name against competitors who might use the same name.  It is a better idea to register a trademark at the USPTO (uspto.gov).  
 
-<p>Hiring an attorney to prosecute a trademark is generally the best way to go.  Trademark prosecution is usually under $1,500 plus $350 for the government fees.  It might sound like a lot of money, but a trademark (if properly maintained) can last forever.  For example, "Coca Cola." </p>
-
+Hiring an attorney to prosecute a trademark is generally the best way to go.  Trademark prosecution is usually under $1,500 plus $350 for the government fees.  It might sound like a lot of money, but a trademark (if properly maintained) can last forever.  For example, "Coca Cola." 
 
 
 

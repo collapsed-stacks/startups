@@ -4,11 +4,10 @@
 - tagged: `tech-company`, `legal`, `marketing`, `mobile-apps`, `advertising`
 - score: 3
 
-<p>I'm currently getting into the basics of iOS development. <br >
-I've designed a simple RSS feed where users can just add their favorite news outlets into one feed.</p>
+I'm currently getting into the basics of iOS development. <br >
+I've designed a simple RSS feed where users can just add their favorite news outlets into one feed.
 
-<p>Can I place ads in this app? </p>
-
+Can I place ads in this app? 
 
 
 ## Answer 9398
@@ -16,14 +15,13 @@ I've designed a simple RSS feed where users can just add their favorite news out
 - posted by: [David 'mArm' Ansermot](https://stackexchange.com/users/412499/david-marm-ansermot) on 2016-06-03
 - score: 2
 
-<p>I'm a senior iOS developer. <br />
-Yes you can place an ad inside your RSS feed app.</p>
+I'm a senior iOS developer. <br />
+Yes you can place an ad inside your RSS feed app.
 
-<p><strong>BUT</strong></p>
+**BUT**
 
-<p>Apple won't validate your application if the only thing it does it displaying a RSS feed.<br />
-It's against Apple Review Appstore policies.</p>
-
+Apple won't validate your application if the only thing it does it displaying a RSS feed.<br />
+It's against Apple Review Appstore policies.
 
 
 

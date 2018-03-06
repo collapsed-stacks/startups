@@ -4,23 +4,20 @@
 - tagged: `pricing`
 - score: 3
 
-<p>I would like to price code-reviews based on number of statements (roughly lines of code). I don't want to count comments or white space because they help the reviewer rather than slow him down.</p>
+I would like to price code-reviews based on number of statements (roughly lines of code). I don't want to count comments or white space because they help the reviewer rather than slow him down.
 
-<p>I want to adjust for multiple statements packed on the same line. For example, minified css and js will put thousands of statements on the same line. So really, I want to count number of statements.</p>
+I want to adjust for multiple statements packed on the same line. For example, minified css and js will put thousands of statements on the same line. So really, I want to count number of statements.
 
-<p>To that end I would count:</p>
+To that end I would count:
 
-<ul>
-<li>CSS: number of semicolons, commas, and closing braces not preceded by semicolon.</li>
-<li>JS: number of semicolons, periods, and closing braces not preceded by semicolon.</li>
-<li>PHP: number of semicolons and closing ?> not preceded by semicolon.</li>
-<li>HTML: number of tags.</li>
-</ul>
+ - CSS: number of semicolons, commas, and closing braces not preceded by semicolon.
+ - JS: number of semicolons, periods, and closing braces not preceded by semicolon.
+ - PHP: number of semicolons and closing ?> not preceded by semicolon.
+ - HTML: number of tags.
 
-<p>Are there any concerns with this way of pricing? Am I missing anything? Is there enough of a difference for code review purposes between declarative and logical statements that I should factor that into pricing?</p>
+Are there any concerns with this way of pricing? Am I missing anything? Is there enough of a difference for code review purposes between declarative and logical statements that I should factor that into pricing?
 
-<p>As a side note, I am familiar with CLOC and SLOCCount which would need additional code to do this type of count, but if you know of a better tool, a comment would be appreciated, but answers should focus on pointing out problems with this pricing structure.</p>
-
+As a side note, I am familiar with CLOC and SLOCCount which would need additional code to do this type of count, but if you know of a better tool, a comment would be appreciated, but answers should focus on pointing out problems with this pricing structure.
 
 
 ## Answer 8784

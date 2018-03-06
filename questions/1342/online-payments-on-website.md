@@ -4,11 +4,11 @@
 - tagged: `website`, `payment`
 - score: 4
 
-<p>I want to implement online payments on my SAT website, but most companies that provide such services require me to have a company or business name.</p>
+I want to implement online payments on my SAT website, but most companies that provide such services require me to have a company or business name.
 
-<p>I am 18yo and and the process of getting a company registered seems too daunting for me. <br />There is no one around me that could me help me either. Are there any online payment services that don't require a registered business?</p>
+I am 18yo and and the process of getting a company registered seems too daunting for me. <br />There is no one around me that could me help me either. Are there any online payment services that don't require a registered business?
 
-<p>Any other advice in general would be appreciated.</p>
+Any other advice in general would be appreciated.
 
 
 

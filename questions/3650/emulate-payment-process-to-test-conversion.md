@@ -4,9 +4,10 @@
 - tagged: `payment`
 - score: 2
 
-<p>Is there some simple way to create a payment page that looks like a real one (credit card number and so on) but doesn't start the actual money transaction? Just something fast and realistic enough to test conversion level, engage with customers that are ready to pay and so on.</p>
+Is there some simple way to create a payment page that looks like a real one (credit card number and so on) but doesn't start the actual money transaction? Just something fast and realistic enough to test conversion level, engage with customers that are ready to pay and so on.
 
-<p>Easy means that it should not require company. </p>
+Easy means that it should not require company. 
+
 
 
 

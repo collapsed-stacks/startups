@@ -4,14 +4,13 @@
 - tagged: `business-plan`
 - score: 6
 
-<p>So I am in the process of starting a hosting company and am a little bit confused about this one.</p>
+So I am in the process of starting a hosting company and am a little bit confused about this one.
 
-<p>I have watched a hosting company introduce a feature after they gained a couple of really loyal clients. About an hour after they made that feature available, a lot of their customers had a 'WOW' moment, and they were all incredibly happy. I noticed that after I got a VPS at them and I asked people for feedback on Twitter, they said 'buy it because you're not gonna get a better VPS'. I noticed that I asked the exact same question before, and people didn't really react. It's obvious they were really excited for that new feature and that definitely made a lot of their clients stay and recommend it to friends/family and other people.</p>
+I have watched a hosting company introduce a feature after they gained a couple of really loyal clients. About an hour after they made that feature available, a lot of their customers had a 'WOW' moment, and they were all incredibly happy. I noticed that after I got a VPS at them and I asked people for feedback on Twitter, they said 'buy it because you're not gonna get a better VPS'. I noticed that I asked the exact same question before, and people didn't really react. It's obvious they were really excited for that new feature and that definitely made a lot of their clients stay and recommend it to friends/family and other people.
 
-<p>Now I have a killer feature like this as well. Our website is not completely finished yet, so it's up to me if I'm going to introduce this killer feature right now or wait till we have gained some loyal clients. For the record, I am talking about an absolutely killer feature here: you'd spend quite a lot of time looking for a company that offers the same!</p>
+Now I have a killer feature like this as well. Our website is not completely finished yet, so it's up to me if I'm going to introduce this killer feature right now or wait till we have gained some loyal clients. For the record, I am talking about an absolutely killer feature here: you'd spend quite a lot of time looking for a company that offers the same!
 
-<p>So, it comes down to: is it better to wait with introducing a killer feature?</p>
-
+So, it comes down to: is it better to wait with introducing a killer feature?
 
 
 ## Answer 5964
@@ -44,10 +43,9 @@
 - posted by: [Matiss](https://stackexchange.com/users/1819512/matiss) on 2015-07-22
 - score: 0
 
-<p>If you have other means of acquiring a customer base without this feature at initial stage, you can postpone the release of "killer feature" to later stages. This can help you to leverage a peer advertising when your customers actually become part of your marketing effort.</p>
+If you have other means of acquiring a customer base without this feature at initial stage, you can postpone the release of "killer feature" to later stages. This can help you to leverage a peer advertising when your customers actually become part of your marketing effort.
 
-<p>However, do not hold it back for too long. Just long enough. </p>
-
+However, do not hold it back for too long. Just long enough. 
 
 
 ## Answer 5974
@@ -55,14 +53,13 @@
 - posted by: [zazaalaza](https://stackexchange.com/users/4672194/zazaalaza) on 2015-08-08
 - score: 0
 
-<p>If you're not quite comfortable introducing this killer feature right off the bat you could go the "<code>stealthy way</code>". Build your killer feature but don't make it available to the public. Instead pick a few customers, tell them them that your introducing this new feature and ask them if they would like to try it out.</p>
+If you're not quite comfortable introducing this killer feature right off the bat you could go the "`stealthy way`". Build your killer feature but don't make it available to the public. Instead pick a few customers, tell them them that your introducing this new feature and ask them if they would like to try it out.
 
-<p>This way you'd gain some really loyal customers and your competitors will not know about your "killer feature". You could grow like this for a long time before anyone realizes what you're offering and have a good market share when they do.</p>
+This way you'd gain some really loyal customers and your competitors will not know about your "killer feature". You could grow like this for a long time before anyone realizes what you're offering and have a good market share when they do.
 
-<p>If you're really worried about your killer feature leaking, you can even tell your customers that you're doing this off the radar and you wish they don't disclose any information about this elsewhere. Or you can even enforce this with your terms of agreement.</p>
+If you're really worried about your killer feature leaking, you can even tell your customers that you're doing this off the radar and you wish they don't disclose any information about this elsewhere. Or you can even enforce this with your terms of agreement.
 
-<p>I'm not sure if this would be a solution to your problem, but I see no other reason to hold off your killer feature other than that others already in the market can quickly copy you and render your advantage useless.</p>
-
+I'm not sure if this would be a solution to your problem, but I see no other reason to hold off your killer feature other than that others already in the market can quickly copy you and render your advantage useless.
 
 
 

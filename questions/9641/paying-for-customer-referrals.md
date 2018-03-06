@@ -4,16 +4,15 @@
 - tagged: `marketing`, `sales`
 - score: 0
 
-<p>I run a web-based business by myself, and I don't do any significant sales or marketing.  So, as you'd expect, my business is growing slowly...</p>
+I run a web-based business by myself, and I don't do any significant sales or marketing.  So, as you'd expect, my business is growing slowly...
 
-<p>My operational costs are very small thanks to inexpensive cloud services so I wouldn't mind paying significant referral fees to anyone who refers a paying customer to me.  For example, I was thinking of paying the referrer 50% of all payments I get from a referred customer for their first year.</p>
+My operational costs are very small thanks to inexpensive cloud services so I wouldn't mind paying significant referral fees to anyone who refers a paying customer to me.  For example, I was thinking of paying the referrer 50% of all payments I get from a referred customer for their first year.
 
-<p>My prices are low so referral payments would be relatively small.  A very large customer might pay $1000 per year.  Most customers pay much less.</p>
+My prices are low so referral payments would be relatively small.  A very large customer might pay $1000 per year.  Most customers pay much less.
 
-<p>You see a lot of referral programs, but most of them give credits (e.g., Dropbox increasing your storage amount) rather than actual money.  Are there any drawbacks to paying money to referrers?</p>
+You see a lot of referral programs, but most of them give credits (e.g., Dropbox increasing your storage amount) rather than actual money.  Are there any drawbacks to paying money to referrers?
 
-<p>I know I'd have to be explicit about informing them that they would be responsible for taxes and I might need to file 1099's for some of them, but I'm comfortable doing that.</p>
-
+I know I'd have to be explicit about informing them that they would be responsible for taxes and I might need to file 1099's for some of them, but I'm comfortable doing that.
 
 
 ## Answer 9642

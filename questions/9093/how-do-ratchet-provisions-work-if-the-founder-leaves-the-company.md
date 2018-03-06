@@ -4,10 +4,9 @@
 - tagged: `venture-capital`
 - score: 1
 
-<p>Let's say a founder agrees to a standard ratchet provision. He then leaves the company. His successor accepts a huge down round that would have triggered the ratchet provision.</p>
+Let's say a founder agrees to a standard ratchet provision. He then leaves the company. His successor accepts a huge down round that would have triggered the ratchet provision.
 
-<p>Does the founder owe any money? Or is he free from liability simply by leaving the company?</p>
-
+Does the founder owe any money? Or is he free from liability simply by leaving the company?
 
 
 ## Answer 9102
@@ -15,14 +14,13 @@
 - posted by: [David Edelman](https://stackexchange.com/users/8335311/david-edelman) on 2016-05-06
 - score: 1
 
-<p>I am not a lawyer, but based on my personal experience this will clearly depend on the terms of the contract. If we assume that the founder has a received shares (not options) then that person will be subject to the terms that cover all of the shareholders, unless it is specified otherwise in the documents. </p>
+I am not a lawyer, but based on my personal experience this will clearly depend on the terms of the contract. If we assume that the founder has a received shares (not options) then that person will be subject to the terms that cover all of the shareholders, unless it is specified otherwise in the documents. 
 
-<p>If the huge down round was intentionally done to wipe someone out, then that could be grounds for litigation. (I've seen vindictive behavior like this, and it can get ugly.) A corporation has an obligation to maximize the value of the shareholders. </p>
+If the huge down round was intentionally done to wipe someone out, then that could be grounds for litigation. (I've seen vindictive behavior like this, and it can get ugly.) A corporation has an obligation to maximize the value of the shareholders. 
 
-<p>As far as owing money, I thought typically a ratchet provision reduces the value of your shares but doesn't cause you to owe money? Perhaps you could post the actual provision so you can get a more detailed answer? </p>
+As far as owing money, I thought typically a ratchet provision reduces the value of your shares but doesn't cause you to owe money? Perhaps you could post the actual provision so you can get a more detailed answer? 
 
-<p>And obviously consult a lawyer on this! :)</p>
-
+And obviously consult a lawyer on this! :)
 
 
 ## Answer 9107

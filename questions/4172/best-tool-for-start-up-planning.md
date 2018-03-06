@@ -4,15 +4,15 @@
 - tagged: `business-plan`, `project-management`, `time-management`, `online-tool`
 - score: 1
 
-<p>I'm kinda looking for my "dream tool" right now. I haven't found anything good so far, and I'm reluctant having to use a huge Excel file...</p>
+I'm kinda looking for my "dream tool" right now. I haven't found anything good so far, and I'm reluctant having to use a huge Excel file...
 
-<p>Startup projects often deal with the "time vs money" problem. It means, I can achieve this project with 4 people in 6 months, or with 2 people in 14 months, etc.</p>
+Startup projects often deal with the "time vs money" problem. It means, I can achieve this project with 4 people in 6 months, or with 2 people in 14 months, etc.
 
-<p>I'd like a kind of Gantt diagram that takes into account : financial previsions and HR too.</p>
+I'd like a kind of Gantt diagram that takes into account : financial previsions and HR too.
 
-<p>Is there any web app that would allow me to plan for tasks / financial and HR implications of those "macro-tasks" ? </p>
+Is there any web app that would allow me to plan for tasks / financial and HR implications of those "macro-tasks" ? 
 
-<p>Thanks.</p>
+Thanks.
 
 
 ## No Answers

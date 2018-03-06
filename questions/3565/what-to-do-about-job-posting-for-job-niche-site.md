@@ -4,11 +4,12 @@
 - tagged: `website`, `service`
 - score: 2
 
-<p>I am creating a free service that lets employers post jobs.</p>
+I am creating a free service that lets employers post jobs.
 
-<p>I have a feeling that people might go crazy and post the same job over and over again so that it is more visible to the people that are looking for jobs. </p>
+I have a feeling that people might go crazy and post the same job over and over again so that it is more visible to the people that are looking for jobs. 
 
-<p>I have thought of many possible ways to limit this, but would like other people's thoughts on this.</p>
+I have thought of many possible ways to limit this, but would like other people's thoughts on this.
+
 
 
 
@@ -17,10 +18,9 @@
 - posted by: [jamauss](https://stackexchange.com/users/48435/jamauss) on 2015-03-01
 - score: 5
 
-<p>I have one idea:</p>
+I have one idea:
 
-<p>When a job gets submitted - check the text of the job for an identical match and if an identical match is found, prompt the user to ask if they would like to "bump" the identical match you found to being "new" again rather than re-submitting the same job.</p>
-
+When a job gets submitted - check the text of the job for an identical match and if an identical match is found, prompt the user to ask if they would like to "bump" the identical match you found to being "new" again rather than re-submitting the same job.
 
 
 ## Answer 3567
@@ -28,7 +28,7 @@
 - posted by: [blunders](https://stackexchange.com/users/216182/blunders) on 2015-03-01
 - score: 5
 
-<p>Unless you currently have this issue, then I would not address the issue until it is an issue.</p>
+Unless you currently have this issue, then I would not address the issue until it is an issue.
 
 
 

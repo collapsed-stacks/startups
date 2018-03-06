@@ -4,8 +4,7 @@
 - tagged: `marketing`, `growth`
 - score: 0
 
-<p>What's better in terms of user growth via facebook. A high controlled page or a public group where all can post and share?</p>
-
+What's better in terms of user growth via facebook. A high controlled page or a public group where all can post and share?
 
 ## No Answers
 

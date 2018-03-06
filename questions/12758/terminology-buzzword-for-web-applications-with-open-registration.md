@@ -4,12 +4,11 @@
 - tagged: `marketing`, `software`, `web-apps`, `terminology`
 - score: -1
 
-<p>I'm looking for one - ideally two - terms/buzzwords for software products.</p>
+I'm looking for one - ideally two - terms/buzzwords for software products.
 
-<p>How do you refer to web applications that allow users to choose a payment plan and register themselves <strong><em>versus</em></strong>  how do you call web applications that require an key account manager to setup an account for clients manually?</p>
+How do you refer to web applications that allow users to choose a payment plan and register themselves ***versus***  how do you call web applications that require an key account manager to setup an account for clients manually?
 
-<p>Any ideas? </p>
-
+Any ideas? 
 
 
 ## Answer 12776
@@ -17,8 +16,7 @@
 - posted by: [Jan Bussieck](https://stackexchange.com/users/3333987/jan-bussieck) on 2017-06-04
 - score: 1
 
-<p>I'd say the former is a <em>self-service</em> SaaS, whereas the latter is a <em>high-touch</em> or <em>enterprise</em> SaaS app.</p>
-
+I'd say the former is a *self-service* SaaS, whereas the latter is a *high-touch* or *enterprise* SaaS app.
 
 
 ## Answer 12937
@@ -26,14 +24,15 @@
 - posted by: [guest123](https://stackexchange.com/users/11224915/guest123) on 2017-06-30
 - score: 0
 
-<p>1)  Keyless Registration</p>
+1)  Keyless Registration
 
-<p>2)  Keyless Activation</p>
+2)  Keyless Activation
 
-<p>Just depends what you want to emphasize.
-If you are focusing on payment and licensing options, then "flex _____" or "your-choice ______".</p>
+Just depends what you want to emphasize.
+If you are focusing on payment and licensing options, then "flex _____" or "your-choice ______".
 
-<p>Or,  "Get-it Your Way"</p>
+
+Or,  "Get-it Your Way"
 
 
 

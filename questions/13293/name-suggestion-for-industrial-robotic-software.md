@@ -4,8 +4,7 @@
 - tagged: `tech-company`, `software`, `domain-name`
 - score: 1
 
-<p>I am developing a software for industrial robot simulation, control, vision, calibration, etc. I use python and QT and a graphic engine. I am looking for a good name for my software, something like RobotStudio or RobotMaster which already exist. Please give me some suggestions!! Thanks :)</p>
-
+I am developing a software for industrial robot simulation, control, vision, calibration, etc. I use python and QT and a graphic engine. I am looking for a good name for my software, something like RobotStudio or RobotMaster which already exist. Please give me some suggestions!! Thanks :)
 
 
 ## Answer 13305

@@ -4,19 +4,19 @@
 - tagged: `market-research`, `android-development`
 - score: 4
 
-<p>So I've recently purchased an Android Wear and have been getting used to a lot of the features and downloading some of the application available on the app store. One thing that I have noticed is that at the moment, there is a very limited number of apps available for the Android Wear. There doesn't seem to been too much competition but I'm not sure if this is due to the product not taking off yet or if there is a genuine opening in the market.</p>
+So I've recently purchased an Android Wear and have been getting used to a lot of the features and downloading some of the application available on the app store. One thing that I have noticed is that at the moment, there is a very limited number of apps available for the Android Wear. There doesn't seem to been too much competition but I'm not sure if this is due to the product not taking off yet or if there is a genuine opening in the market.
 
-<p>I've done some work which Android Mobile Application Development so it shouldn't be too much of a task to start creating Android Wear apps.</p>
+I've done some work which Android Mobile Application Development so it shouldn't be too much of a task to start creating Android Wear apps.
 
-<p>I've heard of companies and products failing because they jumped on the band wagon too early or too late and I'm very new to this whole "Startup" idea.</p>
+I've heard of companies and products failing because they jumped on the band wagon too early or too late and I'm very new to this whole "Startup" idea.
 
-<p>What I would like some advise on is;</p>
+What I would like some advise on is;
 
-<p>1) Would it be a good decision for me to enter into a brand new market. Is it better to begin with a market that is more established for a first time start up? What are the positive and negatives?</p>
+1) Would it be a good decision for me to enter into a brand new market. Is it better to begin with a market that is more established for a first time start up? What are the positive and negatives?
 
-<p>2) Are there any particular sites or resources of information that can give advise on which markets are currently increasing or declining?</p>
+2) Are there any particular sites or resources of information that can give advise on which markets are currently increasing or declining?
 
-<p>Any help would be much appreciated. </p>
+Any help would be much appreciated. 
 
 
 

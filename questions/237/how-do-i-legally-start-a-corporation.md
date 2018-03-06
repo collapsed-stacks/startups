@@ -4,8 +4,7 @@
 - tagged: `united-states`, `corporation`, `filing`, `legal`
 - score: 5
 
-<p>What are the forms that I have to prepare to corporate my organization as it's own entity? Do I have to file any forms federally (US)? What about filing forms for my state? What are the applicable tax laws I should note about starting up? Does the government treat startups differently than growing corporations?</p>
-
+What are the forms that I have to prepare to corporate my organization as it's own entity? Do I have to file any forms federally (US)? What about filing forms for my state? What are the applicable tax laws I should note about starting up? Does the government treat startups differently than growing corporations?
 
 
 ## Answer 239

@@ -4,8 +4,7 @@
 - tagged: `lean-startup`
 - score: 0
 
-<p>What is the best time to start an IT business, when you are young, ambitious and just graduated with no family and no responsibility or it's indispensable to work for years as a good employee in an IT consulting to get experience ?</p>
-
+What is the best time to start an IT business, when you are young, ambitious and just graduated with no family and no responsibility or it's indispensable to work for years as a good employee in an IT consulting to get experience ?
 
 
 ## Answer 3055
@@ -13,22 +12,20 @@
 - posted by: [Mark](https://stackexchange.com/users/1127243/mark) on 2015-01-18
 - score: 1
 
-<p>The best time to start is when:</p>
+The best time to start is when:
 
-<ul>
-<li>You are <strong>passionate</strong> about a specific problem and <strong>understand it well</strong> </li>
-<li>You can <strong>build or offer a good solution</strong> (whether it's a product or a service business)</li>
-<li>You are <strong>ready to dedicate</strong> a ton of energy and time to the solution</li>
-<li>You have <strong>passionate, smart co-founders</strong> who you can work well with</li>
-</ul>
+* You are **passionate** about a specific problem and **understand it well** 
+* You can **build or offer a good solution** (whether it's a product or a service business)
+* You are **ready to dedicate** a ton of energy and time to the solution
+* You have **passionate, smart co-founders** who you can work well with
+ 
+It's very important to understand the problem you want to solve but **you don't necessarily need experience** in that industry. Many successful founders did not have experience in their industry but understood the problem (e.g. founders of eBay, Uber, AirBnB).
 
-<p>It's very important to understand the problem you want to solve but <strong>you don't necessarily need experience</strong> in that industry. Many successful founders did not have experience in their industry but understood the problem (e.g. founders of eBay, Uber, AirBnB).</p>
+If you do not have all of the above, I recommend working toward gaining them. You can talk to potential customers to learn about a problem and potential solutions, work at a large company to earn enough savings to start your own, or build your network to meet potential co-founders.
 
-<p>If you do not have all of the above, I recommend working toward gaining them. You can talk to potential customers to learn about a problem and potential solutions, work at a large company to earn enough savings to start your own, or build your network to meet potential co-founders.</p>
+If you're concerned about age, I think the majority of successful IT companies are started by younger founders (under 40 years old). There are always exceptions but I suspect this is because younger people have the time, energy, and fresh perspective.
 
-<p>If you're concerned about age, I think the majority of successful IT companies are started by younger founders (under 40 years old). There are always exceptions but I suspect this is because younger people have the time, energy, and fresh perspective.</p>
-
-<p>Hope this helps!</p>
+Hope this helps!
 
 
 

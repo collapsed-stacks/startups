@@ -4,8 +4,7 @@
 - tagged: `equity`, `vesting`
 - score: 6
 
-<p>How long is usually a reasonable amount of time to apply over a vesting deal that affects the founders of the startup, where they get a true share of the company based on how long they dedicate to the idea? What other protections can be applied to grant that a founder who leaves the company does not become a provider of its "secrets" and techniques, applying it to a similar product that competes with the former company directly?</p>
-
+How long is usually a reasonable amount of time to apply over a vesting deal that affects the founders of the startup, where they get a true share of the company based on how long they dedicate to the idea? What other protections can be applied to grant that a founder who leaves the company does not become a provider of its "secrets" and techniques, applying it to a similar product that competes with the former company directly?
 
 
 ## Answer 674

@@ -4,16 +4,16 @@
 - tagged: `founder`, `ycombinator`
 - score: 2
 
-<p>According to the home page:</p>
+According to the home page:
 
-<blockquote>
-  <p>Y Combinator is a community of over 1,400 founders.</p>
-</blockquote>
+> Y Combinator is a community of over 1,400 founders.
 
-<p>Where can I find a complete list of these founders, or how would I go about finding one?</p>
+Where can I find a complete list of these founders, or how would I go about finding one?
 
-<p>(I've attempt combo searches of a <a href="https://www.google.com/#q=%22Justin+Kan%22+%22Aaron+Harris%22+%22Kevin+Hale%22+%22Joey+Flores%22+%22Sam+Altman%22" rel="nofollow">sample list of known founders</a> without any luck.)</p>
+(I've attempt combo searches of a [sample list of known founders][1] without any luck.)
 
+
+  [1]: https://www.google.com/#q=%22Justin+Kan%22+%22Aaron+Harris%22+%22Kevin+Hale%22+%22Joey+Flores%22+%22Sam+Altman%22
 
 
 ## Answer 823

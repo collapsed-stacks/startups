@@ -4,11 +4,12 @@
 - tagged: `startup-costs`
 - score: 2
 
-<p>The scenario is: A USA company pays European clients on a monthly basis. The money transfer fees from a USA bank account to a European bank account are too high.</p>
 
-<p>How can the USA company pay its European clients while incurring lower transfer fees?</p>
+The scenario is: A USA company pays European clients on a monthly basis. The money transfer fees from a USA bank account to a European bank account are too high.
 
-<p>Can a USA company open up a bank account in the UK and then transfer money in batch from the USA bank account to a UK bank account and then pay out its clients in the European SEPA zone? How can this be done?</p>
+How can the USA company pay its European clients while incurring lower transfer fees?
+
+Can a USA company open up a bank account in the UK and then transfer money in batch from the USA bank account to a UK bank account and then pay out its clients in the European SEPA zone? How can this be done?
 
 
 
@@ -17,17 +18,16 @@
 - posted by: [Alari Truuts](https://stackexchange.com/users/5357302/alari-truuts) on 2016-05-10
 - score: 2
 
-<p>I have a great Estonian solution for you: </p>
+I have a great Estonian solution for you: 
 
-<p>Transferwise: <a href="https://transferwise.com/u/aadae7" rel="nofollow">https://transferwise.com/u/aadae7</a>
-If you don't mind I posted my invite link, which will grant you the first transfer for free and will also give me a free transfer. If you rather not, you can just remove the part after "/u/.."</p>
+Transferwise: https://transferwise.com/u/aadae7
+If you don't mind I posted my invite link, which will grant you the first transfer for free and will also give me a free transfer. If you rather not, you can just remove the part after "/u/.."
 
-<p>Basically the company has bank accounts all over the world and has local currencies in each, allowing them to make currency conversions on the daily exchange rate and also removing the transfer fees. They have a minor fee, but that's lower than anything you could produce your self with the hassles of cross country banking. I use it daily and think you should give it a try. They're basically made for your scenario in mind! </p>
+Basically the company has bank accounts all over the world and has local currencies in each, allowing them to make currency conversions on the daily exchange rate and also removing the transfer fees. They have a minor fee, but that's lower than anything you could produce your self with the hassles of cross country banking. I use it daily and think you should give it a try. They're basically made for your scenario in mind! 
 
-<p>You can also bill your clients straight through Transferwise, sending them a payment link.</p>
+You can also bill your clients straight through Transferwise, sending them a payment link.
 
-<p>With your case in mind, you won't need to create a UK bank account, which usually requires also registering a local branch company there. (while registering the business is easy, opening the account has a lot of hassle involved plus the company upkeep) with Transferwise you can pay your  contractors directly while obtaining marginally lower costs on the transactions than they'd ever be with any other bulk payment method.</p>
-
+With your case in mind, you won't need to create a UK bank account, which usually requires also registering a local branch company there. (while registering the business is easy, opening the account has a lot of hassle involved plus the company upkeep) with Transferwise you can pay your  contractors directly while obtaining marginally lower costs on the transactions than they'd ever be with any other bulk payment method.
 
 
 ## Answer 9129
@@ -35,22 +35,21 @@ If you don't mind I posted my invite link, which will grant you the first transf
 - posted by: [fiprojects](https://stackexchange.com/users/5370155/fiprojects) on 2016-05-11
 - score: 0
 
-<p>When you reach outside your country, you increase your risks. When you park your money with a bank outside your country, don't expect Uncle Sam to help if things go sour. With the exception of tracking down tax avoidance funds, no country is interested in using tax payer funds to chase down money that was parked in a foreign country.</p>
+When you reach outside your country, you increase your risks. When you park your money with a bank outside your country, don't expect Uncle Sam to help if things go sour. With the exception of tracking down tax avoidance funds, no country is interested in using tax payer funds to chase down money that was parked in a foreign country.
 
-<p>The Estonian solution suggested in one of your answers might sound attractive, but if the solution was to let you down, it would leave you to fight Estonian courts to resolve.</p>
+The Estonian solution suggested in one of your answers might sound attractive, but if the solution was to let you down, it would leave you to fight Estonian courts to resolve.
 
-<p>In addition, there are bank guarantee schemes which (at least in Europe) cover up to the first €100,000 deposited within an institution. The US has a similar scheme though I don't know the limits.  Its not a "free club for banks", nor is membership required, so your chance for insurance coverage depends if your selected money mover is part of the scheme or not.</p>
+In addition, there are bank guarantee schemes which (at least in Europe) cover up to the first €100,000 deposited within an institution. The US has a similar scheme though I don't know the limits.  Its not a "free club for banks", nor is membership required, so your chance for insurance coverage depends if your selected money mover is part of the scheme or not.
 
-<p>It's worth pointing out that the insurance covers up to €100,000 for the parent group - so if you have money with two banks that are owned by the same parent, then your insurance covers €100,000 not €200,000.</p>
+It's worth pointing out that the insurance covers up to €100,000 for the parent group - so if you have money with two banks that are owned by the same parent, then your insurance covers €100,000 not €200,000.
 
-<p>If I were you I would talk to your bank and see if they can provide a more cost friendly solution. In fact, talk to other banks, see if they can offer you something more attractive to win your business. </p>
+If I were you I would talk to your bank and see if they can provide a more cost friendly solution. In fact, talk to other banks, see if they can offer you something more attractive to win your business. 
 
-<p>Alternatively, PayPal or similar might be able to assist but again, check your insurance - I have heard of horror stories of PayPal flagging concern on the source or target of money and locking down an account for weeks/months until their concerns are addressed (all financial institutions must monitor and investigate what might be considered suspect transactions).</p>
+Alternatively, PayPal or similar might be able to assist but again, check your insurance - I have heard of horror stories of PayPal flagging concern on the source or target of money and locking down an account for weeks/months until their concerns are addressed (all financial institutions must monitor and investigate what might be considered suspect transactions).
 
-<p>An alternative method is to share the costs with your clients. I have worked for more than 20years across Europe and have accepted funds in different currencies, and agreed to split the costs 50/50.</p>
+An alternative method is to share the costs with your clients. I have worked for more than 20years across Europe and have accepted funds in different currencies, and agreed to split the costs 50/50.
 
-<p>Best of luck!</p>
-
+Best of luck!
 
 
 ## Answer 9156

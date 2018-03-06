@@ -4,8 +4,7 @@
 - tagged: `llc`, `pricing`
 - score: 1
 
-<p>Does anybody know what is a usual price to hold an LLC in Serbia is for foreigners? I mean how much it usually costs to register and hold it monthly?</p>
-
+Does anybody know what is a usual price to hold an LLC in Serbia is for foreigners? I mean how much it usually costs to register and hold it monthly?
 
 
 ## Answer 1583

@@ -4,12 +4,11 @@
 - tagged: `trademark`
 - score: 5
 
-<p>I have filed a trademark on USPTO and succesfully got the Notice of Allowance on four categories.</p>
+I have filed a trademark on USPTO and succesfully got the Notice of Allowance on four categories.
 
-<p>I have asked for a few products and services on each category, and now it's time to file the Statement of Use and I'm confused if I'll have to provide a specimen demonstrating the use in commerce for each product/service or just one per class does it.</p>
+I have asked for a few products and services on each category, and now it's time to file the Statement of Use and I'm confused if I'll have to provide a specimen demonstrating the use in commerce for each product/service or just one per class does it.
 
-<p>Any idea?</p>
-
+Any idea?
 
 
 ## Answer 11143
@@ -17,10 +16,9 @@
 - posted by: [Fernando D'Andrea](https://stackexchange.com/users/2233301/fernando-d-andrea) on 2016-09-15
 - score: 2
 
-<p>After taking my chances in the forms, I found out that indeed, either you're supposed to <strong>upload a specimen of each single product/service</strong> or you should <strong>file a Request to Divide</strong> or <strong>delete the product/service</strong> from the class.</p>
+After taking my chances in the forms, I found out that indeed, either you're supposed to **upload a specimen of each single product/service** or you should **file a Request to Divide** or **delete the product/service** from the class.
 
-<p>Edit: indeed, the best strategy (and it worked for me) is to remove all products/services you don't have specimens for. It has no cost. Then you submit for all others you have.</p>
-
+Edit: indeed, the best strategy (and it worked for me) is to remove all products/services you don't have specimens for. It has no cost. Then you submit for all others you have.
 
 
 

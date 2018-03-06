@@ -4,25 +4,22 @@
 - tagged: `business-structure`
 - score: 4
 
-<p>As far as I know, a successful <strong>Entrepreneur</strong> needs different skills. 
-These skills are in fields such as:</p>
+As far as I know, a successful **Entrepreneur** needs different skills. 
+These skills are in fields such as:
 
-<ol>
-<li>Marketing </li>
-<li>Production </li>
-<li>Law </li>
-<li>Design </li>
-<li>IT </li>
-<li>Finance  </li>
-<li>Communication</li>
-</ol>
+ 1. Marketing 
+ 2. Production 
+ 3. Law 
+ 4. Design 
+ 5. IT 
+ 6. Finance  
+ 7. Communication
 
-<p>A startup company can thrive while, its founders don't have the minimum skill level in all these fields. They are only skilled in coming up with good ideas, but technically such people shouldn't be able to handle a business well. But we know, the number of successful startups has been increasing.</p>
+A startup company can thrive while, its founders don't have the minimum skill level in all these fields. They are only skilled in coming up with good ideas, but technically such people shouldn't be able to handle a business well. But we know, the number of successful startups has been increasing.
 
-<p>How can this happen?</p>
+How can this happen?
 
-<p>It seems to me that a successful company must be more than just a good idea. Am I right?</p>
-
+It seems to me that a successful company must be more than just a good idea. Am I right?
 
 
 ## Answer 6124
@@ -30,13 +27,14 @@ These skills are in fields such as:</p>
 - posted by: [A E](https://stackexchange.com/users/5191744/a-e) on 2015-08-22
 - score: 2
 
-<p>There's no great mystery here.</p>
+There's no great mystery here.
 
-<p>Some founders are genuinely multi-skilled, others are part of a team which collectively has a good balance of skills, other new businesses succeed despite skills gaps.</p>
+Some founders are genuinely multi-skilled, others are part of a team which collectively has a good balance of skills, other new businesses succeed despite skills gaps.
 
-<p>Many of these skills can also be outsourced or gained from early hires.</p>
+Many of these skills can also be outsourced or gained from early hires.
 
-<p>If a founding team has glaring skills gaps then it's usual for VC investors to insist those gaps are filled as one of the conditions of the investment. E.g. Eric Schmidt's appointment to Google.</p>
+If a founding team has glaring skills gaps then it's usual for VC investors to insist those gaps are filled as one of the conditions of the investment. E.g. Eric Schmidt's appointment to Google.
+
 
 
 
@@ -45,8 +43,7 @@ These skills are in fields such as:</p>
 - posted by: [zazaalaza](https://stackexchange.com/users/4672194/zazaalaza) on 2015-08-24
 - score: 1
 
-<p>Founders don't really need to be good at the skills you mentioned. They need to be good at <strong>hiring</strong>, <strong>leading</strong>, <strong>managing</strong> and <strong>organizing</strong>. All the other stuff can be delegated to employees. This is especially true as your company grows. The bigger you get the more you need to focus on <strong>leading</strong> and less on any other skill.</p>
-
+Founders don't really need to be good at the skills you mentioned. They need to be good at **hiring**, **leading**, **managing** and **organizing**. All the other stuff can be delegated to employees. This is especially true as your company grows. The bigger you get the more you need to focus on **leading** and less on any other skill.
 
 
 ## Answer 6190
@@ -54,8 +51,7 @@ These skills are in fields such as:</p>
 - posted by: [Stewart](https://stackexchange.com/users/4040165/stewart) on 2015-08-27
 - score: 1
 
-<p>This is a good question. Entrepreneurs need to have many skills and a good understanding of a lot of others. Nobody has it all. The trick is to identify which skills are absolutely critical to the success of your start up, be honest about where you stand, and if necessary source just those skills you know you don't have. If you have some skills, you may just source some "top up" skills by hiring someone hourly/daily to fill the gap. I once hired a marketing mentor because I knew I lacked those skills. He taught me the basics, gave me some great ideas and basically helped me get started. It doesn't really matter how you ge t the skills, just get the critical ones. By the way, I would humbly suggest you include customers in your list above - the most important skill set of all is finding, keeping and managing customers - IMHO. </p>
-
+This is a good question. Entrepreneurs need to have many skills and a good understanding of a lot of others. Nobody has it all. The trick is to identify which skills are absolutely critical to the success of your start up, be honest about where you stand, and if necessary source just those skills you know you don't have. If you have some skills, you may just source some "top up" skills by hiring someone hourly/daily to fill the gap. I once hired a marketing mentor because I knew I lacked those skills. He taught me the basics, gave me some great ideas and basically helped me get started. It doesn't really matter how you ge t the skills, just get the critical ones. By the way, I would humbly suggest you include customers in your list above - the most important skill set of all is finding, keeping and managing customers - IMHO. 
 
 
 

@@ -4,10 +4,9 @@
 - tagged: `software`
 - score: 0
 
-<p>I’m currently running software company focuses on niche market. I’m currently selling Student Information System software to small private school. The software can be customized based on user needs. However, after running for 6 month, I felt that selling to small private school is very costly. They liked the idea actually but pricing seems to be a big problem for them. They have such a lot of requirement and customization however they don’t have budget like big private/public school. For example, some of small private school have a very flexible schedule so we need to do a lot of customization work. Big public/private school are better because they have clear process and requirement. </p>
+I’m currently running software company focuses on niche market. I’m currently selling Student Information System software to small private school. The software can be customized based on user needs. However, after running for 6 month, I felt that selling to small private school is very costly. They liked the idea actually but pricing seems to be a big problem for them. They have such a lot of requirement and customization however they don’t have budget like big private/public school. For example, some of small private school have a very flexible schedule so we need to do a lot of customization work. Big public/private school are better because they have clear process and requirement. 
 
-<p>With such thing, what is your opinion? Should I continue doing this or pivot to something else (creates software for manufacturing companies for example). I don’t want to sell to big private/public school because markets are too saturated. Is 6 month is too early to decide to pivot?</p>
-
+With such thing, what is your opinion? Should I continue doing this or pivot to something else (creates software for manufacturing companies for example). I don’t want to sell to big private/public school because markets are too saturated. Is 6 month is too early to decide to pivot?
 
 
 ## Answer 11289
@@ -15,10 +14,9 @@
 - posted by: [J.P.](https://stackexchange.com/users/9328176/j-p) on 2016-10-05
 - score: 1
 
-<p>You will likely experience all the same challenges if you simply pivot to another industry without refactoring your approach to development and client on-boarding.  </p>
+You will likely experience all the same challenges if you simply pivot to another industry without refactoring your approach to development and client on-boarding.  
 
-<p>It sounds like you are still in the product development phase - your product is still new and it is only through working with real clients that will you figure out what your product needs to become in order to satisfy your target market.  Pivoting away just means you have to start all over again with a new product and a new market, and still face all the same business building and product development challenges.  (And software is fiercely competitive at all levels in all industries.)</p>
-
+It sounds like you are still in the product development phase - your product is still new and it is only through working with real clients that will you figure out what your product needs to become in order to satisfy your target market.  Pivoting away just means you have to start all over again with a new product and a new market, and still face all the same business building and product development challenges.  (And software is fiercely competitive at all levels in all industries.)
 
 
 ## Answer 11292
@@ -26,12 +24,11 @@
 - posted by: [Ben I.](https://stackexchange.com/users/5187045/ben-i) on 2016-10-05
 - score: 1
 
-<p>Selling to schools will always be a slow, school-by-school slog.  (I am also in this particular industry, so I feel your pain.)</p>
+Selling to schools will always be a slow, school-by-school slog.  (I am also in this particular industry, so I feel your pain.)
 
-<p>If the schools are balking at the price, then you may have priced too high, or you might not be answering the essential question of how you will make their lives actually easier.  </p>
+If the schools are balking at the price, then you may have priced too high, or you might not be answering the essential question of how you will make their lives actually easier.  
 
-<p>It's hard to comment on whether you should pivot without more information than what you have provided here.  Have you been to any Ed Tech conferences?  It's actually a pretty small, warm and welcoming community, and there are always highly experienced people there who are willing to very generously help new folks make sense of where they are and what their next steps should be.</p>
-
+It's hard to comment on whether you should pivot without more information than what you have provided here.  Have you been to any Ed Tech conferences?  It's actually a pretty small, warm and welcoming community, and there are always highly experienced people there who are willing to very generously help new folks make sense of where they are and what their next steps should be.
 
 
 ## Answer 11255
@@ -39,10 +36,9 @@
 - posted by: [Chiragh Dewan](https://stackexchange.com/users/9254789/chiragh-dewan) on 2016-10-01
 - score: 0
 
-<p>If you think that your existing business model is not sustainable and you've figured out the reason as well, it is time to pivot. Most of the businesses do the same. </p>
+If you think that your existing business model is not sustainable and you've figured out the reason as well, it is time to pivot. Most of the businesses do the same. 
 
-<p>If you have any kind of reservation regarding pivoting, consider it as a part of the business cycle. If you think that a software for manufacturing company has less business acquisition cost and better margins, go for it. But in which new side you do plan on going, do a thorough research about the market and your competition and have a clear plan as to how you can really differentiate from the existing players.   </p>
-
+If you have any kind of reservation regarding pivoting, consider it as a part of the business cycle. If you think that a software for manufacturing company has less business acquisition cost and better margins, go for it. But in which new side you do plan on going, do a thorough research about the market and your competition and have a clear plan as to how you can really differentiate from the existing players.   
 
 
 ## Answer 11352

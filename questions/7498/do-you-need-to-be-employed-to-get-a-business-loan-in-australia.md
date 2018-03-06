@@ -4,12 +4,13 @@
 - tagged: `startup-costs`, `australia`
 - score: 3
 
-<p>I am looking at purchasing a business in Australia. I have estimated that I will need a loan of $150,000 to purchase the business and to have some capital for growth. </p>
+I am looking at purchasing a business in Australia. I have estimated that I will need a loan of $150,000 to purchase the business and to have some capital for growth. 
 
-<p>I am working full time however, to make the business work, I will need to quit my job and work full time in the new business. Will Australian banks consider the revenue of the established business which I am purchasing when they loan to me? Or will the serviceability of my loan be calculated from my current income?</p>
+I am working full time however, to make the business work, I will need to quit my job and work full time in the new business. Will Australian banks consider the revenue of the established business which I am purchasing when they loan to me? Or will the serviceability of my loan be calculated from my current income?
 
-<p>Please presume that I have sufficient funds for a loan deposit.</p>
+Please presume that I have sufficient funds for a loan deposit.
 
+ 
 
 
 ## Answer 7582

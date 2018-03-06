@@ -4,18 +4,17 @@
 - tagged: `business-registration`
 - score: 2
 
-<p>we are forming a llp for multiple bussiness under 1 roof</p>
+we are forming a llp for multiple bussiness under 1 roof
 
-<p>but confused my agent is not guiding me correctly he told the company name should consist</p>
+but confused my agent is not guiding me correctly he told the company name should consist
 
-<p>Main name + objective name</p>
+Main name + objective name
 
-<p>we are into electronics and mobile accessories, toys, clothing and footwear and services of electrical and electronics products</p>
+we are into electronics and mobile accessories, toys, clothing and footwear and services of electrical and electronics products
 
-<p>all the work we are doing is different with each other pls suggest what objective name we give to our bussiness</p>
+all the work we are doing is different with each other pls suggest what objective name we give to our bussiness
 
-<p>i request you to reply me asap in details as i had already wasted 10 days to find company name</p>
-
+i request you to reply me asap in details as i had already wasted 10 days to find company name
 
 ## No Answers
 

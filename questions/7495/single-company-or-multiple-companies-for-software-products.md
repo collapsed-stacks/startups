@@ -4,14 +4,13 @@
 - tagged: `tech-company`, `legal`, `software`, `united-kingdom`, `accounting`
 - score: 5
 
-<p>For context, we are in the UK and we are build SaaS (Software as a Service) products unrelated to each other. They are aimed at different target markets and industries. Some of them are on initial and concept stages and others will soon start generating revenue.</p>
+For context, we are in the UK and we are build SaaS (Software as a Service) products unrelated to each other. They are aimed at different target markets and industries. Some of them are on initial and concept stages and others will soon start generating revenue.
 
-<p>We will seek professional advice but I thought it would be good to get knowledge from the community.</p>
+We will seek professional advice but I thought it would be good to get knowledge from the community.
 
-<p>Would it be best to register a different legal entity for each product we are building? Or is it best to register a single company that owns all products?</p>
+Would it be best to register a different legal entity for each product we are building? Or is it best to register a single company that owns all products?
 
-<p>Are there any best practices for this or would any recommendations from experience?</p>
-
+Are there any best practices for this or would any recommendations from experience?
 
 
 ## Answer 7497
@@ -19,26 +18,21 @@
 - posted by: [Robert Möstl](https://stackexchange.com/users/1018191/robert-m-stl) on 2015-10-07
 - score: 7
 
-<p><strong>The default answer is no.</strong></p>
+**The default answer is no.**
 
-<p><strong>Why?</strong> Because multiple companies usually lead to more paperwork and expenses - independently from the country you're located in.</p>
+**Why?** Because multiple companies usually lead to more paperwork and expenses - independently from the country you're located in.
 
-<p>Though there are reasons for multiple companies. E.g. </p>
+Though there are reasons for multiple companies. E.g. 
 
-<ul>
-<li>if a product is high risk you may want to isolate risk via separate companies</li>
-<li>if different founders are involved in your products</li>
-</ul>
+- if a product is high risk you may want to isolate risk via separate companies
+- if different founders are involved in your products
 
-<hr>
+----------
 
-<p><strong>More Resources</strong></p>
+**More Resources**
 
-<ul>
-<li>This issue is discussed on the <a href="https://devchat.tv/freelancers/the-freelancers-show-live-q-a-5-march-24-2015">Freelancers Show</a> (although in an American context)</li>
-<li>Rob Walling's product portfolio (Drip, Hittail etc.) is all managed under his comapny <a href="http://www.thenumagroup.com/">The Numa Group</a></li>
-</ul>
-
+- This issue is discussed on the [Freelancers Show](https://devchat.tv/freelancers/the-freelancers-show-live-q-a-5-march-24-2015) (although in an American context)
+- Rob Walling's product portfolio (Drip, Hittail etc.) is all managed under his comapny [The Numa Group](http://www.thenumagroup.com/)
 
 
 

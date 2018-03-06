@@ -4,12 +4,11 @@
 - tagged: `legal`, `mobile-apps`, `software`, `sole-proprietorship`, `california`
 - score: 1
 
-<p>I am a app/software developer and looking to launch my own sole proprietorship to sell my products online/via the respective app stores etc. I have been looking into what is legally needed for me to actually sell my product online, I'd love to use an alias business name rather than my own name. I'm currently solo, and will be using contract work if I bring on other people. I do not have an office building so no official place of business as I will be working from home. </p>
+I am a app/software developer and looking to launch my own sole proprietorship to sell my products online/via the respective app stores etc. I have been looking into what is legally needed for me to actually sell my product online, I'd love to use an alias business name rather than my own name. I'm currently solo, and will be using contract work if I bring on other people. I do not have an office building so no official place of business as I will be working from home. 
 
-<p>I've read that this is supposed to be an easy thing to set up, but I just want to do it correctly. I know I probably need a DBA/FBN filed, but for those I need a principle place of business. Can I just use my residence as I work from home? Is that all I need to officially use my business name to sell products online?</p>
+I've read that this is supposed to be an easy thing to set up, but I just want to do it correctly. I know I probably need a DBA/FBN filed, but for those I need a principle place of business. Can I just use my residence as I work from home? Is that all I need to officially use my business name to sell products online?
 
-<p><strong>EDIT:</strong> I'm in the United States in the state of California.</p>
-
+**EDIT:** I'm in the United States in the state of California.
 
 
 ## Answer 3788
@@ -34,10 +33,9 @@
 - posted by: [ATrubka](https://stackexchange.com/users/1052629/atrubka) on 2015-03-18
 - score: 1
 
-<p>You can use your home address as your registered business address. No problem with that. The procedure differs by state as those entities are registered in specific states. I believe most or all of the states allow you to file application online.</p>
+You can use your home address as your registered business address. No problem with that. The procedure differs by state as those entities are registered in specific states. I believe most or all of the states allow you to file application online.
 
-<p>Once you get your company registered you will have to receive federal EIN number that's basically your federal ID for your company.</p>
-
+Once you get your company registered you will have to receive federal EIN number that's basically your federal ID for your company.
 
 
 ## Answer 3831
@@ -45,16 +43,13 @@
 - posted by: [Dogweather](https://stackexchange.com/users/37396/dogweather) on 2015-03-23
 - score: 0
 
-<p>This may not be exactly what you're looking for, but it's what you asked: Generally in the U.S., the moment you go into business, acting alone, you have a sole proprietorship. It is the default business entity form; no paperwork is required to create one.</p>
+This may not be exactly what you're looking for, but it's what you asked: Generally in the U.S., the moment you go into business, acting alone, you have a sole proprietorship. It is the default business entity form; no paperwork is required to create one.
 
-<blockquote>
-  <p>No formation documents are required to be filed with the Secretary of State.</p>
-</blockquote>
+> No formation documents are required to be filed with the Secretary of State.
 
-<p><a href="http://www.business.ca.gov/StartaBusiness/DefiningaBusiness/SoleProprietorship.aspx" rel="nofollow">http://www.business.ca.gov/StartaBusiness/DefiningaBusiness/SoleProprietorship.aspx</a></p>
+http://www.business.ca.gov/StartaBusiness/DefiningaBusiness/SoleProprietorship.aspx
 
-<p>Similarly, if you begin conducting business with one or more other people, then <em>generally</em>, in the U.S., you have implicitly formed a General Partnership.</p>
-
+Similarly, if you begin conducting business with one or more other people, then _generally_, in the U.S., you have implicitly formed a General Partnership.
 
 
 

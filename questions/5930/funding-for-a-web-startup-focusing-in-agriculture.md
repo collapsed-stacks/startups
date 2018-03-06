@@ -4,15 +4,14 @@
 - tagged: `funding`
 - score: 3
 
-<p>Context: In some parts of Europe, food baskets bought directly from the farmers and/or cooperatives are gaining momentum. There are several reasons for that, one of which is the belief that this food is healthier and fresher.</p>
+Context: In some parts of Europe, food baskets bought directly from the farmers and/or cooperatives are gaining momentum. There are several reasons for that, one of which is the belief that this food is healthier and fresher.
 
-<p>I'm starting a web startup that aims at promoting some types of agricultural products. The website we are building is going to give very easy access to the information to the consumers that are looking for food baskets and allow them to choose the right supplier in minutes.(I don't feel very confortable sharing the ways we are going to achieve that publicly). In the beginning we are going to work only with public information and with information provided by the suppliers themselves.</p>
+I'm starting a web startup that aims at promoting some types of agricultural products. The website we are building is going to give very easy access to the information to the consumers that are looking for food baskets and allow them to choose the right supplier in minutes.(I don't feel very confortable sharing the ways we are going to achieve that publicly). In the beginning we are going to work only with public information and with information provided by the suppliers themselves.
 
-<p>I was wondering if there is funding for that and if there exists specific organizations that fund that type of projects.</p>
+I was wondering if there is funding for that and if there exists specific organizations that fund that type of projects.
 
-<p>Regards,
-Samy</p>
-
+Regards,
+Samy
 
 
 ## Answer 5943
@@ -20,44 +19,42 @@ Samy</p>
 - posted by: [zazaalaza](https://stackexchange.com/users/4672194/zazaalaza) on 2015-08-04
 - score: 3
 
-<p>Here is a list of <strong>investment funds</strong> that invest in agri-food startups in Europe:</p>
+Here is a list of **investment funds** that invest in agri-food startups in Europe:
+ 
+[Pain Partners](http://www.painepartners.com/portfolio/) They closed a $893 million round in capital commitments in 2014. The fund focuses on investing in the global food and agribusiness industry, into which they already invested more than $1 billion over the last decade.
 
-<p><a href="http://www.painepartners.com/portfolio/" rel="nofollow">Pain Partners</a> They closed a $893 million round in capital commitments in 2014. The fund focuses on investing in the global food and agribusiness industry, into which they already invested more than $1 billion over the last decade.</p>
+[Rabo Farm Europe Fund II](http://rabofarm.com/page/downloads/140902_RFEFII_Teaser_Final.pdf)
+Launched in January 2014, it has €300 million of commitments to invest in agricultural assets in Central and Eastern Europe. The fund aims to increase agricultural efficiency by using less farm inputs per hectare of agricultural land, while producing more. Consolidation, water management, soil efficiency and infrastructure are its main focuses.
 
-<p><a href="http://rabofarm.com/page/downloads/140902_RFEFII_Teaser_Final.pdf" rel="nofollow">Rabo Farm Europe Fund II</a>
-Launched in January 2014, it has €300 million of commitments to invest in agricultural assets in Central and Eastern Europe. The fund aims to increase agricultural efficiency by using less farm inputs per hectare of agricultural land, while producing more. Consolidation, water management, soil efficiency and infrastructure are its main focuses.</p>
+[Cibus Fund](http://cibusfarmlandclub.com/)
+a fund aimed at small- to medium-sized investors to complete a EUR 50M to EUR 100M commitment over the next two years. The club was formed through a partnership between DLV Plant, Farmfield, Interfarms, Van Campen Liem and Ernst & Young. They focus on agri-food startups in the Balkan area, largly Romania.
 
-<p><a href="http://cibusfarmlandclub.com/" rel="nofollow">Cibus Fund</a>
-a fund aimed at small- to medium-sized investors to complete a EUR 50M to EUR 100M commitment over the next two years. The club was formed through a partnership between DLV Plant, Farmfield, Interfarms, Van Campen Liem and Ernst &amp; Young. They focus on agri-food startups in the Balkan area, largly Romania.</p>
+[Sustainable Food Fund](http://www.pulsarnetworkcapital.nl/pulsar-network-capital-fund/sustainable-food-fund-english/)
+Pulsar Network Capital launched this €75 investment fund to invest in healthy and sustainable food. The Netherlands-based fund plans to invest in 15-25 innovative companies that have the potential to contribute to a healthier, more transparent and more sustainable food system.
 
-<p><a href="http://www.pulsarnetworkcapital.nl/pulsar-network-capital-fund/sustainable-food-fund-english/" rel="nofollow">Sustainable Food Fund</a>
-Pulsar Network Capital launched this €75 investment fund to invest in healthy and sustainable food. The Netherlands-based fund plans to invest in 15-25 innovative companies that have the potential to contribute to a healthier, more transparent and more sustainable food system.</p>
+[Anterra Capital](http://www.anterracapital.com/#!) Netherlands-based, it's an independent growth capital fund that invests in fast growing companies working to improve the global food supply chain. Anterra target investments of EUR 2M to EUR 12M and acts as the lead investor, taking a  significant minority equity position. 
 
-<p><a href="http://www.anterracapital.com/#!" rel="nofollow">Anterra Capital</a> Netherlands-based, it's an independent growth capital fund that invests in fast growing companies working to improve the global food supply chain. Anterra target investments of EUR 2M to EUR 12M and acts as the lead investor, taking a  significant minority equity position. </p>
+------
+If you are interested in **incubators and accelerators** that deal with agriculture based startups here is a list(based in europe):
 
-<hr>
+[H-FARM](http://www.h-farmventures.com/en/) founded in 2005 in Italy, is a Venture Incubator; its mission is to accelerate the development of Internet startups via a combination of seed investment and incubation services. They invest between EUR 50k to EUR 100k in in various agri-food related startups.
 
-<p>If you are interested in <strong>incubators and accelerators</strong> that deal with agriculture based startups here is a list(based in europe):</p>
+[SmartAgriFood](http://www.smartagrifood.com/) is an accelerator that wants to fund web entrepreneurs and SMEs with new or innovative ideas for applications and services to address the lack of smart ICT tools suited for farm and wider agricultural use. They have EUR 4M in funding available for web entrepreneurs to develop a large number of smart agriculture services and applications.
 
-<p><a href="http://www.h-farmventures.com/en/" rel="nofollow">H-FARM</a> founded in 2005 in Italy, is a Venture Incubator; its mission is to accelerate the development of Internet startups via a combination of seed investment and incubation services. They invest between EUR 50k to EUR 100k in in various agri-food related startups.</p>
+[Food Hatch](http://www.foodhatch.co/faq.html) is a food focused accelerator that provides seed and early stage funding and business expertise to food and food tech companies. It invests between $18k to $35k and receives between a 6-8 percent equity stake in each company selected into the program.
 
-<p><a href="http://www.smartagrifood.com/" rel="nofollow">SmartAgriFood</a> is an accelerator that wants to fund web entrepreneurs and SMEs with new or innovative ideas for applications and services to address the lack of smart ICT tools suited for farm and wider agricultural use. They have EUR 4M in funding available for web entrepreneurs to develop a large number of smart agriculture services and applications.</p>
+[Rural Hub](http://www.ruralhub.it/en/) Italy’s first-ever rural innovation incubator with a 1.2 million euro grant from the government. Rural Hub is an incubator that offers rural food and agriculture startups mentorship, project financing and connections with venture capitalists. In addition to the incubator programs, it also has a campus for co-living and co-working, hosts events and conducts research on social innovation in the context of rural communities.
 
-<p><a href="http://www.foodhatch.co/faq.html" rel="nofollow">Food Hatch</a> is a food focused accelerator that provides seed and early stage funding and business expertise to food and food tech companies. It invests between $18k to $35k and receives between a 6-8 percent equity stake in each company selected into the program.</p>
+[DIG EAT ALL](http://digeatall.com/) Fast Track Acceleration Program is a five-weeks acceleration program for up to ten companies that will be based in San Sebastian, Spain. The focus is to help startups become truly global leaders while innovating in any part of the value chain of the Agro, Food or Food Related Health industries. A mentor-driven, fully-packed, comprehensive, intense program, matching your company with strategic partners in your field.
 
-<p><a href="http://www.ruralhub.it/en/" rel="nofollow">Rural Hub</a> Italy’s first-ever rural innovation incubator with a 1.2 million euro grant from the government. Rural Hub is an incubator that offers rural food and agriculture startups mentorship, project financing and connections with venture capitalists. In addition to the incubator programs, it also has a campus for co-living and co-working, hosts events and conducts research on social innovation in the context of rural communities.</p>
+[Prometheus, the Reimagine Food accelerator](http://www.reimagine-food.com/prometheus/) gives 20 start-ups each year a three-and-a-half month period of training and networking with leading global entrepreneurs, food companies and funding sources in order to boost their development, as well as a common work area in the Reimagine Food centre in Barcelona, Spain.
 
-<p><a href="http://digeatall.com/" rel="nofollow">DIG EAT ALL</a> Fast Track Acceleration Program is a five-weeks acceleration program for up to ten companies that will be based in San Sebastian, Spain. The focus is to help startups become truly global leaders while innovating in any part of the value chain of the Agro, Food or Food Related Health industries. A mentor-driven, fully-packed, comprehensive, intense program, matching your company with strategic partners in your field.</p>
+------ 
+You can also look into food related **crowdfunding**:
+ 
+[AgFunder](http://agfunder.com/) Through its platform, agriculture, agri-tech and food processing startups with a lead investor can raise capital from accredited investors. Modeled after FundersClub, AgFunder sources its own investments and then creates a dedicated investment fund for each company into which it can then syndicate investors. For now, AgFunder’s investments range between $500,000 to $1.5 million.
 
-<p><a href="http://www.reimagine-food.com/prometheus/" rel="nofollow">Prometheus, the Reimagine Food accelerator</a> gives 20 start-ups each year a three-and-a-half month period of training and networking with leading global entrepreneurs, food companies and funding sources in order to boost their development, as well as a common work area in the Reimagine Food centre in Barcelona, Spain.</p>
-
-<hr>
-
-<p>You can also look into food related <strong>crowdfunding</strong>:</p>
-
-<p><a href="http://agfunder.com/" rel="nofollow">AgFunder</a> Through its platform, agriculture, agri-tech and food processing startups with a lead investor can raise capital from accredited investors. Modeled after FundersClub, AgFunder sources its own investments and then creates a dedicated investment fund for each company into which it can then syndicate investors. For now, AgFunder’s investments range between $500,000 to $1.5 million.</p>
-
-<p><a href="http://crowdfooding.co/" rel="nofollow">CrowdFooding</a> is an online service that aims to match food-focused entrepreneurs, including some health-focused startups, with experienced investors. The service has created a database of accredited investors who have funded different types of food companies, including specialty food, groceries, food delivery, and food and tech, which includes nutrition apps and connected devices for food tracking.</p>
+[CrowdFooding](http://crowdfooding.co/) is an online service that aims to match food-focused entrepreneurs, including some health-focused startups, with experienced investors. The service has created a database of accredited investors who have funded different types of food companies, including specialty food, groceries, food delivery, and food and tech, which includes nutrition apps and connected devices for food tracking.
 
 
 

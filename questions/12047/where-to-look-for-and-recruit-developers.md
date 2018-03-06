@@ -4,8 +4,8 @@
 - tagged: `team`
 - score: 0
 
-<p>based in the west coast now and looking for a developer to join my team for a digital health startup. What's the best way to go about posting and recruiting someone who is skilled and interested in growing with a startup? we would anticipate an initial side project and then potentially coming on full time if we can get traction.
-Thanks!</p>
+based in the west coast now and looking for a developer to join my team for a digital health startup. What's the best way to go about posting and recruiting someone who is skilled and interested in growing with a startup? we would anticipate an initial side project and then potentially coming on full time if we can get traction.
+Thanks!
 
 
 
@@ -35,10 +35,9 @@ Thanks!</p>
 - posted by: [SmallChess](https://stackexchange.com/users/124226/smallchess) on 2017-02-06
 - score: 0
 
-<p>The best way is try local meetup groups and contact the developers there. It's <strong>very hard</strong> to convince someone on the Internet about your business, you should do it <strong>face-to-face</strong>.</p>
+The best way is try local meetup groups and contact the developers there. It's **very hard** to convince someone on the Internet about your business, you should do it **face-to-face**.
 
-<p>I am a developer myself and I have received several startup invitations. It's the cheapest and most effective way if you don't have money to pay for salary.</p>
-
+I am a developer myself and I have received several startup invitations. It's the cheapest and most effective way if you don't have money to pay for salary.
 
 
 ## Answer 12058
@@ -46,8 +45,7 @@ Thanks!</p>
 - posted by: [Boston Startup CFO](https://stackexchange.com/users/9992633/boston-startup-cfo) on 2017-02-07
 - score: 0
 
-<p>Also try CoFounderlab and Founderdating websites - there are plenty of people that are looking to fulfill these roles for equity.</p>
-
+Also try CoFounderlab and Founderdating websites - there are plenty of people that are looking to fulfill these roles for equity.
 
 
 

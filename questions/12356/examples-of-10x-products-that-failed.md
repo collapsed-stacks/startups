@@ -4,12 +4,11 @@
 - tagged: `product`
 - score: 0
 
-<p>Peter Thiel famously states in Zero to One that a product should roughly be <strong>10x better</strong> than its closest substitute in order for it to be successful (among other factors that are equally important). Examples offered are Tesla, the iPhone, and Google search.</p>
+Peter Thiel famously states in Zero to One that a product should roughly be **10x better** than its closest substitute in order for it to be successful (among other factors that are equally important). Examples offered are Tesla, the iPhone, and Google search.
 
-<p><strong>Question:</strong> Can anyone think of any recent 10x products that failed to create valuable businesses (where "valuable business" means a company worth at least $1B)? </p>
+**Question:** Can anyone think of any recent 10x products that failed to create valuable businesses (where "valuable business" means a company worth at least $1B)? 
 
-<p>The only example I can think of is lytro.com (<a href="https://en.wikipedia.org/wiki/Lytro#Original_Lytro_Light_Field_Camera" rel="nofollow noreferrer">https://en.wikipedia.org/wiki/Lytro#Original_Lytro_Light_Field_Camera</a>). But surely there are more examples.</p>
-
+The only example I can think of is lytro.com (https://en.wikipedia.org/wiki/Lytro#Original_Lytro_Light_Field_Camera). But surely there are more examples.
 
 ## No Answers
 

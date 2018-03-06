@@ -4,14 +4,13 @@
 - tagged: `legal`, `intellectual-property`, `copyright`, `international`
 - score: 3
 
-<p>We are developers creating a mobile app and we would like to use copyrighted material provided by many companies all around the world (US, Japan, Germany, ...).</p>
+We are developers creating a mobile app and we would like to use copyrighted material provided by many companies all around the world (US, Japan, Germany, ...).
 
-<p>Our main concern is about how to make royalty agreements with such companies. If they were in the same country as us (France) it wouldn't be a problem, but with companies in so many different countries we have no idea what to do.</p>
+Our main concern is about how to make royalty agreements with such companies. If they were in the same country as us (France) it wouldn't be a problem, but with companies in so many different countries we have no idea what to do.
 
-<p>How will they trust us? We have almost no guarantees to offer. These companies are also rather small and are probably not used to receive royalties for what they do, so I don't expect them to come up with some kind of pre-made contract. Any help on the technical side of things is welcome.</p>
+How will they trust us? We have almost no guarantees to offer. These companies are also rather small and are probably not used to receive royalties for what they do, so I don't expect them to come up with some kind of pre-made contract. Any help on the technical side of things is welcome.
 
-<p>(Another concern is about how to negociate such royalties, but I guess this requires some research.)</p>
-
+(Another concern is about how to negociate such royalties, but I guess this requires some research.)
 
 
 ## Answer 3000

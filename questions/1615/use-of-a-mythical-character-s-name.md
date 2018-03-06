@@ -4,12 +4,14 @@
 - tagged: `copyright`
 - score: 4
 
-<p>I am considering using the word "Sauron" (The mythical all-seeing eye from Lord of the Rings) as PART of a company name, it fits extremely well with the purpose of the business. </p>
+I am considering using the word "Sauron" (The mythical all-seeing eye from Lord of the Rings) as PART of a company name, it fits extremely well with the purpose of the business. 
 
-<p>I have see this word used before, and is currently used in other contexts, including in other fictional works (see <a href="http://en.wikipedia.org/wiki/Sauron_%28disambiguation%29" rel="nofollow">Wikipedia entry for Sauron</a>) </p>
+I have see this word used before, and is currently used in other contexts, including in other fictional works (see [Wikipedia entry for Sauron][1]) 
 
-<p>Is there any reason I cant do this? Would I be infringing any copyright / trademark / intellectual property rights?</p>
+Is there any reason I cant do this? Would I be infringing any copyright / trademark / intellectual property rights?
 
+
+  [1]: http://en.wikipedia.org/wiki/Sauron_%28disambiguation%29
 
 
 ## Answer 1632
@@ -58,20 +60,17 @@
 - posted by: [trejder](https://stackexchange.com/users/1584557/trejder) on 2014-12-12
 - score: 2
 
-<p>In my opinion, you have <strong>absolutely no right</strong> to use "Sauron" anywhere within your company (not only as a part of its or project's name) due to pure and direct copyright infringement.</p>
+In my opinion, you have **absolutely no right** to use "Sauron" anywhere within your company (not only as a part of its or project's name) due to pure and direct copyright infringement.
 
-<p>Exactly <strong>all</strong> <em>other</em> uses of this name, you point to (<a href="http://en.wikipedia.org/wiki/Sauron_%28disambiguation%29" rel="nofollow">Wikipedia</a>) are:</p>
+Exactly **all** _other_ uses of this name, you point to ([Wikipedia](http://en.wikipedia.org/wiki/Sauron_%28disambiguation%29)) are:
 
-<ul>
-<li>character in book, comic or other form of fiction,</li>
-<li>art, scene, culture or performer name,</li>
-<li>science.</li>
-</ul>
+- character in book, comic or other form of fiction,
+- art, scene, culture or performer name,
+- science.
 
-<p>There is absolutely no mark of any usage of name "Sauron" at least close to business. There is no company, project, startup, business deal etc. name in anywhere related. Why? Quite clearly -- because of copyright infringement.</p>
+There is absolutely no mark of any usage of name "Sauron" at least close to business. There is no company, project, startup, business deal etc. name in anywhere related. Why? Quite clearly -- because of copyright infringement.
 
-<p>I'm neither Tolkien lover nor lawyer, but I'm pretty sure, that a person, company or organisation, that currently holds all copyrights to all Tolkien's books and works also holds copyrights for all name, places, characters etc. inside these books and works.</p>
-
+I'm neither Tolkien lover nor lawyer, but I'm pretty sure, that a person, company or organisation, that currently holds all copyrights to all Tolkien's books and works also holds copyrights for all name, places, characters etc. inside these books and works.
 
 
 

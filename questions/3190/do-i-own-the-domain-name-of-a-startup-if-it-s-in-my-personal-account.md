@@ -4,10 +4,9 @@
 - tagged: `tech-company`, `legal`, `business-registration`, `business-structure`, `domain-name`
 - score: 1
 
-<p>I currently have the domain name for a business that was started by a friend and myself in my personal registrar account. After I paid for the initial registration personally years ago, for the past several years the business has been paying for the renewal. </p>
+I currently have the domain name for a business that was started by a friend and myself in my personal registrar account. After I paid for the initial registration personally years ago, for the past several years the business has been paying for the renewal. 
 
-<p>Who actually owns the domain? Because it's sits in my account do I own it? Or does the business have a claim to have it transferred from my account?</p>
-
+Who actually owns the domain? Because it's sits in my account do I own it? Or does the business have a claim to have it transferred from my account?
 
 
 ## Answer 3193
@@ -15,8 +14,7 @@
 - posted by: [littleadv](https://stackexchange.com/users/307221/littleadv) on 2015-01-26
 - score: 3
 
-<p>If the business paid for the renewal - the business has a valid claim of ownership. Who <em>really</em> owns it will be decided by courts, if you two cannot agree, but I suspect the business will prevail.</p>
-
+If the business paid for the renewal - the business has a valid claim of ownership. Who *really* owns it will be decided by courts, if you two cannot agree, but I suspect the business will prevail.
 
 
 ## Answer 3470

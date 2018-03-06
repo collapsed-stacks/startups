@@ -4,8 +4,7 @@
 - tagged: `united-states`, `equity`, `funding`, `pitch`
 - score: 1
 
-<p>I am promoting a web application which matches healthcare providers and patients. We offer advertising to healthcare providers for a monthly fee. The patients locate their doctor by a zipcode internet search. </p>
-
+I am promoting a web application which matches healthcare providers and patients. We offer advertising to healthcare providers for a monthly fee. The patients locate their doctor by a zipcode internet search. 
 
 ## No Answers
 

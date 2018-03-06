@@ -4,23 +4,20 @@
 - tagged: `united-states`, `investors`, `funding`, `financing`, `contracts`
 - score: 3
 
-<p>I was having an interesting conversation with one of my friends. His company recently won a contract from the Air Force for a big project. The contract is worth a lot of money, but they can only receive the funds after they deliver the project. That means they will have to probably get a loan to finance it. In the meantime, as soon as they found out they won the contract they got a call from Google offering to finance them. Now, I've the following questions about this matter: </p>
+I was having an interesting conversation with one of my friends. His company recently won a contract from the Air Force for a big project. The contract is worth a lot of money, but they can only receive the funds after they deliver the project. That means they will have to probably get a loan to finance it. In the meantime, as soon as they found out they won the contract they got a call from Google offering to finance them. Now, I've the following questions about this matter: 
 
-<ol>
-<li><p>Why would Google finance them in this sector? </p></li>
-<li><p>Is Google really interested in the technology? Or just trying to loan money for profit?</p></li>
-</ol>
+ 1. Why would Google finance them in this sector? 
+    
+ 2. Is Google really interested in the technology? Or just trying to loan money for profit?
 
-<p>It was out of the blue, but it was suspicious because I know they are strategic in their quest for tech and not necessarily looking for more money.</p>
+It was out of the blue, but it was suspicious because I know they are strategic in their quest for tech and not necessarily looking for more money.
 
-<p>Did anyone run into something like this before?</p>
+Did anyone run into something like this before?
 
-<p>Update:</p>
 
-<ol start="3">
-<li>My other concern is that How Google was able to find out the information regarding the contract; Are they really this active in crawling the pages for information? or Do they have somesort of tie-ups with the defense companies?</li>
-</ol>
+Update:
 
+3. My other concern is that How Google was able to find out the information regarding the contract; Are they really this active in crawling the pages for information? or Do they have somesort of tie-ups with the defense companies?
 
 
 ## Answer 3367
@@ -46,20 +43,17 @@ I think that only google can give the correct answers to your questions. But tha
 - posted by: [Dinesh Saini](https://stackexchange.com/users/1684037/dinesh-saini) on 2014-12-14
 - score: -1
 
-<blockquote>
-  <p>A friendship founded on business is better than a business founded on
-  friendship.</p>
-  
-  <p>Never esteem anything as of advantage to thee that shall make thee
-  break thy word or lose thy self-respect.</p>
-</blockquote>
+> A friendship founded on business is better than a business founded on
+> friendship.
+> 
+> Never esteem anything as of advantage to thee that shall make thee
+> break thy word or lose thy self-respect.
 
-<p>These are the core ideas behind every project that Google and other giant like Google think.</p>
+These are the core ideas behind every project that Google and other giant like Google think.
 
-<p>Just go back to the 5 years, Facebook give fund to Instagram for server development and which results into benefit of Facebook as most of the audience connected to Facebook just because of Instagram.</p>
+Just go back to the 5 years, Facebook give fund to Instagram for server development and which results into benefit of Facebook as most of the audience connected to Facebook just because of Instagram.
 
-<p>Google know about your quality and it can trust on you because you have capabilities to do the project that's why you got this contract. Google wants a relationship with you to just increase its reach or say Google invite you for the upcoming year business with you.</p>
-
+Google know about your quality and it can trust on you because you have capabilities to do the project that's why you got this contract. Google wants a relationship with you to just increase its reach or say Google invite you for the upcoming year business with you.
 
 
 

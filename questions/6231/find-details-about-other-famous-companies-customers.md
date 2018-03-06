@@ -4,10 +4,10 @@
 - tagged: `business-model`, `market-research`
 - score: 1
 
-<p>I want to know more about business segmentation (customer demographics) of companies such as eBay,Linkedin, etc. (job, age, nationality, preferences, hobbies)</p>
+I want to know more about business segmentation (customer demographics) of companies such as eBay,Linkedin, etc. (job, age, nationality, preferences, hobbies)
 
-<p>How/Where can I find this kind of information? </p>
 
+How/Where can I find this kind of information? 
 
 ## No Answers
 

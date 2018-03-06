@@ -4,7 +4,7 @@
 - tagged: `web-apps`, `applications`
 - score: 0
 
-<p>I really want to develop something at mid term or long term , but I would like to build something that the people want it , before they want it.</p>
+I really want to develop something at mid term or long term , but I would like to build something that the people want it , before they want it.
 
 
 ## No Answers

@@ -4,16 +4,15 @@
 - tagged: `mobile-apps`, `lean-startup`
 - score: 3
 
-<blockquote>
-  <p>Continuous deployment is a process whereby all code that is written
-  for an application is immediately deployed into production. The result
-  is a dramatic lowering of cycle time and freeing up of individual
-  initiative. It has enabled companies I’ve worked with to deploy new
-  code to production as often as fifty times every day. <a href="http://radar.oreilly.com/2009/03/continuous-deployment-5-eas.html" rel="nofollow">Eric Ries</a></p>
-</blockquote>
+> Continuous deployment is a process whereby all code that is written
+> for an application is immediately deployed into production. The result
+> is a dramatic lowering of cycle time and freeing up of individual
+> initiative. It has enabled companies I’ve worked with to deploy new
+> code to production as often as fifty times every day. [Eric Ries][1]
 
-<p>Android apps take about an hour, while iOS apps take about a week to deploy. What are tips and tricks to achieve the benefits of continuous deployment when it is technically really hard to achieve?</p>
+Android apps take about an hour, while iOS apps take about a week to deploy. What are tips and tricks to achieve the benefits of continuous deployment when it is technically really hard to achieve?
 
+  [1]: http://radar.oreilly.com/2009/03/continuous-deployment-5-eas.html
 
 
 ## Answer 3413
@@ -36,9 +35,8 @@
 - posted by: [Okyasoft](https://stackexchange.com/users/294248/okyasoft) on 2015-02-05
 - score: 0
 
-<p>Since, for native apps on app stores there is a review process for getting approved I am not sure if a true continuous integration will be feasible.
-However, one potential way to achieve that is using a mobile site instead of an app. Where the app just is a way to access the site. This way, whenever you make any changes to the website you can deploy it to everyone.</p>
-
+Since, for native apps on app stores there is a review process for getting approved I am not sure if a true continuous integration will be feasible.
+However, one potential way to achieve that is using a mobile site instead of an app. Where the app just is a way to access the site. This way, whenever you make any changes to the website you can deploy it to everyone.
 
 
 

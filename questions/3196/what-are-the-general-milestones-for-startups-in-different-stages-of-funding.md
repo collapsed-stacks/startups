@@ -4,21 +4,19 @@
 - tagged: `investment`
 - score: 3
 
-<p>Startups go through different stages of funding and usually must target a certain milestone for that stage.  </p>
+Startups go through different stages of funding and usually must target a certain milestone for that stage.  
 
-<p>Some of the stages are: (Feel free to edit)</p>
+Some of the stages are: (Feel free to edit)
 
-<ul>
-<li>Idea</li>
-<li>Pre-Fund</li>
-<li>Angel</li>
-<li>Series A</li>
-<li>Series B</li>
-<li>Series C </li>
-<li>Series D</li>
-</ul>
+- Idea
+- Pre-Fund
+- Angel
+- Series A
+- Series B
+- Series C 
+- Series D
 
-<p>What are generally accepted milestones for each of these stages? </p>
+What are generally accepted milestones for each of these stages? 
 
 
 
@@ -58,41 +56,40 @@
 - posted by: [Davidraz](https://stackexchange.com/users/4447731/davidraz) on 2015-01-26
 - score: 2
 
-<ol>
-<li>Idea, Prefund &amp; Angel - Having a good founding team is the most important thing (Also for later). During this stage you would need to proof the concept of your startup. Meaning, to show that there is a need for your solution in the market (Prototype, MVP, Initial users/customers). </li>
-<li>Round A - Building your product and finding product-market fit. If you are a B2C startup, you would need to show user metrics (growth, retention and sales if relevante). A B2B startup will usually need focus to on sales as a key parameter.  </li>
-<li>Round B and later rounds are usually used for growth &amp; expansion. At this stages you are expected to become profitable or to grow like crazy. </li>
-</ol>
+1. Idea, Prefund & Angel - Having a good founding team is the most important thing (Also for later). During this stage you would need to proof the concept of your startup. Meaning, to show that there is a need for your solution in the market (Prototype, MVP, Initial users/customers). 
+2. Round A - Building your product and finding product-market fit. If you are a B2C startup, you would need to show user metrics (growth, retention and sales if relevante). A B2B startup will usually need focus to on sales as a key parameter.  
+3. Round B and later rounds are usually used for growth & expansion. At this stages you are expected to become profitable or to grow like crazy. 
 
-<p>My answer is very general because milestones are very specific for each company. If you could add more details about the industry and the field you are interested in, I could try to be more specific.</p>
+My answer is very general because milestones are very specific for each company. If you could add more details about the industry and the field you are interested in, I could try to be more specific.
 
-<p>Update- 
-I can be <strong>more specific on mobile</strong>:
-As Mark mentioned in his answer, <strong>the requirements for seed investment are growing with time. I believe that the reasons for this are:</strong></p>
+Update- 
+I can be **more specific on mobile**:
+As Mark mentioned in his answer, **the requirements for seed investment are growing with time. I believe that the reasons for this are:**
 
-<p>a. It is easier and cheaper to build products today so investors expect startups to build some kind of POC before asking for money. </p>
+a. It is easier and cheaper to build products today so investors expect startups to build some kind of POC before asking for money. 
 
-<p>b. There are countless app startups so investors can set higher bars at early stages.</p>
+b. There are countless app startups so investors can set higher bars at early stages.
 
-<p>c. Investors understand better the risks involved in mobile apps. You can have an amazing idea but there is no real way to validate it without getting real feedback from users.</p>
+c. Investors understand better the risks involved in mobile apps. You can have an amazing idea but there is no real way to validate it without getting real feedback from users.
 
-<p><strong>Few additional factors that affect startup's abillity to get seed funding:</strong></p>
+**Few additional factors that affect startup's abillity to get seed funding:**
 
-<p>a. Field of your app- There are trends in the "hot fields" investors are looking for. If you were developing a photo sharing app 3 years ago, a good team could easily get a seed funding with a mockup prototype. Today the same team won't be able to get funding without a significant traction (same for location based services, gamification, payments, etc.). By the way, in my opinion, education and security are few of the interesting fields investors look for today. </p>
+a. Field of your app- There are trends in the "hot fields" investors are looking for. If you were developing a photo sharing app 3 years ago, a good team could easily get a seed funding with a mockup prototype. Today the same team won't be able to get funding without a significant traction (same for location based services, gamification, payments, etc.). By the way, in my opinion, education and security are few of the interesting fields investors look for today. 
+   
+b. Team with past experience in that field (preferably with an exit history).
 
-<p>b. Team with past experience in that field (preferably with an exit history).</p>
+c. Timing - there are times when investors have a lot of cash to pure into new companies and other times when they don't. Today is a good period but in my opinion this period won't last for more than 2 years from now at best. 
 
-<p>c. Timing - there are times when investors have a lot of cash to pure into new companies and other times when they don't. Today is a good period but in my opinion this period won't last for more than 2 years from now at best. </p>
+d. Location - It is easier to get funding if you are in the right location for your startup. I think NY is a good place for mobile startups.
+ 
+Your seed money will be usually used to build a great product and if possible, to develop your app for both iOS and Android (if relevant for you). You would be expected to show good retention rates, a good growth curve and find the best channels for future growth.
+If you have all those, it means you found your product-market fit and you would probably be able to raise your A round. You will also be expected to have some business model and plan that will allow you to become profitable. 
 
-<p>d. Location - It is easier to get funding if you are in the right location for your startup. I think NY is a good place for mobile startups.</p>
+By the way. if your app don't have the potential to become a $1B company, you will probably won't be able to raise an A round at all (you have this potential if you have the potential to get 100M users or $100 revenue within 5-7 years).
 
-<p>Your seed money will be usually used to build a great product and if possible, to develop your app for both iOS and Android (if relevant for you). You would be expected to show good retention rates, a good growth curve and find the best channels for future growth.
-If you have all those, it means you found your product-market fit and you would probably be able to raise your A round. You will also be expected to have some business model and plan that will allow you to become profitable. </p>
 
-<p>By the way. if your app don't have the potential to become a $1B company, you will probably won't be able to raise an A round at all (you have this potential if you have the potential to get 100M users or $100 revenue within 5-7 years).</p>
 
-<p>Best</p>
-
+Best
 
 
 ## Answer 3201
@@ -100,26 +97,25 @@ If you have all those, it means you found your product-market fit and you would 
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-01-27
 - score: 0
 
-<p>In a nutshell, it's:</p>
+In a nutshell, it's:
 
-<ul>
-<li><h3>Seed: "We need money to build a prototype while we look for a good product market-fit."</h3>
+- ### Seed: "We need money to build a prototype while we look for a good product market-fit."
 
-<p>In other words, no product market fit needed, no prototype needed. Both are obviously a plus, but merely having an interesting idea is good enough.</p></li>
-<li><h3>Series A: "We need money to finalize our product or product-market fit, and become profitable."</h3>
+   In other words, no product market fit needed, no prototype needed. Both are obviously a plus, but merely having an interesting idea is good enough.
 
-<p>In other words, you've version 1 up and running, and some traction. You might still have a few things to develop, and perhaps you'll amend the market strategy a bit if it makes sense.</p>
+- ### Series A: "We need money to finalize our product or product-market fit, and become profitable."
 
-<p>The real goal now is to hire a team and become profitable.</p>
+  In other words, you've version 1 up and running, and some traction. You might still have a few things to develop, and perhaps you'll amend the market strategy a bit if it makes sense.
 
-<p>(Alternatively, the goal can be to grow your user base as fast as possible -- profits be damned.)</p></li>
-<li><h3>Series B+: "We're profitable (if we want), and need money to grow even faster."</h3>
+   The real goal now is to hire a team and become profitable.
 
-<p>In other words, you could make do without funding: you're profitable, or you could slow down investments to become so. But with funding, you'll grow much faster.</p>
+   (Alternatively, the goal can be to grow your user base as fast as possible -- profits be damned.)
 
-<p>(Alternatively, you've a huge crapload of users, and you need extra cash to survive until someone like Google opens its wallet, or work out how to become profitable. But this is the exception.)</p></li>
-</ul>
+- ### Series B+: "We're profitable (if we want), and need money to grow even faster."
 
+  In other words, you could make do without funding: you're profitable, or you could slow down investments to become so. But with funding, you'll grow much faster.
+
+  (Alternatively, you've a huge crapload of users, and you need extra cash to survive until someone like Google opens its wallet, or work out how to become profitable. But this is the exception.)
 
 
 

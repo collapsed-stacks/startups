@@ -4,16 +4,18 @@
 - tagged: `payment`
 - score: 0
 
-<p>Stripe is not officially available in the country of my citizenship and residence (Russia). The country is not in <a href="https://stripe.com/global" rel="nofollow">the list of supported countries</a>.</p>
+Stripe is not officially available in the country of my citizenship and residence (Russia). The country is not in [the list of supported countries][1].
 
-<p>I have signed up and configured the SDK to work with my app and like how it runs in test mode. Now I wonder if I register my company in a supported country, like Finland, what documents will Stripe require from me to prove I run a legal company?</p>
+I have signed up and configured the SDK to work with my app and like how it runs in test mode. Now I wonder if I register my company in a supported country, like Finland, what documents will Stripe require from me to prove I run a legal company?
 
-<p>Where can I find more information about the procedure of registering me as an eligible client in Stripe?</p>
+Where can I find more information about the procedure of registering me as an eligible client in Stripe?
 
-<p>I also have had a look at Braintree which doesn't support my country also.</p>
+I also have had a look at Braintree which doesn't support my country also.
 
-<p>Can it help if I have Payoneer virtual bank account, or what are options available to use legally a payment service if have no business in a supported country?</p>
+Can it help if I have Payoneer virtual bank account, or what are options available to use legally a payment service if have no business in a supported country?
 
+
+  [1]: https://stripe.com/global
 
 
 ## Answer 12237

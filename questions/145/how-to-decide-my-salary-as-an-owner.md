@@ -4,8 +4,7 @@
 - tagged: `united-states`, `employees`, `employee-compensation`, `salary`, `ownership`
 - score: 8
 
-<p>Lets say I own a startup with a handful of employees that is making  $6,000,000 a year while only costing $1,000,000, therefore it is drowning in cash. Can I pay myself whatever I want out of the remaining cash, or are there some restrictions? Also, are there steps to take early on in order to have as much freedom as possible?</p>
-
+Lets say I own a startup with a handful of employees that is making  $6,000,000 a year while only costing $1,000,000, therefore it is drowning in cash. Can I pay myself whatever I want out of the remaining cash, or are there some restrictions? Also, are there steps to take early on in order to have as much freedom as possible?
 
 
 ## Answer 146
@@ -30,10 +29,9 @@
 - posted by: [Community](https://stackexchange.com/users/-1/community) on 2014-08-01
 - score: 4
 
-<p>Just expanding on a few other considerations. While you most likely can pay yourself whatever you want, I would assume your end goal is acquisition or IPO, hence investing into rapid growth, while keeping some reserves would be appropriate.</p>
+Just expanding on a few other considerations. While you most likely can pay yourself whatever you want, I would assume your end goal is acquisition or IPO, hence investing into rapid growth, while keeping some reserves would be appropriate.
 
-<p>You can live a nice lifestyle with $200k p/a you can expand that later if required. Early employees will either have equity or just a pay check. If they have equity they want to see an exit, if its just a pay check make sure you are paying top market rates if they are worth it. I'd put the rest into heavy growth investment. Start thinking long term, with larger returns in the 10x range coming in 5-7 years, maybe sooner.</p>
-
+You can live a nice lifestyle with $200k p/a you can expand that later if required. Early employees will either have equity or just a pay check. If they have equity they want to see an exit, if its just a pay check make sure you are paying top market rates if they are worth it. I'd put the rest into heavy growth investment. Start thinking long term, with larger returns in the 10x range coming in 5-7 years, maybe sooner.
 
 
 

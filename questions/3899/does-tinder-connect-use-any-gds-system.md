@@ -4,8 +4,7 @@
 - tagged: `business-model`
 - score: 2
 
-<p>GDS means global distribution system. Terminology comes from accomodation booking, where big players booking.com airbnb.com are sharing info about their users. Does Tinder based on a similar business model? Do they use other market competitors databases, user registraitions?</p>
-
+GDS means global distribution system. Terminology comes from accomodation booking, where big players booking.com airbnb.com are sharing info about their users. Does Tinder based on a similar business model? Do they use other market competitors databases, user registraitions?
 
 
 ## Answer 3904
@@ -13,10 +12,9 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-04-01
 - score: 2
 
-<p>As I understand Tinder, it's geolocated dating using a mobile app. So it's likely they're using their own systems and database.</p>
+As I understand Tinder, it's geolocated dating using a mobile app. So it's likely they're using their own systems and database.
 
-<p>That said, my understanding of the dating industry is that there are databases running around. So take the answer with a fistfull of salt. (Only a Tinder employee would know.)</p>
-
+That said, my understanding of the dating industry is that there are databases running around. So take the answer with a fistfull of salt. (Only a Tinder employee would know.)
 
 
 

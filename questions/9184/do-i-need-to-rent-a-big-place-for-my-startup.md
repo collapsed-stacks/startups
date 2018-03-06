@@ -4,8 +4,7 @@
 - tagged: `business-plan`, `startup-costs`
 - score: 5
 
-<p>I am going to startup a small business. It will be more like a mini software where I will provide web development, graphics designing, computer repair, and SEO services. This startup team members are five and will increase in future. Actually, I want to know whether I should rent a big flat or one shop will be enough for my startup and why? </p>
-
+I am going to startup a small business. It will be more like a mini software where I will provide web development, graphics designing, computer repair, and SEO services. This startup team members are five and will increase in future. Actually, I want to know whether I should rent a big flat or one shop will be enough for my startup and why? 
 
 
 ## Answer 9185
@@ -13,10 +12,9 @@
 - posted by: [djechlin](https://stackexchange.com/users/1413944/djechlin) on 2016-05-14
 - score: 3
 
-<p>Coworking is all the rage. <a href="https://www.wework.com/" rel="nofollow">WeWork</a> is possible. Look into them, then use them as a starting place to find a few competitors and look into those also.</p>
+Coworking is all the rage. [WeWork](https://www.wework.com/) is possible. Look into them, then use them as a starting place to find a few competitors and look into those also.
 
-<p>(Plus I don't know why you would buy over renting for a purpose like this in the first place.)</p>
-
+(Plus I don't know why you would buy over renting for a purpose like this in the first place.)
 
 
 ## Answer 9186

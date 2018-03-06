@@ -4,10 +4,9 @@
 - tagged: `market-research`, `data`, `business-capital`
 - score: 1
 
-<p>I am doing a research on the starting capital need of European businesses considered successful (still working after 5 years). </p>
+I am doing a research on the starting capital need of European businesses considered successful (still working after 5 years). 
 
-<p>Is there any research, databases in this topic?</p>
-
+Is there any research, databases in this topic?
 
 ## No Answers
 

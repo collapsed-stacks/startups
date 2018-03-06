@@ -4,10 +4,9 @@
 - tagged: `payment`
 - score: 0
 
-<p>I'm working on developing a marketplace site where sellers advertise and sell items on the site in exchange for a transaction fee on credit-card sales. I think I've a pretty nice twist on the idea worked out and I'm looking for advice on how to handle the payment process. 
+I'm working on developing a marketplace site where sellers advertise and sell items on the site in exchange for a transaction fee on credit-card sales. I think I've a pretty nice twist on the idea worked out and I'm looking for advice on how to handle the payment process. 
 I know there's a ton of transaction companies out there for taking credit card payments directly to a business bank account but I'm looking for something that will send a percentage directly to me and the remainder to one of multiple bank accounts (ie the sellers) around the world. 
-Skrill seem to have something like this. Any other options?</p>
-
+Skrill seem to have something like this. Any other options?
 
 
 ## Answer 5543
@@ -15,7 +14,7 @@ Skrill seem to have something like this. Any other options?</p>
 - posted by: [secrethash](https://stackexchange.com/users/4739630/secrethash) on 2015-06-18
 - score: -1
 
-<p>According to your need for credit card processing you have many options to go with. I am listing them below:</p>
+According to your need for credit card processing you have many options to go with. I am listing them below:
 
 <ul>
 <li><b>Using Paypal</b> - You can use Paypal to process the payments through credit cards. Paypal provides a set of powerful API to do the same.</li>
@@ -29,7 +28,6 @@ Skrill seem to have something like this. Any other options?</p>
 <li>...etc.</li>
 
 </ul>
-
 
 
 

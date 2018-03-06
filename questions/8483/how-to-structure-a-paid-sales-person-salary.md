@@ -4,23 +4,24 @@
 - tagged: `tech-company`, `sales`, `employee-compensation`, `lean`
 - score: 2
 
-<p>I've been selling my software product for about 12 years via my website.  </p>
+I've been selling my software product for about 12 years via my website.  
 
-<p>It's a good product, probably the best in the space, but I can't compete with the marketing dollars my competitors have.  As such, I've just never had extra money to throw at a paid sales salary.</p>
+It's a good product, probably the best in the space, but I can't compete with the marketing dollars my competitors have.  As such, I've just never had extra money to throw at a paid sales salary.
 
-<p>A friend of a friend as expressed interest in a Outside Sales Position and since my largest customer decided to renew, I wanted to give her a try.</p>
+A friend of a friend as expressed interest in a Outside Sales Position and since my largest customer decided to renew, I wanted to give her a try.
 
-<p>In February 2016, what does a average software sales person compensation package look?</p>
+In February 2016, what does a average software sales person compensation package look?
 
-<p>My average sales cycle is under a week or so and is about 3k....but that's with 'Me' doing it via a web lead....which I assume is a motivated buyer.</p>
+My average sales cycle is under a week or so and is about 3k....but that's with 'Me' doing it via a web lead....which I assume is a motivated buyer.
 
-<p>I don't get enough leads to keep a pipeline full, but I have a data.com account.</p>
+I don't get enough leads to keep a pipeline full, but I have a data.com account.
 
-<p>Does 3k a month, no benefits, 10% commission, and 25k monthly quota seem fair?</p>
+Does 3k a month, no benefits, 10% commission, and 25k monthly quota seem fair?
 
-<p>I expect that there will be a ramp up time, to fill the pipeline...so what...6 months?</p>
+I expect that there will be a ramp up time, to fill the pipeline...so what...6 months?
 
-<p>Sorry, but I'm really in the dark here.</p>
+Sorry, but I'm really in the dark here.
+
 
 
 ## No Answers

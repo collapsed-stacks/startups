@@ -4,8 +4,7 @@
 - tagged: `investment`
 - score: 1
 
-<p>Surely Microsoft can build an almost identical Minecraft clone at much cheaper cost.</p>
-
+Surely Microsoft can build an almost identical Minecraft clone at much cheaper cost.
 
 ## No Answers
 

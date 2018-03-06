@@ -4,8 +4,7 @@
 - tagged: `c-corporation`
 - score: 4
 
-<p>Currently I am the state of Texas, and I was wondering is it illegal to file as a C-Corporation in another state that has better Tax Breaks?</p>
-
+Currently I am the state of Texas, and I was wondering is it illegal to file as a C-Corporation in another state that has better Tax Breaks?
 
 
 ## Answer 9264

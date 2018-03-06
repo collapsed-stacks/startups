@@ -4,24 +4,23 @@
 - tagged: `tech-company`, `united-kingdom`, `saas`
 - score: 1
 
-<p>I'm building an online web app to be used as a SaaS. I <em>may</em> be charging a monthly fee to some users which means I need to register it as a company I assume? If so, what type as I'm unsure.</p>
+I'm building an online web app to be used as a SaaS. I *may* be charging a monthly fee to some users which means I need to register it as a company I assume? If so, what type as I'm unsure.
 
-<p>I'm already self employed under my name, can this SaaS be a part of that or does it need to be separate?</p>
+I'm already self employed under my name, can this SaaS be a part of that or does it need to be separate?
 
-<p>As I'm in the UK I assume I'll need to sign up for VATMOSS as well, so really I just need some help overall with all this. My idea has people lined up to use it, I just want to be nice and legit ;)</p>
+As I'm in the UK I assume I'll need to sign up for VATMOSS as well, so really I just need some help overall with all this. My idea has people lined up to use it, I just want to be nice and legit ;)
 
-<p><strong>EDIT</strong></p>
+**EDIT**
 
-<p>Okay so here's a bit more info for you guys. The software is B2C, it's just a nice simple web app and phone app that allows reptile owners to track their animals a bit better; feeding times, weights, breeding pairs, clutches - all that sort of stuff.</p>
+Okay so here's a bit more info for you guys. The software is B2C, it's just a nice simple web app and phone app that allows reptile owners to track their animals a bit better; feeding times, weights, breeding pairs, clutches - all that sort of stuff.
 
-<p>Some features will be free but others may need a monthly/one time cost to access the features haven't decided on this yet. But as I'm in the UK, from what I understand I'd need to register for VATMOSS as it's a SaaS which is being run totally automatically/digitally (<a href="https://www.gov.uk/guidance/register-and-use-the-vat-mini-one-stop-shop" rel="nofollow">https://www.gov.uk/guidance/register-and-use-the-vat-mini-one-stop-shop</a>)</p>
+Some features will be free but others may need a monthly/one time cost to access the features haven't decided on this yet. But as I'm in the UK, from what I understand I'd need to register for VATMOSS as it's a SaaS which is being run totally automatically/digitally (https://www.gov.uk/guidance/register-and-use-the-vat-mini-one-stop-shop)
 
-<p>The service can be used by anyone all over the world, not just here in the UK.</p>
+The service can be used by anyone all over the world, not just here in the UK.
 
-<p>I don't expect to turnover more than the VAT threshold, but I believe I still need to sign up for VATMOSS - is this correct?</p>
+I don't expect to turnover more than the VAT threshold, but I believe I still need to sign up for VATMOSS - is this correct?
 
-<p>This is a project I've had fun building and lots of people are wanting to get onboard and use it.</p>
-
+This is a project I've had fun building and lots of people are wanting to get onboard and use it.
 
 
 ## Answer 8886
@@ -29,24 +28,23 @@
 - posted by: [fiprojects](https://stackexchange.com/users/5370155/fiprojects) on 2016-04-04
 - score: 1
 
-<p>I've have a VAT registered UK Limited Company since 1994 and recommend this.</p>
+I've have a VAT registered UK Limited Company since 1994 and recommend this.
 
-<p>You could continue registered as self employed but the reason why I opted for Ltd was liability. When you trade as yourself, you undertake responsibility if your services, or in the act of providing your service you negatively impact your client/end users (or someone else who is not your client but while you are working). It would not matter if your app was free or paid for.</p>
+You could continue registered as self employed but the reason why I opted for Ltd was liability. When you trade as yourself, you undertake responsibility if your services, or in the act of providing your service you negatively impact your client/end users (or someone else who is not your client but while you are working). It would not matter if your app was free or paid for.
 
-<p>When you have a Ltd, it creates an entity like another person and the entity is held responsible. If you <em>innocently</em> screw up, the UK Limited Company is held liable and if sued its assets could be up for grabs. If you are self employed and screw up, then you, your car, home, credit rating and possibly your spouse's credit rating will take a major hit.</p>
+When you have a Ltd, it creates an entity like another person and the entity is held responsible. If you *innocently* screw up, the UK Limited Company is held liable and if sued its assets could be up for grabs. If you are self employed and screw up, then you, your car, home, credit rating and possibly your spouse's credit rating will take a major hit.
 
-<p>If the law determines the company was negligent (in such you ignored or declined to seek advice) then the law will seek to hold the Directors (you!) liable and throw the book at you so Ltd is not a catch all.</p>
+If the law determines the company was negligent (in such you ignored or declined to seek advice) then the law will seek to hold the Directors (you!) liable and throw the book at you so Ltd is not a catch all.
 
-<p>You only need register for VAT if you expect to turn 70k in your first year - there is no hurry to register, but I recommend it if you expect your vatable expenses to be significant. If you expect to buy a laptop, one or two training courses in the UK, some cloud space, you are likely to spend 5grand or more in a single year, 20% (1000GBP) of that would be VAT that could come back to you.  You could in turn use that VAT to pay for an accountant (like I do) so you have best legal advice and less paperwork.</p>
+You only need register for VAT if you expect to turn 70k in your first year - there is no hurry to register, but I recommend it if you expect your vatable expenses to be significant. If you expect to buy a laptop, one or two training courses in the UK, some cloud space, you are likely to spend 5grand or more in a single year, 20% (1000GBP) of that would be VAT that could come back to you.  You could in turn use that VAT to pay for an accountant (like I do) so you have best legal advice and less paperwork.
 
-<p>I have registered my UK Limited Company as a consultancy as it brought in bread and butter these past 20+ years. When my app generates liveable income, then I would consider changing the service type.</p>
+I have registered my UK Limited Company as a consultancy as it brought in bread and butter these past 20+ years. When my app generates liveable income, then I would consider changing the service type.
 
-<p>You have not said what your idea is - other than a web app - its worth discussing it with an accountant prior to creating your Ltd. You might recall 'freeserve' dialup internet. Unlike AOL at the time, Freeserve created their company as an information provider, akin to a newspaper, where as AOL had registered themselves as an IT company - I cannot recall exactly, but the different registration they applied for gave Freeserve significant VAT benefits which AOL did not enjoy. AOL cried on deaf ears.</p>
+You have not said what your idea is - other than a web app - its worth discussing it with an accountant prior to creating your Ltd. You might recall 'freeserve' dialup internet. Unlike AOL at the time, Freeserve created their company as an information provider, akin to a newspaper, where as AOL had registered themselves as an IT company - I cannot recall exactly, but the different registration they applied for gave Freeserve significant VAT benefits which AOL did not enjoy. AOL cried on deaf ears.
 
-<p>Lastly, read/consider points 1,2,3,6 and 7 in another answer I made recently <a href="https://startups.stackexchange.com/questions/8576/how-to-build-a-startup-freelance-software-qa-in-the-us/8585#8585">How to build a Startup freelance software QA in the US?</a> </p>
+Lastly, read/consider points 1,2,3,6 and 7 in another answer I made recently https://startups.stackexchange.com/questions/8576/how-to-build-a-startup-freelance-software-qa-in-the-us/8585#8585 
 
-<p>Best of luck!</p>
-
+Best of luck!
 
 
 ## Answer 8887

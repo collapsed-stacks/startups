@@ -4,9 +4,9 @@
 - tagged: `marketing`
 - score: 2
 
-<p>Word of mouth is often cited as the cheapest form of marketing, but what motivates users to tell other users about something?</p>
+Word of mouth is often cited as the cheapest form of marketing, but what motivates users to tell other users about something?
 
-<p>To be clear, I'm not talking about the mechanics of enabling users to refer users, but what makes them want to actively do so. Further, to me telling other users as a side-effect of using the service or product is not the same thing as a user intentionally going out and telling people about it.</p>
+To be clear, I'm not talking about the mechanics of enabling users to refer users, but what makes them want to actively do so. Further, to me telling other users as a side-effect of using the service or product is not the same thing as a user intentionally going out and telling people about it.
 
 
 
@@ -41,16 +41,15 @@
 - posted by: [tiguchi](https://stackexchange.com/users/1590158/tiguchi) on 2015-05-20
 - score: 2
 
-<p>I'll take the lean startup stance here based on "The Startup Owner's Manual" (Blank &amp; Dorf). The book talks about "evangelists" and "earlyvangelists" who will spread the word for you early on in your startup development. They will be so much into your vision of your product / service that they are willing to put up with imperfection (such as stability issues, bugs, hideous user interface), they are willing to pay you for incomplete feature sets, they provide you with insight for improvements and they will ultimately tell other people about your product / service.</p>
+I'll take the lean startup stance here based on "The Startup Owner's Manual" (Blank & Dorf). The book talks about "evangelists" and "earlyvangelists" who will spread the word for you early on in your startup development. They will be so much into your vision of your product / service that they are willing to put up with imperfection (such as stability issues, bugs, hideous user interface), they are willing to pay you for incomplete feature sets, they provide you with insight for improvements and they will ultimately tell other people about your product / service.
 
-<p>As far as I understand the definition of "earlyvangelist", it's apparently a first customer who has a pretty high pain level and need for their problem to be solved. Under ideal circumstances they are people who already actively pursued finding or even building a custom solution for their problem and are happy to see it professionally implemented.</p>
+As far as I understand the definition of "earlyvangelist", it's apparently a first customer who has a pretty high pain level and need for their problem to be solved. Under ideal circumstances they are people who already actively pursued finding or even building a custom solution for their problem and are happy to see it professionally implemented.
 
-<p>According to the book, the effectiveness of an "earlyvangelist" can be measured by their willingness to pay - not a discount but full price, even when not all promises are implemented, yet.</p>
+According to the book, the effectiveness of an "earlyvangelist" can be measured by their willingness to pay - not a discount but full price, even when not all promises are implemented, yet.
 
-<p>The book claims that "earlyvangelists" are a vital element for "viral growth".</p>
+The book claims that "earlyvangelists" are a vital element for "viral growth".
 
-<p>Some personal anecdotal evidence: I've been in the role of an "earlyvangelist" myself about 14 years ago, when I purchased a commercial license for the now Open Source 3D software Blender. I received a nicely printed, artsy license document, a license key and a really fancy manual book. I was completely sold to the product and the company behind it. The printed goodies were of high quality and a very nice touch. I lived through fanboyism at its finest. Back then Blender had pretty limited features, but you could use it for free with a few restrictions and I believed in their vision and goals, so I felt it was worth my hard earned money. I believe the license was something like 250 Euros back then, and at that time it was a lot of money for me. I also spread the word about it and had a very forgiving and positive attitude towards the product.</p>
-
+Some personal anecdotal evidence: I've been in the role of an "earlyvangelist" myself about 14 years ago, when I purchased a commercial license for the now Open Source 3D software Blender. I received a nicely printed, artsy license document, a license key and a really fancy manual book. I was completely sold to the product and the company behind it. The printed goodies were of high quality and a very nice touch. I lived through fanboyism at its finest. Back then Blender had pretty limited features, but you could use it for free with a few restrictions and I believed in their vision and goals, so I felt it was worth my hard earned money. I believe the license was something like 250 Euros back then, and at that time it was a lot of money for me. I also spread the word about it and had a very forgiving and positive attitude towards the product.
 
 
 

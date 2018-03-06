@@ -4,8 +4,7 @@
 - tagged: `skills`
 - score: 3
 
-<p>Are there any other places except freelance sites and LinkedIn to find people with skills/knowledge to hire, partner up, consult with, ask for mentoring, etc.?</p>
-
+Are there any other places except freelance sites and LinkedIn to find people with skills/knowledge to hire, partner up, consult with, ask for mentoring, etc.?
 
 
 ## Answer 12916
@@ -13,12 +12,13 @@
 - posted by: [makerGeek](https://stackexchange.com/users/5473347/makergeek) on 2017-06-26
 - score: 2
 
-<p>it depends on your needs and what type of skills you're looking for.
-you'll probably find better talents if you look inside their communities because that's where they're active the most.</p>
+it depends on your needs and what type of skills you're looking for.
+you'll probably find better talents if you look inside their communities because that's where they're active the most.
 
-<p>for example if you need developers you can have a look at github, stackoverflow or coding challenges websites like hackerrank...</p>
+for example if you need developers you can have a look at github, stackoverflow or coding challenges websites like hackerrank...
 
-<p>or if you're looking for designers you can search in deviantart..</p>
+or if you're looking for designers you can search in deviantart..
+
 
 
 
@@ -38,10 +38,9 @@ you'll probably find better talents if you look inside their communities because
 - posted by: [Lucas Raphael Pianegonda](https://stackexchange.com/users/10909545/lucas-raphael-pianegonda) on 2017-06-26
 - score: 1
 
-<p>If you are looking for partners with partucular skills you can go to <a href="https://www.cofoundme.org/" rel="nofollow noreferrer">https://www.cofoundme.org/</a></p>
+If you are looking for partners with partucular skills you can go to https://www.cofoundme.org/
 
-<p>If your looking for people to hire there are some good sites as suggested above, it also pays exeptionally to have a good network. There is always a guy who knows a guy. Old professors or supervisors at universities or contacts at a tech company nearby will be very helpful. Sometimes it even pays off to post in a studentforum and offer a bit of money for students with skills. It very much depends on what you are looking for.</p>
-
+If your looking for people to hire there are some good sites as suggested above, it also pays exeptionally to have a good network. There is always a guy who knows a guy. Old professors or supervisors at universities or contacts at a tech company nearby will be very helpful. Sometimes it even pays off to post in a studentforum and offer a bit of money for students with skills. It very much depends on what you are looking for.
 
 
 

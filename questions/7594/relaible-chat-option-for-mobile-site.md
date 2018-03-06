@@ -4,11 +4,10 @@
 - tagged: `website`
 - score: -1
 
-<p>i have got a project to make a mobile site implementing chatting option for more than 2000+ users at a time .i tried to look for HTMl + ajax and jquery chat but unable to decide which one to use
+i have got a project to make a mobile site implementing chatting option for more than 2000+ users at a time .i tried to look for HTMl + ajax and jquery chat but unable to decide which one to use
 can anyone suggest please
 also i wanted to implement push notificaiton in that.either a pulse blink/sound /vibrate
-any other of among this.</p>
-
+any other of among this.
 
 
 ## Answer 7595

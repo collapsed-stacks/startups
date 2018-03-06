@@ -4,14 +4,13 @@
 - tagged: `acquisition`
 - score: 0
 
-<p>A BPO which has been operational for @3+ Yrs is being acquired by another larger company to boost its strength. Its 100% cash buyout transaction.</p>
+A BPO which has been operational for @3+ Yrs is being acquired by another larger company to boost its strength. Its 100% cash buyout transaction.
 
-<p>What will happen to cash in bank. The seller is negotiating "X" multiple of its gross income as valuation of company which more or less is OK with buyer too.</p>
+What will happen to cash in bank. The seller is negotiating "X" multiple of its gross income as valuation of company which more or less is OK with buyer too.
 
-<p>The deal is getting struck on this one point of seller insisting to walk away with cash in bank (which is substantial say @30% of the deal price).</p>
+The deal is getting struck on this one point of seller insisting to walk away with cash in bank (which is substantial say @30% of the deal price).
 
-<p>Any suggestions.</p>
-
+Any suggestions.
 
 ## No Answers
 

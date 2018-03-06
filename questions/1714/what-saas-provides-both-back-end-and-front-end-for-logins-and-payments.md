@@ -4,10 +4,9 @@
 - tagged: `web-development`, `payment`, `saas`
 - score: 1
 
-<p>I want to spend as much time as possible developing my core product and as little as possible developing the generic services around paying customers. I want not only the backend APIs but also white-label template/widget/iframe that I can drop into my website, including login/register/forget password forms and recurring payment forms. Also I want some BaaS solution to store data against those customers.</p>
+I want to spend as much time as possible developing my core product and as little as possible developing the generic services around paying customers. I want not only the backend APIs but also white-label template/widget/iframe that I can drop into my website, including login/register/forget password forms and recurring payment forms. Also I want some BaaS solution to store data against those customers.
 
-<p>Any suggestions? Thanks.</p>
-
+Any suggestions? Thanks.
 
 ## No Answers
 

@@ -4,20 +4,19 @@
 - tagged: `website`
 - score: 2
 
-<p>I know this is a big question, so I understand I probably won't get a nice and simple list of dos and don'ts, but I'm willing to work to move this forward, and I have to start somewhere.</p>
+I know this is a big question, so I understand I probably won't get a nice and simple list of dos and don'ts, but I'm willing to work to move this forward, and I have to start somewhere.
 
-<p>I've been building a website for the past few months that is basically a media sharing website, but it's tailored for a particular audience.  (As per most of these types of question, I'll be leaving the specifics out).</p>
+I've been building a website for the past few months that is basically a media sharing website, but it's tailored for a particular audience.  (As per most of these types of question, I'll be leaving the specifics out).
 
-<p>I'm looking at charging a very small amount (around £2 or $3 per month) for each member, primarily to cover the cost of the web server, and then hopefully further down the line it will cover my salary so I can take the project on full time and start to really make it grow.</p>
+I'm looking at charging a very small amount (around £2 or $3 per month) for each member, primarily to cover the cost of the web server, and then hopefully further down the line it will cover my salary so I can take the project on full time and start to really make it grow.
 
-<p>The site is currently up and running, albeit still in the development phase, and I am about to release it to a group of beta testers in order to iron out any kinks, and identify any areas that need improving.</p>
+The site is currently up and running, albeit still in the development phase, and I am about to release it to a group of beta testers in order to iron out any kinks, and identify any areas that need improving.
 
-<p>My real question is about the legalities of the whole thing.  I expect that an online subscription service has to be done "by the book", and I'm afraid I simply don't know where to start.</p>
+My real question is about the legalities of the whole thing.  I expect that an online subscription service has to be done "by the book", and I'm afraid I simply don't know where to start.
 
-<p>Any advice relating to this area will be very gratefully received, but any other pointers for a new starter would also be very helpful.</p>
+Any advice relating to this area will be very gratefully received, but any other pointers for a new starter would also be very helpful.
 
-<p><strong>Edit:</strong> I should point out that I understand there are issues regarding taking payments and PCI compliance, but I'll be taking recurring payments from PayPal, to start with at least. </p>
-
+**Edit:** I should point out that I understand there are issues regarding taking payments and PCI compliance, but I'll be taking recurring payments from PayPal, to start with at least. 
 
 
 ## Answer 6175

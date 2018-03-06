@@ -4,8 +4,7 @@
 - tagged: `resources`
 - score: 2
 
-<p>Product hunt state that their API can't be used for commercial purposes. But do you think I could use it with asking for donations? Similar to <code>buy me a beer</code> buttons at blogs</p>
-
+Product hunt state that their API can't be used for commercial purposes. But do you think I could use it with asking for donations? Similar to `buy me a beer` buttons at blogs
 
 ## No Answers
 

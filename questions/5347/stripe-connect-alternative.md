@@ -4,10 +4,12 @@
 - tagged: `payment`, `service`, `merchant-services`
 - score: 1
 
-<p>I'm looking for an alternative to <a href="https://stripe.com/connect" rel="nofollow">Stripe Connect</a>, where I can allow clients of my business to accept payments from their customers. I know of Braintree, but from what I've seen they don't offer the ability to let customers who use my service to accept payments straight to their bank accounts.</p>
+I'm looking for an alternative to [Stripe Connect][1], where I can allow clients of my business to accept payments from their customers. I know of Braintree, but from what I've seen they don't offer the ability to let customers who use my service to accept payments straight to their bank accounts.
 
-<p>Thanks</p>
+Thanks
 
+
+  [1]: https://stripe.com/connect
 
 ## No Answers
 

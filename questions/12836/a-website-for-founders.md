@@ -4,8 +4,7 @@
 - tagged: `community`
 - score: 0
 
-<p>I have looked around on the web to find a website where I can get guidance on how to build a software product. A community where I can get tips on how to marked my product. Where I can test my idea and get in touch with other people in the same situation. Even find co-founders. Do such a website exist? Or something similar?</p>
-
+I have looked around on the web to find a website where I can get guidance on how to build a software product. A community where I can get tips on how to marked my product. Where I can test my idea and get in touch with other people in the same situation. Even find co-founders. Do such a website exist? Or something similar?
 
 
 ## Answer 12841

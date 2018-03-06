@@ -4,14 +4,13 @@
 - tagged: `funding`
 - score: 2
 
-<p>I have a Delaware C-Corp</p>
+I have a Delaware C-Corp
 
-<p>I want to raise one million Euros in an equity round at a X million Euros valuation. (European investors don't like convertible notes... No matter the amount, so it has to be an equity round)</p>
+I want to raise one million Euros in an equity round at a X million Euros valuation. (European investors don't like convertible notes... No matter the amount, so it has to be an equity round)
 
-<p>Is that even possible ? Can I legally have a price per share written in a non-US currency ?</p>
+Is that even possible ? Can I legally have a price per share written in a non-US currency ?
 
-<p>Thanks !</p>
-
+Thanks !
 
 
 ## Answer 11003
@@ -19,16 +18,13 @@
 - posted by: [Community](https://stackexchange.com/users/-1/community) on 2016-08-25
 - score: 2
 
-<blockquote>
-  <p>Can I legally have a price per share written in a non-US currency?</p>
-</blockquote>
+> Can I legally have a price per share written in a non-US currency?
 
-<p>You can trade your shares for dollars, euros, or even potatoes if you'd like -- it doesn't matter. What matters is you sell them for the market value and that you convert the value to USD on any filing with the IRS.</p>
+You can trade your shares for dollars, euros, or even potatoes if you'd like -- it doesn't matter. What matters is you sell them for the market value and that you convert the value to USD on any filing with the IRS.
 
-<p>The State of Delaware does not track how much you got for your shares. They only track the (mostly-meaningless) par value per share, and how many shares your corporation has the right to issue.</p>
+The State of Delaware does not track how much you got for your shares. They only track the (mostly-meaningless) par value per share, and how many shares your corporation has the right to issue.
 
-<p><strong>I am not a lawyer. This is not legal advice.</strong></p>
-
+**I am not a lawyer. This is not legal advice.**
 
 
 

@@ -4,15 +4,16 @@
 - tagged: `website`
 - score: 1
 
-<p>I'm interested in creating a new website (based off a long-dead mmo) that no longer exists. </p>
+I'm interested in creating a new website (based off a long-dead mmo) that no longer exists. 
 
-<p>Its a fan based site, with forums. </p>
+Its a fan based site, with forums. 
 
-<p>Are there any legal issues, or does this seem safe to do.  I've seen questions about similar theme's, but have been struggling to find an answer here.</p>
+Are there any legal issues, or does this seem safe to do.  I've seen questions about similar theme's, but have been struggling to find an answer here.
 
-<p>Was thinking about creating as close of a look as possible</p>
+Was thinking about creating as close of a look as possible
 
-<p>Thanks for the help</p>
+Thanks for the help
+
 
 
 
@@ -21,14 +22,13 @@
 - posted by: [Daniel Anderson](https://stackexchange.com/users/8398759/daniel-anderson) on 2016-10-31
 - score: 2
 
-<p>How much research have you done into the site you're talking about that went out of business?  It is always <em>possible</em> that someone still holds whatever rights/patents/copyrights that may have existed, and you could find yourself staring down the barrel of a lawsuit if you haven't done your due diligence.</p>
+How much research have you done into the site you're talking about that went out of business?  It is always *possible* that someone still holds whatever rights/patents/copyrights that may have existed, and you could find yourself staring down the barrel of a lawsuit if you haven't done your due diligence.
 
-<p>"Creating as close a look as possible" could run you afoul of laws that prohibit doing something to make your product or service "deceptively similar" to another company's, and just because a business is defunct doesn't mean the coast is legally clear.</p>
+"Creating as close a look as possible" could run you afoul of laws that prohibit doing something to make your product or service "deceptively similar" to another company's, and just because a business is defunct doesn't mean the coast is legally clear.
 
-<p>The worst possible scenario would be to put your new business together and have it take off, only to then have the owner(s) of the previous company come out of the woodwork with cease and desist orders or, worse yet, lawsuits alleging you ripped them off.</p>
+The worst possible scenario would be to put your new business together and have it take off, only to then have the owner(s) of the previous company come out of the woodwork with cease and desist orders or, worse yet, lawsuits alleging you ripped them off.
 
-<p>If you know the name of the site or company that went out of business then it would be well worth your while to spend some time digging into it to see if there's any record of who owns (or owned) it so you can contact them to find out whether they have an issue with you essentially copying their concept.  If possible, get them to provide you with something in writing on this too, because nothing beats having a signed document in the event this ends up in litigation.</p>
-
+If you know the name of the site or company that went out of business then it would be well worth your while to spend some time digging into it to see if there's any record of who owns (or owned) it so you can contact them to find out whether they have an issue with you essentially copying their concept.  If possible, get them to provide you with something in writing on this too, because nothing beats having a signed document in the event this ends up in litigation.
 
 
 

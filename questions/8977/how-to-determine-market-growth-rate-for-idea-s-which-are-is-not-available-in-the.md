@@ -4,30 +4,27 @@
 - tagged: `marketing`, `growth`, `market-research`, `market-size`
 - score: 3
 
-<p>For example, I have an app idea which allows users to receive digital receipts straight to there mobile device, eliminating the need for paper based receipts.</p>
+For example, I have an app idea which allows users to receive digital receipts straight to there mobile device, eliminating the need for paper based receipts.
 
-<p>I have calculated market size for my app which goes like so:</p>
+I have calculated market size for my app which goes like so:
 
-<pre><code>Market Size (Q) = n x q x p
-            (Q) = 23 million x 1 x 1.70
-            (Q) = £40 million
-</code></pre>
+    Market Size (Q) = n x q x p
+                (Q) = 23 million x 1 x 1.70
+                (Q) = £40 million
 
-<p>Now, I am trying to determine market growth. I have seen many approaches which calculate market growth like this (example):</p>
+Now, I am trying to determine market growth. I have seen many approaches which calculate market growth like this (example):
 
-<pre><code>market was £6.3 million in 2001 &amp; is £34 million in 2006 
+    market was £6.3 million in 2001 & is £34 million in 2006 
+    
+    34,000,000 - 6,300,000 = 27,700,000 
+    
+    (27,700,000/6,300,000) x 100 = 439.7% market growth
 
-34,000,000 - 6,300,000 = 27,700,000 
+But the thing is, I do not know what the market size will be in the future. I simply have the current market size and from that I need to determine market growth.
 
-(27,700,000/6,300,000) x 100 = 439.7% market growth
-</code></pre>
+Also, I understand my idea is not unique, but the gap I am exploiting is. I was thinking maybe I have to calculate the market size for my competitors and see the growth they have had between two different years. But that would involve me accessing data such as the indirect costs consumers pay etc. Data which will be hard to obtain.
 
-<p>But the thing is, I do not know what the market size will be in the future. I simply have the current market size and from that I need to determine market growth.</p>
-
-<p>Also, I understand my idea is not unique, but the gap I am exploiting is. I was thinking maybe I have to calculate the market size for my competitors and see the growth they have had between two different years. But that would involve me accessing data such as the indirect costs consumers pay etc. Data which will be hard to obtain.</p>
-
-<p>How do I calculate market growth rate for my scenario?</p>
-
+How do I calculate market growth rate for my scenario?
 
 
 ## Answer 8983
@@ -35,22 +32,21 @@
 - posted by: [fiprojects](https://stackexchange.com/users/5370155/fiprojects) on 2016-04-15
 - score: 2
 
-<p>I've searched but cannot find a similar question to this raised days (or a couple of weeks ago). I answered and suggested the product idea you have is not new (though that does not mean you should give up - the market offers us multiple choices when it comes to cars, phones, hotels, airlines etc and no reason why your product could not be considered equally or better than the competition).</p>
+I've searched but cannot find a similar question to this raised days (or a couple of weeks ago). I answered and suggested the product idea you have is not new (though that does not mean you should give up - the market offers us multiple choices when it comes to cars, phones, hotels, airlines etc and no reason why your product could not be considered equally or better than the competition).
 
-<p>However - your question has indeterminable answer - Too many variables exist. It sounds like you are trying to count your chickens before they've hatched... it's a waste of energy and time... best you figure out who might buy it, and how you will market it.</p>
+However - your question has indeterminable answer - Too many variables exist. It sounds like you are trying to count your chickens before they've hatched... it's a waste of energy and time... best you figure out who might buy it, and how you will market it.
 
-<p>Governments are trying to encourage demand worldwide, hungry to increase interest rates again, when they've used every tool in their tool box and even taken the heavy guns out, and they too cannot predict where markets and demand will grow this year, or even if they grow at all this decade. Japan for example has been in a recession for most of the past 20years despite even giving away free money to John and Jane Public at one point.</p>
+Governments are trying to encourage demand worldwide, hungry to increase interest rates again, when they've used every tool in their tool box and even taken the heavy guns out, and they too cannot predict where markets and demand will grow this year, or even if they grow at all this decade. Japan for example has been in a recession for most of the past 20years despite even giving away free money to John and Jane Public at one point.
 
-<p>As a result, your maths formula is speculative - whatever figure you get at the end, you cannot cross reference and prove if it was right or wrong. Comparison with history is not going to direct the present or the future.  Think where Nokia was in 2001 and where it is today? Then compare Apple to Android to Windows Phone and Blackberry. Modern devices that perform similar functions yet the first two pretty much own the market.</p>
+As a result, your maths formula is speculative - whatever figure you get at the end, you cannot cross reference and prove if it was right or wrong. Comparison with history is not going to direct the present or the future.  Think where Nokia was in 2001 and where it is today? Then compare Apple to Android to Windows Phone and Blackberry. Modern devices that perform similar functions yet the first two pretty much own the market.
 
-<p>Your formula cannot calculate demand, nor can it calculate the risks of another better product comming along and taking the traction away from yours.</p>
+Your formula cannot calculate demand, nor can it calculate the risks of another better product comming along and taking the traction away from yours.
 
-<p>Your figures also make assumption that many are willing to pay to download the app without competition or any consideration for brand recognition/trust.</p>
+Your figures also make assumption that many are willing to pay to download the app without competition or any consideration for brand recognition/trust.
 
-<p>Honestly... I would suggest you concentrate on the real world, research your best markets, and promote it there and hope.</p>
+Honestly... I would suggest you concentrate on the real world, research your best markets, and promote it there and hope.
 
-<p>Best of luck</p>
-
+Best of luck
 
 
 ## Answer 12896
@@ -58,8 +54,7 @@
 - posted by: [ac2000](https://stackexchange.com/users/11180943/ac2000) on 2017-06-23
 - score: 1
 
-<p>I would try to base your growth rate on a similar product or on an industry standard. For instance, what is the average growth rate for new apps? you could use that. But it's difficult and most of these things are based on a lot of assumptions. </p>
-
+I would try to base your growth rate on a similar product or on an industry standard. For instance, what is the average growth rate for new apps? you could use that. But it's difficult and most of these things are based on a lot of assumptions. 
 
 
 ## Answer 12898

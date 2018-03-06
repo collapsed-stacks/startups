@@ -4,9 +4,10 @@
 - tagged: `united-states`, `business-registration`
 - score: 5
 
-<p>I would like to get basic information about a business located in the state of Georgia, for verification purpose.</p>
+I would like to get basic information about a business located in the state of Georgia, for verification purpose.
 
-<p>Is there government website or credible third party website for such lookup which is publicly available?</p>
+Is there government website or credible third party website for such lookup which is publicly available?
+
 
 
 
@@ -15,13 +16,12 @@
 - posted by: [David Edelman](https://stackexchange.com/users/8335311/david-edelman) on 2016-05-06
 - score: 3
 
-<p>The first stop is typically the Secretary of State website. For any particular state, you can typically search "[NAME OF STATE] Secretary of State Business Search". A state may use slightly different terminology, but Google is smart enough to autosuggest you the right one. </p>
+The first stop is typically the Secretary of State website. For any particular state, you can typically search "[NAME OF STATE] Secretary of State Business Search". A state may use slightly different terminology, but Google is smart enough to autosuggest you the right one. 
 
-<p>Here is the link for the Georgia website: 
-<a href="https://ecorp.sos.ga.gov/BusinessSearch" rel="nofollow">https://ecorp.sos.ga.gov/BusinessSearch</a></p>
+Here is the link for the Georgia website: 
+https://ecorp.sos.ga.gov/BusinessSearch
 
-<p>To see if there are complaints, you can check out the Better Business Bureau website at <a href="http://www.bbb.org/" rel="nofollow">http://www.bbb.org/</a>. </p>
-
+To see if there are complaints, you can check out the Better Business Bureau website at http://www.bbb.org/. 
 
 
 

@@ -4,26 +4,25 @@
 - tagged: `tech-company`, `investors`, `lean-startup`, `pitch`
 - score: 8
 
-<p>My question today is about the dangers of pitching a business too often in the early stages of a company.</p>
+My question today is about the dangers of pitching a business too often in the early stages of a company.
 
-<p>I have always said that the only way to get better at pitching is just getting out there and pitching, so this question is ignoring the fact that pitching more often will improve your pitching ability in general.</p>
+I have always said that the only way to get better at pitching is just getting out there and pitching, so this question is ignoring the fact that pitching more often will improve your pitching ability in general.
 
-<p><strong>Question:</strong></p>
+**Question:**
 
-<p>What are some of the possible negative effects of pitching your business too often early in its life?</p>
+What are some of the possible negative effects of pitching your business too often early in its life?
 
-<hr>
+----------
 
-<p>I will start by bringing to light some of my possible thoughts. </p>
+I will start by bringing to light some of my possible thoughts. 
 
-<p>Pitching too early can give a less than stellar impression of your business and that if no significant changes happen by the next time you pitch some may think the business is stagnant.</p>
+Pitching too early can give a less than stellar impression of your business and that if no significant changes happen by the next time you pitch some may think the business is stagnant.
 
-<hr>
+----------
 
-<p>I am looking forward to hearing some of your thoughts on the disadvantages (and advantages) of pitching your business at events and to investors early in a startup's life.</p>
+I am looking forward to hearing some of your thoughts on the disadvantages (and advantages) of pitching your business at events and to investors early in a startup's life.
 
-<p>PS. I do not mean for this to be used as an excuse not to pitch, pitching is important but it is also important to pick your spots wisely.</p>
-
+PS. I do not mean for this to be used as an excuse not to pitch, pitching is important but it is also important to pick your spots wisely.
 
 
 ## Answer 9193
@@ -31,22 +30,21 @@
 - posted by: [Mowzer](https://stackexchange.com/users/1803081/mowzer) on 2016-05-15
 - score: 4
 
-<p>I don't think there are any drawbacks to pitching your business too early.</p>
+I don't think there are any drawbacks to pitching your business too early.
 
-<p>As you noted, the more often you pitch, the better you will become at it. And that can only help.</p>
+As you noted, the more often you pitch, the better you will become at it. And that can only help.
 
-<p>Here is another tip I learned from experience that I will pass along to you and anyone else reading this.</p>
+Here is another tip I learned from experience that I will pass along to you and anyone else reading this.
 
-<p><strong>Memorize</strong> your <strong><em>elevator pitch</em></strong>.</p>
+**Memorize** your ***elevator pitch***.
 
-<p>By elevator pitch, I mean a one to three sentence description of your business that anyone without any familiarity with your company can easily understand. This task is significantly more difficult than it sounds. Yet extremely powerful.</p>
+By elevator pitch, I mean a one to three sentence description of your business that anyone without any familiarity with your company can easily understand. This task is significantly more difficult than it sounds. Yet extremely powerful.
 
-<p>It requires you to distill the essence of your business into a few key, yet commonly understood words. Then, you need to practice speaking it <strong><em>out loud</em></strong>, repeatedly until your muscle memory kicks in and you no longer have to work to remember the words. And anytime someone asks you, <em>So what do you do?</em> You go into autopilot mode and kick in your muscle memory.</p>
+It requires you to distill the essence of your business into a few key, yet commonly understood words. Then, you need to practice speaking it ***out loud***, repeatedly until your muscle memory kicks in and you no longer have to work to remember the words. And anytime someone asks you, *So what do you do?* You go into autopilot mode and kick in your muscle memory.
 
-<p>If you, and you should, ever make sales calls pitching your business you need to do your elevator pitch immediately after introducing yourself and your company. Just before you state your purpose for making the phone call.</p>
+If you, and you should, ever make sales calls pitching your business you need to do your elevator pitch immediately after introducing yourself and your company. Just before you state your purpose for making the phone call.
 
-<p>This is a crucial skill set and asset you need to have at your fingertips.</p>
-
+This is a crucial skill set and asset you need to have at your fingertips.
 
 
 ## Answer 9245

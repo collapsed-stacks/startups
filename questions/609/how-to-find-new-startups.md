@@ -4,10 +4,12 @@
 - tagged: `resources`
 - score: 9
 
-<p>Looking for suggestions on how to find new startups. I have tried looking at a number of sources, for example, <a href="https://angel.co/companies">AngelList</a> - but there's a massive amount of orgs listed that are really do not appear to be startups; meaning that many just appear to be new businesses.</p>
+Looking for suggestions on how to find new startups. I have tried looking at a number of sources, for example, [AngelList][1] - but there's a massive amount of orgs listed that are really do not appear to be startups; meaning that many just appear to be new businesses.
 
-<p>What is the best single source for finding real new startups?</p>
+What is the best single source for finding real new startups?
 
+
+  [1]: https://angel.co/companies
 
 
 ## Answer 611

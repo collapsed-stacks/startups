@@ -4,8 +4,7 @@
 - tagged: `content`, `management`
 - score: 0
 
-<p>I have an e-learning website where I plan that users would organize the videos from youtube in a course structure. I would like to advertise the website with some courses on it, before launching. But with courses that have some quality. I have no idea where I can find a person that would organize this content, how much it costs and what is even the name of this kind of position. If somebody could help me with this information I would be glad.</p>
-
+I have an e-learning website where I plan that users would organize the videos from youtube in a course structure. I would like to advertise the website with some courses on it, before launching. But with courses that have some quality. I have no idea where I can find a person that would organize this content, how much it costs and what is even the name of this kind of position. If somebody could help me with this information I would be glad.
 
 ## No Answers
 

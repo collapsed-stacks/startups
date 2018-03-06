@@ -4,10 +4,9 @@
 - tagged: `legal`
 - score: 1
 
-<p>I'm considering making the work I've done on my experimental VTOL aircraft scale model prototype design public in return for sales of code predicting the performance of the novel means of propulsion in Python, CAD models, possible book royalties and speaking/lecture fees.
+I'm considering making the work I've done on my experimental VTOL aircraft scale model prototype design public in return for sales of code predicting the performance of the novel means of propulsion in Python, CAD models, possible book royalties and speaking/lecture fees.
 I have estimated an idealized lift to weight ratio of 1.6:1 but I have not built and tested a scale model prototype.
-What are your thoughts?</p>
-
+What are your thoughts?
 
 ## No Answers
 

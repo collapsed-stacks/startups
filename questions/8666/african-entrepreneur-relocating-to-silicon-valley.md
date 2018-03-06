@@ -4,12 +4,11 @@
 - tagged: `tech-company`, `united-states`, `fundraising`, `silicon-valley`
 - score: 1
 
-<p>I am a little curious here. I really want to know if an African Entrepreneur can relocate to the United State to start a tech company in Silicon Valley. What are the steps to be taken to achieve this?</p>
+I am a little curious here. I really want to know if an African Entrepreneur can relocate to the United State to start a tech company in Silicon Valley. What are the steps to be taken to achieve this?
 
-<p><strong>Narrow Down</strong></p>
+**Narrow Down**
 
-<p>I am building an application. I am thinking if relocation can help my application become more acceptable worldwide, also if there will be easy accessibility to resources (funds, enabling environment etc). </p>
-
+I am building an application. I am thinking if relocation can help my application become more acceptable worldwide, also if there will be easy accessibility to resources (funds, enabling environment etc). 
 
 ## No Answers
 

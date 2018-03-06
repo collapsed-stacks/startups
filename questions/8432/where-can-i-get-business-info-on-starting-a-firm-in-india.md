@@ -4,10 +4,9 @@
 - tagged: `india`
 - score: 2
 
-<p>If I have to startup a firm, is there any website or any course which gives information about the business and commercial aspects of a startup?</p>
+If I have to startup a firm, is there any website or any course which gives information about the business and commercial aspects of a startup?
 
-<p>For eg., I would like to know what taxes will I be charged with, paperwork and licensing involved, permits etc.</p>
-
+For eg., I would like to know what taxes will I be charged with, paperwork and licensing involved, permits etc.
 
 
 ## Answer 8470
@@ -15,16 +14,13 @@
 - posted by: [VipinS](https://stackexchange.com/users/3685876/vipins) on 2016-02-05
 - score: 4
 
-<p>For Starting up a firm in India. First thing you have to register your company in MCA (<strong>M</strong>inistry of <strong>C</strong>orporate <strong>A</strong>ffairs). <br />For Start up, people prefer mainly two type of Company Registration .</p>
+For Starting up a firm in India. First thing you have to register your company in MCA (**M**inistry of **C**orporate **A**ffairs). <br />For Start up, people prefer mainly two type of Company Registration .
 
-<ol>
-<li>Proprietorship (Sole Owner) </li>
-<li>Partnership</li>
-<li>Private limited</li>
-</ol>
+ 1. Proprietorship (Sole Owner) 
+ 2. Partnership
+ 3. Private limited
 
-<p>After that you will be allowed to Open TAN Account.For More Details refer <a href="http://www.mca.gov.in/" rel="nofollow">http://www.mca.gov.in/</a></p>
-
+After that you will be allowed to Open TAN Account.For More Details refer http://www.mca.gov.in/
 
 
 

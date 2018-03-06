@@ -4,14 +4,13 @@
 - tagged: `tech-company`, `business-model`, `strategy`
 - score: 2
 
-<p>I am interested in building a service which can be remotely compared to Skyscanner. I would like to understand following things --</p>
+I am interested in building a service which can be remotely compared to Skyscanner. I would like to understand following things --
 
-<p>a) Considering calling every hotel or car hiring company to join their network is very expensive and non scalable how does Skyscanner manage to build their inventory?</p>
+a) Considering calling every hotel or car hiring company to join their network is very expensive and non scalable how does Skyscanner manage to build their inventory?
 
-<p>b) How does Skyscanner ensure their inventory data is not stale(some listed hotels may not be in business or might have already booked all rooms) or how does Skyscanner and their partners remain in sync</p>
+b) How does Skyscanner ensure their inventory data is not stale(some listed hotels may not be in business or might have already booked all rooms) or how does Skyscanner and their partners remain in sync
 
-<p>c) How does Skyscanner make money?</p>
-
+c) How does Skyscanner make money?
 
 
 ## Answer 6199
@@ -39,9 +38,8 @@ d) So why does not everyone start such a business? Because they are very expensi
 - posted by: [Sam](https://stackexchange.com/users/9611717/sam) on 2016-11-09
 - score: 1
 
-<p>This is the core team who developed skyscanner. Just check their home page for the story. They used web scrapping to fetch data on a real time basis from different sites.
-<a href="http://orderofcode.com/portfolios/web-scraping/" rel="nofollow noreferrer">http://orderofcode.com/portfolios/web-scraping/</a></p>
-
+This is the core team who developed skyscanner. Just check their home page for the story. They used web scrapping to fetch data on a real time basis from different sites.
+http://orderofcode.com/portfolios/web-scraping/
 
 
 ## Answer 6200

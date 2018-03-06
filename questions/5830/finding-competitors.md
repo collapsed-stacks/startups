@@ -4,14 +4,13 @@
 - tagged: `business-plan`, `idea`, `pitch`
 - score: 4
 
-<p>I am trying to find who my competitors are. Last couple days we were trying to find someone with at least similar idea but it really seems that no one really does what we do.</p>
+I am trying to find who my competitors are. Last couple days we were trying to find someone with at least similar idea but it really seems that no one really does what we do.
 
-<p>We are also applying into YC Fellowship Program. What I am trying to ask you is what should I answer to this question?</p>
+We are also applying into YC Fellowship Program. What I am trying to ask you is what should I answer to this question?
 
-<p><strong>Who are your competitors, and what do you understand about your business that other companies in it just don't get?</strong></p>
+**Who are your competitors, and what do you understand about your business that other companies in it just don't get?**
 
-<p>Answering simply: "We are the only who does it" seems very untrue. Somewhere out there is sure anyone working on our idea but we simply did not find them.</p>
-
+Answering simply: "We are the only who does it" seems very untrue. Somewhere out there is sure anyone working on our idea but we simply did not find them.
 
 
 ## Answer 5831
@@ -19,13 +18,13 @@
 - posted by: [adrianh](https://stackexchange.com/users/7553/adrianh) on 2015-07-25
 - score: 5
 
-<p>Look for who/what is solving your customers' pain points / needs now, not people who are working on your idea.</p>
+Look for who/what is solving your customers' pain points / needs now, not people who are working on your idea.
 
-<p>The competition for Uber isn't other folk doing the rental-economy-thing with cars. It's taxis, busses, subways, trains, car rentals, zipcar, etc. The pain point is just-in-time transportation.</p>
+The competition for Uber isn't other folk doing the rental-economy-thing with cars. It's taxis, busses, subways, trains, car rentals, zipcar, etc. The pain point is just-in-time transportation.
 
-<p>You're product solves some kind of customer need/pain. They are already alleviating that pain in various ways. </p>
+You're product solves some kind of customer need/pain. They are already alleviating that pain in various ways. 
 
-<p>That's your competition.</p>
+That's your competition.
 
 
 

@@ -4,30 +4,28 @@
 - tagged: `entrepreneurship`, `time-management`, `programmers`
 - score: 7
 
-<p><strong>Take the following scenario;</strong></p>
+**Take the following scenario;**
 
-<p><em>You are a solo entrepreneur with two years of programming experience in C# but with no knowledge of using Source Control.
-You have an idea to develop a product for small businesses and currently only have a small budget.</em></p>
+*You are a solo entrepreneur with two years of programming experience in C# but with no knowledge of using Source Control.
+You have an idea to develop a product for small businesses and currently only have a small budget.*
 
-<blockquote>
-  <p><strong>Would it beneficial to use source control software such as Git in this
-  situation or are the advantages of using a service like this only fully
-  optimized when dealing with a team of developers?</strong></p>
-</blockquote>
+> **Would it beneficial to use source control software such as Git in this
+> situation or are the advantages of using a service like this only fully
+> optimized when dealing with a team of developers?**
 
-<p>Source control, like all new things, takes time and a potentially steep learning curves to master. There are a number of open source software's that can be used which can minimize cost but as the old saying goes, "Time is money". </p>
+Source control, like all new things, takes time and a potentially steep learning curves to master. There are a number of open source software's that can be used which can minimize cost but as the old saying goes, "Time is money". 
 
-<p>Although new to the entrepreneurial scene, one areas that I have seen that is given a lot of emphasis is the time at which you take your product to market.</p>
+Although new to the entrepreneurial scene, one areas that I have seen that is given a lot of emphasis is the time at which you take your product to market.
 
-<blockquote>
-  <p><strong>Could taking on the task of adding source control potentially mean you
-  spend less time on developing and fine tuning your product and
-  therefore miss your best opportunity to go to market?</strong></p>
-  
-  <p><strong>What are the Pros and Cons of using source control in this situation?</strong></p>
-</blockquote>
+> **Could taking on the task of adding source control potentially mean you
+> spend less time on developing and fine tuning your product and
+> therefore miss your best opportunity to go to market?**
+> 
+> 
+> **What are the Pros and Cons of using source control in this situation?**
 
-<p>Any personal experience or suggestions would be much appreciated. </p>
+Any personal experience or suggestions would be much appreciated. 
+
 
 
 
@@ -36,33 +34,26 @@ You have an idea to develop a product for small businesses and currently only ha
 - posted by: [afaf12](https://stackexchange.com/users/399142/afaf12) on 2015-03-06
 - score: 8
 
-<p>Advantages of using version control are fully utilized when many people work on the same project, that is right. However, From my experience, it is definitely worth it even when working alone. The time spent on learning the basics of Git is regained fast, and you end up with saved time, and some additional benefits.</p>
+Advantages of using version control are fully utilized when many people work on the same project, that is right. However, From my experience, it is definitely worth it even when working alone. The time spent on learning the basics of Git is regained fast, and you end up with saved time, and some additional benefits.
 
-<p><strong>Pros:</strong></p>
+**Pros:**
 
-<ul>
-<li>Easy to set up, I estimate 1-3 hours for you to learn the basics and start using version control in your own project.</li>
-<li>Source control disciplines you.</li>
-<li>Finding out why some functionality "broke" is much easier, you can track it down to a
-specific revision of your software.</li>
-<li>Backups. I do, however, also suggest using GitHub (or even DropBox or Google Drive) to have remote backups, in case your local PC breaks.</li>
-</ul>
+ - Easy to set up, I estimate 1-3 hours for you to learn the basics and start using version control in your own project.
+ - Source control disciplines you.
+ - Finding out why some functionality "broke" is much easier, you can track it down to a
+   specific revision of your software.
+ - Backups. I do, however, also suggest using GitHub (or even DropBox or Google Drive) to have remote backups, in case your local PC breaks.
 
-<p>Following Pros apply when GitHub is used:</p>
+Following Pros apply when GitHub is used:
 
-<ul>
-<li>supports issue tracking.</li>
-<li>an easy way to have a remote backup server</li>
-<li>Cheap, plan costing 7$/month gives you 5 private repositories</li>
-<li>You can work from different computers. Work on computer A, commit your changes, then work from a different location on computer B.</li>
-</ul>
+ - supports issue tracking.
+ - an easy way to have a remote backup server
+ - Cheap, plan costing 7$/month gives you 5 private repositories
+ - You can work from different computers. Work on computer A, commit your changes, then work from a different location on computer B.
 
-<p><strong>Cons:</strong></p>
+**Cons:**
 
-<ul>
-<li>Takes some time to learn.</li>
-</ul>
-
+ - Takes some time to learn.
 
 
 ## Answer 3649
@@ -70,15 +61,17 @@ specific revision of your software.</li>
 - posted by: [adrianh](https://stackexchange.com/users/7553/adrianh) on 2015-03-07
 - score: 7
 
-<p>I'm going to try and pull out some business reasons for adopting source control, rather than focus on the technical goodness:</p>
+I'm going to try and pull out some business reasons for adopting source control, rather than focus on the technical goodness:
 
-<ul>
-<li><p><strong>It reduces time to market.</strong> As others have pointed out it makes moving back out of mistakes much easier. As others have pointed out it makes finding bugs simpler. For much the same reasons it makes making trying experiments with the code much easier too. You can try something and trivially change your mind with zero risk of you missing something and fouling up your codebase. All this together means you can move faster and deliver earlier.</p></li>
-<li><p><strong>Basic business safety.</strong> Having everything in hosted source control helps solve your backup / business safety issues. The lack can actually affect business insurance payout stuff (via the same sort of basic precaution clauses that mean you don't get payouts for theft if you forget to switch the alarm on and leave the doors unlocked). </p></li>
-<li><p><strong>Helps with legal claims.</strong> Having everything in source control, tracked, backed up, etc. is a safety net in the unlikely event of claims of IP theft, etc. It's an auditable record of what you did and when.</p></li>
-<li><p><strong>It makes it easier to scale your team.</strong> At some point you're going to need to pull in other developers. At that point source control is vital for folk to work together effectively. So you're going to want to be proficient before you hit that point.</p></li>
-<li><p><strong>It will help developer recruitment.</strong> Not having source control is going to make you appear unprofessional when recruiting. For many people (myself included) source control is at the "washing hands before food prep" level of basic practices. Back in the day when I did contract dev work one of the first questions would have been about looking at your repository. The absence of one generally have me disengaging from the client because if they're not doing the basics right…</p></li>
-</ul>
+* **It reduces time to market.** As others have pointed out it makes moving back out of mistakes much easier. As others have pointed out it makes finding bugs simpler. For much the same reasons it makes making trying experiments with the code much easier too. You can try something and trivially change your mind with zero risk of you missing something and fouling up your codebase. All this together means you can move faster and deliver earlier.
+
+* **Basic business safety.** Having everything in hosted source control helps solve your backup / business safety issues. The lack can actually affect business insurance payout stuff (via the same sort of basic precaution clauses that mean you don't get payouts for theft if you forget to switch the alarm on and leave the doors unlocked). 
+
+* **Helps with legal claims.** Having everything in source control, tracked, backed up, etc. is a safety net in the unlikely event of claims of IP theft, etc. It's an auditable record of what you did and when.
+
+* **It makes it easier to scale your team.** At some point you're going to need to pull in other developers. At that point source control is vital for folk to work together effectively. So you're going to want to be proficient before you hit that point.
+
+* **It will help developer recruitment.** Not having source control is going to make you appear unprofessional when recruiting. For many people (myself included) source control is at the "washing hands before food prep" level of basic practices. Back in the day when I did contract dev work one of the first questions would have been about looking at your repository. The absence of one generally have me disengaging from the client because if they're not doing the basics right…
 
 
 
@@ -107,16 +100,15 @@ specific revision of your software.</li>
 - posted by: [Nero](https://stackexchange.com/users/1705837/nero) on 2015-03-06
 - score: 3
 
-<p>In my opinion, you should always use a version control system when developing serious projects. Of course, the total power of version control systems is only used when working with two or more people, but it is still worth using one as a sole developer.</p>
+In my opinion, you should always use a version control system when developing serious projects. Of course, the total power of version control systems is only used when working with two or more people, but it is still worth using one as a sole developer.
 
-<p>Yes, of course it adds a little bit of overhead to commit the changes to the system, but even for beginners it is not hard to learn how to do that and does not cost much time. And it becomes super easy when using some tool with a GUI to commit the changes.</p>
+Yes, of course it adds a little bit of overhead to commit the changes to the system, but even for beginners it is not hard to learn how to do that and does not cost much time. And it becomes super easy when using some tool with a GUI to commit the changes.
 
-<p>And this little time is spent well when considering the following: You started implementing the new super-awesome feature X, but after say two and a half days you notice that you made a fundamental mistake or that the feature can not be built entirely or something broke, or whatever. Now you want to go back in time. Ctrl/Cmd-z is nice for a few lines but now, without a version control system you have to manually revert everything. Doing this once costs much more time than using version control and is more prone to mistakes.</p>
+And this little time is spent well when considering the following: You started implementing the new super-awesome feature X, but after say two and a half days you notice that you made a fundamental mistake or that the feature can not be built entirely or something broke, or whatever. Now you want to go back in time. Ctrl/Cmd-z is nice for a few lines but now, without a version control system you have to manually revert everything. Doing this once costs much more time than using version control and is more prone to mistakes.
 
-<p>I once developed an important small to medium size project without a version control system because none was available without asking the administrator to install one and filling out paper stuff and so on. I ended up with a ton of backup-save-files of the whole project and it really was a mess, especially after trying to go back in time. I wish I had asked for a Git.</p>
+I once developed an important small to medium size project without a version control system because none was available without asking the administrator to install one and filling out paper stuff and so on. I ended up with a ton of backup-save-files of the whole project and it really was a mess, especially after trying to go back in time. I wish I had asked for a Git.
 
-<p>So: Use some version control system and (especially as beginner) get some help from a program providing a nice GUI to the system. Personally, I use SourceTree and Git on my Mac for a long time now and I'm very happy with this combination.</p>
-
+So: Use some version control system and (especially as beginner) get some help from a program providing a nice GUI to the system. Personally, I use SourceTree and Git on my Mac for a long time now and I'm very happy with this combination.
 
 
 ## Answer 3645
@@ -124,8 +116,7 @@ specific revision of your software.</li>
 - posted by: [mikeatlarge](https://stackexchange.com/users/5898883/mikeatlarge) on 2015-03-07
 - score: 1
 
-<p>It's also useful for archival purposes. When a project is current and fresh in your mind you might inherently know what you did when and why you did it. But if you have to go back and revisit an old project years later--either for support or other reasons--a version control system can make it a lot easier to get back up to speed.</p>
-
+It's also useful for archival purposes. When a project is current and fresh in your mind you might inherently know what you did when and why you did it. But if you have to go back and revisit an old project years later--either for support or other reasons--a version control system can make it a lot easier to get back up to speed.
 
 
 

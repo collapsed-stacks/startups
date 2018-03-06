@@ -4,12 +4,11 @@
 - tagged: `funding`, `intellectual-property`, `venture-capital`, `angel-investors`, `patent`
 - score: 2
 
-<p>I have an idea for startup, which is a new machine learning algorithm which can be used across the spectrum of ML market, where I have worked out all the math and mathematical proofs. The business includes implementing it in software, or designing GPU's and powering the all the applications of machine learning. You cannot patent a ML algorithm on its own, but you need to tie up with an market application and the race begins to apply it on a wide range of applications and start filing patents across the world. This would be a strong case for a startup to launch itself in a big way and be disruptive.</p>
+I have an idea for startup, which is a new machine learning algorithm which can be used across the spectrum of ML market, where I have worked out all the math and mathematical proofs. The business includes implementing it in software, or designing GPU's and powering the all the applications of machine learning. You cannot patent a ML algorithm on its own, but you need to tie up with an market application and the race begins to apply it on a wide range of applications and start filing patents across the world. This would be a strong case for a startup to launch itself in a big way and be disruptive.
 
-<p>My question is, how can I get initial venture funding and seed funding? How can I hope to convince the investors. What kind of investors I should target, who can understand and believe in such an idea? (I cannot start on my own as I am penniless.)</p>
+My question is, how can I get initial venture funding and seed funding? How can I hope to convince the investors. What kind of investors I should target, who can understand and believe in such an idea? (I cannot start on my own as I am penniless.)
 
-<p>I neither have any publications nor any achievements to make an impression before hand, (but have filed a couple of patents in a non-related topic) so I am counting on to atleast get to explain them and hope they understand the mathematical idea and its significance to Machine learning. What is the best way to atleast get to meet and discuss with an investor who is atleast remotely interested in this idea.</p>
-
+I neither have any publications nor any achievements to make an impression before hand, (but have filed a couple of patents in a non-related topic) so I am counting on to atleast get to explain them and hope they understand the mathematical idea and its significance to Machine learning. What is the best way to atleast get to meet and discuss with an investor who is atleast remotely interested in this idea.
 
 
 ## Answer 12918

@@ -4,21 +4,18 @@
 - tagged: `business-plan`
 - score: 2
 
-<p>We're developing a service application. After delivering the service, our service provider will have to generate the invoice and collect the amount, a copy of which will be sent to the customer. We get a percentage of the invoice amount as commission.</p>
+We're developing a service application. After delivering the service, our service provider will have to generate the invoice and collect the amount, a copy of which will be sent to the customer. We get a percentage of the invoice amount as commission.
 
-<p>According to our business strategy, sometimes the customer may need to pay the cash and some times the service provider. </p>
+According to our business strategy, sometimes the customer may need to pay the cash and some times the service provider. 
 
-<p>As our service providers would be less learned people, we also want to make it flexible for the service providers so they are able to update the invoice. Of course the invoice history is saved and visible to the service provider.</p>
+As our service providers would be less learned people, we also want to make it flexible for the service providers so they are able to update the invoice. Of course the invoice history is saved and visible to the service provider.
 
-<p><strong>Now the problem:</strong></p>
+**Now the problem:**
 
-<ol>
-<li>It may be possible for the service provider to update the invoice and reduce the total amount so that he needs to pay less commission.</li>
-<li>We could prevent this problem by asking the customer to accept the invoice. When he does it, we could freeze the invoice. But again, why would the customer really bother to do it when he has payed the amount?</li>
-</ol>
+1. It may be possible for the service provider to update the invoice and reduce the total amount so that he needs to pay less commission.
+2. We could prevent this problem by asking the customer to accept the invoice. When he does it, we could freeze the invoice. But again, why would the customer really bother to do it when he has payed the amount?
 
-<p>Any thoughts here?</p>
-
+Any thoughts here?
 
 
 ## Answer 8548

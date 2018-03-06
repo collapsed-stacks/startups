@@ -4,20 +4,23 @@
 - tagged: `legal`, `software`, `open-source`
 - score: 3
 
-<p>I am creating a web app which uses <a href="https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html" rel="nofollow">W3C/Google Speech-To-Text and Text-To-Speech</a> (<a href="https://www.google.com/intl/en/chrome/demos/speech.html" rel="nofollow">Google Demo of their technology here</a>). I shared the progress with some developers who mentioned I should be wary of the acceptable use policy.</p>
+I am creating a web app which uses [W3C/Google Speech-To-Text and Text-To-Speech][1] ([Google Demo of their technology here][2]). I shared the progress with some developers who mentioned I should be wary of the acceptable use policy.
 
-<p>I plan on monetizing my app at some point, and am worried that using this W3C/Google technology I will be relinquishing some rights to my own software... or will be forced to make it open source or something.</p>
+I plan on monetizing my app at some point, and am worried that using this W3C/Google technology I will be relinquishing some rights to my own software... or will be forced to make it open source or something.
 
-<p>On the W3C specs page, (<a href="https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html" rel="nofollow">https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html</a>), there is a "Status Of This Document" section, which has links to the Final Specification Agreement (www.w3.org/community/about/agreements/final/), but they state "It is not a W3C Standard nor is it on the W3C Standards Track", so am not sure if those rules apply?</p>
+On the W3C specs page, (https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html), there is a "Status Of This Document" section, which has links to the Final Specification Agreement (www.w3.org/community/about/agreements/final/), but they state "It is not a W3C Standard nor is it on the W3C Standards Track", so am not sure if those rules apply?
 
-<p>The W3C document also provides no references back to Google, so I am unsure if there are some Google agreements I may be implicitly agreeing to.</p>
+The W3C document also provides no references back to Google, so I am unsure if there are some Google agreements I may be implicitly agreeing to.
 
-<p><strong>So my question is:</strong> What implicit usage rules are typical in free software, especially software that is collaborated on between 2 or more groups/companies. For example, I wasn't able to find a "Google &amp; W3C Terms and Conditions for Speech Technology" doc.</p>
+**So my question is:** What implicit usage rules are typical in free software, especially software that is collaborated on between 2 or more groups/companies. For example, I wasn't able to find a "Google & W3C Terms and Conditions for Speech Technology" doc.
 
-<p>I just find it hard to believe that so much work went in to creating their speech technology (recording narrations, algorithms for understanding/interpreting speech, etc), that I wouldn't be giving up some rights by using their software. </p>
+I just find it hard to believe that so much work went in to creating their speech technology (recording narrations, algorithms for understanding/interpreting speech, etc), that I wouldn't be giving up some rights by using their software. 
 
-<p>I'd just like to fully understand what I am agreeing to by using this.</p>
+I'd just like to fully understand what I am agreeing to by using this.
 
+
+  [1]: https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html
+  [2]: https://www.google.com/intl/en/chrome/demos/speech.html
 
 
 ## Answer 7640

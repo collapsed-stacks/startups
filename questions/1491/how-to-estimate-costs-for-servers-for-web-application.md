@@ -4,12 +4,11 @@
 - tagged: `business-plan`, `startup-costs`
 - score: 6
 
-<p>Maybe I can find some answers here. How would you estimate costs for a<br>
-business plan in context of a web application that is running on a cloud?</p>
+Maybe I can find some answers here. How would you estimate costs for a  
+business plan in context of a web application that is running on a cloud?
 
-<p>Problem is I do not know how the application will technically perform, we have<br>
-no prototype yet. At one point we will need to scale...</p>
-
+Problem is I do not know how the application will technically perform, we have  
+no prototype yet. At one point we will need to scale...
 
 
 ## Answer 1493

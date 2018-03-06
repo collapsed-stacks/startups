@@ -4,12 +4,11 @@
 - tagged: `startup-costs`, `financing`, `accounting`, `contracts`, `co-founder`
 - score: 3
 
-<p>I'm co-founder and CEO of a startup together with 2 other partners (we respectively own 1/3 of the company each). We have already registered the company and signed a shareholders agreement.</p>
+I'm co-founder and CEO of a startup together with 2 other partners (we respectively own 1/3 of the company each). We have already registered the company and signed a shareholders agreement.
 
-<p>However,one of the founders is proving financial resources for paying some expenses (e.g. Accountant fees,cost for brand registration) while we are finishing the launch of the company website.We agreed he would have received the money back (we are taking track of all the payments) when the company will start (hopefully) to get incomes or in the unfortunate case of bankrupt (from the liquidation).</p>
+However,one of the founders is proving financial resources for paying some expenses (e.g. Accountant fees,cost for brand registration) while we are finishing the launch of the company website.We agreed he would have received the money back (we are taking track of all the payments) when the company will start (hopefully) to get incomes or in the unfortunate case of bankrupt (from the liquidation).
 
-<p>Since I would like to formalize this agreement with another document, could anybody please tell me where I can find a template to create a document for the specific case reported above?</p>
-
+Since I would like to formalize this agreement with another document, could anybody please tell me where I can find a template to create a document for the specific case reported above?
 
 
 ## Answer 3947
@@ -30,8 +29,7 @@
 - posted by: [Dendi Suhubdy](https://stackexchange.com/users/4264924/dendi-suhubdy) on 2016-03-23
 - score: 0
 
-<p>I'm a serial entrepreneur and the time I started my first company I really just used excel because simplicity is beautiful. In case you want a template this would help <a href="https://drive.google.com/previewtemplate?id=0Ak7JTr_5ZgQBdDFzeWVXSkNaLWhTcEd6dVhhdWIzdXc&amp;mode=public&amp;ddrp=1#" rel="nofollow">https://drive.google.com/previewtemplate?id=0Ak7JTr_5ZgQBdDFzeWVXSkNaLWhTcEd6dVhhdWIzdXc&amp;mode=public&amp;ddrp=1#</a>, or if you are willing to make pro expense tracking try some expense tracking software such as www.xero.com.</p>
-
+I'm a serial entrepreneur and the time I started my first company I really just used excel because simplicity is beautiful. In case you want a template this would help https://drive.google.com/previewtemplate?id=0Ak7JTr_5ZgQBdDFzeWVXSkNaLWhTcEd6dVhhdWIzdXc&mode=public&ddrp=1#, or if you are willing to make pro expense tracking try some expense tracking software such as www.xero.com.
 
 
 

@@ -4,14 +4,13 @@
 - tagged: `funding`, `hiring`, `management`, `human-resources`, `ceo`
 - score: 7
 
-<p>I have established a business in the online gaming space. The business is new though somewhat known.</p>
+I have established a business in the online gaming space. The business is new though somewhat known.
 
-<p>All google searches in the ballpark of finding partners for startups have resulted in dead ends.</p>
+All google searches in the ballpark of finding partners for startups have resulted in dead ends.
 
-<p>How/Where can I find an experienced CEO to partner with and take this business all the way through funding and most likely the first few years. </p>
+How/Where can I find an experienced CEO to partner with and take this business all the way through funding and most likely the first few years. 
 
-<p>Any suggestions would truly help. Thanks</p>
-
+Any suggestions would truly help. Thanks
 
 
 ## Answer 7786

@@ -4,7 +4,7 @@
 - tagged: `llc`, `delaware`, `shares`
 - score: 1
 
-<p>The LLC and Common Shares Subscription Agreement both have a requirement that parties entering in this agreement are "accredited investor" based on rule 501(a) under the 1933 Act. I don't qualify based on the net worth or income record. What are some options I could pursue to become accredited?</p>
+The LLC and Common Shares Subscription Agreement both have a requirement that parties entering in this agreement are "accredited investor" based on rule 501(a) under the 1933 Act. I don't qualify based on the net worth or income record. What are some options I could pursue to become accredited?
 
 
 
@@ -13,14 +13,13 @@
 - posted by: [DonQuiKong](https://stackexchange.com/users/9739821/donquikong) on 2016-12-19
 - score: 2
 
-<p>That rule exists to protect you from exactly this kind of investment. There might be ways around it easier than "found a bank" (yeah, that should work though).</p>
+That rule exists to protect you from exactly this kind of investment. There might be ways around it easier than "found a bank" (yeah, that should work though).
 
-<p>But the rule applies if the company you are investing in does not register sufficient securities for the investment, meaning you could lose your investment in full (maybe more depending on the contract?). </p>
+But the rule applies if the company you are investing in does not register sufficient securities for the investment, meaning you could lose your investment in full (maybe more depending on the contract?). 
 
-<p>If you really want to get around this, please contact an attorney to help you with the legal reulations AND make sure you are properly protected at least against losing more than your investment.</p>
+If you really want to get around this, please contact an attorney to help you with the legal reulations AND make sure you are properly protected at least against losing more than your investment.
 
-<p>If you are not willing to pay for legal advise then either your investment is so small that not making it shouldn't be too bad or you are investing more than you should be and this rule is actually protecting you.</p>
-
+ If you are not willing to pay for legal advise then either your investment is so small that not making it shouldn't be too bad or you are investing more than you should be and this rule is actually protecting you.
 
 
 

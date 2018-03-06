@@ -4,8 +4,7 @@
 - tagged: `business-plan`, `business-model`
 - score: -1
 
-<p>I have managed to find a team of 4-5 developers including myself(Eastern Europe). My goal is to develop applications for business intelligence.How to find partners in Europe,company that already has experience in this field(BI)?I have tried with linkedin,but not much success so far(probably because I have worked in academia last 10 years).Where should I look now?</p>
-
+I have managed to find a team of 4-5 developers including myself(Eastern Europe). My goal is to develop applications for business intelligence.How to find partners in Europe,company that already has experience in this field(BI)?I have tried with linkedin,but not much success so far(probably because I have worked in academia last 10 years).Where should I look now?
 
 
 ## Answer 13282
@@ -13,10 +12,9 @@
 - posted by: [Matiss](https://stackexchange.com/users/1819512/matiss) on 2017-09-03
 - score: 1
 
-<p>Networking in local events is probably a good start - conferences, meetups and such. Try IPExpo near your location. I do recommend you continue with Linkedin and similar sites as well. Perhaps, look for and join a Slack community directly related to what you are doing.</p>
+Networking in local events is probably a good start - conferences, meetups and such. Try IPExpo near your location. I do recommend you continue with Linkedin and similar sites as well. Perhaps, look for and join a Slack community directly related to what you are doing.
 
-<p>It might be that you need to work a bit more on how you reach out to these people, polish your "pitch" so to say.</p>
-
+It might be that you need to work a bit more on how you reach out to these people, polish your "pitch" so to say.
 
 
 

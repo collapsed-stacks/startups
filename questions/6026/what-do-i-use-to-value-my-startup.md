@@ -4,21 +4,21 @@
 - tagged: `valuation`
 - score: 11
 
-<p>I'm looking for parameters and approach on how to value my startup, not the actual number.  This is in US but not in Silicon Valey where things are... different.</p>
+I'm looking for parameters and approach on how to value my startup, not the actual number.  This is in US but not in Silicon Valey where things are... different.
 
-<p>In 2010 I've created a niche SaaS cloud-based enterprise software product.  Product got some attention in the industry, but generally it was not very good and I never could even afford to quit my day job to run it full time.  At its best days it was generating $15k/MRR.  I've had contractors help me maintain it.  But overall, the product was going nowhere.  It was poorly constructed, looked like crap, poorly scaled for large customers, and was branded too narrowly.</p>
+In 2010 I've created a niche SaaS cloud-based enterprise software product.  Product got some attention in the industry, but generally it was not very good and I never could even afford to quit my day job to run it full time.  At its best days it was generating $15k/MRR.  I've had contractors help me maintain it.  But overall, the product was going nowhere.  It was poorly constructed, looked like crap, poorly scaled for large customers, and was branded too narrowly.
 
-<p>A year ago, I finally decided to get very serious about my business.  I figured since I learned so many lessons, talked to so many customers, gathered contacts in the industry, assembled an email list of 3000+ very relevant signups, understood so much more, I would do well by making another attempt at this.  </p>
+A year ago, I finally decided to get very serious about my business.  I figured since I learned so many lessons, talked to so many customers, gathered contacts in the industry, assembled an email list of 3000+ very relevant signups, understood so much more, I would do well by making another attempt at this.  
 
-<p>I decided to replatform, redesign, and rebrand.  Since I saved up a bunch of cash when I was earning double/triple salary, I've hired a good contractor team to help me build a new product.</p>
+I decided to replatform, redesign, and rebrand.  Since I saved up a bunch of cash when I was earning double/triple salary, I've hired a good contractor team to help me build a new product.
 
-<p>Result after 9-10 months of very hard work: new product is beatiful; works very well; scales nicely; and is architected for rapid growth.  It offers a ton of great enterprise features and is very well received by customers who try it.  I'm currently signing up 2 paid customers a week with doing only tiny little bit of SEO and once a month sending a newsletter to my 3.5k mailing list.  My average MRR for single customer is about $200-250/mo (I expect it to be rising to $300-400/mo with time).  My product is decently sticky.  I expect customers to be hanging around for 2-3yrs, on the average.</p>
+Result after 9-10 months of very hard work: new product is beatiful; works very well; scales nicely; and is architected for rapid growth.  It offers a ton of great enterprise features and is very well received by customers who try it.  I'm currently signing up 2 paid customers a week with doing only tiny little bit of SEO and once a month sending a newsletter to my 3.5k mailing list.  My average MRR for single customer is about $200-250/mo (I expect it to be rising to $300-400/mo with time).  My product is decently sticky.  I expect customers to be hanging around for 2-3yrs, on the average.
 
-<p>My current overall MRR is still tiny however, since I started generating revenue in April and was stabilizing.</p>
+My current overall MRR is still tiny however, since I started generating revenue in April and was stabilizing.
 
-<p>So, cutting to the chase: a non-direct competitor is looking to enter my space and wants to buy my product and probably my talent as well.  There are some good synergies and I would certainly welcome offloading some of my non-technical responsibilities on those who are more qualified.  Non-drect competitor is a younger company (10yrs or so), but they've received a decent-sized outside investment (to the tune of 25M) and want to rapidly expand.  I'm sure they could build a similar product, given enough time, money.  They also lack some of the SaaS knowledge and expertise that I could bring.</p>
+So, cutting to the chase: a non-direct competitor is looking to enter my space and wants to buy my product and probably my talent as well.  There are some good synergies and I would certainly welcome offloading some of my non-technical responsibilities on those who are more qualified.  Non-drect competitor is a younger company (10yrs or so), but they've received a decent-sized outside investment (to the tune of 25M) and want to rapidly expand.  I'm sure they could build a similar product, given enough time, money.  They also lack some of the SaaS knowledge and expertise that I could bring.
 
-<p><strong>Question</strong>: how do I price my product fairly?</p>
+**Question**: how do I price my product fairly?
 
 
 
@@ -27,10 +27,9 @@
 - posted by: [Ali](https://stackexchange.com/users/2815644/ali) on 2015-08-12
 - score: 2
 
-<p>There is a startup valuation calculator here <a href="https://www.equitynet.com/crowdfunding-tools/startup-valuation-calculator.aspx" rel="nofollow">https://www.equitynet.com/crowdfunding-tools/startup-valuation-calculator.aspx</a>. They give weights to the industry, sales and profit forecasts, present days assets and liabilities etc. </p>
+There is a startup valuation calculator here https://www.equitynet.com/crowdfunding-tools/startup-valuation-calculator.aspx. They give weights to the industry, sales and profit forecasts, present days assets and liabilities etc. 
 
-<p>There is a more complex calculator here <a href="http://www.caycon.com/valuation.php" rel="nofollow">http://www.caycon.com/valuation.php</a> that also accounts for industry growth, patent state, team and other soft factors that an investor may be interested in. </p>
-
+There is a more complex calculator here http://www.caycon.com/valuation.php that also accounts for industry growth, patent state, team and other soft factors that an investor may be interested in. 
 
 
 ## Answer 6028
@@ -79,60 +78,46 @@
 - posted by: [zazaalaza](https://stackexchange.com/users/4672194/zazaalaza) on 2015-08-12
 - score: 2
 
-<blockquote>
-  <blockquote>
-    <p><strong>Value = SUM { r * (1 + i)^n }</strong></p>
-  </blockquote>
-  
-  <p>r = revenue for your last month</p>
-  
-  <p>i = your average growth rate for the last 12 months</p>
-  
-  <p>n = the n'th month you are calculating for (in this case 1 to 12)</p>
-</blockquote>
+>> **Value = SUM { r * (1 + i)^n }**
 
-<p>This is one way of many in which you could determine the value of your company. Basically your saying that you think that the company is worth what it will make in the next 12 months while you're also factoring in the potential growth rate of the company.</p>
+> r = revenue for your last month
 
-<hr>
+> i = your average growth rate for the last 12 months
 
-<p>Based on the data you provided I could quickly make a case that your company is worth at least $1M:</p>
+> n = the n'th month you are calculating for (in this case 1 to 12)
 
-<blockquote>
-  <blockquote>
-    <p><strong>Value = SUM { C/w * H/w * (1 + i)^n * WRR * (1 + j)^n }</strong></p>
-  </blockquote>
-  
-  <p>C/w = customers you sign up in a week.</p>
-  
-  <p>H/w = hang around time of the customer in weeks.</p>
-  
-  <p>i = your average growth rate for the last 52 weeks</p>
-  
-  <p>n = the n'th week you are calculating for (in this case 1 to 52)</p>
-  
-  <p>WRR = weekly recurring revenue</p>
-  
-  <p>j = the average growth rate of the WMR for the next year.</p>
-  
-  <blockquote>
-    <p>A simplified version is <strong>Value = C/w * H/w  * WRR * 52</strong></p>
-  </blockquote>
-</blockquote>
+This is one way of many in which you could determine the value of your company. Basically your saying that you think that the company is worth what it will make in the next 12 months while you're also factoring in the potential growth rate of the company.
 
-<p>You sign up around 2 customers per week, they hang around for 2.5 years (130 weeks) and they bring you around $225/month. You expect this to increase to around $350/month with time (i.e. 1 year, something I assumed) which would compute to 1,08% growth rate/week at an initial $65,25/week. I also assumed that you keep signing up customers at the same rate (i = 0) and I didn't take into account the recurring revenue from your current customers.</p>
+---
+Based on the data you provided I could quickly make a case that your company is worth at least $1M:
 
-<blockquote>
-  <p>SUM { 2 * 130 * 1 * 56,25 * 1,0108^n } = $998.568,02</p>
-</blockquote>
+>> **Value = SUM { C/w * H/w * (1 + i)^n * WRR * (1 + j)^n }**
 
-<p>So your company is worth around $1mil.</p>
+> C/w = customers you sign up in a week.
 
-<p>Clearly this is a guesstimate and you should go over the numbers yourself, factor in the revenue from your current customers and also the average growth rate of your signups per week which could easily <strong>double</strong> your numbers.</p>
+> H/w = hang around time of the customer in weeks.
 
-<hr>
+> i = your average growth rate for the last 52 weeks
 
-<p>Also keep in mind that calculating your worth based on the revenue of the last or next year is a convention, and you can always make the case of multiplying it by 1.x depending on the markets growth rate.</p>
+> n = the n'th week you are calculating for (in this case 1 to 52)
 
+> WRR = weekly recurring revenue
+
+> j = the average growth rate of the WMR for the next year.
+
+>> A simplified version is **Value = C/w * H/w  * WRR * 52**
+
+You sign up around 2 customers per week, they hang around for 2.5 years (130 weeks) and they bring you around $225/month. You expect this to increase to around $350/month with time (i.e. 1 year, something I assumed) which would compute to 1,08% growth rate/week at an initial $65,25/week. I also assumed that you keep signing up customers at the same rate (i = 0) and I didn't take into account the recurring revenue from your current customers.
+
+> SUM { 2 * 130 * 1 * 56,25 * 1,0108^n } = $998.568,02
+
+So your company is worth around $1mil.
+
+Clearly this is a guesstimate and you should go over the numbers yourself, factor in the revenue from your current customers and also the average growth rate of your signups per week which could easily **double** your numbers.
+
+---
+
+Also keep in mind that calculating your worth based on the revenue of the last or next year is a convention, and you can always make the case of multiplying it by 1.x depending on the markets growth rate.
 
 
 ## Answer 6138
@@ -140,14 +125,13 @@
 - posted by: [Paparazzi](https://stackexchange.com/users/300272/paparazzi) on 2015-08-24
 - score: 0
 
-<p>Since you have a small customer base today a revenue model is going to undervalue.  Clearly not a good time to shop the product.  </p>
+Since you have a small customer base today a revenue model is going to undervalue.  Clearly not a good time to shop the product.  
 
-<p>You have a potential offer from another company based on their timing.  </p>
+You have a potential offer from another company based on their timing.  
 
-<p>If you price the product for a much more then what it will cost them to build it themselves they will just build it.   </p>
+If you price the product for a much more then what it will cost them to build it themselves they will just build it.   
 
-<p>Maybe get creative and price it to recover your development cost plus a royalty.  They get in cheap and you get a piece of the upside. </p>
-
+Maybe get creative and price it to recover your development cost plus a royalty.  They get in cheap and you get a piece of the upside. 
 
 
 

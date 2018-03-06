@@ -4,8 +4,10 @@
 - tagged: `crowd-funding`
 - score: 2
 
-<p><a href="https://startups.stackexchange.com/questions/3188/crowdfunding-our-tech-invention">This</a> question got me wondering. If I decided to use crowdfunding, should I do it on multiple platforms or focus on just one platform?</p>
+[This][1] question got me wondering. If I decided to use crowdfunding, should I do it on multiple platforms or focus on just one platform?
 
+
+  [1]: https://startups.stackexchange.com/questions/3188/crowdfunding-our-tech-invention
 
 
 ## Answer 3192

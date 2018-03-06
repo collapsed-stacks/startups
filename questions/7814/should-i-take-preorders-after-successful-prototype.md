@@ -4,9 +4,9 @@
 - tagged: `crowd-funding`, `prototyping`
 - score: 1
 
-<p>I have a guitar amplifier I invented that uses a handmade wooden cabinet with some very simple electronics inside that do "something different". I have built everything myself. The proto is cheap wood but it looks fine to photograph. The production versions will use higher quality wood and assembly. The reason I haven't built a production version is because I can't justify the time/cost commitment until I know people want me to build them. </p>
+I have a guitar amplifier I invented that uses a handmade wooden cabinet with some very simple electronics inside that do "something different". I have built everything myself. The proto is cheap wood but it looks fine to photograph. The production versions will use higher quality wood and assembly. The reason I haven't built a production version is because I can't justify the time/cost commitment until I know people want me to build them. 
 
-<p>Do you think it's OK for me to already go ahead and make a video and take preorders with the prototype? I feel confident that I will find the space and resources I need to fullfill the orders but I would like to have some orders secure before I do that.</p>
+Do you think it's OK for me to already go ahead and make a video and take preorders with the prototype? I feel confident that I will find the space and resources I need to fullfill the orders but I would like to have some orders secure before I do that.
 
 
 
@@ -15,15 +15,12 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-11-11
 - score: 1
 
-<p>Short answer: do a kickstarter or something to that effect.</p>
+Short answer: do a kickstarter or something to that effect.
 
-<p>Longer answer, check out these relevant threads:</p>
+Longer answer, check out these relevant threads:
 
-<ul>
-<li><a href="https://startups.stackexchange.com/questions/5329/bootstrap-marketing-activities-before-crowdfunding">Bootstrap Marketing Activities Before Crowdfunding</a></li>
-<li><a href="https://startups.stackexchange.com/questions/4098/types-of-incentives-for-powerful-crowdfunding/">Types of incentives for powerful crowdfunding</a></li>
-</ul>
-
+- https://startups.stackexchange.com/questions/5329/bootstrap-marketing-activities-before-crowdfunding
+- https://startups.stackexchange.com/questions/4098/types-of-incentives-for-powerful-crowdfunding/
 
 
 

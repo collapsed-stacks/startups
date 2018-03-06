@@ -4,8 +4,7 @@
 - tagged: `pricing`, `saas`
 - score: 1
 
-<p>We are selling software so far per the licence per user around $700, and we are looking to move to a SaaS business model. What is the typical ratio and approach to convert it to a monthly fee ? How much should be this monthly fee / user / month ?</p>
-
+We are selling software so far per the licence per user around $700, and we are looking to move to a SaaS business model. What is the typical ratio and approach to convert it to a monthly fee ? How much should be this monthly fee / user / month ?
 
 
 ## Answer 1807
@@ -13,28 +12,24 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2014-12-30
 - score: 2
 
-<p>There's no typical ratio or magical formulas that you can wave a wand and throw pixie dust at.</p>
+There's no typical ratio or magical formulas that you can wave a wand and throw pixie dust at.
 
-<p>If your comment to codelion's answer is anything to go by, you're about to do a mistake. Namely, selling essentially the same product at two different prices points because one audience cannot afford $700.</p>
+If your comment to codelion's answer is anything to go by, you're about to do a mistake. Namely, selling essentially the same product at two different prices points because one audience cannot afford $700.
 
-<p>Ignore your current price for a moment, and rethink your offer and its pricing strategy in terms of value.</p>
+Ignore your current price for a moment, and rethink your offer and its pricing strategy in terms of value.
 
-<p>Summarizing <a href="https://startups.stackexchange.com/a/1747/1824">this answer</a> to a slightly related question:</p>
+Summarizing [this answer](https://startups.stackexchange.com/a/1747/1824) to a slightly related question:
 
-<ol>
-<li>Know who you want to target, and identify the upside that you can deliver to each of your segments</li>
-<li>Identify the monetary value that corresponds to this upside (e.g. an hour of a $25/hour staff's time saved per week &lt;=> $100/month value <em>per seat</em>)</li>
-<li>Structure and price your product based on each segment's needs, upside, and purchasing power</li>
-<li>Create tiers based on value-added features and services in addition to raw feature numbers (e.g. auditing would be for enterprise and command too high to disclose prices)</li>
-</ol>
+1. Know who you want to target, and identify the upside that you can deliver to each of your segments
+2. Identify the monetary value that corresponds to this upside (e.g. an hour of a $25/hour staff's time saved per week <=> $100/month value *per seat*)
+3. Structure and price your product based on each segment's needs, upside, and purchasing power
+4. Create tiers based on value-added features and services in addition to raw feature numbers (e.g. auditing would be for enterprise and command too high to disclose prices)
 
-<p>I would add two additional remarks in the event your marketing and your sales process currently look like a dog's breakfast:</p>
+I would add two additional remarks in the event your marketing and your sales process currently look like a dog's breakfast:
 
-<ol>
-<li><p>Keep in mind that people buy benefits, answers, and solutions; not features, processes, prices, or what have you. Clients want a positive ROI, and will buy just about anything at any price if you convince them you'll deliver precisely that. So make all of this upside clear in your marketing right, left and center.</p></li>
-<li><p>Follow-up with some regularity once clients sign up. Because as a SaaS, you also want to <em>keep</em> your clients informed of what results they're getting from your software. When it's not clear in their mind (which is far too often), clients end up taking these results for granted ... and listening to competitors who offer new shiny things.</p></li>
-</ol>
+1. Keep in mind that people buy benefits, answers, and solutions; not features, processes, prices, or what have you. Clients want a positive ROI, and will buy just about anything at any price if you convince them you'll deliver precisely that. So make all of this upside clear in your marketing right, left and center.
 
+2. Follow-up with some regularity once clients sign up. Because as a SaaS, you also want to *keep* your clients informed of what results they're getting from your software. When it's not clear in their mind (which is far too often), clients end up taking these results for granted ... and listening to competitors who offer new shiny things.
 
 
 ## Answer 1806

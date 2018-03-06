@@ -4,10 +4,9 @@
 - tagged: `market-research`
 - score: 2
 
-<p>Ideally it would be good to drill down to specific types of market and market specialisms. </p>
+Ideally it would be good to drill down to specific types of market and market specialisms. 
 
-<p>E.g. something like contribution to revenue of tourism vs consumer technology retail and also specific areas like inbound / outbound tourism, and niches like group tours, independent travel, etc and equivalent in other industries.</p>
-
+E.g. something like contribution to revenue of tourism vs consumer technology retail and also specific areas like inbound / outbound tourism, and niches like group tours, independent travel, etc and equivalent in other industries.
 
 
 ## Answer 8876

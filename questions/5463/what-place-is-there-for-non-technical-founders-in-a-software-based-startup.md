@@ -4,20 +4,17 @@
 - tagged: `founder`
 - score: 4
 
-<p>If a non-technical person comes up with a software-based startup idea, is there any way for them to contribute meaningfully, especially in the founding stage?</p>
+If a non-technical person comes up with a software-based startup idea, is there any way for them to contribute meaningfully, especially in the founding stage?
 
-<p>To make things more concrete, let's say there are three founders for such a startup:</p>
+To make things more concrete, let's say there are three founders for such a startup:
 
-<ul>
-<li>a logistics person</li>
-<li>a designer</li>
-<li>a software developer</li>
-</ul>
+* a logistics person
+* a designer
+* a software developer
 
-<p>Could that combination work out at all for a software startup?</p>
+Could that combination work out at all for a software startup?
 
-<p>Is there any success story where technical people do not form the majority of the founders?</p>
-
+Is there any success story where technical people do not form the majority of the founders?
 
 
 ## Answer 5464
@@ -25,35 +22,28 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-06-06
 - score: 3
 
-<p>Sure. There's no shortage of stuff that you can do to take work off of your two co-founders:</p>
+Sure. There's no shortage of stuff that you can do to take work off of your two co-founders:
 
-<ul>
-<li>Administrative work</li>
-<li>Testing the software, giving feedback/ideas</li>
-<li>Finding testers</li>
-<li>Preparing/running the UI/UX tests</li>
-<li>Finding clients</li>
-<li>Finding indirect sales channels</li>
-<li>Finding angel investors</li>
-<li>Organizing the logistics if any</li>
-<li>Creating the landing page to build a list</li>
-<li>Animating the mailing list once it's around</li>
-<li>Being active online to grow the list</li>
-<li>etc.</li>
-</ul>
+- Administrative work
+- Testing the software, giving feedback/ideas
+- Finding testers
+- Preparing/running the UI/UX tests
+- Finding clients
+- Finding indirect sales channels
+- Finding angel investors
+- Organizing the logistics if any
+- Creating the landing page to build a list
+- Animating the mailing list once it's around
+- Being active online to grow the list
+- etc.
 
-<blockquote>
-  <p>Is there any success story where technical people do not form the majority of the founders?</p>
-</blockquote>
+> Is there any success story where technical people do not form the majority of the founders?
 
-<p>Apple had three founders:</p>
+Apple had three founders:
 
-<ul>
-<li>Steve Jobs: CEO, Marketing &amp; Sales</li>
-<li>Steve Wozniak: Engineering</li>
-<li>Ronald Wayne: Administrative / Design / "Adult Supervision"</li>
-</ul>
-
+- Steve Jobs: CEO, Marketing & Sales
+- Steve Wozniak: Engineering
+- Ronald Wayne: Administrative / Design / "Adult Supervision"
 
 
 ## Answer 5465

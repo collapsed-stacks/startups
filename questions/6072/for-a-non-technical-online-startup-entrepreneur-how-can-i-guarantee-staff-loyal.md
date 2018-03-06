@@ -4,8 +4,7 @@
 - tagged: `lean-startup`, `employees`, `entrepreneurship`
 - score: 2
 
-<p>What are the available scenarios and steps that could be taken towards that?</p>
-
+What are the available scenarios and steps that could be taken towards that?
 
 
 ## Answer 6077

@@ -4,16 +4,15 @@
 - tagged: `tech-company`, `legal`, `startup-costs`, `lawyer`, `minimum-viable-product`
 - score: 3
 
-<p>I'm about to launch my application within one month.</p>
+I'm about to launch my application within one month.
 
-<p>A Chat room, gathering many users simultaneously is one of my app's features.</p>
+A Chat room, gathering many users simultaneously is one of my app's features.
 
-<p><strong>Is message encryption a required step of the MVP building?</strong> </p>
+**Is message encryption a required step of the MVP building?** 
 
-<p>Otherwise, <strong>should I inform user</strong> that their conversations might be "compromised" by an eventual really gifted "hacker"? </p>
+Otherwise, **should I inform user** that their conversations might be "compromised" by an eventual really gifted "hacker"? 
 
-<p>I would add that the conversation themes may not deal with absolute privacy (like Facebook's Chat could be for instance).</p>
-
+I would add that the conversation themes may not deal with absolute privacy (like Facebook's Chat could be for instance).
 
 
 ## Answer 1350
@@ -21,17 +20,14 @@
 - posted by: [blunders](https://stackexchange.com/users/216182/blunders) on 2014-11-11
 - score: 5
 
-<p>Every user does not need everything. If you're not going to launch a product until it has every existing feature known to the public, that's a recipe for failure. There are plenty of chat platforms that are not secure and still have a large user base.</p>
+Every user does not need everything. If you're not going to launch a product until it has every existing feature known to the public, that's a recipe for failure. There are plenty of chat platforms that are not secure and still have a large user base.
 
-<p>If you're really doing an MVP, then you need to talk to your users/customers in a way that's not leading to discover if this feature is required for the MVP. </p>
+If you're really doing an MVP, then you need to talk to your users/customers in a way that's not leading to discover if this feature is required for the MVP. 
 
-<p>If after doing the interviews you're still concerned if your contacts truly understands needs of the customers, then one solution might have two options when creating a chat session: [Normal] or [Secure]. </p>
+If after doing the interviews you're still concerned if your contacts truly understands needs of the customers, then one solution might have two options when creating a chat session: [Normal] or [Secure]. 
 
-<ul>
-<li>If the user clicks [Secure] inform them that the feature is very important to you, you're working on it, and allow them to opt-in to the [Normal] chat. </li>
-<li>If they ask to use the SECURE version, are told it's in development, and decline to use the NORMAL version, then ask them to explain why, first automated, then manually if they don't reply, or their response needs clarification</li>
-</ul>
-
+ - If the user clicks [Secure] inform them that the feature is very important to you, you're working on it, and allow them to opt-in to the [Normal] chat. 
+ - If they ask to use the SECURE version, are told it's in development, and decline to use the NORMAL version, then ask them to explain why, first automated, then manually if they don't reply, or their response needs clarification
 
 
 

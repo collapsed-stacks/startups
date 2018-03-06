@@ -4,10 +4,11 @@
 - tagged: `tech-company`, `mobile-apps`
 - score: 11
 
-<p>The pattern for most mobile app startups appears to be to release an app on iOS first then release an Android version. Later, they may release on other platforms like windows and blackberry. Some examples I can think of right now are Simple, Mailbox and Robinhood. </p>
+The pattern for most mobile app startups appears to be to release an app on iOS first then release an Android version. Later, they may release on other platforms like windows and blackberry. Some examples I can think of right now are Simple, Mailbox and Robinhood. 
 
-<p>Since Android has a much larger market share than iOS, it seems like it would make more sense to launch there first. <a href="http://www.idc.com/prodserv/smartphone-os-market-share.jsp">(84.7% vs 11.7%)</a> What then is the technical or business reason for companies to use this iOS first strategy?</p>
+Since Android has a much larger market share than iOS, it seems like it would make more sense to launch there first. [(84.7% vs 11.7%)][1] What then is the technical or business reason for companies to use this iOS first strategy?
 
+  [1]: http://www.idc.com/prodserv/smartphone-os-market-share.jsp
 
 
 ## Answer 1352
@@ -15,16 +16,15 @@
 - posted by: [Damian Yerrick](https://stackexchange.com/users/3095780/damian-yerrick) on 2014-11-12
 - score: 13
 
-<p>Even if Android has seven times the installed base of iOS, you can still make more revenue from the App Store than from Google Play if the average user of iOS contributes nine times the revenue of the average user of Android, as a <a href="http://www.businessinsider.com/apple-app-store-revenue-per-user-versus-android-2016-7" rel="nofollow"><em>Business Insider</em> article from mid-2016</a> suggests, or if Android is far more expensive to support.</p>
+Even if Android has seven times the installed base of iOS, you can still make more revenue from the App Store than from Google Play if the average user of iOS contributes nine times the revenue of the average user of Android, as a [_Business Insider_ article from mid-2016](http://www.businessinsider.com/apple-app-store-revenue-per-user-versus-android-2016-7) suggests, or if Android is far more expensive to support.
 
-<p><strong>iOS users are more willing to buy IAPs.</strong> An article by Ewan Spence in <em>Forbes</em>, "<a href="http://www.forbes.com/sites/ewanspence/2014/05/21/for-mobile-monetization-choose-android-for-ads-and-apple-for-in-app-purchases/" rel="nofollow">For Mobile Monetization, Choose Android for Ads and Apple For In-App Purchases</a>, cites a report by mobile marketing company Swrve that highlights differences between iOS and Android in how their users contribute to revenue. Users of iOS spend more than users of Android, especially on in-app purchases. A mid-2015 <a href="http://www.itworld.com/article/2957215/development/how-to-make-money-as-an-independent-developer.html" rel="nofollow">survey by VisionMobile</a> backs up this rule of thumb that iOS users tend to be richer. Users of Android, on the other hand, reopen their applications more often, giving more eyeball time for an advertising-supported app.</p>
+**iOS users are more willing to buy IAPs.** An article by Ewan Spence in _Forbes_, "[For Mobile Monetization, Choose Android for Ads and Apple For In-App Purchases](http://www.forbes.com/sites/ewanspence/2014/05/21/for-mobile-monetization-choose-android-for-ads-and-apple-for-in-app-purchases/), cites a report by mobile marketing company Swrve that highlights differences between iOS and Android in how their users contribute to revenue. Users of iOS spend more than users of Android, especially on in-app purchases. A mid-2015 [survey by VisionMobile](http://www.itworld.com/article/2957215/development/how-to-make-money-as-an-independent-developer.html) backs up this rule of thumb that iOS users tend to be richer. Users of Android, on the other hand, reopen their applications more often, giving more eyeball time for an advertising-supported app.
 
-<p><strong>Android users have wanted free.</strong> At one time, there was a huge difference in app prices between iOS and Android. When Android first came out in 2008, Google had payment processing in place in only a handful of countries. When a carrier launched an Android phone in any country without Google Checkout, Android Market would show only free apps to users in that country. So at the time, developers had to make their apps free in order to reach users in those countries. This built up a psychological expectation among Android's user base of being able to download free apps. Apple, on the other hand, would always launch iTunes Store on Mac and Windows in a particular territory before launching iOS devices there. I'm not sure how to what extent this difference continues into the 2010s though, especially with geographic expansion of Google Wallet and price wars among app developers. But in any case, iOS users are <a href="https://support.apple.com/en-us/HT204034" rel="nofollow">more likely to have already added a payment method</a>, removing another barrier to purchase.</p>
+**Android users have wanted free.** At one time, there was a huge difference in app prices between iOS and Android. When Android first came out in 2008, Google had payment processing in place in only a handful of countries. When a carrier launched an Android phone in any country without Google Checkout, Android Market would show only free apps to users in that country. So at the time, developers had to make their apps free in order to reach users in those countries. This built up a psychological expectation among Android's user base of being able to download free apps. Apple, on the other hand, would always launch iTunes Store on Mac and Windows in a particular territory before launching iOS devices there. I'm not sure how to what extent this difference continues into the 2010s though, especially with geographic expansion of Google Wallet and price wars among app developers. But in any case, iOS users are [more likely to have already added a payment method](https://support.apple.com/en-us/HT204034), removing another barrier to purchase.
 
-<p><strong>iOS is familiar to Mac developers.</strong> If a company already maintains an app for OS X, its developers may have an easier time learning the iOS tools (such as Xcode and Cocoa Touch).</p>
+**iOS is familiar to Mac developers.** If a company already maintains an app for OS X, its developers may have an easier time learning the iOS tools (such as Xcode and Cocoa Touch).
 
-<p><strong>iOS has consistent hardware.</strong> Because Apple controls the entire supply chain, every iPhone of the same generation and every iPad of the same generation will be identical, save screen size in the iPhone 6 and later and iPad mini. Android phones, on the other hand, have far larger differences in CPU, memory, graphics, defects in manufacturer and carrier customizations of the software stack, etc. Some Android devices don't even have ARM CPUs; they have MIPS or x86 CPUs instead, and NDK applications (those using native code as opposed to 100% pure Java) usually need to be recompiled. Sometimes these media refers to these differences as "fragmentation", and it can lead to support headaches when your app inadvertently depends on implementation-defined, unspecified, or undefined behaviors of the Android platform.</p>
-
+**iOS has consistent hardware.** Because Apple controls the entire supply chain, every iPhone of the same generation and every iPad of the same generation will be identical, save screen size in the iPhone 6 and later and iPad mini. Android phones, on the other hand, have far larger differences in CPU, memory, graphics, defects in manufacturer and carrier customizations of the software stack, etc. Some Android devices don't even have ARM CPUs; they have MIPS or x86 CPUs instead, and NDK applications (those using native code as opposed to 100% pure Java) usually need to be recompiled. Sometimes these media refers to these differences as "fragmentation", and it can lead to support headaches when your app inadvertently depends on implementation-defined, unspecified, or undefined behaviors of the Android platform.
 
 
 ## Answer 836
@@ -72,21 +72,22 @@
 - posted by: [Matthew Haugen](https://stackexchange.com/users/1325646/matthew-haugen) on 2014-09-29
 - score: 2
 
-<p>I like to think I'm wrong on this, but as a general rule, I'd say it's just a mixture of habit and "coolness" factor, more than anything too objective. I have a Windows Phone--try not to laugh too hard--so I'll admit that I look at the battle over these two phones from somewhat of an exterior perspective, but I think you might be reading a bit too much into it. <em>"This question appears to be off-topic because it asks us to explain the behaviors of others."</em></p>
+I like to think I'm wrong on this, but as a general rule, I'd say it's just a mixture of habit and "coolness" factor, more than anything too objective. I have a Windows Phone--try not to laugh too hard--so I'll admit that I look at the battle over these two phones from somewhat of an exterior perspective, but I think you might be reading a bit too much into it. *"This question appears to be off-topic because it asks us to explain the behaviors of others."*
 
-<p>What's about to follow are some pretty wild, baseless judgments that display my guesses about what could be the cause for this, so take this with a grain of salt. I'm also not sure that this necessarily explains it all, but it does account for a few select cases of startups that I've dealt with.</p>
+What's about to follow are some pretty wild, baseless judgments that display my guesses about what could be the cause for this, so take this with a grain of salt. I'm also not sure that this necessarily explains it all, but it does account for a few select cases of startups that I've dealt with.
 
-<p><strong>Habit</strong></p>
+**Habit**
 
-<p>Per model, I suspect iPhone has better coverage than Android. There are a lot of Android devices, but that just means that their attention becomes distributed throughout them, which means it's hard for innovators to objectively look at the world and see the numbers accurately. Say you have a party with five attendees: one has a Galaxy Note, one has an HTC One, two have iPhones, one has an LG G3. If you aren't <em>technically minded</em> (whatever that means), you might not draw the correlation that three of those are Android devices and only two are iPhones, you might just see it as three individual and unrelated devices <em>and two iPhones</em>. I suspect a similar effect can be seen in people's views of the actual market-share.</p>
+Per model, I suspect iPhone has better coverage than Android. There are a lot of Android devices, but that just means that their attention becomes distributed throughout them, which means it's hard for innovators to objectively look at the world and see the numbers accurately. Say you have a party with five attendees: one has a Galaxy Note, one has an HTC One, two have iPhones, one has an LG G3. If you aren't *technically minded* (whatever that means), you might not draw the correlation that three of those are Android devices and only two are iPhones, you might just see it as three individual and unrelated devices *and two iPhones*. I suspect a similar effect can be seen in people's views of the actual market-share.
 
-<p>Furthermore, by only having one (or two) iPhone models, Apple has managed to keep the mental picture people draw to have a physical form. What do I mean by that? Look even just at the semantics: "iPhone" is hardware, and "Android" is software. I think the fact that Apple can capitalize on people's touch senses and give them a device to imagine the feeling of makes it seem more significant, so even though Android has a better market share, many people's minds will consider an iPhone to be more <em>real</em> than an operating system. Unfortunately, then, a lot of excited small business owners still make decisions based off of subjective, non-truths about the marketplace.</p>
+Furthermore, by only having one (or two) iPhone models, Apple has managed to keep the mental picture people draw to have a physical form. What do I mean by that? Look even just at the semantics: "iPhone" is hardware, and "Android" is software. I think the fact that Apple can capitalize on people's touch senses and give them a device to imagine the feeling of makes it seem more significant, so even though Android has a better market share, many people's minds will consider an iPhone to be more *real* than an operating system. Unfortunately, then, a lot of excited small business owners still make decisions based off of subjective, non-truths about the marketplace.
 
-<p>The same kind of thing applies consumer-side, too (and remember, SMB owners are consumers). For most people (and obviously a lot of people are different), phones are just phones. The average consumer probably doesn't get excited about the new version of Android, so much as they might get excited about the new phone. But people <em>do</em> get excited about the new iPhone. That leads to an overall consensus that iPhones are more popular, even though people who recognize a phone for its firmware might see a different picture.</p>
+The same kind of thing applies consumer-side, too (and remember, SMB owners are consumers). For most people (and obviously a lot of people are different), phones are just phones. The average consumer probably doesn't get excited about the new version of Android, so much as they might get excited about the new phone. But people *do* get excited about the new iPhone. That leads to an overall consensus that iPhones are more popular, even though people who recognize a phone for its firmware might see a different picture.
 
-<p><strong>Coolness</strong></p>
+**Coolness**
 
-<p>I suspect, similarly, a lot of SMB owners and consumers consider the iPhone to just be a cooler device, regardless of market share. Having an app in the store has become a social necessity for a lot of companies, and I think that plays into it. Much of Apple's success can be traced back to people who think their products are just cooler than their nerdy equivalents in Android, or even PCs. Some of that is beginning to shift, but there are still legacy thoughts in play that sway the decision-makers at small businesses.</p>
+I suspect, similarly, a lot of SMB owners and consumers consider the iPhone to just be a cooler device, regardless of market share. Having an app in the store has become a social necessity for a lot of companies, and I think that plays into it. Much of Apple's success can be traced back to people who think their products are just cooler than their nerdy equivalents in Android, or even PCs. Some of that is beginning to shift, but there are still legacy thoughts in play that sway the decision-makers at small businesses.
+
 
 
 
@@ -95,13 +96,14 @@
 - posted by: [Community](https://stackexchange.com/users/-1/community) on 2014-09-29
 - score: 0
 
-<p>One word: Xamarin</p>
+One word: Xamarin
 
-<p>Its awesome (I do love Microsoft though, so I do have some bias).</p>
+Its awesome (I do love Microsoft though, so I do have some bias).
 
-<p>Develop once for all platforms. Why limit yourself :)</p>
+Develop once for all platforms. Why limit yourself :)
 
-<p>As Matthew says the coolness factor seems to play into launching on iOS first. Android is where the market share is, even on higher end phones. As mentioned in the stats by blunders, the 1/3 of Android phones that aren't junk phones is still on its own, higher than the entire Apple market.</p>
+As Matthew says the coolness factor seems to play into launching on iOS first. Android is where the market share is, even on higher end phones. As mentioned in the stats by blunders, the 1/3 of Android phones that aren't junk phones is still on its own, higher than the entire Apple market.
+
 
 
 
@@ -110,14 +112,13 @@
 - posted by: [Elder Smash](https://stackexchange.com/users/3962865/elder-smash) on 2015-04-07
 - score: 0
 
-<p>Develop for both. Release at the same time unless you see the value in soft launching to a small region on the Play Store.</p>
+Develop for both. Release at the same time unless you see the value in soft launching to a small region on the Play Store.
 
-<p>For cross-platform development don't forget about Anywhere Software and their Basic4android / Basic4iOS. People who are comfortable with classic Visual Basic can jump right into making modern apps once they learn the API. It's the right fit for some people (as funny as that sounds).</p>
+For cross-platform development don't forget about Anywhere Software and their Basic4android / Basic4iOS. People who are comfortable with classic Visual Basic can jump right into making modern apps once they learn the API. It's the right fit for some people (as funny as that sounds).
 
-<p>Edit:</p>
+Edit:
 
-<p>Meteor is a solid answer for most modern apps. Looking back it was the correct way to go. Nowadays it's very easy to prototype apps quickly in HTML/CSS/JS and deploy them as native mobile apps when you use Meteor. Have a look see: <a href="https://www.meteor.com/tutorials/blaze/running-on-mobile" rel="nofollow">https://www.meteor.com/tutorials/blaze/running-on-mobile</a></p>
-
+Meteor is a solid answer for most modern apps. Looking back it was the correct way to go. Nowadays it's very easy to prototype apps quickly in HTML/CSS/JS and deploy them as native mobile apps when you use Meteor. Have a look see: https://www.meteor.com/tutorials/blaze/running-on-mobile
 
 
 ## Answer 9275

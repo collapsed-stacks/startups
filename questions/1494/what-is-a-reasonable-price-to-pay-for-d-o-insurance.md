@@ -4,8 +4,7 @@
 - tagged: `startup-costs`, `insurance`
 - score: 1
 
-<p>For a startup (technology-based) incorporated in Delaware. what would be a reasonable price to pay for D&amp;O insurance (per director/officer), with coverage of 1 Million USD?</p>
-
+For a startup (technology-based) incorporated in Delaware. what would be a reasonable price to pay for D&O insurance (per director/officer), with coverage of 1 Million USD?
 
 
 ## Answer 1495

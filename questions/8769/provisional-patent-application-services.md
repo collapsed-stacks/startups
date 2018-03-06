@@ -4,8 +4,11 @@
 - tagged: `intellectual-property`, `patent`
 - score: 1
 
-<p>Is using online provisional patent application services a good idea?  I know there are several such as <a href="https://www.legalzoom.com/business/intellectual-property/provisional-application-for-patents-overview.html" rel="nofollow">legalzoom</a> or <a href="http://www.nolo.com/products/online-provisional-patent-application-nnppa.html" rel="nofollow">nolo.com</a> but I'm not sure what the disadvantages or advantages of using one of these services are.  Any specific reasons too chose one over the other would be helpful as well.</p>
+Is using online provisional patent application services a good idea?  I know there are several such as [legalzoom][1] or [nolo.com][2] but I'm not sure what the disadvantages or advantages of using one of these services are.  Any specific reasons too chose one over the other would be helpful as well.
 
+
+  [1]: https://www.legalzoom.com/business/intellectual-property/provisional-application-for-patents-overview.html
+  [2]: http://www.nolo.com/products/online-provisional-patent-application-nnppa.html
 
 ## No Answers
 

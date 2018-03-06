@@ -4,11 +4,11 @@
 - tagged: `legal`, `liability-insurance`
 - score: 3
 
-<p>I don't have the funds to start an llc, so therefore I have to use my own name or file a DBA. This doesn't offer any liability protection, so my personal assets are at stake.</p>
+I don't have the funds to start an llc, so therefore I have to use my own name or file a DBA. This doesn't offer any liability protection, so my personal assets are at stake.
 
-<p>I plan to launch a web service. If I make a very, very detailed ToS and limit my liability (such as "we're not responsible for any damages in any medium/use at your own risk/the maximum fines we'll pay is $0 USD/we're not liable") would that cover my liability? </p>
+I plan to launch a web service. If I make a very, very detailed ToS and limit my liability (such as "we're not responsible for any damages in any medium/use at your own risk/the maximum fines we'll pay is $0 USD/we're not liable") would that cover my liability? 
 
-<p>So basically, I plan to make a user agreement that states I'm not at fault for anything and they must agree to this before using the web service. Would that offer liability immunity from users?</p>
+So basically, I plan to make a user agreement that states I'm not at fault for anything and they must agree to this before using the web service. Would that offer liability immunity from users?
 
 
 
@@ -17,22 +17,21 @@
 - posted by: [fiprojects](https://stackexchange.com/users/5370155/fiprojects) on 2016-03-06
 - score: 1
 
-<p>Sorry mate... but... Don't even consider going into business without an entity like an LLC and some sort of liability insurance. If a business holds you even partly responsible for any negative impact on their business, then you, your home and your credit rating will remind you for years to come. The legal fee's to protect your service is innocent of the accusations will hang heavy.</p>
+Sorry mate... but... Don't even consider going into business without an entity like an LLC and some sort of liability insurance. If a business holds you even partly responsible for any negative impact on their business, then you, your home and your credit rating will remind you for years to come. The legal fee's to protect your service is innocent of the accusations will hang heavy.
 
-<p>Speak with other small businesses, find out how they licensed themselves.</p>
+Speak with other small businesses, find out how they licensed themselves.
 
-<p>I'm wondering what other areas of your web service have you cut corners on? </p>
+I'm wondering what other areas of your web service have you cut corners on? 
 
-<p>In many countries, the possibility exists whereby a clause in a contract is considered overly harsh and it could therefore either mean the clause is dropped from the contract, or that the entire contract is null and void.</p>
+In many countries, the possibility exists whereby a clause in a contract is considered overly harsh and it could therefore either mean the clause is dropped from the contract, or that the entire contract is null and void.
 
-<p>And data protection has minimum standards in many 1st world countries.</p>
+And data protection has minimum standards in many 1st world countries.
 
-<p>What about taxes? Despite your best efforts, the taxman will consider any error a sin and be less than patient.</p>
+What about taxes? Despite your best efforts, the taxman will consider any error a sin and be less than patient.
 
-<p>A possible solution might be to partner up with another business and give them a share of the proceeds. This might allow you to charge more (since you will trade on a more recognised name) so their cut might not hit your pocket so much.</p>
+A possible solution might be to partner up with another business and give them a share of the proceeds. This might allow you to charge more (since you will trade on a more recognised name) so their cut might not hit your pocket so much.
 
-<p>Best of luck!</p>
-
+Best of luck!
 
 
 ## Answer 5696
@@ -57,12 +56,11 @@
 - posted by: [A E](https://stackexchange.com/users/5191744/a-e) on 2015-08-09
 - score: 0
 
-<p>Here in the UK, it's not possible to completely avoid all liability using a disclaimer.</p>
+Here in the UK, it's not possible to completely avoid all liability using a disclaimer.
 
-<p>For example, if through negligence you cause death or injury to another person, then you're legally liable even if you got that person to sign a form in advance saying that they wouldn't hold you liable. That part of the form is simply held to be invalid.</p>
+For example, if through negligence you cause death or injury to another person, then you're legally liable even if you got that person to sign a form in advance saying that they wouldn't hold you liable. That part of the form is simply held to be invalid.
 
-<p>That said, it sounds like you're overthinking this. I doubt you have much to worry about, unless your website is promoting something  harmful (eg suicide methods, pro-anorexia, support for terrorism, fraud, pyramid schemes, pro-rape, child sex, etc etc).</p>
-
+That said, it sounds like you're overthinking this. I doubt you have much to worry about, unless your website is promoting something  harmful (eg suicide methods, pro-anorexia, support for terrorism, fraud, pyramid schemes, pro-rape, child sex, etc etc).
 
 
 

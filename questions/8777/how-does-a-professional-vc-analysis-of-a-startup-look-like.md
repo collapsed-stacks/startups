@@ -4,12 +4,11 @@
 - tagged: `tech-company`, `investment`, `venture-capital`
 - score: 1
 
-<p>I have read from books f.ex.: VCs at work how investors are doing in theory a company analysis of an early stage startup.</p>
+I have read from books f.ex.: VCs at work how investors are doing in theory a company analysis of an early stage startup.
 
-<p>However, I as wondering, if you could provide a live example of how such an analysis looks like in reality?</p>
+However, I as wondering, if you could provide a live example of how such an analysis looks like in reality?
 
-<p>I appreciate your replies!</p>
-
+I appreciate your replies!
 
 ## No Answers
 

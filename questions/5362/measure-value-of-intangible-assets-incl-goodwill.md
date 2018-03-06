@@ -4,16 +4,15 @@
 - tagged: `valuation`
 - score: 2
 
-<p>What methodologies and approaches do exist to measure only the value of <strong>Intangible Assets</strong> and "<strong>Goodwill</strong>" (analytical, computational estimation/approximation)?
-How can a potential buyer evaluate intangible asstes (and Goodwill) <em>before</em> he decides to pay for them?</p>
+What methodologies and approaches do exist to measure only the value of **Intangible Assets** and "**Goodwill**" (analytical, computational estimation/approximation)?
+How can a potential buyer evaluate intangible asstes (and Goodwill) *before* he decides to pay for them?
 
-<p>How do these <strong>methodologies</strong> and techniques differ <strong>compared</strong> to each other? Are there situations where one methodology is prefered over others? Is there a concise <strong>overview</strong> (e.g. a table, a list without details) where these methodologies are compared?</p>
+How do these **methodologies** and techniques differ **compared** to each other? Are there situations where one methodology is prefered over others? Is there a concise **overview** (e.g. a table, a list without details) where these methodologies are compared?
 
-<p>Some methodologies are for example: MPEEM, ROMI, CE, ...
-Can you just list more of these methodologies? Do you know their pros &amp; cons?</p>
+Some methodologies are for example: MPEEM, ROMI, CE, ...
+Can you just list more of these methodologies? Do you know their pros & cons?
 
-<p>For exaple, Google reports in its balance sheet for 2014 over $ 15.5 billions for Goodwill and over $ 4.6 billions for Intangible Assets (together they make up over 15% of their Total Assets): <a href="http://www.nasdaq.com/symbol/goog/financials?query=balance-sheet" rel="nofollow">http://www.nasdaq.com/symbol/goog/financials?query=balance-sheet</a></p>
-
+For exaple, Google reports in its balance sheet for 2014 over $ 15.5 billions for Goodwill and over $ 4.6 billions for Intangible Assets (together they make up over 15% of their Total Assets): http://www.nasdaq.com/symbol/goog/financials?query=balance-sheet
 
 
 ## Answer 5363
@@ -21,12 +20,13 @@ Can you just list more of these methodologies? Do you know their pros &amp; cons
 - posted by: [Ali](https://stackexchange.com/users/2815644/ali) on 2015-05-26
 - score: 2
 
-<p>Intangible assets can include brands value, patents, operational processes etc. Although intangible, some 'intangible' assets can be quantized, especially assets that can be bought and acquired such as patents and acquisitions. Most intangible assets including brand value can appear on the balance sheet as goodwill.</p>
+Intangible assets can include brands value, patents, operational processes etc. Although intangible, some 'intangible' assets can be quantized, especially assets that can be bought and acquired such as patents and acquisitions. Most intangible assets including brand value can appear on the balance sheet as goodwill.
 
-<p>The general formula is Goodwill = (Consideration paid + Fair value of noncontrolling interest)
-– (Assets acquired – Liabilities assumed)</p>
+The general formula is Goodwill = (Consideration paid + Fair value of noncontrolling interest)
+– (Assets acquired – Liabilities assumed)
 
-<p>There is a good discussion on calculating goodwill here <a href="http://www.investopedia.com/articles/investing/112814/how-calculate-goodwill.asp" rel="nofollow">http://www.investopedia.com/articles/investing/112814/how-calculate-goodwill.asp</a></p>
+ There is a good discussion on calculating goodwill here http://www.investopedia.com/articles/investing/112814/how-calculate-goodwill.asp
+
 
 
 

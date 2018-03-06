@@ -4,24 +4,23 @@
 - tagged: `product`, `idea`, `incubators`, `prototyping`
 - score: 2
 
-<p>I'm a senior programmer and I'd like to build a startup-oriented software product with a mind to start a business with it.</p>
+I'm a senior programmer and I'd like to build a startup-oriented software product with a mind to start a business with it.
 
-<p>The problem is, I don't have a good product idea.</p>
+The problem is, I don't have a good product idea.
 
-<p>I was thinking about organizing a meeting and inviting like-minded people.  People from various technology and business backgrounds for a meet and greet and to brainstorm on product ideas. </p>
+I was thinking about organizing a meeting and inviting like-minded people.  People from various technology and business backgrounds for a meet and greet and to brainstorm on product ideas. 
 
-<p>Sort of like speed-dating for product ideas.  I'm thinking people could get in groups of three or four and pitch ideas to each other and the ideas could get brainstormed on.</p>
+Sort of like speed-dating for product ideas.  I'm thinking people could get in groups of three or four and pitch ideas to each other and the ideas could get brainstormed on.
 
-<p>Then the groups would be randomized and new discussions could occur with the same or different germs of product ideas.</p>
+Then the groups would be randomized and new discussions could occur with the same or different germs of product ideas.
 
-<p>At the end of the evening, people would rank their interest in the different ideas, and like-minded people could group and then go work on the idea as they like.</p>
+At the end of the evening, people would rank their interest in the different ideas, and like-minded people could group and then go work on the idea as they like.
 
-<p>Does such a thing happen already, and is there already an established process for running such an event?</p>
+Does such a thing happen already, and is there already an established process for running such an event?
 
-<p>How would you handle issues such as ownership of the ideas and so on?</p>
+How would you handle issues such as ownership of the ideas and so on?
 
-<p>Any suggestions are appreciated!</p>
-
+Any suggestions are appreciated!
 
 
 ## Answer 3801
@@ -29,30 +28,29 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-03-20
 - score: 3
 
-<p>There's no established process I'm aware of, and the ownership of an idea isn't really meaningful in the sense that what really counts at the end of the day is execution.</p>
+There's no established process I'm aware of, and the ownership of an idea isn't really meaningful in the sense that what really counts at the end of the day is execution.
 
-<p>That said, a few pointers on how startups I've run into over the years have been created, to help you focus your brainstorming efforts:</p>
+That said, a few pointers on how startups I've run into over the years have been created, to help you focus your brainstorming efforts:
 
-<h3>1. You have a problem that has no adequate solution.</h3>
+### 1\. You have a problem that has no adequate solution.
 
-<p>This is, put bluntly, the best scenario because you end up eating your own dog food and that allows you to know if your product is good or not. Think about a pain point you have in your life. If you cannot locate an adequate solution, but can locate other users who have the same problem and are willing to pay to get it solved, then chances are you're onto something.</p>
+This is, put bluntly, the best scenario because you end up eating your own dog food and that allows you to know if your product is good or not. Think about a pain point you have in your life. If you cannot locate an adequate solution, but can locate other users who have the same problem and are willing to pay to get it solved, then chances are you're onto something.
 
-<h3>2. You spot a problem that has no adequate solution.</h3>
+### 2\. You spot a problem that has no adequate solution.
 
-<p>This is mostly similar to 1., except that you're not experiencing the problem first-hand. But you're seeing evidence that the problem exists, so you wonder if you could do something about it. Be sure to fully understand client requirements before moving forward.</p>
+This is mostly similar to 1., except that you're not experiencing the problem first-hand. But you're seeing evidence that the problem exists, so you wonder if you could do something about it. Be sure to fully understand client requirements before moving forward.
 
-<p>(<a href="https://news.ycombinator.com/item?id=9211446" rel="nofollow">Example here</a>: notice how I and a few others got curious and replied back asking what the specific problem was. You can safely bet that at least one of us looked into the feasibility.)</p>
+([Example here](https://news.ycombinator.com/item?id=9211446): notice how I and a few others got curious and replied back asking what the specific problem was. You can safely bet that at least one of us looked into the feasibility.)
 
-<h3>3. You're passionate about something and want to work on it.</h3>
+### 3\. You're passionate about something and want to work on it.
 
-<p>This one is dangerous in my experience, because it's all too easy (and frequent) to dive straight into development work without validating the idea first. Because, you know, you're passionate about it, so you move head first without thinking about how you'll make money or about how your product should be positioned compared to who you're competing against.</p>
+This one is dangerous in my experience, because it's all too easy (and frequent) to dive straight into development work without validating the idea first. Because, you know, you're passionate about it, so you move head first without thinking about how you'll make money or about how your product should be positioned compared to who you're competing against.
 
-<p>You can get lucky.</p>
+You can get lucky.
 
-<p>You won't be more often then not.</p>
+You won't be more often then not.
 
-<p>Thus, think twice before moving forward. Find prospects first. Make sure they'll be willing to buy what you might create. And <em>then</em> build -- ideally <em>after</em> closing the first client or two.</p>
-
+Thus, think twice before moving forward. Find prospects first. Make sure they'll be willing to buy what you might create. And *then* build -- ideally *after* closing the first client or two.
 
 
 ## Answer 3802

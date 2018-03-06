@@ -4,8 +4,10 @@
 - tagged: `employees`, `hiring`, `employment`
 - score: 2
 
-<p>I'm looking at service startups like <a href="http://www.handy.com" rel="nofollow">Handy</a>, and I wonder how they stop, or at least prevent, employees from taking clients from them. I mean, they could just give the client their phone number and the next time avoid the company (Handy in this case).</p>
+I'm looking at service startups like [Handy][1], and I wonder how they stop, or at least prevent, employees from taking clients from them. I mean, they could just give the client their phone number and the next time avoid the company (Handy in this case).
 
+
+  [1]: http://www.handy.com
 
 
 ## Answer 1123
@@ -13,22 +15,17 @@
 - posted by: [blunders](https://stackexchange.com/users/216182/blunders) on 2014-10-23
 - score: 4
 
-<p>To me, this question reads "why does anyone work for anyone?"</p>
+To me, this question reads "why does anyone work for anyone?"
 
-<p>Per Handy's website, service professionals join them because they provide:</p>
+Per Handy's website, service professionals join them because they provide:
 
-<blockquote>
-  <ul>
-  <li><strong>Work:</strong> Access to hundreds of jobs in your city.</li>
-  <li><strong>Great Pay</strong>: Make up to $22/hour as a cleaner or $45/hour as a handyman. Our top professionals make more than $1,000 a week.</li>
-  <li><strong>Flexible schedule:</strong> You choose when you want to work and how much. Build a full schedule or simply claim a few jobs on the side.</li>
-  <li><strong>Easy payments:</strong> No more tracking down customers for payments. Handy will direct deposit your earnings into your bank account as soon
-  as the job is complete.</li>
-  </ul>
-</blockquote>
+>  - **Work:** Access to hundreds of jobs in your city.
+>  - **Great Pay**: Make up to $22/hour as a cleaner or $45/hour as a handyman. Our top professionals make more than $1,000 a week.
+>  - **Flexible schedule:** You choose when you want to work and how much. Build a full schedule or simply claim a few jobs on the side.
+>  - **Easy payments:** No more tracking down customers for payments. Handy will direct deposit your earnings into your bank account as soon
+> as the job is complete.
 
-<p>Most people don't have the skill or will to run a business. Handy provides a service to both the service providers and consumers; end of story.</p>
-
+Most people don't have the skill or will to run a business. Handy provides a service to both the service providers and consumers; end of story.
 
 
 ## Answer 1125

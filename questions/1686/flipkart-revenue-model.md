@@ -4,8 +4,7 @@
 - tagged: `tech-company`
 - score: 2
 
-<p>For past few years Flipkart has soared to new heights with a current valuation of $10 Billion with several rounds of funding. What is the revenue model that makes Flipkart one of the 5 biggest startups?</p>
-
+For past few years Flipkart has soared to new heights with a current valuation of $10 Billion with several rounds of funding. What is the revenue model that makes Flipkart one of the 5 biggest startups?
 
 
 ## Answer 1698

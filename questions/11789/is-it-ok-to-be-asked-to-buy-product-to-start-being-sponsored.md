@@ -4,10 +4,10 @@
 - tagged: `business-model`
 - score: 0
 
-<p>A female friend of mine wants to be sponsored by fitness nutrition companies, and she told me that most of these companies want you to first buy their product, then you can advertise it in your social media accounts, and after that you may get paid.</p>
+A female friend of mine wants to be sponsored by fitness nutrition companies, and she told me that most of these companies want you to first buy their product, then you can advertise it in your social media accounts, and after that you may get paid.
 
-<p>Is this wrong, aren't you supposed to be able to start getting paid without investing any money at all?</p>
 
+Is this wrong, aren't you supposed to be able to start getting paid without investing any money at all?
 
 
 ## Answer 11790

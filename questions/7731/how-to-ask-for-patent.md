@@ -4,15 +4,16 @@
 - tagged: `legal`, `copyright`, `patent`
 - score: 1
 
-<p>I live In Suriname, South America. What should I do to ask for a patent?</p>
+I live In Suriname, South America. What should I do to ask for a patent?
 
-<p>The answer should contain information about:</p>
+The answer should contain information about:
 
-<ol>
-<li>Steps required to ask for patent</li>
-<li>Laws (US, International) I should consider</li>
-<li>Copyrights (how to copy protect as much as possible)</li>
-</ol>
+ 1. Steps required to ask for patent
+ 2. Laws (US, International) I should consider
+ 3. Copyrights (how to copy protect as much as possible)
+
+
+
 
 
 
@@ -21,10 +22,9 @@
 - posted by: [Michael Doran](https://stackexchange.com/users/6964956/michael-doran) on 2015-11-05
 - score: 3
 
-<p>Getting a patent can be a very long, complicated, and technical process. I would recommend researching patent attorney's who have experience working in your specific area of focus.</p>
+Getting a patent can be a very long, complicated, and technical process. I would recommend researching patent attorney's who have experience working in your specific area of focus.
 
-<p>Now if you just have an idea that you want to protect, I would recommend obtaining a provisional patent. You can file them on line for about a hundred dollars, and it will protect your idea for one year. </p>
-
+Now if you just have an idea that you want to protect, I would recommend obtaining a provisional patent. You can file them on line for about a hundred dollars, and it will protect your idea for one year. 
 
 
 

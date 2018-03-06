@@ -4,14 +4,13 @@
 - tagged: `service`, `cloud`
 - score: 5
 
-<p>Launched some cloud-based software available to the general public. Accounts are required for software use. We have a typical account-creation process: enter name, email, password -> verification link is emailed to user -> account is activated on click of link.</p>
+Launched some cloud-based software available to the general public. Accounts are required for software use. We have a typical account-creation process: enter name, email, password -> verification link is emailed to user -> account is activated on click of link.
 
-<p>About 20% of people that create an account don't click that link (account stays inactive). Reasons include spam folders, bad address, user-incompetence, loss of interest, etc.</p>
+About 20% of people that create an account don't click that link (account stays inactive). Reasons include spam folders, bad address, user-incompetence, loss of interest, etc.
 
-<p>Is this rate of 20% acceptable? It seems pretty high to me but I have no basis of comparison.</p>
+Is this rate of 20% acceptable? It seems pretty high to me but I have no basis of comparison.
 
-<p>As far as numbers of emails, there are about 10,000 activated accounts and 2,000 lingering un-activated accounts. ~400 of the 2k were returned as "mailbox not found" types of error. Aside from this, we can only guess the reason why someone wouldn't activate. Just looking to see if there's a general acceptable rate of account activation?</p>
-
+As far as numbers of emails, there are about 10,000 activated accounts and 2,000 lingering un-activated accounts. ~400 of the 2k were returned as "mailbox not found" types of error. Aside from this, we can only guess the reason why someone wouldn't activate. Just looking to see if there's a general acceptable rate of account activation?
 
 
 ## Answer 850
@@ -19,39 +18,37 @@
 - posted by: [JR Warren](https://stackexchange.com/users/1866317/jr-warren) on 2014-09-30
 - score: 3
 
-<p>Percentages are going to vary based on the niche, particularly how familiar people in that niche are with this standard account verification process, and how dedicated the sign-ups are to wanting to try your service.</p>
+Percentages are going to vary based on the niche, particularly how familiar people in that niche are with this standard account verification process, and how dedicated the sign-ups are to wanting to try your service.
 
-<p>If they're only mildly interested, it's not uncommon for someone to think, "Oh, I have to sign into Yahoo, find that email and click the link. I won't waste my time." or "Oh, I'll do it later."  The "do it later" ones are almost as bad because they rarely do (out of sight out of mind).</p>
+If they're only mildly interested, it's not uncommon for someone to think, "Oh, I have to sign into Yahoo, find that email and click the link. I won't waste my time." or "Oh, I'll do it later."  The "do it later" ones are almost as bad because they rarely do (out of sight out of mind).
 
-<p>That said, in my experience 20% isn't a horrible number. </p>
+That said, in my experience 20% isn't a horrible number. 
 
-<p>In the email marketing world, I've heard numbers quoted between 10-40% of users not confirming their email addresses when they subscribe to a mailing list. Obviously signing up for an email list is slightly different than signing up for a software service, but I would still expect some correlation in the numbers.</p>
+In the email marketing world, I've heard numbers quoted between 10-40% of users not confirming their email addresses when they subscribe to a mailing list. Obviously signing up for an email list is slightly different than signing up for a software service, but I would still expect some correlation in the numbers.
 
-<p>With my direct experience for my company, I crowd-funded before my website was live. Then I directed people to sign up on the website after the funding campaign was over. I don't have hard numbers off hand for the amount of confirmed/unconfirmed emails for those that signed up on the site, but I wouldn't be surprised if it was 15-20% - and this is from people who have already given me their money. So I know their committed to actually signing up. I've gotten feedback from a lot of them later on saying they mean to do it later and just never did.</p>
+With my direct experience for my company, I crowd-funded before my website was live. Then I directed people to sign up on the website after the funding campaign was over. I don't have hard numbers off hand for the amount of confirmed/unconfirmed emails for those that signed up on the site, but I wouldn't be surprised if it was 15-20% - and this is from people who have already given me their money. So I know their committed to actually signing up. I've gotten feedback from a lot of them later on saying they mean to do it later and just never did.
 
-<p>On a different train of thought, you may also be seeing SPAMmers signing up with automated software hoping to find somewhere to post a message or a link. This is especially likely if you have any kind of forum or blog that requires a signup to comment on the SPAMmers have software the sniffs out footprints of blogs, forums, wikis, etc and automatically signs up and posts a message. If they don't have it set up right, it might not be confirming the email (though the software is certainly capable of it).</p>
+On a different train of thought, you may also be seeing SPAMmers signing up with automated software hoping to find somewhere to post a message or a link. This is especially likely if you have any kind of forum or blog that requires a signup to comment on the SPAMmers have software the sniffs out footprints of blogs, forums, wikis, etc and automatically signs up and posts a message. If they don't have it set up right, it might not be confirming the email (though the software is certainly capable of it).
 
-<p>That last bit may or may not apply depending on how your site is set up.</p>
+That last bit may or may not apply depending on how your site is set up.
 
-<p>Other things you might consider to help lower the number:</p>
 
-<ul>
-<li>You could try putting a little message next to the email box on the
-signup page that says, "Make sure this is valid. We'll send you an
-email once you sign up to confirm your identity." Or something like
-that. That sets the expectation before they even sign up that they are going to need to check that email account.</li>
-<li>Put a message after the signup is complete saying, "Hey thanks for signing up. We just sent you an email with a link in it. Go click that link to activate your account and access this incredibly fantastic software that you're itching to get your hands on!"</li>
-<li>Make sure the email subject and body are both clear (as well as the "from" name/address being recognizable as you). Make sure the content of the email guides the user to click the link (not distracting by talking too much about other stuff - this email has one key purpose).</li>
-<li>Make sure the email works and looks good in text only email clients (really that should be a rule for any email correspondence).</li>
-<li>Make sure whatever email server/service you're sending from is not on a bad domain/IP address. A bad reputation will land you in spam folder consistently.</li>
-</ul>
+Other things you might consider to help lower the number:
 
-<p>Obviously I don't know which of those things you may already be doing and they'll need to be customized to your specific situation. But the key is to set the expectation, remind them, and help keep them focused all along the way until you actually get them to click that link.</p>
+ - You could try putting a little message next to the email box on the
+   signup page that says, "Make sure this is valid. We'll send you an
+   email once you sign up to confirm your identity." Or something like
+   that. That sets the expectation before they even sign up that they are going to need to check that email account.
+ - Put a message after the signup is complete saying, "Hey thanks for signing up. We just sent you an email with a link in it. Go click that link to activate your account and access this incredibly fantastic software that you're itching to get your hands on!"
+ - Make sure the email subject and body are both clear (as well as the "from" name/address being recognizable as you). Make sure the content of the email guides the user to click the link (not distracting by talking too much about other stuff - this email has one key purpose).
+ - Make sure the email works and looks good in text only email clients (really that should be a rule for any email correspondence).
+ - Make sure whatever email server/service you're sending from is not on a bad domain/IP address. A bad reputation will land you in spam folder consistently.
 
-<p><strong>EDIT:</strong></p>
+Obviously I don't know which of those things you may already be doing and they'll need to be customized to your specific situation. But the key is to set the expectation, remind them, and help keep them focused all along the way until you actually get them to click that link.
 
-<p>Based on the information you added that 1/5 of the unconfirmed email addresses were bounced as invalid, I would wonder if you're either getting spam signups hoping to get in without the hassle of using a real email address. In which case something like a captcha or other turing test may help. Or it could be real people signing up again, hoping not to use their real email address, in which case setting the expectation during signup that you will be sending a confirmation email may be helpful.</p>
+**EDIT:**
 
+Based on the information you added that 1/5 of the unconfirmed email addresses were bounced as invalid, I would wonder if you're either getting spam signups hoping to get in without the hassle of using a real email address. In which case something like a captcha or other turing test may help. Or it could be real people signing up again, hoping not to use their real email address, in which case setting the expectation during signup that you will be sending a confirmation email may be helpful.
 
 
 ## Answer 851

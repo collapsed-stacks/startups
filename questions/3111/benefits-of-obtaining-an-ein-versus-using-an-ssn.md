@@ -4,24 +4,20 @@
 - tagged: `united-states`, `taxes`, `llc`
 - score: 2
 
-<p>Benefits of Using An EIN Versus SSN</p>
+Benefits of Using An EIN Versus SSN
 
-<p>This question mainly concerns sole-proprietorships and single person startups such as websites, with no employees. When forming an LLC, most individuals will use their SSN for all future contracts made by the business, or at least where it is required. It is possible to obtain an EIN to use instead of an SSN, and I'm wondering what the advantage (or disadvantages) may be of doing this. I can think of several benefits:</p>
+This question mainly concerns sole-proprietorships and single person startups such as websites, with no employees. When forming an LLC, most individuals will use their SSN for all future contracts made by the business, or at least where it is required. It is possible to obtain an EIN to use instead of an SSN, and I'm wondering what the advantage (or disadvantages) may be of doing this. I can think of several benefits:
 
-<ol>
-<li>If an EIN is stolen, they can impersonate or ruin your business but not your personal life. (Obviously, Business = Life, but I think you know what I mean).</li>
-<li>A new SSN is notoriously difficult to replace, while an EIN is not as difficult.</li>
-<li>An EIN may be required by some manufacturers/distributors to obtain business-class products and discounts.</li>
-</ol>
+1. If an EIN is stolen, they can impersonate or ruin your business but not your personal life. (Obviously, Business = Life, but I think you know what I mean).
+2. A new SSN is notoriously difficult to replace, while an EIN is not as difficult.
+3. An EIN may be required by some manufacturers/distributors to obtain business-class products and discounts.
 
-<p>Disadvantages:</p>
+Disadvantages:
 
-<ol>
-<li>The business may be taxed differently.</li>
-</ol>
+1. The business may be taxed differently.
 
-<p>Are these statements true, and do you have any others you can think of?</p>
 
+Are these statements true, and do you have any others you can think of?
 
 
 ## Answer 3113

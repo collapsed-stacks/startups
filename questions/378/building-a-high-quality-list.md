@@ -4,12 +4,11 @@
 - tagged: `marketing`
 - score: 3
 
-<p>I'm starting from scratch building a prospect list for my potential business. I say potential because the first thing I want to do is validate my idea.</p>
+I'm starting from scratch building a prospect list for my potential business. I say potential because the first thing I want to do is validate my idea.
 
-<p>My plan is to get some related lists or at advertise in existing lists in someway to get people to take my short survey.</p>
+My plan is to get some related lists or at advertise in existing lists in someway to get people to take my short survey.
 
-<p>My question is should I just include a request for an email at the end of the survey, or give a link to a landing page for the business which will collect addresses. I wonder if I might get more data by just including the email in the survey, but if I'd have a higher quality list by only collecting addresses from people willing to take that step, after the taking the survey.</p>
-
+My question is should I just include a request for an email at the end of the survey, or give a link to a landing page for the business which will collect addresses. I wonder if I might get more data by just including the email in the survey, but if I'd have a higher quality list by only collecting addresses from people willing to take that step, after the taking the survey.
 
 
 ## Answer 380
@@ -17,19 +16,17 @@
 - posted by: [ATrubka](https://stackexchange.com/users/1052629/atrubka) on 2014-08-19
 - score: 6
 
-<p>Usually, click through rates are less than 25% meaning that even the best system that requires people to click to the next page is going to lose more than 3/4 of traffic that way.</p>
+Usually, click through rates are less than 25% meaning that even the best system that requires people to click to the next page is going to lose more than 3/4 of traffic that way.
 
-<p>So it's better to collect it sooner than later.</p>
+So it's better to collect it sooner than later.
 
-<p>Please remember that you want one to know that his email will be used in a certain mailing list. Otherwise, one of the following is going to happen to you:</p>
+Please remember that you want one to know that his email will be used in a certain mailing list. Otherwise, one of the following is going to happen to you:
 
-<ul>
-<li><p>Mailing list services are going to kick you out if complaint rate rises beyond 0.1% or often 0.03%. Complaint occurs when someone clicks button Spam in his mail program.</p></li>
-<li><p>Your emails will go to Spam for majority of recipients (especially those who use gmail, yahoo, hotmail) if you're planning to use shady mass mail tools.</p></li>
-</ul>
+- Mailing list services are going to kick you out if complaint rate rises beyond 0.1% or often 0.03%. Complaint occurs when someone clicks button Spam in his mail program.
 
-<p>As a result, you want to use a credible list and be clear about what you're going to use emails for.</p>
+- Your emails will go to Spam for majority of recipients (especially those who use gmail, yahoo, hotmail) if you're planning to use shady mass mail tools.
 
+As a result, you want to use a credible list and be clear about what you're going to use emails for.
 
 
 ## Answer 400
@@ -37,8 +34,7 @@
 - posted by: [ErstwhileIII](https://stackexchange.com/users/2320529/erstwhileiii) on 2014-08-19
 - score: 0
 
-<p>Why don't you use a limited-expendature Google Adwords campaign to see how many folk you can attract ... and include (perhaps) a survey (Google form? with option to include eMail for later interaction).  Promos for email address also seem to work! (For example, put you in a drawing for a $50 Amazon Giftcard.)</p>
-
+Why don't you use a limited-expendature Google Adwords campaign to see how many folk you can attract ... and include (perhaps) a survey (Google form? with option to include eMail for later interaction).  Promos for email address also seem to work! (For example, put you in a drawing for a $50 Amazon Giftcard.)
 
 
 ## Answer 416

@@ -4,14 +4,13 @@
 - tagged: `tech-company`, `founder`, `co-founder`
 - score: 5
 
-<p>I am a student at a german university and have been interested in founding a startup for some time. I have met several other students also interested in startups and they are mainly studying business administration or related fields.</p>
+I am a student at a german university and have been interested in founding a startup for some time. I have met several other students also interested in startups and they are mainly studying business administration or related fields.
 
-<p>A major problem I have encountered is, that as soon as I mention that I study Computer Science or am a decent programmer, there seems to be a huge shift in their behavior towards me. When I was seen as an intellectual equal before when exchanging ideas, I am now suddenly treated a tool that can implement their grand ideas for them. My input from then on seems to be disregarded and they only focus on my technical knowledge.</p>
+A major problem I have encountered is, that as soon as I mention that I study Computer Science or am a decent programmer, there seems to be a huge shift in their behavior towards me. When I was seen as an intellectual equal before when exchanging ideas, I am now suddenly treated a tool that can implement their grand ideas for them. My input from then on seems to be disregarded and they only focus on my technical knowledge.
 
-<p>Did other co-founders in tech fields have similar experiences when communicating with possible co-founders from business related fields? </p>
+Did other co-founders in tech fields have similar experiences when communicating with possible co-founders from business related fields? 
 
-<p>Have I only met people I don't have any synergy with as a co-founder or can someone give me advice to be seen as a more equal co-founder?</p>
-
+Have I only met people I don't have any synergy with as a co-founder or can someone give me advice to be seen as a more equal co-founder?
 
 
 ## Answer 5442
@@ -19,15 +18,17 @@
 - posted by: [Snick](https://stackexchange.com/users/933131/snick) on 2015-06-02
 - score: 7
 
-<p>To be honest, even if this is a really personal question, due to specific geolocation / network /etc, I must admit that the situation you mention is not completely unknown in other environments.</p>
+To be honest, even if this is a really personal question, due to specific geolocation / network /etc, I must admit that the situation you mention is not completely unknown in other environments.
 
-<p>Stepping back for a second, let's think what looking for a co-founder means.
-Personally I think you don't want just to duplicate your knowledge or find someone that can backup your role when needed. You want someone complementary to you. You see the additional value in having someone else co-founding something with you.</p>
+Stepping back for a second, let's think what looking for a co-founder means.
+Personally I think you don't want just to duplicate your knowledge or find someone that can backup your role when needed. You want someone complementary to you. You see the additional value in having someone else co-founding something with you.
 
-<p>Now, back to your situation, the chance is that they don't have any CS knowledge, and they see in you the missing piece to their idea. Somehow is the mirror situation of yours.
+Now, back to your situation, the chance is that they don't have any CS knowledge, and they see in you the missing piece to their idea. Somehow is the mirror situation of yours.
 Given that you don't want to be "just" a CTO, you should try to reposition yourself in the early stage of the conversation. 
 Something like "I studied/ing  CS but i'm interested in founding a startup and focus on the business development rather than technical implementation".
-You may want to try to find co-founder within the CS field. In this way would be easier for you to shift towards more the business side and reposition yourself.</p>
+You may want to try to find co-founder within the CS field. In this way would be easier for you to shift towards more the business side and reposition yourself.
+
+
 
 
 

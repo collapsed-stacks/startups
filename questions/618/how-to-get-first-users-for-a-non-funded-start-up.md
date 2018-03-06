@@ -4,11 +4,10 @@
 - tagged: `marketing`, `target-market`, `social-networking`
 - score: 11
 
-<p>How can a start-up find the first users (say 1000 users) for a social networking site (imagine something like meetup, couchsurfing or Airbnb)? These users should be geographically close to each other (ie same state or city). It should be a cost-effective (as start-up is not funded and has no financial investment ). Essentially these users would be able to provide feedback, which would help with the UI and bug fixing.</p>
+How can a start-up find the first users (say 1000 users) for a social networking site (imagine something like meetup, couchsurfing or Airbnb)? These users should be geographically close to each other (ie same state or city). It should be a cost-effective (as start-up is not funded and has no financial investment ). Essentially these users would be able to provide feedback, which would help with the UI and bug fixing.
 
-<p>Follow-up question:
-After these initial users, how many users would be required for this start-up to get seed funding (for non US)? Also how would that be possible to keep the site traction as high as that amount?</p>
-
+Follow-up question:
+After these initial users, how many users would be required for this start-up to get seed funding (for non US)? Also how would that be possible to keep the site traction as high as that amount?
 
 
 ## Answer 732

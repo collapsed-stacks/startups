@@ -4,8 +4,7 @@
 - tagged: `tech-company`, `idea`
 - score: 1
 
-<p>Does anyone know of any resources which tries to systematically list the set of disruptive technologies of 2014/2015 from a bird's eye view?</p>
-
+Does anyone know of any resources which tries to systematically list the set of disruptive technologies of 2014/2015 from a bird's eye view?
 
 
 ## Answer 1796

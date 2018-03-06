@@ -4,29 +4,29 @@
 - tagged: `united-states`, `software`, `funding`, `venture-capital`
 - score: 8
 
-<p>Does VC due diligence always involve revealing all trade secrets and code?</p>
+Does VC due diligence always involve revealing all trade secrets and code?
 
-<p><strong>Are there circumstances under which a startup could get VC money while keeping its technology secret, <em>even from the investors</em>?</strong> Has it ever happened?</p>
+**Are there circumstances under which a startup could get VC money while keeping its technology secret, *even from the investors*?** Has it ever happened?
 
-<p>What if I can demo the technology without revealing its secrets, like showing compression with the world's best Weissman score?</p>
+What if I can demo the technology without revealing its secrets, like showing compression with the world's best Weissman score?
 
-<p>From <a href="https://news.ycombinator.com/item?id=866299" rel="nofollow">https://news.ycombinator.com/item?id=866299</a> :</p>
+From https://news.ycombinator.com/item?id=866299 :
 
-<blockquote>
-  <p>Due Dilligence is a VERY invasive process, depending on the quality of
-  the people that the VC hires. My own specialty, technical due
-  dilligence usually takes the form of a several hour long grilling of
-  the CTO of a company with anybody they wish to call on, subsequently
-  they get a long list of follow up questions via email. I will want to
-  see your code, meet your developers, look at your documentation,
-  inspect your physical security if you store private information and so
-  on.</p>
-</blockquote>
+> Due Dilligence is a VERY invasive process, depending on the quality of
+> the people that the VC hires. My own specialty, technical due
+> dilligence usually takes the form of a several hour long grilling of
+> the CTO of a company with anybody they wish to call on, subsequently
+> they get a long list of follow up questions via email. I will want to
+> see your code, meet your developers, look at your documentation,
+> inspect your physical security if you store private information and so
+> on.
 
-<p>On the other hand, there are many reliable sources that state that VCs (understandably) never sign NDAs, and can not be trusted with secrets, regardless.</p>
+On the other hand, there are many reliable sources that state that VCs (understandably) never sign NDAs, and can not be trusted with secrets, regardless.
 
-<p>Not all IP can be protected with patents. As Elon Musk <a href="http://www.wired.com/2012/10/ff-elon-musk-qa/all/" rel="nofollow">said</a>, "If we published patents, it would be farcical, because the Chinese would just use them as a recipe book."</p>
+Not all IP can be protected with patents. As Elon Musk [said][1], "If we published patents, it would be farcical, because the Chinese would just use them as a recipe book."
 
+
+  [1]: http://www.wired.com/2012/10/ff-elon-musk-qa/all/
 
 
 ## Answer 8640
@@ -140,18 +140,16 @@
 - posted by: [Eric Platon](https://stackexchange.com/users/1533/eric-platon) on 2016-02-25
 - score: 5
 
-<p>I can tell you first hand it is possible to get VC investment while keeping technology secret, but details I have are difficult to share.</p>
+I can tell you first hand it is possible to get VC investment while keeping technology secret, but details I have are difficult to share.
 
-<p>Basically I was involved in two businesses, each backed by unrelated VCs (thus, more than one data point!), one in the US, one outside.</p>
+Basically I was involved in two businesses, each backed by unrelated VCs (thus, more than one data point!), one in the US, one outside.
 
-<p>In both cases they asked for no detail of the technology beyond abstract descriptions, etc. They asked for financial details, but little or no trade "secret".</p>
+In both cases they asked for no detail of the technology beyond abstract descriptions, etc. They asked for financial details, but little or no trade "secret".
 
-<p>In one case the company is doing well, and the VC is happy. In the other, well, the contrary.</p>
+In one case the company is doing well, and the VC is happy. In the other, well, the contrary.
 
-<hr>
-
-<p>Interesting fact: I just come out of a meeting where the VC asked quite early to sign an NDA...</p>
-
+---
+Interesting fact: I just come out of a meeting where the VC asked quite early to sign an NDA...
 
 
 ## Answer 8634
@@ -159,22 +157,21 @@
 - posted by: [Elegant.Scripting](https://stackexchange.com/users/5688251/elegant-scripting) on 2016-02-28
 - score: -1
 
-<p>When you're looking to partner with a venture capitalist, the last thing you want to do is ask them to sign an NDA.</p>
+When you're looking to partner with a venture capitalist, the last thing you want to do is ask them to sign an NDA.
 
-<p>People ask me why all of the time, and my answer is always the same.</p>
+People ask me why all of the time, and my answer is always the same.
 
-<p>If a firm invests in your company, you will be working with that firm for a long time. Do you really want to go into a long relationship (with people who can sometimes oust you) by saying "Look, I've got something great. I want your money. And by the way, I don't trust you, so sign here."</p>
+If a firm invests in your company, you will be working with that firm for a long time. Do you really want to go into a long relationship (with people who can sometimes oust you) by saying "Look, I've got something great. I want your money. And by the way, I don't trust you, so sign here."
 
-<p>In saying that, your stance is fundamentally flawed because they get lots of supposedly "great" and "revolutionary" pitches/ideas. The only difference between your and the next guy's idea is that you're asking them to review and sign an NDA, to give someone money, who by the way, doesn't trust them.</p>
+In saying that, your stance is fundamentally flawed because they get lots of supposedly "great" and "revolutionary" pitches/ideas. The only difference between your and the next guy's idea is that you're asking them to review and sign an NDA, to give someone money, who by the way, doesn't trust them.
 
-<p>Not the way to go about starting a long relationship involving lots of money and (sometimes) power play.</p>
+Not the way to go about starting a long relationship involving lots of money and (sometimes) power play.
 
-<p>If you have awesome technology, great! Tell them all about it. Show them what it does. Sell them on it. Give them the financials. Just keep the good stuff that you don't want them to know private, and if they ask about it, let them know their investment will secure that information.</p>
+If you have awesome technology, great! Tell them all about it. Show them what it does. Sell them on it. Give them the financials. Just keep the good stuff that you don't want them to know private, and if they ask about it, let them know their investment will secure that information.
 
-<p>And then if they invest, you're off to the races.</p>
+And then if they invest, you're off to the races.
 
-<p>And then if they don't, you're still of to the races. You need to line up pitch after pitch, to keep momentum. The only thing NDA's do in the pitching world is kill momentum.</p>
-
+And then if they don't, you're still of to the races. You need to line up pitch after pitch, to keep momentum. The only thing NDA's do in the pitching world is kill momentum.
 
 
 

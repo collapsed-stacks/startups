@@ -4,8 +4,7 @@
 - tagged: `payment`
 - score: 1
 
-<p>I want to create an online teacher finding website in Pakistan. Which finds teachers in Pakistan and also rate them. The trouble I am facing is that there is no payment system in Pakistan. How would people pay the system? What offline channels should I use to collect payments?</p>
-
+I want to create an online teacher finding website in Pakistan. Which finds teachers in Pakistan and also rate them. The trouble I am facing is that there is no payment system in Pakistan. How would people pay the system? What offline channels should I use to collect payments?
 
 
 ## Answer 11782
@@ -13,12 +12,11 @@
 - posted by: [MrMowgli](https://stackexchange.com/users/2427359/mrmowgli) on 2016-12-28
 - score: 4
 
-<p>I once worked at a startup where we took payment by credit card.  In reality though, we didn't have an actual online payment system, we took the information down, printed it out and authorized each by hand with our bank.  While it did add a delay in our payment system, it also meant we were taking orders even though we didn't have a proper payment system.</p>
+I once worked at a startup where we took payment by credit card.  In reality though, we didn't have an actual online payment system, we took the information down, printed it out and authorized each by hand with our bank.  While it did add a delay in our payment system, it also meant we were taking orders even though we didn't have a proper payment system.
 
-<p>the Philippines there are several payment services that allow you to make payments in convenience stores and post the balance to your account.  This allows people who have no credit card or online payment system to still make payments.</p>
+the Philippines there are several payment services that allow you to make payments in convenience stores and post the balance to your account.  This allows people who have no credit card or online payment system to still make payments.
 
-<p>Of course if payments become that much of an issue in your country, you might want to get into that space yourself and provide the service first. </p>
-
+Of course if payments become that much of an issue in your country, you might want to get into that space yourself and provide the service first. 
 
 
 

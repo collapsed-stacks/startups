@@ -4,12 +4,11 @@
 - tagged: `venture-capital`
 - score: 1
 
-<p>It seemed like from roughly 2004-2011 there were many highly successful startups founded which grew rapidly solely by word of mouth and very little funding. New unicorns were being founded every year.</p>
+It seemed like from roughly 2004-2011 there were many highly successful startups founded which grew rapidly solely by word of mouth and very little funding. New unicorns were being founded every year.
 
-<p>Nowadays, there are big internet companies, but things seem a lot more saturated and it takes a lot more capital to succeed. And none of the new companies started by college grads seem super successful.</p>
+Nowadays, there are big internet companies, but things seem a lot more saturated and it takes a lot more capital to succeed. And none of the new companies started by college grads seem super successful.
 
-<p>Is this correct or am I biased? Is it not possible anymore to take a company from a college dorm to billions of dollars within a couple years? Or have we just not seen them yet?</p>
-
+Is this correct or am I biased? Is it not possible anymore to take a company from a college dorm to billions of dollars within a couple years? Or have we just not seen them yet?
 
 
 ## Answer 9541
@@ -17,8 +16,7 @@
 - posted by: [BigMonkey89WithaLeg](https://stackexchange.com/users/8615858/bigmonkey89withaleg) on 2016-06-23
 - score: 1
 
-<p>Of course it is possible for a college dorm company to be the next billion dollar idea. I can assure you someone is working on it right now. There are many issues that are left for us to solve such as the increase in traffic. We need either smaller cars, bigger lanes, or cars that do not drive on the road at all, because we can not just keep building more and more highways, it will become impractical. There are many things you can start, the next great idea could come from you.</p>
-
+Of course it is possible for a college dorm company to be the next billion dollar idea. I can assure you someone is working on it right now. There are many issues that are left for us to solve such as the increase in traffic. We need either smaller cars, bigger lanes, or cars that do not drive on the road at all, because we can not just keep building more and more highways, it will become impractical. There are many things you can start, the next great idea could come from you.
 
 
 

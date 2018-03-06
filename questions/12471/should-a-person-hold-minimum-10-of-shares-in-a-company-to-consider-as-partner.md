@@ -4,9 +4,10 @@
 - tagged: `partnership`, `shares`
 - score: 0
 
-<p>If a person hold only 8%, can I call that person as partner?</p>
+If a person hold only 8%, can I call that person as partner?
 
-<p>What are the criteria to call someone as partner?</p>
+What are the criteria to call someone as partner?
+
 
 
 
@@ -15,8 +16,7 @@
 - posted by: [Jeremy](https://stackexchange.com/users/8704241/jeremy) on 2017-04-11
 - score: 1
 
-<p>There may be specific rules in certain countries (I only know from my own experience in the USA, Cayman Islands and Luxembourg) and in my experience, there isn't - the last I saw (two weeks ago) was a 0.11% interest in a Luxembourg LP</p>
-
+There may be specific rules in certain countries (I only know from my own experience in the USA, Cayman Islands and Luxembourg) and in my experience, there isn't - the last I saw (two weeks ago) was a 0.11% interest in a Luxembourg LP
 
 
 

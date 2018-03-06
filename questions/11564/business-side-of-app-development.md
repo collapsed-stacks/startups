@@ -4,14 +4,13 @@
 - tagged: `mobile-apps`
 - score: 4
 
-<p>I'm currently developing an app for the Apple App Store. I'm currently hung up on the fact that I am unable to choose a custom name under which to submit my app unless I have a business which I can associate the app with. </p>
+I'm currently developing an app for the Apple App Store. I'm currently hung up on the fact that I am unable to choose a custom name under which to submit my app unless I have a business which I can associate the app with. 
 
-<p>I'm wondering what the differences are when it comes to cost/monetization associated with going the Business vs Individual developer route? </p>
+I'm wondering what the differences are when it comes to cost/monetization associated with going the Business vs Individual developer route? 
 
-<p>Obviously the developer account license costs the same regardless of account type, but what sort of business (LLC?) do I need to setup, what are the legal ramifications of doing so, how does monetization through that LLC to me then work, etc? I've been unable to find any great articles that touch on these points online, and would love to hear from people that have gone through one path or the other and what benefits and drawbacks they've encountered. </p>
+Obviously the developer account license costs the same regardless of account type, but what sort of business (LLC?) do I need to setup, what are the legal ramifications of doing so, how does monetization through that LLC to me then work, etc? I've been unable to find any great articles that touch on these points online, and would love to hear from people that have gone through one path or the other and what benefits and drawbacks they've encountered. 
 
-<p>Edit: Additional info, I am in the US/California, and I am working by myself</p>
-
+Edit: Additional info, I am in the US/California, and I am working by myself
 
 
 ## Answer 11566

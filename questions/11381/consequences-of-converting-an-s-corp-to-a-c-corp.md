@@ -4,12 +4,11 @@
 - tagged: `taxes`, `s-corporation`, `c-corporation`
 - score: 1
 
-<p>I'm trying to decide whether to to incorporate my company as a C-Corp or an S-Corp. I've got a very successful iOS app bringing in substantial revenue already, and I'd like to start hiring a few other developers to expand the app and develop a sequel. It sounds like a C-Corp is what I'm aiming for in the long term, but an S-Corp sounds more ideal in the short term. </p>
+I'm trying to decide whether to to incorporate my company as a C-Corp or an S-Corp. I've got a very successful iOS app bringing in substantial revenue already, and I'd like to start hiring a few other developers to expand the app and develop a sequel. It sounds like a C-Corp is what I'm aiming for in the long term, but an S-Corp sounds more ideal in the short term. 
 
-<p>It's been implied to me that it's possible to start as an S-Corp for a while, and then become a C-Corp if and when we start looking for investors. </p>
+It's been implied to me that it's possible to start as an S-Corp for a while, and then become a C-Corp if and when we start looking for investors. 
 
-<p>I'm wondering, what are the consequences of such a move? Upon converting the S to a C, would it work exactly as if it had been a C-Corp all along? Or would there be some lasting impact, positive or negative, from having spent some time as an S-Corp?</p>
-
+I'm wondering, what are the consequences of such a move? Upon converting the S to a C, would it work exactly as if it had been a C-Corp all along? Or would there be some lasting impact, positive or negative, from having spent some time as an S-Corp?
 
 
 ## Answer 11382
@@ -34,12 +33,11 @@
 - posted by: [Andrew](https://stackexchange.com/users/9640421/andrew) on 2016-11-14
 - score: 0
 
-<p>First and foremost, all corporations start and technically stay a C-Corp for initially incorporated. After your incorporate as a C-Corp you then have the option to elect to be taxed as an S-Corp for tax purposes.</p>
+First and foremost, all corporations start and technically stay a C-Corp for initially incorporated. After your incorporate as a C-Corp you then have the option to elect to be taxed as an S-Corp for tax purposes.
 
-<p>S-Corps are traditionally better for any early stage company. They can be converted to a C-Corp at any time voluntarily. That said, you may involuntarily be changed to a C-Corp if you violate any of the covenants you must abide by to remain taxed as a S-Corp (you can google S-Corp IRS to obtain the list).</p>
+S-Corps are traditionally better for any early stage company. They can be converted to a C-Corp at any time voluntarily. That said, you may involuntarily be changed to a C-Corp if you violate any of the covenants you must abide by to remain taxed as a S-Corp (you can google S-Corp IRS to obtain the list).
 
-<p>If you voluntarily change from an S-Corp to a C-Corp, it is normally by the direction of new investment money (Venture Capital will not invest in S-Corp 99% of the time). There are no serious consequences tax wise.</p>
-
+If you voluntarily change from an S-Corp to a C-Corp, it is normally by the direction of new investment money (Venture Capital will not invest in S-Corp 99% of the time). There are no serious consequences tax wise.
 
 
 

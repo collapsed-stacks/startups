@@ -4,8 +4,7 @@
 - tagged: `sales`, `customer-development`, `online-store`
 - score: -1
 
-<p>I am running an EdTech product where we will be selling Group Training sessions on various subjects. I and a couple of other guys have coded the entire product and since I am from a Technological background and lack of sales skills, I unable to find a way to get paying customers who could pay and join our online training session. Can anyone suggest me some methods how I can get my initial customers in this segment?</p>
-
+I am running an EdTech product where we will be selling Group Training sessions on various subjects. I and a couple of other guys have coded the entire product and since I am from a Technological background and lack of sales skills, I unable to find a way to get paying customers who could pay and join our online training session. Can anyone suggest me some methods how I can get my initial customers in this segment?
 
 
 ## Answer 13228

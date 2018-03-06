@@ -4,26 +4,23 @@
 - tagged: `patent`
 - score: 2
 
-<p>I have an idea for a process that basically improves upon an existing process. I just want to know if it's able to be patented. The following is a hypothetical example:</p>
+I have an idea for a process that basically improves upon an existing process. I just want to know if it's able to be patented. The following is a hypothetical example:
 
-<p>Let's say I have a more cost-effective way of displaying ads in newspapers and magazines. Of course, advertising in newspapers/magazines has been already done countless times. However, I have a method that can make it very cheap for anyone to advertise in the papers. Assume some people already know about this method and practice it themselves, but only a few know and most people wouldn't figure it out. </p>
+Let's say I have a more cost-effective way of displaying ads in newspapers and magazines. Of course, advertising in newspapers/magazines has been already done countless times. However, I have a method that can make it very cheap for anyone to advertise in the papers. Assume some people already know about this method and practice it themselves, but only a few know and most people wouldn't figure it out. 
 
-<p>Let's say I want to build a business that takes this method and gives anyone the ability to advertise for cheap. People sign up for my service, pay a monthly amount, and I advertise their ads using this method. They don't know exactly how it works, but they save money and their ad gets in the paper.</p>
+Let's say I want to build a business that takes this method and gives anyone the ability to advertise for cheap. People sign up for my service, pay a monthly amount, and I advertise their ads using this method. They don't know exactly how it works, but they save money and their ad gets in the paper.
 
-<p>Now, the patent part. Can this whole thing even be patented? Can you even patent processes and concepts?</p>
+Now, the patent part. Can this whole thing even be patented? Can you even patent processes and concepts?
 
-<p>If I break this down, it's different parts that make up the whole process:</p>
+If I break this down, it's different parts that make up the whole process:
 
-<ol>
-<li>People use an online platform that I designed (that involves the use of some WordPress plugins)</li>
-<li>People save money using my process of getting their ad in the paper</li>
-<li>The process saves people money by doing things as cheaply as possible</li>
-</ol>
+ 1. People use an online platform that I designed (that involves the use of some WordPress plugins)
+ 2. People save money using my process of getting their ad in the paper
+ 3. The process saves people money by doing things as cheaply as possible
 
-<p>Can anything here be patented? Can I patent the whole thing as a process or concept?</p>
+Can anything here be patented? Can I patent the whole thing as a process or concept?
 
-<p>The country is the US.</p>
-
+The country is the US.
 
 
 ## Answer 6253
@@ -31,21 +28,20 @@
 - posted by: [A E](https://stackexchange.com/users/5191744/a-e) on 2015-09-03
 - score: 2
 
-<p>It depends what country you're trying to patent it in - business methods can be patented in the U.S. but not (usually) in the EU.</p>
+It depends what country you're trying to patent it in - business methods can be patented in the U.S. but not (usually) in the EU.
 
-<blockquote>
-  <p><em>Business method patents</em> are a class of patents which disclose and claim new methods of doing business. This includes new types of e-commerce, insurance, banking and tax compliance etc. Business method patents are a relatively new species of patent and there have been several reviews investigating the appropriateness of patenting business methods. Nonetheless, they have become important assets for both independent inventors and major corporations.</p>
-</blockquote>
+> *Business method patents* are a class of patents which disclose and claim new methods of doing business. This includes new types of e-commerce, insurance, banking and tax compliance etc. Business method patents are a relatively new species of patent and there have been several reviews investigating the appropriateness of patenting business methods. Nonetheless, they have become important assets for both independent inventors and major corporations.
 
-<p><a href="https://en.m.wikipedia.org/wiki/Business_method_patent" rel="nofollow">https://en.m.wikipedia.org/wiki/Business_method_patent</a></p>
+https://en.m.wikipedia.org/wiki/Business_method_patent
 
-<p>If something has already been invented and publicly described then in most jurisdictions you can no longer patent it.</p>
+If something has already been invented and publicly described then in most jurisdictions you can no longer patent it.
 
-<blockquote>
-  <p>To anticipate the subject-matter of a patent claim, prior art is generally expected to provide a description sufficient to inform an average worker in the field (or the person skilled in the art) of some subject matter falling within the scope of the claim. Prior art must be available in some way to the public, and in many countries, the information needs to be recorded in a fixed form somehow.</p>
-</blockquote>
+> To anticipate the subject-matter of a patent claim, prior art is generally expected to provide a description sufficient to inform an average worker in the field (or the person skilled in the art) of some subject matter falling within the scope of the claim. Prior art must be available in some way to the public, and in many countries, the information needs to be recorded in a fixed form somehow.
 
-<p><a href="https://en.m.wikipedia.org/wiki/Prior_art" rel="nofollow">https://en.m.wikipedia.org/wiki/Prior_art</a></p>
+https://en.m.wikipedia.org/wiki/Prior_art
+
+
+
 
 
 
@@ -54,10 +50,9 @@
 - posted by: [Paparazzi](https://stackexchange.com/users/300272/paparazzi) on 2015-09-03
 - score: 1
 
-<p>"Assume some people already know about this method and practice it themselves"  </p>
+"Assume some people already know about this method and practice it themselves"  
 
-<p>It is not new.  Unless you can prove it was invented by you then no you cannot get a patent.  Even if it was invented by you does mean you can patent it.</p>
-
+It is not new.  Unless you can prove it was invented by you then no you cannot get a patent.  Even if it was invented by you does mean you can patent it.
 
 
 ## Answer 7256
@@ -65,37 +60,27 @@
 - posted by: [Abhi](https://stackexchange.com/users/200253/abhi) on 2015-09-04
 - score: 1
 
-<p><a href="https://patents.stackexchange.com/">https://patents.stackexchange.com/</a> might be a better place to ask this question - </p>
+https://patents.stackexchange.com/ might be a better place to ask this question - 
 
-<p>You wrote "I have an idea for a process that basically improves upon an existing process" - yes it can be patented if the Patent Office agrees that your idea is non-obvious and indeed a novelty over the existing process.</p>
+You wrote "I have an idea for a process that basically improves upon an existing process" - yes it can be patented if the Patent Office agrees that your idea is non-obvious and indeed a novelty over the existing process.
 
-<p>I would recommend you talk to a Patent Attorney to better appreciate the efficacy of your idea. More so because of the recent rulings</p>
+I would recommend you talk to a Patent Attorney to better appreciate the efficacy of your idea. More so because of the recent rulings
 
-<ul>
-<li><p>With the Alice ruling - the holding is "Merely requiring generic
-computer implementation fails to transform an abstract idea into
-patent-eligible invention ..."</p></li>
-<li><p>With the Bilski ruling - the holding is "machine-or-transformation
-test is not the sole test for determining the patent eligibility of a
-process, but rather a useful tool .."</p></li>
-</ul>
+ - With the Alice ruling - the holding is "Merely requiring generic
+   computer implementation fails to transform an abstract idea into
+   patent-eligible invention ..."
 
-<blockquote>
-  <blockquote>
-    <p>Can anything here be patented?</p>
-  </blockquote>
-</blockquote>
+ -  With the Bilski ruling - the holding is "machine-or-transformation
+   test is not the sole test for determining the patent eligibility of a
+   process, but rather a useful tool .."
 
-<p>Not sufficient disclosure here to give my thoughts on that. And that is good because you do not want to announce to the world your idea which maybe an awesome invention. My suggestion talk to an Attorney who specializes in your field. Though you are the expert, the Attorney is only going to help ascertain your idea in context of those rulings.</p>
+>> Can anything here be patented?
 
-<blockquote>
-  <blockquote>
-    <p>Can I patent the whole thing as a process or concept?</p>
-  </blockquote>
-</blockquote>
+Not sufficient disclosure here to give my thoughts on that. And that is good because you do not want to announce to the world your idea which maybe an awesome invention. My suggestion talk to an Attorney who specializes in your field. Though you are the expert, the Attorney is only going to help ascertain your idea in context of those rulings.
 
-<p>Again hard to say  -a discussion with a Patent Attorney will help you decide. </p>
+>> Can I patent the whole thing as a process or concept?
 
+Again hard to say  -a discussion with a Patent Attorney will help you decide. 
 
 
 ## Answer 7255

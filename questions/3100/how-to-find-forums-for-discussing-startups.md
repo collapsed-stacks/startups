@@ -4,10 +4,9 @@
 - tagged: `website`
 - score: 2
 
-<p>I found this Stackexchange 'Startup' is best place for question and finding answer, but when I don't have a question and just feel I want to read or discuss with some other people. Maybe that can be start point to meet other people who have similar  interest around world.</p>
+I found this Stackexchange 'Startup' is best place for question and finding answer, but when I don't have a question and just feel I want to read or discuss with some other people. Maybe that can be start point to meet other people who have similar  interest around world.
 
-<p>Are there forums for discussing startups, and how do I find them?</p>
-
+Are there forums for discussing startups, and how do I find them?
 
 
 ## Answer 3101

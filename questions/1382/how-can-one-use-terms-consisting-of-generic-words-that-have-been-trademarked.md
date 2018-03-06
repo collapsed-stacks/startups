@@ -4,27 +4,28 @@
 - tagged: `intellectual-property`, `trademark`
 - score: 1
 
-<p>Here's the best example I can find:</p>
+Here's the best example I can find:
 
-<p>One-A-Day Vitamin D</p>
+One-A-Day Vitamin D
 
-<p>In this case the company, Bayer, has trademarked the "One-A-Day" portion as a brand:</p>
+In this case the company, Bayer, has trademarked the "One-A-Day" portion as a brand:
 
-<p><a href="http://www.oneaday.com/" rel="nofollow">http://www.oneaday.com/</a></p>
+http://www.oneaday.com/
 
-<p>As a hypothetical scenario, let's say I also sell Vitamin D under my own brand.  Let's say I want to create an ad that say something like:</p>
+As a hypothetical scenario, let's say I also sell Vitamin D under my own brand.  Let's say I want to create an ad that say something like:
 
-<p>"Quality Vitamin D, Take One a Day"</p>
+"Quality Vitamin D, Take One a Day"
 
-<p>or</p>
+or
 
-<p>"Quality Vitamin D, Take One a Day for Normal Results, Two a Day recommended."</p>
+"Quality Vitamin D, Take One a Day for Normal Results, Two a Day recommended."
 
-<p>Does this collide with Bayer's trademark/s?</p>
+Does this collide with Bayer's trademark/s?
 
-<p>How can one use these generic terms without running into issues.  After all, most doctors tell their patients "take one a day for two weeks" when issuing prescriptions.</p>
+How can one use these generic terms without running into issues.  After all, most doctors tell their patients "take one a day for two weeks" when issuing prescriptions.
 
-<p>This is an example. I am not selling vitamins but I find this example aligns closely with the situation I am looking at.</p>
+This is an example. I am not selling vitamins but I find this example aligns closely with the situation I am looking at.
+
 
 
 

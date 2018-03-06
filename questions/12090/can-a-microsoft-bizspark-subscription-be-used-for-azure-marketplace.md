@@ -4,13 +4,12 @@
 - tagged: `bizspark`
 - score: 1
 
-<p>Recently my start-up was accepted to BizSpark. I also have a Microsoft Azure account from my BizSpark subscription. </p>
+Recently my start-up was accepted to BizSpark. I also have a Microsoft Azure account from my BizSpark subscription. 
 
-<p>So can I use Zend Server in Azure using this BizSpark subscription?</p>
+So can I use Zend Server in Azure using this BizSpark subscription?
 
-<p>Thanks <br>
-Saeed</p>
-
+Thanks <br>
+Saeed
 
 ## No Answers
 

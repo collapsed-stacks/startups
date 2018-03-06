@@ -4,12 +4,11 @@
 - tagged: `website`, `intellectual-property`
 - score: 1
 
-<p>If I build a website and don't want anyone to copy, modify it, etc. But I do want it to be used as a product or service, what can I do to protect myself from people copying it etc?</p>
+If I build a website and don't want anyone to copy, modify it, etc. But I do want it to be used as a product or service, what can I do to protect myself from people copying it etc?
 
-<p>For example if I were to build a job board web business.</p>
+For example if I were to build a job board web business.
 
-<p>Is there a license that I need to declare or something similar?</p>
-
+Is there a license that I need to declare or something similar?
 
 
 ## Answer 8481
@@ -28,10 +27,9 @@
 - posted by: [Jeff O'Neill](https://stackexchange.com/users/46273/jeff-o-neill) on 2016-02-10
 - score: 0
 
-<p>A license gives other people the rights to use your content so you don't want that. I suggest reading about copyright: en.wikipedia.org/wiki/Copyright</p>
+A license gives other people the rights to use your content so you don't want that. I suggest reading about copyright: en.wikipedia.org/wiki/Copyright
 
-<p>Note that you obtain copyright protection automatically (at least in the US) just by publishing (e.g., on a website) your work.  Best to put a "(C) 2016 Company Name" in the footer of your website.  Also a good idea to explicitly state in your terms and conditions that people can't copy the content of your website.</p>
-
+Note that you obtain copyright protection automatically (at least in the US) just by publishing (e.g., on a website) your work.  Best to put a "(C) 2016 Company Name" in the footer of your website.  Also a good idea to explicitly state in your terms and conditions that people can't copy the content of your website.
 
 
 

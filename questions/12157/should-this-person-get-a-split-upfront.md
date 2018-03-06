@@ -4,21 +4,22 @@
 - tagged: `shares`
 - score: 0
 
-<p>I would like to share a little story with you and would like to hear some opinions with respect to a fair or not fair split.</p>
+I would like to share a little story with you and would like to hear some opinions with respect to a fair or not fair split.
 
-<p>Back in 2012 I built a piece of web software for a company when I was still a student. They were friends so no contracts, no nothing. In total I spent 1.5 years developing their application (I got like 10k out of it or so). It is still in production but I don't actively work on it anymore.</p>
+Back in 2012 I built a piece of web software for a company when I was still a student. They were friends so no contracts, no nothing. In total I spent 1.5 years developing their application (I got like 10k out of it or so). It is still in production but I don't actively work on it anymore.
 
-<p>Beginning of this year I decided to make a business out of this idea together with a guy I met working at another company. We want to take the general idea, add some needed abstractions and remove some too detailed features.</p>
+Beginning of this year I decided to make a business out of this idea together with a guy I met working at another company. We want to take the general idea, add some needed abstractions and remove some too detailed features.
 
-<p>Now the person for whom I initially built the app demands a share.</p>
+Now the person for whom I initially built the app demands a share.
 
-<p>And I am asking myself. Why? He sais it is his idea and when we initially worked on that we learned what works and what not. And for this historic things he wants a share.</p>
+And I am asking myself. Why? He sais it is his idea and when we initially worked on that we learned what works and what not. And for this historic things he wants a share.
 
-<p>I on the other hand say: With this logic my former employer needs a share as well because he tought me how to build software.</p>
+I on the other hand say: With this logic my former employer needs a share as well because he tought me how to build software.
 
-<p>I offered him pie for the future in combination with consulting which we might need. I offered him free usage of the product in the future if we succeed with it and can make a living out of that. But he insists that only a 10% share upfront is fair. Even though we might be doing something completely different in the end.</p>
+I offered him pie for the future in combination with consulting which we might need. I offered him free usage of the product in the future if we succeed with it and can make a living out of that. But he insists that only a 10% share upfront is fair. Even though we might be doing something completely different in the end.
 
-<p>I would love to get some input from you guys. :)</p>
+I would love to get some input from you guys. :)
+
 
 
 

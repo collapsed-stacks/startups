@@ -4,31 +4,28 @@
 - tagged: `growth`, `user-acquisition`, `user-engagement`
 - score: 4
 
-<p>Since I have launched my Startup - one month ago - I'm having an user acquisition rate of 23 new users per day. Ok, at least users are coming to my website, but not like I expected.</p>
+Since I have launched my Startup - one month ago - I'm having an user acquisition rate of 23 new users per day. Ok, at least users are coming to my website, but not like I expected.
 
-<p>My startup connects freelance people with who needs their work. When the professionals activate their profile, we give them 5 credits to use and for every call of a customer, 1 credit is used.</p>
+My startup connects freelance people with who needs their work. When the professionals activate their profile, we give them 5 credits to use and for every call of a customer, 1 credit is used.
 
-<p>My first problem, I have more freelance than customers. 80% - 20%.</p>
+My first problem, I have more freelance than customers. 80% - 20%.
 
-<p>So far, I have done some of growth hacking strategies:</p>
+So far, I have done some of growth hacking strategies:
 
-<ul>
-<li>Invest in social media, as Facebook ads to attract more users;</li>
-<li>For every freelance that the customer hires on our website, he get part of the money back, so we have a "cash back" system as well;</li>
-<li>Our website has a rating system, customers can rate freelances. To help freelances to have a good rating, when he activates his profile, he can request from 5 friends a rating;</li>
-<li>On their profile they can insert photos, videos and description;</li>
-<li>They can share their profile on facebook;</li>
-<li>We have produced a video and it has more than 60k of views on Facebook;</li>
-</ul>
+- Invest in social media, as Facebook ads to attract more users;
+- For every freelance that the customer hires on our website, he get part of the money back, so we have a "cash back" system as well;
+- Our website has a rating system, customers can rate freelances. To help freelances to have a good rating, when he activates his profile, he can request from 5 friends a rating;
+- On their profile they can insert photos, videos and description;
+- They can share their profile on facebook;
+- We have produced a video and it has more than 60k of views on Facebook;
 
-<p>For now on, of course I want to increase our numbers. I think the problem ins't with the website itself, there are no critical bugs and we called to some customers to hear their opinion and the feedback was good.</p>
+For now on, of course I want to increase our numbers. I think the problem ins't with the website itself, there are no critical bugs and we called to some customers to hear their opinion and the feedback was good.
 
-<p>Our rejection number on Google Analytics it's ok, 34% and our returning visitor is more than 45%. </p>
+Our rejection number on Google Analytics it's ok, 34% and our returning visitor is more than 45%. 
 
-<p>So, what you guys would recommend to do from now on? I have tried some strategies but I think is not enough yet. I want to have a curved line to the top :D</p>
+So, what you guys would recommend to do from now on? I have tried some strategies but I think is not enough yet. I want to have a curved line to the top :D
 
-<p>Thanks guys ! </p>
-
+Thanks guys ! 
 
 
 ## Answer 12562

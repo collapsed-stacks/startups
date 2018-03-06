@@ -4,8 +4,7 @@
 - tagged: `business-plan`, `business-model`, `process`
 - score: 5
 
-<p>What type of things would be measured? Is it possible to predict success on any given start up industry? </p>
-
+What type of things would be measured? Is it possible to predict success on any given start up industry? 
 
 
 ## Answer 6156
@@ -36,16 +35,15 @@
 - posted by: [ITWizard](https://stackexchange.com/users/6842112/itwizard) on 2015-08-24
 - score: 1
 
-<p>From my personal experience in running a small IT Business with my friend, I'd say you can absolutely measure success. If you have a mission and vision statement for your business, and you know what you want out of your business, you should set goals and/or objectives that will help ensure you meet, if not exceed what your main mission and vision statement sets out. This is a good way to look at predicting your companies success.</p>
+From my personal experience in running a small IT Business with my friend, I'd say you can absolutely measure success. If you have a mission and vision statement for your business, and you know what you want out of your business, you should set goals and/or objectives that will help ensure you meet, if not exceed what your main mission and vision statement sets out. This is a good way to look at predicting your companies success.
 
-<p>As for what would be measured, you would looking profits, your client base, customer satisfaction and most importantly employee satisfaction aswell as your own satisfaction.</p>
+As for what would be measured, you would looking profits, your client base, customer satisfaction and most importantly employee satisfaction aswell as your own satisfaction.
 
-<p>Hope this helps. </p>
+Hope this helps. 
 
-<p>Thanks. </p>
+Thanks. 
 
-<p>Mark </p>
-
+Mark 
 
 
 ## Answer 6154
@@ -53,8 +51,7 @@
 - posted by: [Alain](https://stackexchange.com/users/21866/alain) on 2015-08-25
 - score: 1
 
-<p>It's very difficult, but yes, there are clues. The #1 I would say is evidence of traction. If you have people desperately in love with your product, then you may be up to something. #2 would be whether you can make money. It's not as important, but if you have #1 and #2, you are doing better than most.</p>
-
+It's very difficult, but yes, there are clues. The #1 I would say is evidence of traction. If you have people desperately in love with your product, then you may be up to something. #2 would be whether you can make money. It's not as important, but if you have #1 and #2, you are doing better than most.
 
 
 ## Answer 6157
@@ -81,9 +78,10 @@ and how we protect our product without patent You can read <a href="http://narza
 - posted by: [Bruce Campbell](https://stackexchange.com/users/5763335/bruce-campbell) on 2015-08-25
 - score: 0
 
-<p>Seems to me if there was a general quantitative model that could forecast business success, the result would be all kinds of businesses crowding into the space described by the model, followed by a shakeout. Then the model would be no good.</p>
+Seems to me if there was a general quantitative model that could forecast business success, the result would be all kinds of businesses crowding into the space described by the model, followed by a shakeout. Then the model would be no good.
 
-<p>Success can only be explained and studied after the fact, from what I can tell. Consider the number of "hot" companies who's CEOs show up in forbes or whatever as "geniuses" and "CEO of the year", followed by their company crashing a year or two later (in the case of DEC, I think it was 6 months from genius to unemployed for Ken Olsen, possibly a record).</p>
+Success can only be explained and studied after the fact, from what I can tell. Consider the number of "hot" companies who's CEOs show up in forbes or whatever as "geniuses" and "CEO of the year", followed by their company crashing a year or two later (in the case of DEC, I think it was 6 months from genius to unemployed for Ken Olsen, possibly a record).
+
 
 
 
@@ -92,8 +90,7 @@ and how we protect our product without patent You can read <a href="http://narza
 - posted by: [Stewart](https://stackexchange.com/users/4040165/stewart) on 2015-08-25
 - score: 0
 
-<p>My algorithm is based on process, not specifics so the scope of the new business doesn't affect the outcome. The formula evolves around the positive things that improve a success probability score; i.e. levels of planning, preparation, research, knowledge, education and experience. These are used in conjunction with the negatives that would drive the probability of success downwards. These include the degree of difficulty, the number of risks, their likelihood to occur and how major the risks might be. I put all these factors together and I can get an estimated probability of success percentage for any sort of new business start up. This allows the entrepreneur to have a better idea of where their start up planning is before they invest more money, more precious time and can help them start their new business with added confidence.  </p>
-
+My algorithm is based on process, not specifics so the scope of the new business doesn't affect the outcome. The formula evolves around the positive things that improve a success probability score; i.e. levels of planning, preparation, research, knowledge, education and experience. These are used in conjunction with the negatives that would drive the probability of success downwards. These include the degree of difficulty, the number of risks, their likelihood to occur and how major the risks might be. I put all these factors together and I can get an estimated probability of success percentage for any sort of new business start up. This allows the entrepreneur to have a better idea of where their start up planning is before they invest more money, more precious time and can help them start their new business with added confidence.  
 
 
 

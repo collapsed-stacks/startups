@@ -4,12 +4,11 @@
 - tagged: `legal`, `salary`, `business-methodology`
 - score: 4
 
-<p>With a startup you are often confronted with the difficulty of answering the basic question of who can earn what and when? Is there a good measure stick that can help as guideline to match skill with proposed salary for each one on your team.</p>
+With a startup you are often confronted with the difficulty of answering the basic question of who can earn what and when? Is there a good measure stick that can help as guideline to match skill with proposed salary for each one on your team.
 
-<p>I am not really looking for a set price as much as method by which various factors from the local market, personal achievement and project scope can be used to estimate and ideal salary proposal for each person on a team.</p>
+I am not really looking for a set price as much as method by which various factors from the local market, personal achievement and project scope can be used to estimate and ideal salary proposal for each person on a team.
 
-<p>This may be a silly question that has to many variables but one I think could even serve as a incredible tool if a well formulated answer could be found.</p>
-
+This may be a silly question that has to many variables but one I think could even serve as a incredible tool if a well formulated answer could be found.
 
 
 ## Answer 7395
@@ -36,20 +35,17 @@
 - posted by: [vaibhav](https://stackexchange.com/users/4201882/vaibhav) on 2015-08-26
 - score: 0
 
-<p>Factors of skill level : </p>
+Factors of skill level : 
 
-<ul>
-<li>Knowledge</li>
-<li>Sharing</li>
-<li>Attitude</li>
-<li>Presentation skills</li>
-<li>Communication</li>
-<li>Taking ownership of Project/work/task</li>
-<li>Team work</li>
-</ul>
+- Knowledge
+- Sharing
+- Attitude
+- Presentation skills
+- Communication
+- Taking ownership of Project/work/task
+- Team work
 
-<p>Give points(1 to 5/10) for each skill and calculate at the end to know where he/she stands.</p>
-
+Give points(1 to 5/10) for each skill and calculate at the end to know where he/she stands.
 
 
 

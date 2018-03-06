@@ -4,8 +4,7 @@
 - tagged: `investors`, `venture-capital`, `angel-investors`, `fundraising`
 - score: 3
 
-<p>Assuming the business is located in a low-population area, not near any business hubs, what's a good way to find nearby investors? Is it important for the business to be located near its investors in the first place?</p>
-
+Assuming the business is located in a low-population area, not near any business hubs, what's a good way to find nearby investors? Is it important for the business to be located near its investors in the first place?
 
 
 ## Answer 11443
@@ -24,23 +23,22 @@
 - posted by: [Andrew](https://stackexchange.com/users/9640421/andrew) on 2016-11-14
 - score: 1
 
-<p>Daniel is correct. Your local SBA or SCORE would be a great first start.</p>
+Daniel is correct. Your local SBA or SCORE would be a great first start.
 
-<p>The locality of the investors depends on your business industry and your market.</p>
+The locality of the investors depends on your business industry and your market.
 
-<p>There are two types of investment money. SMART MONEY and STUPID MONEY.</p>
+There are two types of investment money. SMART MONEY and STUPID MONEY.
 
-<p>Everyone normally wants smart money.</p>
+Everyone normally wants smart money.
 
-<p>Smart money comes from people who are in or related to the industry your business is related to; whereas, stupid money is from investors who have no influence on your business whatsoever.</p>
+Smart money comes from people who are in or related to the industry your business is related to; whereas, stupid money is from investors who have no influence on your business whatsoever.
 
-<p>Stupid Money = Grandma giving you money for your new video game company.
-Smart Money = A former executive or Electronic Arts giving you money for your new video game company.</p>
+Stupid Money = Grandma giving you money for your new video game company.
+Smart Money = A former executive or Electronic Arts giving you money for your new video game company.
 
-<p>You will not find that executive in a small local town. You will find him in San Jose or Los Angeles.</p>
+You will not find that executive in a small local town. You will find him in San Jose or Los Angeles.
 
-<p>To find companies who have recently been funded and who funds them if you are a tech startup visit www.thefunded.com. </p>
-
+To find companies who have recently been funded and who funds them if you are a tech startup visit www.thefunded.com. 
 
 
 ## Answer 11553
@@ -48,8 +46,7 @@ Smart Money = A former executive or Electronic Arts giving you money for your ne
 - posted by: [niraj](https://stackexchange.com/users/9659943/niraj) on 2016-11-18
 - score: 1
 
-<p>Just to throw another idea out there - If there are any major universities around, they may be a way to get some leads. Especially for schools with robust business and engineering programs, there may be regular competitions, events, grants, awards, or other such funding opportunities for students in the state. At least some of these funding entities might also invest in non-student startups in the area.</p>
-
+Just to throw another idea out there - If there are any major universities around, they may be a way to get some leads. Especially for schools with robust business and engineering programs, there may be regular competitions, events, grants, awards, or other such funding opportunities for students in the state. At least some of these funding entities might also invest in non-student startups in the area.
 
 
 ## Answer 12859

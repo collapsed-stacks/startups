@@ -4,8 +4,7 @@
 - tagged: `marketing`, `growth`, `metrics`
 - score: 3
 
-<p>What are the most important metrics for a startup(in the initial user acquisition phase) which can translate it's growth?</p>
-
+What are the most important metrics for a startup(in the initial user acquisition phase) which can translate it's growth?
 
 
 ## Answer 7606
@@ -13,19 +12,16 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-10-19
 - score: 6
 
-<p>In my view the main two are:</p>
+In my view the main two are:
 
-<ol>
-<li>Customer acquisition cost.</li>
-<li>Customer retention rate.</li>
-</ol>
+1. Customer acquisition cost.
+2. Customer retention rate.
 
-<p>The first allows to know where it's better to put your marketing money. The second yields the Customer lifetime value.</p>
+The first allows to know where it's better to put your marketing money. The second yields the Customer lifetime value.
 
-<p>Break both down per channel. Doing so and combining the two allows to compute an ROI per channel - you'll then know precisely if you're going sideways or making progress.</p>
+Break both down per channel. Doing so and combining the two allows to compute an ROI per channel - you'll then know precisely if you're going sideways or making progress.
 
-<p>That said, the above assumes you're aiming for growth while staying profitable. If your intent is to grow first and monetize later, the metrics you'll want might be quite different.</p>
-
+That said, the above assumes you're aiming for growth while staying profitable. If your intent is to grow first and monetize later, the metrics you'll want might be quite different.
 
 
 ## Answer 11441
@@ -108,12 +104,11 @@
 - posted by: [Neil](https://stackexchange.com/users/2711480/neil) on 2016-10-27
 - score: 0
 
-<p>Simple one that I am surprised is not on here - cash flow. </p>
+Simple one that I am surprised is not on here - cash flow. 
 
-<p>In a startup you have lots of demands and variable (but usually quite limited) cash. Therefore, watch your cash flow to determine income and expenditure to identify if you have any short-falls in the future. You can also set a "safety net" level of cash that you need to retain. </p>
+In a startup you have lots of demands and variable (but usually quite limited) cash. Therefore, watch your cash flow to determine income and expenditure to identify if you have any short-falls in the future. You can also set a "safety net" level of cash that you need to retain. 
 
-<p>This will help you identify how much cash you can put into growth activities (e.g. R&amp;D/ Sales team etc.). It will also help prevent bankruptcy...</p>
-
+This will help you identify how much cash you can put into growth activities (e.g. R&D/ Sales team etc.). It will also help prevent bankruptcy...
 
 
 

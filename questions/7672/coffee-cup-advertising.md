@@ -4,8 +4,7 @@
 - tagged: `advertising`, `entrepreneurship`, `young-entrepreneurs`
 - score: 1
 
-<p>I want to start a company that helps businesses to advertise on coffee mugs, I have seen that many companies are out there. How should I start with this? What should I need? And how much investment is required? </p>
-
+I want to start a company that helps businesses to advertise on coffee mugs, I have seen that many companies are out there. How should I start with this? What should I need? And how much investment is required? 
 
 
 ## Answer 7673
@@ -13,10 +12,9 @@
 - posted by: [Tom](https://stackexchange.com/users/1841165/tom) on 2015-10-31
 - score: 2
 
-<p>Go out to coffee shops and agree to provide coffee cups for certain price to them. Have sufficient amount of these deals ready before buy cups in bulk with your ads or such in them. Deliver cups to coffee shops, collect payments. </p>
+Go out to coffee shops and agree to provide coffee cups for certain price to them. Have sufficient amount of these deals ready before buy cups in bulk with your ads or such in them. Deliver cups to coffee shops, collect payments. 
 
-<p>Investment required equals price of first batch. </p>
-
+Investment required equals price of first batch. 
 
 
 

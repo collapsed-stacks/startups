@@ -4,10 +4,9 @@
 - tagged: `international`, `accounting`, `freelancing`
 - score: 0
 
-<p>How can a company make sure that an invoice it takes is valid to declare as an expense ? Specifically, we can consider a UK limited company, that pays freelancers for programmer and video filming activities (both are done outside the company's country, in this case UK).</p>
+How can a company make sure that an invoice it takes is valid to declare as an expense ? Specifically, we can consider a UK limited company, that pays freelancers for programmer and video filming activities (both are done outside the company's country, in this case UK).
 
-<p>What will happen for example if the freelancer gives an invoice, get paid from the company bank account to his account, but the invoice is not declared in his country ? Is there any problem for the company that hired the freelancer for the project ? (Like the invoice not to be a tax deductible cost). </p>
-
+What will happen for example if the freelancer gives an invoice, get paid from the company bank account to his account, but the invoice is not declared in his country ? Is there any problem for the company that hired the freelancer for the project ? (Like the invoice not to be a tax deductible cost). 
 
 
 ## Answer 12620

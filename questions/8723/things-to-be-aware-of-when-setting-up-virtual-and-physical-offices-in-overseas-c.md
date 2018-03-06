@@ -4,8 +4,7 @@
 - tagged: `legal`, `international`
 - score: 4
 
-<p>One of the benefits of registering as an online business in Estonia is the tax breaks given to the companies. However, this requires the business entity to have a registered physical location in that country as well as bank account details. Just wondering if anyone has experiences with companies that help set up physical and virtual offices in Europe that can share some experience and the things to look out for.</p>
-
+One of the benefits of registering as an online business in Estonia is the tax breaks given to the companies. However, this requires the business entity to have a registered physical location in that country as well as bank account details. Just wondering if anyone has experiences with companies that help set up physical and virtual offices in Europe that can share some experience and the things to look out for.
 
 
 ## Answer 8729

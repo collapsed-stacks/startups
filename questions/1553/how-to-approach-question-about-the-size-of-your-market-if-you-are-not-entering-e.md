@@ -4,14 +4,14 @@
 - tagged: `target-market`, `fundraising`, `yc-how-to-start-a-startup`
 - score: 5
 
-<p>In the How to Start a Startup course, lecture 19, YC partner Michael Seibel <a href="http://startupclass.samaltman.com/courses/lec19/" rel="nofollow">talks about how to talk to investors</a>. He stresses out the importance of knowing the size of your market. </p>
+In the How to Start a Startup course, lecture 19, YC partner Michael Seibel [talks about how to talk to investors][1]. He stresses out the importance of knowing the size of your market. 
 
-<blockquote>
-  <p>"Don't skip this up. Second sentence. How big is your market?" [Michael Seibel]</p>
-</blockquote>
+>"Don't skip this up. Second sentence. How big is your market?" [Michael Seibel]
 
-<p>But how do you approach this question if you are not entering existing market? For instance what would Twitter or Reddit or even GitHub say in this situation? They did not disrupt existing market segment, they created a new one. </p>
+But how do you approach this question if you are not entering existing market? For instance what would Twitter or Reddit or even GitHub say in this situation? They did not disrupt existing market segment, they created a new one. 
 
+
+  [1]: http://startupclass.samaltman.com/courses/lec19/
 
 
 ## Answer 1554
@@ -19,28 +19,23 @@
 - posted by: [joslinm](https://stackexchange.com/users/91414/joslinm) on 2014-12-05
 - score: 3
 
-<p>So there's two types of knowledge that we deal with on an everyday basis:</p>
+So there's two types of knowledge that we deal with on an everyday basis:
 
-<ol>
-<li><em>A priori knowledge</em> or that which is deduced (rooted in reason)</li>
-<li><em>A posteriori knowledge</em> or that which is observed (rooted in empirical evidence)</li>
-</ol>
+ 1. *A priori knowledge* or that which is deduced (rooted in reason)
+ 2. *A posteriori knowledge* or that which is observed (rooted in empirical evidence)
 
-<p>Naturally, you're dealing with the first because your market doesn't exist so you'll have to make <em>some</em> kind of inference or deduction that is not rooted in observation. </p>
+Naturally, you're dealing with the first because your market doesn't exist so you'll have to make *some* kind of inference or deduction that is not rooted in observation. 
 
-<p>Since your market does not exist, it is purely theoretical and like any theory, you need to justify it. Starting from first principles, you ought to ask yourself some questions like:</p>
+Since your market does not exist, it is purely theoretical and like any theory, you need to justify it. Starting from first principles, you ought to ask yourself some questions like:
 
-<ul>
-<li>What is a market?</li>
-<li>Why doesn't my market exist?</li>
-<li>Why do people need what I'm offering?</li>
-<li>If my product / service was offered tomorrow, and everyone magically knew about it, how many people would use it?</li>
-</ul>
+* What is a market?
+* Why doesn't my market exist?
+* Why do people need what I'm offering?
+* If my product / service was offered tomorrow, and everyone magically knew about it, how many people would use it?
 
-<p>The last should give you a theoretical answer to your theoretical question, or at least start to get you going down the right direction. </p>
+The last should give you a theoretical answer to your theoretical question, or at least start to get you going down the right direction. 
 
-<p>Your claims are somewhat questionable too. What do you mean GitHub created a new market? I'm sure there were source code control before GitHub. Reddit created a new market? What about digg, and all other media sites that linked to articles before Reddit? If anything, Reddit re-segmented the news market. Twitter's "market" is the social market, of which there were many before it. They merely had a different approach. You can argue they re-segmented the market by focusing on the 180 characters or less niche, but even still, are you really saying that the ability for humans to communicate did not exist as a market beforehand? It's all in how you define "market"</p>
-
+Your claims are somewhat questionable too. What do you mean GitHub created a new market? I'm sure there were source code control before GitHub. Reddit created a new market? What about digg, and all other media sites that linked to articles before Reddit? If anything, Reddit re-segmented the news market. Twitter's "market" is the social market, of which there were many before it. They merely had a different approach. You can argue they re-segmented the market by focusing on the 180 characters or less niche, but even still, are you really saying that the ability for humans to communicate did not exist as a market beforehand? It's all in how you define "market"
 
 
 ## Answer 1555
@@ -48,13 +43,13 @@
 - posted by: [Jack Sinclair](https://stackexchange.com/users/1124319/jack-sinclair) on 2014-12-05
 - score: 2
 
-<p>TAM (Total Addressable Market) is always a bit of an art, especially when it is not already established. </p>
+TAM (Total Addressable Market) is always a bit of an art, especially when it is not already established. 
 
-<p>The way I have done it in the past is try to be bottom up when describing the opportunity. Build up the possible size of the industry.</p>
+The way I have done it in the past is try to be bottom up when describing the opportunity. Build up the possible size of the industry.
 
-<p>Try to figure out who your clients are (who is going to pay you), how many of them there are in the world, and what the average service price (ASP) could be. Or instead of the ASP you could use the size of problem you are solving for your client. </p>
+Try to figure out who your clients are (who is going to pay you), how many of them there are in the world, and what the average service price (ASP) could be. Or instead of the ASP you could use the size of problem you are solving for your client. 
 
-<p>For example, if your client base are large marketers, you could find out there are 70,000 large marketers globally. Then if you think you could have a product/service worth $10k a year to them, you could argue you are going after a $700mm market. If it is something that focuses on consumers and traffic/page views, then it really depends on your revenue model. If it is straight advertising like a twitter, then it really is about how much and what kind of traffic you think you can get, rather than an industry size. </p>
+For example, if your client base are large marketers, you could find out there are 70,000 large marketers globally. Then if you think you could have a product/service worth $10k a year to them, you could argue you are going after a $700mm market. If it is something that focuses on consumers and traffic/page views, then it really depends on your revenue model. If it is straight advertising like a twitter, then it really is about how much and what kind of traffic you think you can get, rather than an industry size. 
 
 
 

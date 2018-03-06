@@ -4,12 +4,11 @@
 - tagged: `mobile-apps`
 - score: 3
 
-<p>When I check out an app and the first thing it ask for to authenticate myself with Facebook then I usually leave it, skip to use it.</p>
+When I check out an app and the first thing it ask for to authenticate myself with Facebook then I usually leave it, skip to use it.
 
-<p>If they are popular, like Tinder, then it is ok, I can get use to it, but with unknown apps, I do not want to stuggle with them. </p>
+If they are popular, like Tinder, then it is ok, I can get use to it, but with unknown apps, I do not want to stuggle with them. 
 
-<p>Is it any statistic, how high is leaving probability when the first impression is a built in registration in an app at iOS platform?</p>
-
+Is it any statistic, how high is leaving probability when the first impression is a built in registration in an app at iOS platform?
 
 
 ## Answer 2994
@@ -26,12 +25,11 @@
 - posted by: [Esqarrouth](https://stackexchange.com/users/3055586/esqarrouth) on 2015-01-13
 - score: 1
 
-<p>Not really the answer you are looking for but,</p>
+Not really the answer you are looking for but,
 
-<p>I solved this problem by signing up the user in the background when they access the app. So instead of a login/sign up field, they are instantly inside and can check out the product and their progress is getting saved. They can still do all the simple actions but when they try to make an action that requires a login, I ask for their information.</p>
+I solved this problem by signing up the user in the background when they access the app. So instead of a login/sign up field, they are instantly inside and can check out the product and their progress is getting saved. They can still do all the simple actions but when they try to make an action that requires a login, I ask for their information.
 
-<p>When you think about it, kind of like how stackexchange works..</p>
-
+When you think about it, kind of like how stackexchange works..
 
 
 

@@ -4,12 +4,13 @@
 - tagged: `lean-startup`
 - score: 1
 
-<p>Currently I'd like to start my own business with Digital Signal Processing(Imaging).
+Currently I'd like to start my own business with Digital Signal Processing(Imaging).
 Actually, I want to know that how much valuable my prototype product.
 So I'm asking to here. 
-where to (how to) know that my idea and product's value before I go ahead more?</p>
+where to (how to) know that my idea and product's value before I go ahead more?
 
-<p>What is the best start from here?  (I have a prototype demonstration product)</p>
+What is the best start from here?  (I have a prototype demonstration product)
+
 
 
 ## No Answers

@@ -4,8 +4,7 @@
 - tagged: `service`, `customer-service`, `payment`
 - score: 2
 
-<p>I am currently looking for some online services that would allow me to pay my customers directly into their bank accounts easily. Ideally it would support multiple currencies and countries. PayPal comes to mind, but I like having a few alternatives. What other options are there?</p>
-
+I am currently looking for some online services that would allow me to pay my customers directly into their bank accounts easily. Ideally it would support multiple currencies and countries. PayPal comes to mind, but I like having a few alternatives. What other options are there?
 
 
 ## Answer 1266

@@ -4,11 +4,10 @@
 - tagged: `networking`, `bootstrapping`
 - score: 2
 
-<p>I am aware of and attend some meet ups for business and entrepreneurism however, I would like to network online with fellow people who have some similar interest as me in bootstrapping a business, using lean techniques, digital tech etc.</p>
+I am aware of and attend some meet ups for business and entrepreneurism however, I would like to network online with fellow people who have some similar interest as me in bootstrapping a business, using lean techniques, digital tech etc.
 
-<p>I find it difficult to find channels that relate to me, in the sense that maybe I find a website that allows you to meet other entrepreneurs but most of them are based in Silicon Valley.<br />
-You start to get the impression that it is an insider network as opposed to an open one. </p>
-
+I find it difficult to find channels that relate to me, in the sense that maybe I find a website that allows you to meet other entrepreneurs but most of them are based in Silicon Valley.<br />
+You start to get the impression that it is an insider network as opposed to an open one. 
 
 
 ## Answer 9284
@@ -49,13 +48,12 @@ You start to get the impression that it is an insider network as opposed to an o
 - posted by: [CJ Cornell](https://stackexchange.com/users/526591/cj-cornell) on 2016-07-22
 - score: 1
 
-<p>founderdating.com</p>
+founderdating.com
 
-<p>is the most promising online group I've seen to date.
-you actually need to "apply" and then others in your personal network vouch for you as an entrepreneur.</p>
+is the most promising online group I've seen to date.
+you actually need to "apply" and then others in your personal network vouch for you as an entrepreneur.
 
-<p>The quality of the members online is pretty high.</p>
-
+The quality of the members online is pretty high.
 
 
 ## Answer 9220
@@ -63,8 +61,8 @@ you actually need to "apply" and then others in your personal network vouch for 
 - posted by: [Lucas Torres](https://stackexchange.com/users/5780883/lucas-torres) on 2016-05-16
 - score: 0
 
-<p>Well , this is very difficult , due to several factors ranging from geographic location to the financial and educational availability in an area . But consider that the statistics show that young people are more willing to undertake. Use this to your advantage . Ride a meetup, a group on facebook , disclose colleges . That is, above all , show . Take the first step . Strengthen the ecosystem through their actions .</p>
 
+Well , this is very difficult , due to several factors ranging from geographic location to the financial and educational availability in an area . But consider that the statistics show that young people are more willing to undertake. Use this to your advantage . Ride a meetup, a group on facebook , disclose colleges . That is, above all , show . Take the first step . Strengthen the ecosystem through their actions .
 
 
 ## Answer 9227

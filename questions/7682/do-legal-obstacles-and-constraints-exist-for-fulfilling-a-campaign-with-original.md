@@ -4,15 +4,15 @@
 - tagged: `legal`, `intellectual-property`, `copyright`, `idea`
 - score: 4
 
-<p>I am a writer and board game designer, and intend to launch crowdfunding campaigns in the near future. For both categories, I intend to self-publish and produce the products I deliver by myself or through third parties.</p>
+I am a writer and board game designer, and intend to launch crowdfunding campaigns in the near future. For both categories, I intend to self-publish and produce the products I deliver by myself or through third parties.
 
-<p>If, say, I write a book myself, and hence I own the IP, would I need additional permissions to self-publish? For example, the book I publish will need to have a font type, a layout, and probably some colors as well for the cover design. Therefore, I am worried about using a font like 'Times New Roman' and that becoming a problem because while I own the book's IP, I did not create the font and color it was published in. (I.e. I do not own the IP of the font and color.)</p>
+If, say, I write a book myself, and hence I own the IP, would I need additional permissions to self-publish? For example, the book I publish will need to have a font type, a layout, and probably some colors as well for the cover design. Therefore, I am worried about using a font like 'Times New Roman' and that becoming a problem because while I own the book's IP, I did not create the font and color it was published in. (I.e. I do not own the IP of the font and color.)
 
-<p>Also, say, I distribute PDFs of my book through kickstarter, do I need to take permission from Adobe?</p>
+Also, say, I distribute PDFs of my book through kickstarter, do I need to take permission from Adobe?
 
-<p>The confusion as a result of not knowing the correct permissions becomes more complicated with board game production, as in addition to fonts and colors there are ideas and mechanics that I did not completely create (even though the game as a whole is original). </p>
+The confusion as a result of not knowing the correct permissions becomes more complicated with board game production, as in addition to fonts and colors there are ideas and mechanics that I did not completely create (even though the game as a whole is original). 
 
-<p>Does anybody know the potential legal permissions I would need in this context?</p>
+Does anybody know the potential legal permissions I would need in this context?
 
 
 
@@ -54,8 +54,7 @@
 - posted by: [Learned Man](https://stackexchange.com/users/7236940/learned-man) on 2015-11-03
 - score: 1
 
-<p>SRDC has great advice, but see a competent attorney before you actually publish. A couple dollars spent upfront can save you many dollars later.</p>
-
+SRDC has great advice, but see a competent attorney before you actually publish. A couple dollars spent upfront can save you many dollars later.
 
 
 

@@ -4,11 +4,11 @@
 - tagged: `venture-capital`, `valuation`
 - score: 0
 
-<p>In about a week I am to present my business model concept to a Venture Capitalist. </p>
+In about a week I am to present my business model concept to a Venture Capitalist. 
 
-<p>My model seeks to profit from offering the services attorney's need most so that they may start their own practices when their current budget does not allow. </p>
+My model seeks to profit from offering the services attorney's need most so that they may start their own practices when their current budget does not allow. 
 
-<p>I appreciate any advice you may have on how best to gather and build a winning presentation. Thank you.</p>
+I appreciate any advice you may have on how best to gather and build a winning presentation. Thank you.
 
 
 ## No Answers

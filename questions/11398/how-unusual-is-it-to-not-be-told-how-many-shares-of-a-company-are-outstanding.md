@@ -4,10 +4,9 @@
 - tagged: `united-states`, `stock-options`, `stock`
 - score: 1
 
-<p>I work for a startup that for a few years was self-funded by a wealthy founder with a very good track record. To my knowledge, no employee has ever been told how many shares are outstanding, despite asking multiple times. I have exercised stock options and as a shareholder, I receive notices about increases in the employee pool, but not the total pool. We are also never told a predicted valuation. Instead, we are always told our shares should be worth $XX-$YY each. Furthermore, recently we received external investment and were not told how much it was for (though this trickled out unofficially) nor what the investors received.</p>
+I work for a startup that for a few years was self-funded by a wealthy founder with a very good track record. To my knowledge, no employee has ever been told how many shares are outstanding, despite asking multiple times. I have exercised stock options and as a shareholder, I receive notices about increases in the employee pool, but not the total pool. We are also never told a predicted valuation. Instead, we are always told our shares should be worth $XX-$YY each. Furthermore, recently we received external investment and were not told how much it was for (though this trickled out unofficially) nor what the investors received.
 
-<p>How unusual is this situation? Do I have any recourse for getting the necessary information to make my own determination of what my shares might be worth?</p>
-
+How unusual is this situation? Do I have any recourse for getting the necessary information to make my own determination of what my shares might be worth?
 
 
 ## Answer 11399
@@ -15,44 +14,42 @@
 - posted by: [Community](https://stackexchange.com/users/-1/community) on 2016-10-22
 - score: 2
 
-<p><strong>I am not an attorney. The following is not legal advice.</strong></p>
+**I am not an attorney. The following is not legal advice.**
 
-<p>Whether or not it's unusual isn't really relevant. What is relevant is that it is <a href="http://www.wsj.com/articles/own-startup-shares-know-your-rights-to-company-financials-1464082203" rel="nofollow">probably illegal</a> for a company not to share certain financial data with its shareholders. Just keep in mind, the rules companies must follow will likely differ for actual shareholders and those who merely hold options.</p>
+Whether or not it's unusual isn't really relevant. What is relevant is that it is [probably illegal](http://www.wsj.com/articles/own-startup-shares-know-your-rights-to-company-financials-1464082203) for a company not to share certain financial data with its shareholders. Just keep in mind, the rules companies must follow will likely differ for actual shareholders and those who merely hold options.
 
-<p>A company may generally ignore your request to provide random bits of financial information as there are formal processes you must follow to obtain the information you're requesting. It's not reasonable that you should stroll into your CFOs office at any moment and expect to be told the latest number of outstanding shares. However, if you follow the correct procedures defined in law, and are prepared to take legal action if necessary, you will be able to obtain the financial information you desire.</p>
+A company may generally ignore your request to provide random bits of financial information as there are formal processes you must follow to obtain the information you're requesting. It's not reasonable that you should stroll into your CFOs office at any moment and expect to be told the latest number of outstanding shares. However, if you follow the correct procedures defined in law, and are prepared to take legal action if necessary, you will be able to obtain the financial information you desire.
 
-<p>Of course, companies don't need to strictly follow the law. They can be more open with their financials and can treat their shareholders well. I won't really get into what makes for good shareholder relations in this answer. However,  I will go through a few examples of laws that may apply.</p>
+Of course, companies don't need to strictly follow the law. They can be more open with their financials and can treat their shareholders well. I won't really get into what makes for good shareholder relations in this answer. However,  I will go through a few examples of laws that may apply.
 
-<p><strong>State Corporate Law</strong></p>
+**State Corporate Law**
 
-<p>The corporation laws of the state in which the company is incorporated are probably the best place to find rules that give you a way to get financial data. <a href="http://delcode.delaware.gov/title8/c001/sc07/#220" rel="nofollow">If your company, like most tech startups, is incorporated in Delaware, you have a right to review the books.</a> There is a correct process you must follow that includes submitting an affidavit that states: you are a shareholder (not just an option-holder), you have a legitimate reason for inspecting the books (such as "valuing my shares"), and the exact documents you need (balance sheet, stockholder list, etc).</p>
+The corporation laws of the state in which the company is incorporated are probably the best place to find rules that give you a way to get financial data. [If your company, like most tech startups, is incorporated in Delaware, you have a right to review the books.](http://delcode.delaware.gov/title8/c001/sc07/#220) There is a correct process you must follow that includes submitting an affidavit that states: you are a shareholder (not just an option-holder), you have a legitimate reason for inspecting the books (such as "valuing my shares"), and the exact documents you need (balance sheet, stockholder list, etc).
 
-<p><strong>Other Laws Governing Companies Operating in a State</strong></p>
 
-<p>In addition to the corporate laws governing a company, some states will have additional laws that require corporations located within their borders to disclose financial information to shareholders. For example, <a href="http://www.leginfo.ca.gov/cgi-bin/displaycode?section=corp&amp;group=01001-02000&amp;file=1500-1512" rel="nofollow">California requires many companies to provide an annual report to its shareholders</a>. The California law applies to companies headquartered within its borders who have more than 100 employees even if the company is incorporated in another state. Smaller companies can opt-out by adding a provision to their bylaws. The California law requires companies to send an annual report to shareholders 120 after a fiscal year ends, and interim reports upon requests to shareholders who own 5% or more of the company. If the company does not provide a report, the shareholder may formally request it, and a company is required to provide the report within 30 days.</p>
+**Other Laws Governing Companies Operating in a State**
 
-<p><strong>Federal Securities Law</strong></p>
+In addition to the corporate laws governing a company, some states will have additional laws that require corporations located within their borders to disclose financial information to shareholders. For example, [California requires many companies to provide an annual report to its shareholders](http://www.leginfo.ca.gov/cgi-bin/displaycode?section=corp&group=01001-02000&file=1500-1512). The California law applies to companies headquartered within its borders who have more than 100 employees even if the company is incorporated in another state. Smaller companies can opt-out by adding a provision to their bylaws. The California law requires companies to send an annual report to shareholders 120 after a fiscal year ends, and interim reports upon requests to shareholders who own 5% or more of the company. If the company does not provide a report, the shareholder may formally request it, and a company is required to provide the report within 30 days.
 
-<p>Federal laws that aim to protect investors making stock purchase decisions may also force a company to provide financial statements. For example, <a href="https://www.law.cornell.edu/cfr/text/17/230.701" rel="nofollow">Rule 701</a> provides for disclosure of financial information by companies awarding $5 million or more in stock in any 12 month period. <a href="https://www.sec.gov/news/press/2005-6.htm" rel="nofollow">This is the provision that got Google in trouble in 2005 when they were still a private company</a>.</p>
+**Federal Securities Law**
 
-<p><strong>Practical Considerations of Taking on Your Employer</strong></p>
+Federal laws that aim to protect investors making stock purchase decisions may also force a company to provide financial statements. For example, [Rule 701](https://www.law.cornell.edu/cfr/text/17/230.701) provides for disclosure of financial information by companies awarding $5 million or more in stock in any 12 month period. [This is the provision that got Google in trouble in 2005 when they were still a private company](https://www.sec.gov/news/press/2005-6.htm).
 
-<p>Most of these laws require you to file a lawsuit or complaint if the company does not comply with your formal request. This sort of action can have consequences on your employment status and potential within the company. To minimize these "human risks," you might want to file a lawsuit with a large group of employees. This will reduce the risk of retaliation (which, even if illegal, may happen). Having a group also makes it easier to afford legal fees as everyone is chipping in a portion of the costs. A court may decide the company has to reimburse your legal fees after the process is complete.</p>
+**Practical Considerations of Taking on Your Employer**
 
-<p>Companies may also reasonably require you to sign a non-disclosure agreement and to follow other rules to keep their financial information secure. Even though you may have a right to information, you may not have the right to disclose that information to others.</p>
+Most of these laws require you to file a lawsuit or complaint if the company does not comply with your formal request. This sort of action can have consequences on your employment status and potential within the company. To minimize these "human risks," you might want to file a lawsuit with a large group of employees. This will reduce the risk of retaliation (which, even if illegal, may happen). Having a group also makes it easier to afford legal fees as everyone is chipping in a portion of the costs. A court may decide the company has to reimburse your legal fees after the process is complete.
 
-<p>You should consult an attorney experienced with corporate matters such as these before taking any action. Once again, I am not an attorney and nothing in this answer is legal advice.</p>
+Companies may also reasonably require you to sign a non-disclosure agreement and to follow other rules to keep their financial information secure. Even though you may have a right to information, you may not have the right to disclose that information to others.
 
-<p><strong>Share Value</strong></p>
+You should consult an attorney experienced with corporate matters such as these before taking any action. Once again, I am not an attorney and nothing in this answer is legal advice.
 
-<blockquote>
-  <p>We are also never told a predicted valuation. Instead, we are always told our shares should be worth $XX-$YY each.</p>
-</blockquote>
+**Share Value**
 
-<p>Valuing corporate shares is a very difficult task that is indeed an art and not a science. Information a company might provide like "predicted valuation" is nothing more than speculation, and coming from a company it may be influenced by enormous, inherent bias. You should be extremely wary of a company telling you how much shares should be worth. If you really want to gauge the value of your shares, you (possibly with a group of cohorts) might consider hiring a qualified financial analyst to review the financial statements of your company. An experienced financial analyst should have the skills to determine a reasonable market value for your shares and should be able to advise you on the consequences of share dilution specific to the velocity of offerings at your company.</p>
+> We are also never told a predicted valuation. Instead, we are always told our shares should be worth $XX-$YY each.
 
-<p>Also, be sure you diversify your personal investments. Employees tend to have over-sized holdings in their own companies which have abnormal impacts on overall portfolios. Make sure you are investing in other companies in a variety of industries.</p>
+Valuing corporate shares is a very difficult task that is indeed an art and not a science. Information a company might provide like "predicted valuation" is nothing more than speculation, and coming from a company it may be influenced by enormous, inherent bias. You should be extremely wary of a company telling you how much shares should be worth. If you really want to gauge the value of your shares, you (possibly with a group of cohorts) might consider hiring a qualified financial analyst to review the financial statements of your company. An experienced financial analyst should have the skills to determine a reasonable market value for your shares and should be able to advise you on the consequences of share dilution specific to the velocity of offerings at your company.
 
+Also, be sure you diversify your personal investments. Employees tend to have over-sized holdings in their own companies which have abnormal impacts on overall portfolios. Make sure you are investing in other companies in a variety of industries.
 
 
 ## Answer 11407

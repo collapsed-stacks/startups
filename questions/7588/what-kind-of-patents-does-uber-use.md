@@ -4,16 +4,15 @@
 - tagged: `legal`
 - score: 2
 
-<p>Uber has over a dozen patents for ideas and concepts and non-tangible entities, such as <strong>"PROVIDING ON-DEMAND SERVICES THROUGH USE OF PORTABLE COMPUTING DEVICES" and "PROVIDING NOTIFICATIONS TO DEVICES BASED ON REAL-TIME CONDITIONS RELATED TO AN ON-DEMAND SERVICE."</strong></p>
+Uber has over a dozen patents for ideas and concepts and non-tangible entities, such as **"PROVIDING ON-DEMAND SERVICES THROUGH USE OF PORTABLE COMPUTING DEVICES" and "PROVIDING NOTIFICATIONS TO DEVICES BASED ON REAL-TIME CONDITIONS RELATED TO AN ON-DEMAND SERVICE."**
 
-<p>What type of patents are these? I have a business model concept in mind that I want to patent before launching, but I'm not sure what type of patent it requires.</p>
+What type of patents are these? I have a business model concept in mind that I want to patent before launching, but I'm not sure what type of patent it requires.
 
-<p>Can we file a single umbrella patent that covers multiple angles? Or do we need to file a single patent for all different approaches?</p>
+Can we file a single umbrella patent that covers multiple angles? Or do we need to file a single patent for all different approaches?
 
-<p>Lastly, would provisional patents work for these types of patents?</p>
+Lastly, would provisional patents work for these types of patents?
 
-<p>I'm filing in the US.</p>
-
+I'm filing in the US.
 
 ## No Answers
 

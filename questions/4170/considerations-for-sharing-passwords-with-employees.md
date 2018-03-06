@@ -4,14 +4,13 @@
 - tagged: `intellectual-property`, `employees`, `security`
 - score: 7
 
-<p>I'm hiring a social media assistant. That person will need to be able to use my accounts on various sites:  Twitter, Facebook, etc. (I am my brand, BrettFromLA.) Since the duties will take just a few hours a week, I predict there might be turnover in the position. How should I approach sharing passwords with the employee(s)?</p>
+I'm hiring a social media assistant. That person will need to be able to use my accounts on various sites:  Twitter, Facebook, etc. (I am my brand, BrettFromLA.) Since the duties will take just a few hours a week, I predict there might be turnover in the position. How should I approach sharing passwords with the employee(s)?
 
-<p>One thought is that I could create a new password incorporating something unique to that person, like their middle name ("123Marie456"). That would be simple to switch if I hire a new person.</p>
+One thought is that I could create a new password incorporating something unique to that person, like their middle name ("123Marie456"). That would be simple to switch if I hire a new person.
 
-<p>I'd love to have additional "administrator" accounts on various sites but I bet a lot of sites don't allow multiple users for a single account.</p>
+I'd love to have additional "administrator" accounts on various sites but I bet a lot of sites don't allow multiple users for a single account.
 
-<p>What other approaches might work for this?</p>
-
+What other approaches might work for this?
 
 
 ## Answer 4171

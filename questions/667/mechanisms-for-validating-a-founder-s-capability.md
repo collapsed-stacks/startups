@@ -4,8 +4,10 @@
 - tagged: `equity`
 - score: 4
 
-<p>I used to navigate through <a href="http://cofounderslab.com/" rel="nofollow">CoFoundersLab</a> searching for partners to join me on some ideas of mine. Usually, when we do something like this, we look for complementary skills - if I am a programmer, I'll look for a business developer or designer, for example. But we know that it is quite hard to determine a person's capability (specially over internet, as CFL has people from all over the world). What can I do to assure that I am getting a person who is trully capable of doing what he/she says is capable of, and how can I protect the startup against a person who finds out not being a good fit for the company, taking in consideration that the person will usually get some participation on the company? I don't want to give away a share of the idea for a person who participated on it for only a short period of time before being removed.</p>
+I used to navigate through [CoFoundersLab][1] searching for partners to join me on some ideas of mine. Usually, when we do something like this, we look for complementary skills - if I am a programmer, I'll look for a business developer or designer, for example. But we know that it is quite hard to determine a person's capability (specially over internet, as CFL has people from all over the world). What can I do to assure that I am getting a person who is trully capable of doing what he/she says is capable of, and how can I protect the startup against a person who finds out not being a good fit for the company, taking in consideration that the person will usually get some participation on the company? I don't want to give away a share of the idea for a person who participated on it for only a short period of time before being removed.
 
+
+  [1]: http://cofounderslab.com/
 
 
 ## Answer 669
@@ -13,23 +15,18 @@
 - posted by: [Nick Wilde](https://stackexchange.com/users/454046/nick-wilde) on 2014-09-10
 - score: 3
 
-<p>This has a <em>lot</em> of possible methods. Of course different positions have different capabilities and some are easier to test than others. A quick run-down of some testing/determination methods:</p>
+This has a *lot* of possible methods. Of course different positions have different capabilities and some are easier to test than others. A quick run-down of some testing/determination methods:
 
-<ol>
-<li><em>can they show past work?</em> If yes, take a look at it and determine what you think of it. If you don't have the skills to do that (ie it is program and you don't know programming), do you have a friend who would be willing to look at it for you? </li>
-<li><em>Do you they have some form of schooling?</em> This is a very debatable metric; some of the best designers I've known have had minimal formal schooling and some of the worst that I've seen have (ie some of those photoshop goofs in advertising). However it can at least show some dedication if it is a long course of study.</li>
-<li><em>References:</em> Can give a good idea on the person's skills/reliability etc but you have to take what they with a grain of salt.</li>
-<li><em>Testing:</em> Can be fun but hard to do for some things:
-<ul>
-<li>Programmers: get them to whip up a tiny program fast and try it out. - screen share is cool to see them at work though some people hate to work while watched and this may actually decrease their effectiveness.</li>
-<li>Designers: get them to whip up a graphic fast  and see how it looks. Same thing about screen sharing, as programmers.</li>
-<li>A lot of other specialities can follow those examples.</li>
-<li>Managers, marketers etc: a lot harder to test in a quick and non-committing manner. In fact I'm not sure on good quick tests for them.</li>
-</ul></li>
-</ol>
+1. *can they show past work?* If yes, take a look at it and determine what you think of it. If you don't have the skills to do that (ie it is program and you don't know programming), do you have a friend who would be willing to look at it for you? 
+2. *Do you they have some form of schooling?* This is a very debatable metric; some of the best designers I've known have had minimal formal schooling and some of the worst that I've seen have (ie some of those photoshop goofs in advertising). However it can at least show some dedication if it is a long course of study.
+3. *References:* Can give a good idea on the person's skills/reliability etc but you have to take what they with a grain of salt.
+4. *Testing:* Can be fun but hard to do for some things:
+  - Programmers: get them to whip up a tiny program fast and try it out. - screen share is cool to see them at work though some people hate to work while watched and this may actually decrease their effectiveness.
+  - Designers: get them to whip up a graphic fast  and see how it looks. Same thing about screen sharing, as programmers.
+  - A lot of other specialities can follow those examples.
+  - Managers, marketers etc: a lot harder to test in a quick and non-committing manner. In fact I'm not sure on good quick tests for them.
 
-<p>However good your testing/determination metrics are you won't always be right (if you do it enough times anyways) and you'll have to accept that as a cost of doing business. Basically consider it first as though you were hiring an employee to do that task; if you would hire them then consider whether they have that extra - extra responsibility, reliability, go-getter, good communication, willingness to work hard through rough patches etc. </p>
-
+However good your testing/determination metrics are you won't always be right (if you do it enough times anyways) and you'll have to accept that as a cost of doing business. Basically consider it first as though you were hiring an employee to do that task; if you would hire them then consider whether they have that extra - extra responsibility, reliability, go-getter, good communication, willingness to work hard through rough patches etc. 
 
 
 ## Answer 748

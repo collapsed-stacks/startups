@@ -4,10 +4,9 @@
 - tagged: `investment`
 - score: 1
 
-<p>This <a href="https://youtu.be/2_IpVq6vKR0?t=6m20s" rel="nofollow noreferrer">YC video</a> strongly suggests incorporating in Delaware as a C corporation <em>even if</em> you're not a US citizen or physically present in the US.</p>
+This [YC video](https://youtu.be/2_IpVq6vKR0?t=6m20s) strongly suggests incorporating in Delaware as a C corporation *even if* you're not a US citizen or physically present in the US.
 
-<p>My company is incorporated in the UK. What would be the process to reincorporate in Delaware?</p>
-
+My company is incorporated in the UK. What would be the process to reincorporate in Delaware?
 
 
 ## Answer 12501
@@ -15,15 +14,16 @@
 - posted by: [Jeremy Parsons](https://stackexchange.com/users/497810/jeremy-parsons) on 2017-04-15
 - score: 2
 
-<p>The video is primarily focused on the question of investment, but you need to think about the question of trading. </p>
+The video is primarily focused on the question of investment, but you need to think about the question of trading. 
 
-<p>If there's a business reason to have a UK/EU legal entity, but you want your primary existence to be a DE company, I'd expect you to create the new entity and migrate ownership so that your current company becomes a 100% subsidiary. </p>
+If there's a business reason to have a UK/EU legal entity, but you want your primary existence to be a DE company, I'd expect you to create the new entity and migrate ownership so that your current company becomes a 100% subsidiary. 
 
-<p>In this case, you may choose to leave details such as transfer of assets, IP etc for another day. If you're already trading, you're likely to need specialist advice at that point, but often you may as well defer the expense until it's required (for instance by an investment round, in which there'll be a bunch of legal and professional services involved). </p>
+In this case, you may choose to leave details such as transfer of assets, IP etc for another day. If you're already trading, you're likely to need specialist advice at that point, but often you may as well defer the expense until it's required (for instance by an investment round, in which there'll be a bunch of legal and professional services involved). 
 
-<p>Alternatively, if you're going to wind up the UK entity, at an early enough stage then it's possible there's a very simple and low-cost process to wind up and newly incorporate - particularly​ if you have negligible assets. </p>
+Alternatively, if you're going to wind up the UK entity, at an early enough stage then it's possible there's a very simple and low-cost process to wind up and newly incorporate - particularly​ if you have negligible assets. 
 
-<p>Bear in mind that by this logic, it's also typically very straightforward to "re-home" early stage ventures when you need to rather than when you think you may need to. If you're 100% committed to pursuing US incubation/acceleration/investment with determination and aggression, then that moment has already come. Otherwise, is this just a distraction when you should be giving ask your energies to validation and traction?</p>
+Bear in mind that by this logic, it's also typically very straightforward to "re-home" early stage ventures when you need to rather than when you think you may need to. If you're 100% committed to pursuing US incubation/acceleration/investment with determination and aggression, then that moment has already come. Otherwise, is this just a distraction when you should be giving ask your energies to validation and traction?
+
 
 
 

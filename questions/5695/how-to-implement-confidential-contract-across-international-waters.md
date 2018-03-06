@@ -4,26 +4,26 @@
 - tagged: `international`, `contracts`
 - score: 1
 
-<p>Currently my company implements a confidential contract with all clients for many reasons but primarily for the purpose of protecting both parties </p>
+Currently my company implements a confidential contract with all clients for many reasons but primarily for the purpose of protecting both parties 
 
-<p>(Including my company from disclosing my clients and my clients disclosing my company performs works for them as well as protecting the information shared between both parties) </p>
+(Including my company from disclosing my clients and my clients disclosing my company performs works for them as well as protecting the information shared between both parties) 
 
-<p>The contract I use is a drafted by legal team and kept up to date with current laws in my country the process of implementation includes submitting the contract to client where then they have opportunity to seek independent advise and submit amendments this can go on a few times until all parties agree and sign. </p>
+The contract I use is a drafted by legal team and kept up to date with current laws in my country the process of implementation includes submitting the contract to client where then they have opportunity to seek independent advise and submit amendments this can go on a few times until all parties agree and sign. 
 
-<p>It a great system and never a complaint about process or the contact itself. 
-However, this contract stipulates that is only enforceable under the law of the country the contract was written (makes sense).</p>
+It a great system and never a complaint about process or the contact itself. 
+However, this contract stipulates that is only enforceable under the law of the country the contract was written (makes sense).
 
-<p>Now in a position of considering international clients I’m seeking if there is any experience on this board with regarding developing process of implementing a Confidential Contract between client and service provider internationally.</p>
+Now in a position of considering international clients I’m seeking if there is any experience on this board with regarding developing process of implementing a Confidential Contract between client and service provider internationally.
+ 
+Or could a simple “terms of service” be enough, eg, to use the service you agree not to disclose you are using the service or publicly release information shared between parties in regards to the service provided. Etc
+ 
+I’m thinking a terms of service might be enough only enforceable by cancelling service if terms are breached (rather than the investment of seeking legal for possible damages in case of breach)
 
-<p>Or could a simple “terms of service” be enough, eg, to use the service you agree not to disclose you are using the service or publicly release information shared between parties in regards to the service provided. Etc</p>
+Genuine interest in any experience in this area,
 
-<p>I’m thinking a terms of service might be enough only enforceable by cancelling service if terms are breached (rather than the investment of seeking legal for possible damages in case of breach)</p>
+---
 
-<p>Genuine interest in any experience in this area,</p>
-
-<hr>
-
-<p>Just to extend further information regarding why such a company (service provider) would be in need of confidentiality is because the method of operations and how services are provided – not illegal nor immoral just quite unique and creative that is considered easily copied by competitors if aware. (The service is not a grand idea the method of delivery is) During the startup phase the company is only providing services to invited clients and their referrals to help get a kick start ahead of the rest, and looking for a few international clients in the bag so to speak before opening right up to the general public with a bit of self funding behind the scenes. </p>
+Just to extend further information regarding why such a company (service provider) would be in need of confidentiality is because the method of operations and how services are provided – not illegal nor immoral just quite unique and creative that is considered easily copied by competitors if aware. (The service is not a grand idea the method of delivery is) During the startup phase the company is only providing services to invited clients and their referrals to help get a kick start ahead of the rest, and looking for a few international clients in the bag so to speak before opening right up to the general public with a bit of self funding behind the scenes. 
 
 
 

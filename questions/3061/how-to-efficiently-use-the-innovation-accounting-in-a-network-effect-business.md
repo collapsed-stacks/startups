@@ -4,13 +4,15 @@
 - tagged: `social-networking`, `lean-startup`, `network-effect`, `product-market-fit`, `innovation-accounting`
 - score: 4
 
-<p>Innovation Accounting is mentioned in this book called "<a href="http://www.stpia.ir/files/The%20Lean%20Startup%20.pdf" rel="nofollow">The Lean Startup</a>" by Eric Reis at page 114. </p>
+Innovation Accounting is mentioned in this book called "[The Lean Startup][1]" by Eric Reis at page 114. 
 
-<p>In sales businesses such as "here is our product it costs this much" the metrics are similar if there is 10 users, and if there is 10 million users. 
-But in network effect businesses the metrics change as more users start using it. The metrics change a lot if FB is used by 1 billion people instead of 1000 people. </p>
+In sales businesses such as "here is our product it costs this much" the metrics are similar if there is 10 users, and if there is 10 million users. 
+But in network effect businesses the metrics change as more users start using it. The metrics change a lot if FB is used by 1 billion people instead of 1000 people. 
 
-<p>How to use it efficiently in a network effect business.</p>
+How to use it efficiently in a network effect business.
 
+
+  [1]: http://www.stpia.ir/files/The%20Lean%20Startup%20.pdf
 
 
 ## Answer 3063
@@ -37,34 +39,34 @@ But in network effect businesses the metrics change as more users start using it
 - posted by: [demiculus](https://stackexchange.com/users/5264485/demiculus) on 2015-01-20
 - score: 2
 
-<p>After some more reading Eric Reis mentions this in pg. 118 of the book "The Lean Startup"</p>
+After some more reading Eric Reis mentions this in pg. 118 of the book "The Lean Startup"
 
-<p>Summary of it is to focus on Retention as much as you can, that is the key metric network effect businesses should consider. </p>
+Summary of it is to focus on Retention as much as you can, that is the key metric network effect businesses should consider. 
 
-<blockquote>
-  <p>By contrast, a marketplace company that matches buyers and
-  sellers such as eBay will have a different growth model. Its success
-  depends primarily on the network effects that make it the premier
-  destination for both buyers and sellers to transact business. Sellers
-  want the marketplace with the highest number of potential
-  customers. Buyers want the marketplace with the most competition
-  among sellers, which leads to the greatest availability of products
-  and the lowest prices. (In economics, this sometimes is called
-  supply-side increasing returns and demand-side increasing returns.)
-  For this kind of startup, the important thing to measure is that the
-  network effects are working, as evidenced by the high retention rate
-  network effects are working, as evidenced by the high retention rate
-  of new buyers and sellers. If people stick with the product with
-  very little attrition, the marketplace will grow no matter how the
-  company acquires new customers. The growth curve will look like
-  a compounding interest table, with the rate of growth depending on
-  the “interest rate” of new customers coming to the product.
-  Though these two businesses have very different drivers of
-  growth, we can still use a common framework to hold their leaders
-  accountable. This framework supports accountability even when the
-  model changes.</p>
-</blockquote>
+> By contrast, a marketplace company that matches buyers and
+sellers such as eBay will have a different growth model. Its success
+depends primarily on the network effects that make it the premier
+destination for both buyers and sellers to transact business. Sellers
+want the marketplace with the highest number of potential
+customers. Buyers want the marketplace with the most competition
+among sellers, which leads to the greatest availability of products
+and the lowest prices. (In economics, this sometimes is called
+supply-side increasing returns and demand-side increasing returns.)
+For this kind of startup, the important thing to measure is that the
+network effects are working, as evidenced by the high retention rate
+network effects are working, as evidenced by the high retention rate
+of new buyers and sellers. If people stick with the product with
+very little attrition, the marketplace will grow no matter how the
+company acquires new customers. The growth curve will look like
+a compounding interest table, with the rate of growth depending on
+the “interest rate” of new customers coming to the product.
+Though these two businesses have very different drivers of
+growth, we can still use a common framework to hold their leaders
+accountable. This framework supports accountability even when the
+model changes.
 
+
+  [1]: http://startups.stackexchange.com/questions/3061/how-to-efficiently-use-the-innovation-accounting-in-a-network-effect-business/3063#3063
 
 
 

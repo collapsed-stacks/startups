@@ -4,17 +4,14 @@
 - tagged: `business-proposal`, `partners`, `business-capital`
 - score: 9
 
-<p>If a business is being proposed with an initial setup where: </p>
+If a business is being proposed with an initial setup where: 
 
-<ul>
-<li>2/3 of the partners are investing their <strong>money</strong> as their business capital</li>
-<li>1/3 of the partners are investing their <strong>time</strong> as business capital</li>
-</ul>
+ - 2/3 of the partners are investing their **money** as their business capital
+ - 1/3 of the partners are investing their **time** as business capital
 
-<p>How does one makes sure that the share of profits is fair?</p>
+How does one makes sure that the share of profits is fair?
 
-<p>What are the things that should be made clear from the very beginning so that there are no issues going ahead?</p>
-
+What are the things that should be made clear from the very beginning so that there are no issues going ahead?
 
 
 ## Answer 93
@@ -94,20 +91,21 @@
 - posted by: [NL7](https://stackexchange.com/users/4221898/nl7) on 2014-08-04
 - score: 2
 
-<p>There is no single right division of equity.  There are many factors at play, including the need for cash, the rarity of the founders' skills, and any pre-existing business agreement.</p>
+There is no single right division of equity.  There are many factors at play, including the need for cash, the rarity of the founders' skills, and any pre-existing business agreement.
 
-<p>Generally, startups don't want to pay out cash, but founders should also be careful to guard their equity and keep a clean cap table.  There are a few ways to do that.</p>
+Generally, startups don't want to pay out cash, but founders should also be careful to guard their equity and keep a clean cap table.  There are a few ways to do that.
 
-<ul>
-<li><p>A high-rate loan is good, if you anticipate cash coming in sufficient to pay it off.  But if you go to friends or family, they may resent be de-equitized and turned into bondholders.  They may think they are buying into a future Facebook or Apple, so even a 20% interest rate might seem cheapskate.</p></li>
-<li><p>A forced redemption right is a good way to require people to sell off their equity at some set price - for example, a multiple of their initial investment, factoring in the time delay and maybe the size of the business at the time of redemption.  This requires a pretty explicit contractual right to force them to sell.</p></li>
-<li><p>Equity options for active founders as an implicit salary.  In this case, the original $X investment of the cash founders is preserved, but the service founders get compensated for their activity.  This needs to be openly communicated and understood, particularly if the cash founders were told their stake in the equity in terms of percentages rather than units.  After a few years, the cash founders may be quite diluted relative to service founders, so the equity does not seem to painful.</p></li>
-<li><p>Equity compensation can be paired with an anti-dilution provision that allows the cash founders to buy into the company at a level consistent with their existing percentage.  For example, if the service partners are awarded equity equal to 10% of the enlarged company, then the cash partners can buy into the new company to maintain the existing ownership ratio - or they can buy some equity from the service founders for cash.  This is often suboptimal, and founders should avoid anti-dilution except with angels or VCs, who'll generally insist on it.</p></li>
-<li><p>Obviously the service founders must have a vesting schedule to prevent them from abandoning the project.  The cash founders want this as much as anyone else, since their money is worthless if the active founders run away.</p></li>
-</ul>
+- A high-rate loan is good, if you anticipate cash coming in sufficient to pay it off.  But if you go to friends or family, they may resent be de-equitized and turned into bondholders.  They may think they are buying into a future Facebook or Apple, so even a 20% interest rate might seem cheapskate.
 
-<p>If there is already an agreed business deal, then it needs to be explicitly renegotiated.  If founders have an honest understanding of the equity arrangement, then it does no good to be subtle, sneaky, or passive-aggressive in trying to rearrange it.  It should be defined clearly from the beginning, even before the cash is disbursed.  If the arrangement is suboptimal, and the active founder realize how little their time has been valued (e.g. low five figures in exchange for months of unpaid efforts), then there needs to be a clear renegotiation.</p>
+- A forced redemption right is a good way to require people to sell off their equity at some set price - for example, a multiple of their initial investment, factoring in the time delay and maybe the size of the business at the time of redemption.  This requires a pretty explicit contractual right to force them to sell.
 
+- Equity options for active founders as an implicit salary.  In this case, the original $X investment of the cash founders is preserved, but the service founders get compensated for their activity.  This needs to be openly communicated and understood, particularly if the cash founders were told their stake in the equity in terms of percentages rather than units.  After a few years, the cash founders may be quite diluted relative to service founders, so the equity does not seem to painful.
+
+- Equity compensation can be paired with an anti-dilution provision that allows the cash founders to buy into the company at a level consistent with their existing percentage.  For example, if the service partners are awarded equity equal to 10% of the enlarged company, then the cash partners can buy into the new company to maintain the existing ownership ratio - or they can buy some equity from the service founders for cash.  This is often suboptimal, and founders should avoid anti-dilution except with angels or VCs, who'll generally insist on it.
+
+- Obviously the service founders must have a vesting schedule to prevent them from abandoning the project.  The cash founders want this as much as anyone else, since their money is worthless if the active founders run away.
+
+If there is already an agreed business deal, then it needs to be explicitly renegotiated.  If founders have an honest understanding of the equity arrangement, then it does no good to be subtle, sneaky, or passive-aggressive in trying to rearrange it.  It should be defined clearly from the beginning, even before the cash is disbursed.  If the arrangement is suboptimal, and the active founder realize how little their time has been valued (e.g. low five figures in exchange for months of unpaid efforts), then there needs to be a clear renegotiation.
 
 
 

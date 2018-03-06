@@ -4,10 +4,9 @@
 - tagged: `content`
 - score: 1
 
-<p>I run a monthly online publication with almost 100k customers that are music producers. That's 100k actual customers that pay - not just casual visitors. </p>
+I run a monthly online publication with almost 100k customers that are music producers. That's 100k actual customers that pay - not just casual visitors. 
 
-<p>I would like to expand the company into becoming a record label but I am not sure the best way to leverage the customer base to make it successful. It is already a highly targeted audience of music fans and producers. I would like to use the company's  reputation and existing customer base as a springboard into this other endeavor - just not sure the relight steps to take. What would you do?</p>
-
+I would like to expand the company into becoming a record label but I am not sure the best way to leverage the customer base to make it successful. It is already a highly targeted audience of music fans and producers. I would like to use the company's  reputation and existing customer base as a springboard into this other endeavor - just not sure the relight steps to take. What would you do?
 
 
 ## Answer 11733
@@ -15,24 +14,21 @@
 - posted by: [Lucas Torres](https://stackexchange.com/users/5780883/lucas-torres) on 2016-12-19
 - score: 2
 
-<p>See that even though you have potential clients you are "migrating".
+See that even though you have potential clients you are "migrating".
 I would recommend that you first provide yourself with the most accurate information.
-Enjoy your base of 100k and raise information like:</p>
+Enjoy your base of 100k and raise information like:
 
-<ol>
-<li>List item</li>
-<li>Are your readers interested in a label?</li>
-<li>What do they look for in a record company?</li>
-<li>What problems do they have with current record labels?
-and so on...</li>
-</ol>
+ 1. List item
+ 2. Are your readers interested in a label?
+ 3. What do they look for in a record company?
+ 4. What problems do they have with current record labels?
+and so on...
 
-<p>Take advantage of your know-how and raise the current record label market.
+Take advantage of your know-how and raise the current record label market.
 From this, define if it is really worth it.
-If the answer is positive, raise the implementation costs of one (financial costs, and time)</p>
+If the answer is positive, raise the implementation costs of one (financial costs, and time)
 
-<p>I think that would be the first steps.</p>
-
+I think that would be the first steps.
 
 
 ## Answer 11746

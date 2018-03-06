@@ -4,30 +4,27 @@
 - tagged: `team`, `project-management`
 - score: 6
 
-<p>We have started as a two men team and now we have 8 people working for the startup company. In the beginning we used to write down tasks in simple text file todo lists, later made excel sheets so we can have a status like done or pending.</p>
+We have started as a two men team and now we have 8 people working for the startup company. In the beginning we used to write down tasks in simple text file todo lists, later made excel sheets so we can have a status like done or pending.
 
-<p>But the more the company grows, we are strugling with the complexity. People are testing if the tasks are really done, we are setting priorities, we add deadlines. At one point we ended up with 5 different documents constructed from the same source, but in some there were extra columns, others had texts modified and took a long time to get this all back in one file.</p>
+But the more the company grows, we are strugling with the complexity. People are testing if the tasks are really done, we are setting priorities, we add deadlines. At one point we ended up with 5 different documents constructed from the same source, but in some there were extra columns, others had texts modified and took a long time to get this all back in one file.
 
-<p>Since we are in the 21st century, there must be some programs to make our life easier, but searching did result in a lot of different very expensive tools and webservices and we don't really know what all that means or where to start.</p>
+Since we are in the 21st century, there must be some programs to make our life easier, but searching did result in a lot of different very expensive tools and webservices and we don't really know what all that means or where to start.
 
-<p>Question in general: What factors of such software is relevant to consider? Which are relevant for a small startup? How can we adjust it when the startup grows more? </p>
+Question in general: What factors of such software is relevant to consider? Which are relevant for a small startup? How can we adjust it when the startup grows more? 
 
-<p>I am not sure my text is understandable, so in fact we need a program/webservice where we can manage tasks, maybe like this:</p>
+I am not sure my text is understandable, so in fact we need a program/webservice where we can manage tasks, maybe like this:
 
-<ul>
-<li>Peter says we need function XY</li>
-<li>Simone asks if he means XY-A or XY-B</li>
-<li>Peter says XY-B</li>
-<li>The boss says this is a good idea, how long does it take?</li>
-<li>Simone says it will take 4 workdays to implement</li>
-<li>The boss says go for it, deadline is before the release next weekend</li>
-<li>Alice starts working on the feature</li>
-<li>Alice finishes the feature</li>
-<li>Peter tests it and says it is great</li>
-</ul>
+- Peter says we need function XY
+- Simone asks if he means XY-A or XY-B
+- Peter says XY-B
+- The boss says this is a good idea, how long does it take?
+- Simone says it will take 4 workdays to implement
+- The boss says go for it, deadline is before the release next weekend
+- Alice starts working on the feature
+- Alice finishes the feature
+- Peter tests it and says it is great
 
-<p>Example programs are very welcomes, but we really want to hear what is possible to be important so we can decide our selfes.</p>
-
+Example programs are very welcomes, but we really want to hear what is possible to be important so we can decide our selfes.
 
 
 ## Answer 559
@@ -108,12 +105,12 @@
 - posted by: [JezC](https://stackexchange.com/users/87431/jezc) on 2014-08-30
 - score: 0
 
-<p>I'd say that your problem is not the tool. It's how you're organised. My recommendation - go find an Agile Coach (e.g. a Scrum Master). They'll help you develop a culture of performance management, estimation and responsibility. The tool flows from the culture - not the other way. Adding a tool won't make things work better, IME.</p>
+I'd say that your problem is not the tool. It's how you're organised. My recommendation - go find an Agile Coach (e.g. a Scrum Master). They'll help you develop a culture of performance management, estimation and responsibility. The tool flows from the culture - not the other way. Adding a tool won't make things work better, IME.
 
-<p>There's an old Techie adage about business processes:</p>
+There's an old Techie adage about business processes:
 
-<pre><code>If it doesn't work with paper, it won't work any better just because you put it on a computer.
-</code></pre>
+    If it doesn't work with paper, it won't work any better just because you put it on a computer.
+
 
 
 
@@ -148,19 +145,19 @@
 - posted by: [Esqarrouth](https://stackexchange.com/users/3055586/esqarrouth) on 2014-11-07
 - score: 0
 
-<p>Our startup just went through this process and we made a list with pros and cons. We will soon make a blog post about it. </p>
+Our startup just went through this process and we made a list with pros and cons. We will soon make a blog post about it. 
 
-<p><a href="https://docs.google.com/spreadsheets/d/1aUeGgK9Bx6siFzc0nIepJFb_QjOsUezDe31-KAbfvEM/edit?usp=sharing" rel="nofollow">https://docs.google.com/spreadsheets/d/1aUeGgK9Bx6siFzc0nIepJFb_QjOsUezDe31-KAbfvEM/edit?usp=sharing</a></p>
+https://docs.google.com/spreadsheets/d/1aUeGgK9Bx6siFzc0nIepJFb_QjOsUezDe31-KAbfvEM/edit?usp=sharing
 
-<p>Sorry for the bad language and unorganized list. But basically, white good, orange maybe, red no.</p>
+Sorry for the bad language and unorganized list. But basically, white good, orange maybe, red no.
 
-<p>We used Redbooth for more than a year but we weren't using most of its features and we needed some place that was better for agile software development.</p>
+We used Redbooth for more than a year but we weren't using most of its features and we needed some place that was better for agile software development.
 
-<p>We were thinking about Planbox but it was expensive and missed a couple of key features. It is a great tool but needs more development time. I believe it will pass all the other tools with time.</p>
+We were thinking about Planbox but it was expensive and missed a couple of key features. It is a great tool but needs more development time. I believe it will pass all the other tools with time.
 
-<p>We chose Trello, cause free, easy and good for small team agile development.</p>
+We chose Trello, cause free, easy and good for small team agile development.
 
-<p>Hope this helps someone</p>
+Hope this helps someone
 
 
 
@@ -169,14 +166,13 @@
 - posted by: [user3791372](https://stackexchange.com/users/4683214/user3791372) on 2015-09-03
 - score: 0
 
-<p>There are loads of free software available which meet your needs perfectly: keywords to search for are:</p>
+There are loads of free software available which meet your needs perfectly: keywords to search for are:
 
-<p>Bug tracker / issue tracker
+Bug tracker / issue tracker
 Issue management
-Project management</p>
+Project management
 
-<p>Off the top of my head redmine which is free and fairly easy to set up will allow you to do this, and add modules to expand. Or, there is software being developed, then an issue tracker is fairly common to code management software. Gitlab is an amazing free code repository which allows for issues to be created and commented on, added to milestones etc.</p>
-
+Off the top of my head redmine which is free and fairly easy to set up will allow you to do this, and add modules to expand. Or, there is software being developed, then an issue tracker is fairly common to code management software. Gitlab is an amazing free code repository which allows for issues to be created and commented on, added to milestones etc.
 
 
 

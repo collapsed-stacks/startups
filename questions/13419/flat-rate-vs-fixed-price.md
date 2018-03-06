@@ -4,8 +4,7 @@
 - tagged: `startup-costs`, `business-model`, `pricing`
 - score: 0
 
-<p>I'd like to know what's the difference between fixed price and flat rate? My startup offers unlimited design service. I have 3 pricing plans that are billed monthly. Therefore, no matter how many designs client ask, they only need to pay one price per month. Should I call it fixed price or flat rate? If it's flat rate, should I write flat rates because I have 3 pricing plans? Will appreciate any help. Thanks in advance.</p>
-
+I'd like to know what's the difference between fixed price and flat rate? My startup offers unlimited design service. I have 3 pricing plans that are billed monthly. Therefore, no matter how many designs client ask, they only need to pay one price per month. Should I call it fixed price or flat rate? If it's flat rate, should I write flat rates because I have 3 pricing plans? Will appreciate any help. Thanks in advance.
 
 
 ## Answer 13420
@@ -13,8 +12,7 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2017-09-30
 - score: 0
 
-<p>Usually, fixed price means it's not subject to bargaining, and flat rate is used to convey that the charge (or % charged) is the same in all cases.</p>
-
+Usually, fixed price means it's not subject to bargaining, and flat rate is used to convey that the charge (or % charged) is the same in all cases.
 
 
 ## Answer 13468

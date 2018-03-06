@@ -4,14 +4,13 @@
 - tagged: `united-kingdom`, `e-commerce`
 - score: 2
 
-<p>I am an entrepreneur from Pakistan and I'm recently opening an online store which will sell all kinds of handicrafts from south asia specially Pakistan.</p>
+I am an entrepreneur from Pakistan and I'm recently opening an online store which will sell all kinds of handicrafts from south asia specially Pakistan.
 
-<p>I need to find what what is the buying needs for South Asian handicrafts and clothing in UK and surrounding places. Is it worthwhile to market this kind of business in UK?</p>
+I need to find what what is the buying needs for South Asian handicrafts and clothing in UK and surrounding places. Is it worthwhile to market this kind of business in UK?
 
-<p>Your suggestions and ideas will help be make a better decision</p>
+Your suggestions and ideas will help be make a better decision
 
-<p>Thank you</p>
-
+Thank you
 
 ## No Answers
 

@@ -4,9 +4,10 @@
 - tagged: `legal`, `accounting`
 - score: 6
 
-<p>We have an startup, we are just starting and we'd like to know if there is an organization to provide legal and accounting assistance for startups. We have the company in the US (Delaware) and we are operating it remotely. It's hard and expensive to find those professionals, but may be there are companies that provide that service for startups at competitive prices.</p>
+We have an startup, we are just starting and we'd like to know if there is an organization to provide legal and accounting assistance for startups. We have the company in the US (Delaware) and we are operating it remotely. It's hard and expensive to find those professionals, but may be there are companies that provide that service for startups at competitive prices.
 
-<p>We need help about how to keep the company in good standing and we need help to write our independent contractor agreement, service level agreement, etc.</p>
+We need help about how to keep the company in good standing and we need help to write our independent contractor agreement, service level agreement, etc.
+
 
 
 
@@ -45,14 +46,13 @@
 - posted by: [George](https://stackexchange.com/users/3516499/george) on 2015-04-15
 - score: 1
 
-<p>To save money, you can use a template from other sites and then use your own attorney if you need help fine tuning it.</p>
+To save money, you can use a template from other sites and then use your own attorney if you need help fine tuning it.
 
-<p><a href="https://www.ycombinator.com/documents/" rel="nofollow">Y Combinator</a> provides some excellent documents including a sales agreement for SaaS companies.</p>
+[Y Combinator](https://www.ycombinator.com/documents/) provides some excellent documents including a sales agreement for SaaS companies.
 
-<p><a href="https://www.orrick.com/Practices/Emerging-Companies/Startup-Forms/Pages/default.aspx" rel="nofollow">Orrick</a> provides many other documents for various kinds of startups including technology companies.  </p>
+[Orrick](https://www.orrick.com/Practices/Emerging-Companies/Startup-Forms/Pages/default.aspx) provides many other documents for various kinds of startups including technology companies.  
 
-<p>I have found Nolo to be a great source of legal information but have not had much success using LegalZoom.  I feel their lawyers are generic and you may be better off trying to put together basic docs on your own and using an attorney for your specific industry so the time they bill you is time well spent.</p>
-
+I have found Nolo to be a great source of legal information but have not had much success using LegalZoom.  I feel their lawyers are generic and you may be better off trying to put together basic docs on your own and using an attorney for your specific industry so the time they bill you is time well spent.
 
 
 ## Answer 4031
@@ -60,10 +60,9 @@
 - posted by: [Ali](https://stackexchange.com/users/2815644/ali) on 2015-04-17
 - score: 0
 
-<p>You can outsource your accounts just like other companies. There are some companies that specialize in accounting and bookkeeping for startups like <a href="http://accountingforstartups.com/" rel="nofollow">http://accountingforstartups.com/</a> <a href="http://outsourceaccounting.net/" rel="nofollow">http://outsourceaccounting.net/</a> <a href="http://www.pcg-services.com/services/accounting/start-ups/" rel="nofollow">http://www.pcg-services.com/services/accounting/start-ups/</a> etc. You may also be able to find a US accountant on elance, freelancer etc who may be able to do the books and tax preparations for you. </p>
+You can outsource your accounts just like other companies. There are some companies that specialize in accounting and bookkeeping for startups like http://accountingforstartups.com/ http://outsourceaccounting.net/ http://www.pcg-services.com/services/accounting/start-ups/ etc. You may also be able to find a US accountant on elance, freelancer etc who may be able to do the books and tax preparations for you. 
 
-<p>SLAs, and agreements can be checked by a lawyer from upcounsel.com and your incorporator or registered agent may provide service to keep your companies records with the state current.</p>
-
+SLAs, and agreements can be checked by a lawyer from upcounsel.com and your incorporator or registered agent may provide service to keep your companies records with the state current.
 
 
 ## Answer 8618
@@ -71,8 +70,7 @@
 - posted by: [Jim Fell](https://stackexchange.com/users/74611/jim-fell) on 2016-02-27
 - score: 0
 
-<p>I use Legal Shield (only $17/mo).  They're very responsive to my inquiries and have reviewed a lot of paperwork for me at no extra cost.  Any legal work is referred out at a 25% discount.  If you have a question for a tax attorney, just be careful in how you word it (i.e. make the question about the law and not about  you).</p>
-
+I use Legal Shield (only $17/mo).  They're very responsive to my inquiries and have reviewed a lot of paperwork for me at no extra cost.  Any legal work is referred out at a 25% discount.  If you have a question for a tax attorney, just be careful in how you word it (i.e. make the question about the law and not about  you).
 
 
 ## Answer 8624
@@ -80,11 +78,12 @@
 - posted by: [Baronz](https://stackexchange.com/users/7281676/baronz) on 2016-02-27
 - score: 0
 
-<p>What about the Delaware Small Business Development Center?</p>
+What about the Delaware Small Business Development Center?
 
-<p><a href="http://delawaresbdc.org/" rel="nofollow">http://delawaresbdc.org/</a></p>
+http://delawaresbdc.org/
 
-<p>Right on their website they have links and resources for small businesses in Delaware including legal and financial links.</p>
+Right on their website they have links and resources for small businesses in Delaware including legal and financial links.
+
 
 
 

@@ -4,10 +4,9 @@
 - tagged: `entrepreneurship`
 - score: 3
 
-<p>Sometimes it's major features and sometimes it's little things like our email copy. Much of it is blatant copying and it is making it more difficult to standout. </p>
+Sometimes it's major features and sometimes it's little things like our email copy. Much of it is blatant copying and it is making it more difficult to standout. 
 
-<p>Whomever said that imitation is the highest form of flattery was probably the guy who was doing the imitation.</p>
-
+Whomever said that imitation is the highest form of flattery was probably the guy who was doing the imitation.
 
 
 ## Answer 8353
@@ -15,17 +14,17 @@
 - posted by: [vpego](https://stackexchange.com/users/7073322/vpego) on 2016-01-18
 - score: 1
 
-<p>There are other forms to stand out than technical features. </p>
+There are other forms to stand out than technical features. 
 
-<p>What if you were in the opposite side of the table, having to copy cat in order to become relevant?</p>
+What if you were in the opposite side of the table, having to copy cat in order to become relevant?
 
-<blockquote>
-  <p>This subject is addressed in a book called BLUE OCEAN STRATEGY.</p>
-</blockquote>
+> This subject is addressed in a book called BLUE OCEAN STRATEGY.
 
-<p>You have plenty of options that could be innovative and hardly difficult to follow, like <strong>culture innovation</strong> (making yours employees working harder and smarter than theirs employees), <strong>financial innovation</strong> (investing money in areas that give you huge advantages) or even <strong>business/strategy innovation</strong> addressing your customers in an unprecedent and pleasant way.</p>
+You have plenty of options that could be innovative and hardly difficult to follow, like **culture innovation** (making yours employees working harder and smarter than theirs employees), **financial innovation** (investing money in areas that give you huge advantages) or even **business/strategy innovation** addressing your customers in an unprecedent and pleasant way.
 
-<p>So think more widely trying to figure out how your business can be better than theirs and suddenly their product will become irrelevant no matter how similar it is to yours.</p>
+So think more widely trying to figure out how your business can be better than theirs and suddenly their product will become irrelevant no matter how similar it is to yours.
+
+
 
 
 

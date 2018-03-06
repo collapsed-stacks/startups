@@ -4,13 +4,13 @@
 - tagged: `business-plan`, `intellectual-property`, `pre-launch`
 - score: 5
 
-<p>I am working on a Deep Tech idea that I hope to start-up in. It is currently in an idea stage, and will require some funding to develop a proof of concept - read - 50-60,000 Euros and 1 year. I am considering Startup Business Plan competitions as way to start fundraising.</p>
+I am working on a Deep Tech idea that I hope to start-up in. It is currently in an idea stage, and will require some funding to develop a proof of concept - read - 50-60,000 Euros and 1 year. I am considering Startup Business Plan competitions as way to start fundraising.
 
-<ol>
-<li>What are some things to consider about protecting IP when participating in Business Plan competetions? </li>
-<li>Are there significant risks of the general idea being picked up by more competent/better funded teams?</li>
-<li>Are there ways to protect IP in the pre-proof-of-concept stages?</li>
-</ol>
+1. What are some things to consider about protecting IP when participating in Business Plan competetions? 
+2. Are there significant risks of the general idea being picked up by more competent/better funded teams?
+3. Are there ways to protect IP in the pre-proof-of-concept stages?
+
+
 
 
 

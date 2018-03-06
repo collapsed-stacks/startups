@@ -4,8 +4,7 @@
 - tagged: `software`, `young-entrepreneurs`, `programmers`, `statistics`
 - score: 1
 
-<p>I am a young entrepreneur searching for staff to invest time that will be rewarded by completion of a innovative service for profit. I need to find hungry programmers preferably between ages 16 &amp; 24.I've started on my source code for the software I want to create but without the help of statisticians/programmers to help proofread it won't be ready for users anytime soon. I need at least one of each. </p>
-
+I am a young entrepreneur searching for staff to invest time that will be rewarded by completion of a innovative service for profit. I need to find hungry programmers preferably between ages 16 & 24.I've started on my source code for the software I want to create but without the help of statisticians/programmers to help proofread it won't be ready for users anytime soon. I need at least one of each. 
 
 
 ## Answer 12486
@@ -13,16 +12,13 @@
 - posted by: [Scott Moses Sunarto](https://stackexchange.com/users/5589688/scott-moses-sunarto) on 2017-04-13
 - score: 2
 
-<p>Hungry programmers at that age? I really doubt it. They're most likely still at college and have no interest in working on a start-up that won't pay them well (Read: only give equity) </p>
+Hungry programmers at that age? I really doubt it. They're most likely still at college and have no interest in working on a start-up that won't pay them well (Read: only give equity) 
 
-<p>That aside, here's several methods depending on your conditions that might land you with an employee.</p>
+That aside, here's several methods depending on your conditions that might land you with an employee.
 
-<ol>
-<li><strong>How is your track record? Do you have any notable working experience and/or reputation?</strong> If yes, try finding talented people from your previous working place and give them incentive to leave their safe spot. This is by far the most common thing that happens to young entrepreneur but only can work if you are <em>good</em> enough.</li>
-<li><strong>Do you have a lot of funding?</strong> If yes, try to create a campaign to attract talented people. It can start from something as simple as paying for a space at your local newspaper or a social media campaign.</li>
-<li><strong>Do not have both? What do I do?</strong> If you are in this position, finding someone to work with you might be pretty hard since people most likely don't want to leave their spot for a start-up without a strong foundation but what you can do is usually find a friend that want to work with you (probably as a co-founder) if your friend can answer "yes" to one of the questions above then it'll be a significant boost to your start-up.</li>
-</ol>
-
+ 1. **How is your track record? Do you have any notable working experience and/or reputation?** If yes, try finding talented people from your previous working place and give them incentive to leave their safe spot. This is by far the most common thing that happens to young entrepreneur but only can work if you are *good* enough.
+ 2.  **Do you have a lot of funding?** If yes, try to create a campaign to attract talented people. It can start from something as simple as paying for a space at your local newspaper or a social media campaign.
+ 3.  **Do not have both? What do I do?** If you are in this position, finding someone to work with you might be pretty hard since people most likely don't want to leave their spot for a start-up without a strong foundation but what you can do is usually find a friend that want to work with you (probably as a co-founder) if your friend can answer "yes" to one of the questions above then it'll be a significant boost to your start-up.
 
 
 ## Answer 12489

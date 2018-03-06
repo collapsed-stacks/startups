@@ -4,10 +4,9 @@
 - tagged: `startup-costs`, `private-company`
 - score: 4
 
-<p>A friend of mine is about to apply for a startup grant that will result in a company being founded within a few months due to grant requirements. The company will develop (for now) a single game for smartphones. There is a simple prototype of the game and a comprehensive project proposal for grant application, including financial estimates based on available data from similar startups.</p>
+A friend of mine is about to apply for a startup grant that will result in a company being founded within a few months due to grant requirements. The company will develop (for now) a single game for smartphones. There is a simple prototype of the game and a comprehensive project proposal for grant application, including financial estimates based on available data from similar startups.
 
-<p>I will participate in the project and my friend has offered me a share of the company. My question is: how can I estimate the worth of say 25% of the company (and thus how much I'd have to pay), which obviously does not even exist at this point? My best guess is to take a look at how much startups doing similar things were worth at a given time (respectively the financial estimates in the project proposal), but that does not factor in the uncertainty involved (I suppose that most startups just die quickly). How should I approach this problem? Or should I not invest into the company all together at this point? I believe that it can be successful, of course. Thank you!</p>
-
+I will participate in the project and my friend has offered me a share of the company. My question is: how can I estimate the worth of say 25% of the company (and thus how much I'd have to pay), which obviously does not even exist at this point? My best guess is to take a look at how much startups doing similar things were worth at a given time (respectively the financial estimates in the project proposal), but that does not factor in the uncertainty involved (I suppose that most startups just die quickly). How should I approach this problem? Or should I not invest into the company all together at this point? I believe that it can be successful, of course. Thank you!
 
 
 ## Answer 5868
@@ -15,10 +14,9 @@
 - posted by: [Alain](https://stackexchange.com/users/21866/alain) on 2015-07-28
 - score: 1
 
-<p>You are describing a co-founder situation: joining a company to help build it.</p>
+You are describing a co-founder situation: joining a company to help build it.
 
-<p>In that scenario, your founder shares should be valued near 0. There is no good reason to value them any higher. The only reason you'd want to value the shares higher is if you intend to bring significant cash to the company. I don't think that's your goal: you are not a passive investor whose money will be used to hire the actual developers. You are the one doing the work.</p>
-
+In that scenario, your founder shares should be valued near 0. There is no good reason to value them any higher. The only reason you'd want to value the shares higher is if you intend to bring significant cash to the company. I don't think that's your goal: you are not a passive investor whose money will be used to hire the actual developers. You are the one doing the work.
 
 
 ## Answer 5862
@@ -26,8 +24,7 @@
 - posted by: [milk2go](https://stackexchange.com/users/6638344/milk2go) on 2015-07-28
 - score: 0
 
-<p>In my opinion, when he offers you to join it should be a time investement. Not money. You should contribute to the game or the project. Sharing your skills, experiments. You can't evaluate a company value when there's no revenue yet.</p>
-
+In my opinion, when he offers you to join it should be a time investement. Not money. You should contribute to the game or the project. Sharing your skills, experiments. You can't evaluate a company value when there's no revenue yet.
 
 
 ## Answer 5865
@@ -66,8 +63,7 @@
 - posted by: [Mowzer](https://stackexchange.com/users/1803081/mowzer) on 2015-07-29
 - score: 0
 
-<p>I had inferred (perhaps incorrectly) that the OP was trying to value his shares in preparation to seek seed funding or angel investing. Or just to have a number to carry around in his head. But I agree, unless you were going to seek funding, the value should be at or near 0. It's only worth to you (a multiple of ... between 2x and 5x) the money the company is adding to your personal cash flow.</p>
-
+I had inferred (perhaps incorrectly) that the OP was trying to value his shares in preparation to seek seed funding or angel investing. Or just to have a number to carry around in his head. But I agree, unless you were going to seek funding, the value should be at or near 0. It's only worth to you (a multiple of ... between 2x and 5x) the money the company is adding to your personal cash flow.
 
 
 

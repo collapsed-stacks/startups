@@ -4,13 +4,13 @@
 - tagged: `tech-company`, `startup-costs`, `cloud`
 - score: 2
 
-<p>I'm new here, so if I need to redefine my question, please guide me.</p>
+I'm new here, so if I need to redefine my question, please guide me.
 
-<p>I'm building a social/professional network. This network will contain user-profiles a bit like Linked-in. In order to do the best calculation for our budget, I need to somehow make an estimation on MB per profile, so I could see how much data is needed for 10, 100, 1000, 10.000 users and so on.</p>
+I'm building a social/professional network. This network will contain user-profiles a bit like Linked-in. In order to do the best calculation for our budget, I need to somehow make an estimation on MB per profile, so I could see how much data is needed for 10, 100, 1000, 10.000 users and so on.
 
-<p>Average on MB per Linked-in profile would be a good estimate for me. </p>
+Average on MB per Linked-in profile would be a good estimate for me. 
 
-<p>I've looked and searched all over the net, but didn't find a satisfying answer.</p>
+I've looked and searched all over the net, but didn't find a satisfying answer.
 
 
 
@@ -40,17 +40,16 @@
 - posted by: [SerkanSerttop](https://stackexchange.com/users/4509857/serkanserttop) on 2014-08-23
 - score: 1
 
-<p>It also depends upon your choice of database/s and how you decide to write to database/s. My project requires 3 different persistent databases for example, to handle different use cases.</p>
+It also depends upon your choice of database/s and how you decide to write to database/s. My project requires 3 different persistent databases for example, to handle different use cases.
 
-<p>To give an example, I collected tweet streams and wrote them straight into MongoDB.
+To give an example, I collected tweet streams and wrote them straight into MongoDB.
 I had about 1.6 million tweets.
-MongoDB was ~ 8.6 GB with long field keys, ~ 5.3 GB with shortened field keys, while Postgres was ~ 780 MB.</p>
+MongoDB was ~ 8.6 GB with long field keys, ~ 5.3 GB with shortened field keys, while Postgres was ~ 780 MB.
 
-<p>You have to collect some data, or create it the way you want and then run a loop to populate your choice of database and test your results. That's the only way you can tell.</p>
+You have to collect some data, or create it the way you want and then run a loop to populate your choice of database and test your results. That's the only way you can tell.
 
-<p>Update 2014-08-24:
-I have not touched upon storing pics or videos as that's a very different type of storage than data. You may want to use SSD for database storage while pics can be on cheaper HDDs and much easier and cheaper to scale. Videos can come from youtube via API, and you seem to have  specified "data storage" which I take it to mean database storage. You may want to clarify this point.</p>
-
+Update 2014-08-24:
+I have not touched upon storing pics or videos as that's a very different type of storage than data. You may want to use SSD for database storage while pics can be on cheaper HDDs and much easier and cheaper to scale. Videos can come from youtube via API, and you seem to have  specified "data storage" which I take it to mean database storage. You may want to clarify this point.
 
 
 ## Answer 475
@@ -58,10 +57,9 @@ I have not touched upon storing pics or videos as that's a very different type o
 - posted by: [George](https://stackexchange.com/users/3516499/george) on 2014-08-23
 - score: 0
 
-<p>You cannot look at user count alone.  A major consideration are the blogs/community posts.  If you allow these to have pics, or even video, the the size of a sub forum could be larger than all of your user profiles.</p>
+You cannot look at user count alone.  A major consideration are the blogs/community posts.  If you allow these to have pics, or even video, the the size of a sub forum could be larger than all of your user profiles.
 
-<p>You need to better explain the type of data that will be saved, and expected total users in the first month.  Space is cheap, but whatever space you think you will need, it will double every 6 months.</p>
-
+You need to better explain the type of data that will be saved, and expected total users in the first month.  Space is cheap, but whatever space you think you will need, it will double every 6 months.
 
 
 

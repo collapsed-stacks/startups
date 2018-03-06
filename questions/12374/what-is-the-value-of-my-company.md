@@ -4,24 +4,27 @@
 - tagged: `tech-company`, `valuation`
 - score: 5
 
-<p>I have been working on my start up in the enterprise HR tech area for the last two 2 years. We have a citizen integration inspired middleware that makes SAP integrations super easy. We have a cloud version as well as an installable version.</p>
 
-<p>We don't have any customers insofar. But that's looking to change with 3 big ($6 bill+) companies looking to buy our subscription. Since we're in HR Tech, our subscription is based on the number of employees a company has.</p>
+I have been working on my start up in the enterprise HR tech area for the last two 2 years. We have a citizen integration inspired middleware that makes SAP integrations super easy. We have a cloud version as well as an installable version.
 
-<p>One of the companies has 70+k employees and they're looking to start with 20k employees (a few of their subsidiaries) for this year. Per Employee per month is 30 cents: revenue is approx $7.2k/year and can increase based on employees at the customer to as much as $25k/year. Another customer on a similar note can bring in 20k more in revenue.</p>
+We don't have any customers insofar. But that's looking to change with 3 big ($6 bill+) companies looking to buy our subscription. Since we're in HR Tech, our subscription is based on the number of employees a company has.
 
-<p>Now, by the end of last year, I met a very successful sales/business development guy. We worked together on a pitch for a really big software vendor. A deal with them can open up atleast 20+ such aforementioned customers in the next 3-4 years. Of course, that also means that we have to increase our man power and other capacities. 
+One of the companies has 70+k employees and they're looking to start with 20k employees (a few of their subsidiaries) for this year. Per Employee per month is 30 cents: revenue is approx $7.2k/year and can increase based on employees at the customer to as much as $25k/year. Another customer on a similar note can bring in 20k more in revenue.
+
+Now, by the end of last year, I met a very successful sales/business development guy. We worked together on a pitch for a really big software vendor. A deal with them can open up atleast 20+ such aforementioned customers in the next 3-4 years. Of course, that also means that we have to increase our man power and other capacities. 
 End of 3years, we project :
  ///Realistic  scenario: Revenue $400k | Profit -$280k(loss)
  ///Optimistic scenario: Revenue $700k | Profit -$44k(loss).
  Overall: Revenue $500k | Profit -$150k | trend +
- But if we manage upsell other products/consulting, then we start looking good on the profit front too.</p>
+ But if we manage upsell other products/consulting, then we start looking good on the profit front too.
 
-<p>Now, the new guy wants to pick up a stake in the company. He wants to put in $200k for a stake of 35%.<br>
- His take: Without him, the company had no value and therefore he gets the first mover advantage.</p>
+ Now, the new guy wants to pick up a stake in the company. He wants to put in $200k for a stake of 35%.  
+ His take: Without him, the company had no value and therefore he gets the first mover advantage.
 
-<p>This I believe is too high. What are the repercussions of accepting this?
-What are my arguments to counter this and lower his stake to, say, 15-20%?</p>
+This I believe is too high. What are the repercussions of accepting this?
+What are my arguments to counter this and lower his stake to, say, 15-20%?
+
+
 
 
 

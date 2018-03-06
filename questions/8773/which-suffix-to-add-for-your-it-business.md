@@ -4,13 +4,12 @@
 - tagged: `business-registration`, `naming`
 - score: 2
 
-<p>What are the implications of adding a suffix to a technological startup ? </p>
+What are the implications of adding a suffix to a technological startup ? 
 
-<p>For example an IT company called <b>x</b> can have the suffixes <b> IT, Labs, Technologies </b>.<br /> 
-Which one of these signals an innovative and flexible company ?</p>
+For example an IT company called <b>x</b> can have the suffixes <b> IT, Labs, Technologies </b>.<br /> 
+Which one of these signals an innovative and flexible company ?
 
-<p>I have heard cases of a company name ending in Labs being rejected as the Registrar of Companies thought they were going to be making chemical weapons.</p>
-
+I have heard cases of a company name ending in Labs being rejected as the Registrar of Companies thought they were going to be making chemical weapons.
 
 ## No Answers
 

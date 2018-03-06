@@ -4,12 +4,11 @@
 - tagged: `software`, `business-model`, `pricing`, `revenue`
 - score: 7
 
-<p>We have a <a href="https://en.wikipedia.org/wiki/Software_development_kit" rel="nofollow">Software Development Kit</a> product that will soon be ready to go to market. It is a relativly niche product that allows developers to add a geospatial or mapping component easily and quickly into their application. </p>
+We have a [Software Development Kit](https://en.wikipedia.org/wiki/Software_development_kit) product that will soon be ready to go to market. It is a relativly niche product that allows developers to add a geospatial or mapping component easily and quickly into their application. 
 
-<p>We are currently designing a business model and I need to do some research into putting into place efficient pricing models and structures.</p>
+We are currently designing a business model and I need to do some research into putting into place efficient pricing models and structures.
 
-<p>The target customers are going to be developers, software solution providers and the like.</p>
-
+The target customers are going to be developers, software solution providers and the like.
 
 
 ## Answer 12555

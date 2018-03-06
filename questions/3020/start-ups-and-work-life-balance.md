@@ -4,8 +4,7 @@
 - tagged: `yc-how-to-start-a-startup`, `time-management`
 - score: 3
 
-<p>Is it possible to start up your own company and live a stress free life and be able to achieve work-life balance? I need answers from people who attempted starting up their own businesses!</p>
-
+Is it possible to start up your own company and live a stress free life and be able to achieve work-life balance? I need answers from people who attempted starting up their own businesses!
 
 
 ## Answer 3030
@@ -42,16 +41,13 @@
 - posted by: [Okyasoft](https://stackexchange.com/users/294248/okyasoft) on 2015-01-16
 - score: 1
 
-<p>Key to achieve work life balance is to have discipline and figure out your priorities. If that sounds too abstract let me give you the following concrete tips:</p>
+Key to achieve work life balance is to have discipline and figure out your priorities. If that sounds too abstract let me give you the following concrete tips:
 
-<ul>
-<li>Work only with nice people. If you have a toxic work environment it can take a bit toll on your personal life as well. Always try to hire or team up with nice people. It does not matter how good they are if they are going to drag down the morale of the entire team. In the long run for your company a nice person always beats that one guy who was really great at work but did not get along with anyone.</li>
-<li>Do not have a long commute to work. Many people do not realize this but a long commute to work can be very taxing. If you need to optimize for rent in terms of the place to stay figure out an alternative. Since you will commute every day to work saving a few minutes can lead to several hours of saving over the year.</li>
-<li>Set up the right expectations. Most often it is not that people expect you to work all the time. If you set clear expectations about how many hours you are willing to put on a typical day people actually appreciate it. </li>
-<li>In your personal life prioritize tasks just as you would for work. That means breaking things down to week or day. If you need to take your son to a football game make space for that. If you think about buying something nice for your wife do that. Make sure you have some personal tasks on a weekly or daily basis. </li>
-<li>If you can get up early. It will give you that extra hour or so at home and you can get a lot done in the early morning hours before anyone is even out of bed.</li>
-</ul>
-
+ - Work only with nice people. If you have a toxic work environment it can take a bit toll on your personal life as well. Always try to hire or team up with nice people. It does not matter how good they are if they are going to drag down the morale of the entire team. In the long run for your company a nice person always beats that one guy who was really great at work but did not get along with anyone.
+ - Do not have a long commute to work. Many people do not realize this but a long commute to work can be very taxing. If you need to optimize for rent in terms of the place to stay figure out an alternative. Since you will commute every day to work saving a few minutes can lead to several hours of saving over the year.
+ - Set up the right expectations. Most often it is not that people expect you to work all the time. If you set clear expectations about how many hours you are willing to put on a typical day people actually appreciate it. 
+ - In your personal life prioritize tasks just as you would for work. That means breaking things down to week or day. If you need to take your son to a football game make space for that. If you think about buying something nice for your wife do that. Make sure you have some personal tasks on a weekly or daily basis. 
+ - If you can get up early. It will give you that extra hour or so at home and you can get a lot done in the early morning hours before anyone is even out of bed.
 
 
 ## Answer 3035
@@ -59,9 +55,10 @@
 - posted by: [Laxiton6893](https://stackexchange.com/users/2181902/laxiton6893) on 2015-01-16
 - score: 0
 
-<p>No. Its a stressful job and it should be. The thing you need to understand that as a founder the startup is what you do. It comes down to time working and time you are taking a break from it and recharging to go back to work. Its good to have a supporting family and group of friends who understand what you do and support you. If you really believe in your work, then you really do not think about it much at all. </p>
+No. Its a stressful job and it should be. The thing you need to understand that as a founder the startup is what you do. It comes down to time working and time you are taking a break from it and recharging to go back to work. Its good to have a supporting family and group of friends who understand what you do and support you. If you really believe in your work, then you really do not think about it much at all. 
 
-<p>For me, most of my stress comes from frustration at how slow things can move. </p>
+For me, most of my stress comes from frustration at how slow things can move. 
+
 
 
 

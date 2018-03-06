@@ -4,10 +4,9 @@
 - tagged: `hiring`, `human-resources`
 - score: -1
 
-<p>Where can I find someone to join my startup? I'd specifically appreciate any websites dedicated to people who are willing to join a project for equity instead of a salary.</p>
+Where can I find someone to join my startup? I'd specifically appreciate any websites dedicated to people who are willing to join a project for equity instead of a salary.
 
-<p>If such a thing doesn't exist, how would you look for an IT programmer?</p>
-
+If such a thing doesn't exist, how would you look for an IT programmer?
 
 
 ## Answer 3865
@@ -15,16 +14,16 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-03-26
 - score: 4
 
-<p>There are a few site that try to match cofounders, e.g. Founder2be or CofoundersLab. Google for "find cofounder" and you'll find a few more.</p>
+There are a few site that try to match cofounders, e.g. Founder2be or CofoundersLab. Google for "find cofounder" and you'll find a few more.
 
-<p>Generally speaking, though, beware if you're trying to be "the business guy who brought the idea" because, hey, unless you're able to actually sell what you're offering your contribution is about zero. And good technical cofounders will know as much. (And get paid for it.)</p>
+Generally speaking, though, beware if you're trying to be "the business guy who brought the idea" because, hey, unless you're able to actually sell what you're offering your contribution is about zero. And good technical cofounders will know as much. (And get paid for it.)
 
-<p>Related:</p>
+Related:
 
-<ul>
-<li><p><a href="https://startups.stackexchange.com/questions/3151/how-to-find-and-convince-good-technical-co-founders-cto-for-my-startup">How to find and convince good technical co-founders / CTO for my startup?</a></p></li>
-<li><p><a href="https://startups.stackexchange.com/questions/3666/is-it-feasible-to-launch-an-app-working-alone">Is it feasible to launch an app working alone?</a></p></li>
-</ul>
+- https://startups.stackexchange.com/questions/3151/how-to-find-and-convince-good-technical-co-founders-cto-for-my-startup
+
+- https://startups.stackexchange.com/questions/3666/is-it-feasible-to-launch-an-app-working-alone
+
 
 
 

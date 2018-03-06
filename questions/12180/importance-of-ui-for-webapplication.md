@@ -4,26 +4,28 @@
 - tagged: `bootstrapping`, `strategy`, `design`, `applications`, `web-apps`
 - score: 3
 
-<p>I am a novice Ruby on Rails Developer and I am planning to launch 1/2 Apps per month. I do this to to see if the App is successful and subsequently improve it after launch.</p>
+I am a novice Ruby on Rails Developer and I am planning to launch 1/2 Apps per month. I do this to to see if the App is successful and subsequently improve it after launch.
 
-<p>To save time I will not work so much on the Front End and just edit the HTML/CSS/Javascript code downloaded from Bootstrap Themes that are already developed for Smartphone, Tablet and Desktop. </p>
+To save time I will not work so much on the Front End and just edit the HTML/CSS/Javascript code downloaded from Bootstrap Themes that are already developed for Smartphone, Tablet and Desktop. 
 
-<p>This is my layout <a href="https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/" rel="nofollow noreferrer">https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/</a></p>
+This is my layout https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/
 
-<p>As my App is about having guest at your home, similarly to Airbnb, I saw how some of their pages are designed and to edit my current layout and follow this different design I may have to loose 2-5 days in my work schedule.</p>
+As my App is about having guest at your home, similarly to Airbnb, I saw how some of their pages are designed and to edit my current layout and follow this different design I may have to loose 2-5 days in my work schedule.
 
-<p><a href="https://i.stack.imgur.com/FyF7y.jpg" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/FyF7y.jpg" alt="enter image description here"></a></p>
+[![enter image description here][1]][1]
 
-<p>As I am a Full Stack developer I think the back-end functionalities are the most important thing right now to develope. </p>
 
-<p>My Question is, what was the reason of success of Websites like Airbnb at their start? Was it the revolutionary Design or some other functionalities like reviews, facebook login..?</p>
+  [1]: https://i.stack.imgur.com/FyF7y.jpg
 
-<p>I read articles about Pieter Levels and I think the best thing is just do the App as fast as possible, without caring so much about the look (which if you see the layout is very good) at least at the start, but I may be wrong.</p>
+As I am a Full Stack developer I think the back-end functionalities are the most important thing right now to develope. 
 
-<p>Thanks
+My Question is, what was the reason of success of Websites like Airbnb at their start? Was it the revolutionary Design or some other functionalities like reviews, facebook login..?
+
+I read articles about Pieter Levels and I think the best thing is just do the App as fast as possible, without caring so much about the look (which if you see the layout is very good) at least at the start, but I may be wrong.
+
+Thanks
 Best Regards
-Fabrizio</p>
-
+Fabrizio
 
 
 ## Answer 12185
@@ -31,22 +33,19 @@ Fabrizio</p>
 - posted by: [SmallChess](https://stackexchange.com/users/124226/smallchess) on 2017-02-24
 - score: 3
 
-<p>It's unlikely your approach will lead to success. You're trying to fish for random web templates, and hopefully one of those will make you the next millionaire. </p>
+It's unlikely your approach will lead to success. You're trying to fish for random web templates, and hopefully one of those will make you the next millionaire. 
 
-<p>Unfortunately, it doesn't work that way. Web applications rarely worth anything by itself. I can easily outsource a web app to Indian contractors, and everybody else can do that too.</p>
+Unfortunately, it doesn't work that way. Web applications rarely worth anything by itself. I can easily outsource a web app to Indian contractors, and everybody else can do that too.
 
-<p>You'll need:</p>
+You'll need:
 
-<ul>
-<li>Strong market insight and connections</li>
-<li>Understand what exactly you're trying to solve</li>
-<li>Solid marketing plan</li>
-<li>Sufficient funding</li>
-<li>Understanding who's competing against you</li>
-</ul>
+ - Strong market insight and connections
+ - Understand what exactly you're trying to solve
+ - Solid marketing plan
+ - Sufficient funding
+ - Understanding who's competing against you
 
-<p>UI is important, because you're in a very competitive market. If you can't do it properly for your first release, someone else would.</p>
-
+UI is important, because you're in a very competitive market. If you can't do it properly for your first release, someone else would.
 
 
 ## Answer 12266

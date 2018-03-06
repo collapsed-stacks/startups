@@ -4,10 +4,9 @@
 - tagged: `learning`
 - score: 5
 
-<p>I am planning to start a product company lateron. If I would want to prepare as a university student (CS) for starting my own company, what book should I read or other useful introduction such as videos do you recommend?</p>
+I am planning to start a product company lateron. If I would want to prepare as a university student (CS) for starting my own company, what book should I read or other useful introduction such as videos do you recommend?
 
-<p>I am aware that many practical parts I wont be able to grasp from a book but is there any book that you as an entrepreneur thought you should have read in advance?</p>
-
+I am aware that many practical parts I wont be able to grasp from a book but is there any book that you as an entrepreneur thought you should have read in advance?
 
 
 ## Answer 644
@@ -33,10 +32,9 @@
 - posted by: [Neil](https://stackexchange.com/users/60907/neil) on 2014-09-13
 - score: 1
 
-<p>My advice is to think every aspect of running your company up from scratch. Don't look to business books. Do what you think makes sense and focus on defining and solving each problem you encounter. </p>
+My advice is to think every aspect of running your company up from scratch. Don't look to business books. Do what you think makes sense and focus on defining and solving each problem you encounter. 
 
-<p>Perhaps a good book on problem solving techniques would serve you much better. </p>
-
+Perhaps a good book on problem solving techniques would serve you much better. 
 
 
 ## Answer 650
@@ -44,9 +42,8 @@
 - posted by: [Boaz Chen](https://stackexchange.com/users/4995310/boaz-chen) on 2014-09-08
 - score: 0
 
-<p>Lean Startup by Eric Ries.
-you can find lectures he gave on youtube.</p>
-
+Lean Startup by Eric Ries.
+you can find lectures he gave on youtube.
 
 
 

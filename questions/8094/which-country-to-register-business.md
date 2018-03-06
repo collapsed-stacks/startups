@@ -4,12 +4,11 @@
 - tagged: `business-registration`, `india`, `australia`
 - score: 0
 
-<p>I'm an Indian Citizen living in Australia (soon to be permanent resident). 
+I'm an Indian Citizen living in Australia (soon to be permanent resident). 
 Is it a good idea to register business in Australia? or should it be done in India?
-The only thing stopping me from registering in India is that they don't have a complete online registration system and needs my physical presence to get it done. </p>
+The only thing stopping me from registering in India is that they don't have a complete online registration system and needs my physical presence to get it done. 
 
-<p>Please suggest.</p>
-
+Please suggest.
 
 
 ## Answer 8095
@@ -17,10 +16,9 @@ The only thing stopping me from registering in India is that they don't have a c
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-12-13
 - score: 4
 
-<p>When it comes to incorporating, your only credible options are the countries where the founders live. In your case that means Australia unless you've a cofounder in India - which will solve your physical presence problem.</p>
+When it comes to incorporating, your only credible options are the countries where the founders live. In your case that means Australia unless you've a cofounder in India - which will solve your physical presence problem.
 
-<p>Related reading:  <a href="https://startups.stackexchange.com/questions/6221/what-major-things-to-consider-when-starting-a-company-overseas-without-being-phy/7873#7873">What major things to consider when starting a company overseas without being physically present?</a></p>
-
+Related reading:  https://startups.stackexchange.com/questions/6221/what-major-things-to-consider-when-starting-a-company-overseas-without-being-phy/7873#7873
 
 
 

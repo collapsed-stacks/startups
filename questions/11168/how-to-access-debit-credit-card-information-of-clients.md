@@ -4,9 +4,9 @@
 - tagged: `business-model`
 - score: 1
 
-<p>I have a business proposal that depends on pulling money from client's debit/credit card accounts based on the purchases they make.
+I have a business proposal that depends on pulling money from client's debit/credit card accounts based on the purchases they make.
 I need to access type of purchases and how much they spent; then depending on the money spent on certain items, I would request some money from the bank account/credit card - of course with their earlier permission to access their account to a limit amount-.
-I need to figure out how to get this setup through an online webpage. What are the permissions that I need to apply for, am I dealing with master/visa directly in this case, or individual banks? </p>
+I need to figure out how to get this setup through an online webpage. What are the permissions that I need to apply for, am I dealing with master/visa directly in this case, or individual banks? 
 
 
 
@@ -15,12 +15,11 @@ I need to figure out how to get this setup through an online webpage. What are t
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2016-09-20
 - score: 1
 
-<p>The only way to get this information is form the banks involved in those transactions. Intuitively you could try tapping into intermediaries like Visa, MasterCard, etc. or Swift but you'd then miss out on transactions between accounts from the same banks. So, really, banks are your only option.</p>
+The only way to get this information is form the banks involved in those transactions. Intuitively you could try tapping into intermediaries like Visa, MasterCard, etc. or Swift but you'd then miss out on transactions between accounts from the same banks. So, really, banks are your only option.
 
-<p>Off the bat I'd gather your chances of finding a bank that provides you with access to this data is just about zero. Even if a few do accept, finding a bank equipped with an API to provide you such information is probably close to zero as well, so you'd be on the hook to make that happen.</p>
+Off the bat I'd gather your chances of finding a bank that provides you with access to this data is just about zero. Even if a few do accept, finding a bank equipped with an API to provide you such information is probably close to zero as well, so you'd be on the hook to make that happen.
 
-<p>The only way to know for sure arguably is to reach out to banks and see for yourself.</p>
-
+The only way to know for sure arguably is to reach out to banks and see for yourself.
 
 
 

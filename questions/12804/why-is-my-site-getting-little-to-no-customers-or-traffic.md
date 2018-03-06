@@ -4,19 +4,16 @@
 - tagged: `marketing`, `website`, `sales`
 - score: 0
 
-<p>So I'm starting a business this summer (actually, already started: <a href="http://www.standout.video/" rel="nofollow noreferrer">http://www.standout.video/</a> ). I'm basically being paid to make intros, outros, and edited videos. But like I said, I already kind of started this business. It's been up for about a month now, and things have been pretty slow. I only had 1 customer throughout the course of one month and it was a relative.</p>
+So I'm starting a business this summer (actually, already started: http://www.standout.video/ ). I'm basically being paid to make intros, outros, and edited videos. But like I said, I already kind of started this business. It's been up for about a month now, and things have been pretty slow. I only had 1 customer throughout the course of one month and it was a relative.
 
-<p>I even:</p>
+I even:
 
-<ol>
-<li>Made a video to market my business.</li>
-<li>Made a video on how it works.</li>
-<li>Advertised on social media (to multiple audiences).</li>
-<li>Search engine optimization.</li>
-</ol>
+ 1. Made a video to market my business.
+ 2. Made a video on how it works.
+ 3. Advertised on social media (to multiple audiences).
+ 4. Search engine optimization.
 
-<p>Yet, despite my efforts, it still had bare minimum traffic. So that's why I'm here, does anyone have any advice on how I could earn more customers and make more profit?</p>
-
+Yet, despite my efforts, it still had bare minimum traffic. So that's why I'm here, does anyone have any advice on how I could earn more customers and make more profit?
 
 
 ## Answer 12805
@@ -104,13 +101,13 @@
 - posted by: [Fu Liu](https://stackexchange.com/users/11081459/fu-liu) on 2017-06-09
 - score: 0
 
-<p>That's very normal, there are others who cannot have a good traffic to their website even after a year, you have to understand two rules:
+That's very normal, there are others who cannot have a good traffic to their website even after a year, you have to understand two rules:
 A little time to give a great traffic= A large invest in ads and marketing
-Little invest in ads or marketing= long time to get a great traffic</p>
+Little invest in ads or marketing= long time to get a great traffic
 
-<p>I hope you can get some invest in branding your products, including Google Adwards, SNS CPC.</p>
+I hope you can get some invest in branding your products, including Google Adwards, SNS CPC.
 
-<p>Other way: if you do not have a budget for investment, please use google keyword tools and make some keywords for your products, write some seo articles and submit to your website.With time goes by, you will get some traffic if the quality of your articles is good enough.</p>
+Other way: if you do not have a budget for investment, please use google keyword tools and make some keywords for your products, write some seo articles and submit to your website.With time goes by, you will get some traffic if the quality of your articles is good enough.
 
 
 
@@ -119,10 +116,9 @@ Little invest in ads or marketing= long time to get a great traffic</p>
 - posted by: [user137786](https://stackexchange.com/users/10808520/user137786) on 2017-06-12
 - score: 0
 
-<p>Theres more to getting customers then just placing ads and having a website. You have to know your target audience n what they like n that takes research on your end. After looking at your website i can tell u now the site is not mobile friendly at all so that is a huge problem n your rank in google is suffering from it alot. </p>
+Theres more to getting customers then just placing ads and having a website. You have to know your target audience n what they like n that takes research on your end. After looking at your website i can tell u now the site is not mobile friendly at all so that is a huge problem n your rank in google is suffering from it alot. 
 
-<p>My suggestion would be to focus on getting a mobile friendly site n  making sure the seo is done correctly, any attempt to trick google with black hats seo tricks will hurt you alot more then they help trust me!! Find a reputable seo consultant to help you if your new to seo or try looking more into google adwords to help you start off there are pros n cons to adwords but i find it very helpful in getting started n getting your business name out there quickly. Also check out fiverr or upwork for some help u may be able to find someone to fix the website for you, do your seo (id be skeptical about seo services ), content writing and more. Also try doing some tutorials on youtube for wat you do cause me myself ive tried doing what u do n its hard but i love watching tutorials on it im currently teaching myself adobe illustrator from watching YouTube tutorials </p>
-
+My suggestion would be to focus on getting a mobile friendly site n  making sure the seo is done correctly, any attempt to trick google with black hats seo tricks will hurt you alot more then they help trust me!! Find a reputable seo consultant to help you if your new to seo or try looking more into google adwords to help you start off there are pros n cons to adwords but i find it very helpful in getting started n getting your business name out there quickly. Also check out fiverr or upwork for some help u may be able to find someone to fix the website for you, do your seo (id be skeptical about seo services ), content writing and more. Also try doing some tutorials on youtube for wat you do cause me myself ive tried doing what u do n its hard but i love watching tutorials on it im currently teaching myself adobe illustrator from watching YouTube tutorials 
 
 
 

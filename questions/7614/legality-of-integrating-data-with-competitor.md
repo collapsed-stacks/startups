@@ -4,24 +4,24 @@
 - tagged: `legal`, `software`
 - score: 0
 
-<p>I used to work for a software company that dominates a niche market.</p>
 
-<p>This market is one in which consumers demand the same product because they need to share data with each other in a trusted format. Kind of like a PDF, but for a particular kind of financial model.</p>
+I used to work for a software company that dominates a niche market.
 
-<p>Basically everyone builds their own models in Excel, etc., but shares with each other in this other format.</p>
+This market is one in which consumers demand the same product because they need to share data with each other in a trusted format. Kind of like a PDF, but for a particular kind of financial model.
 
-<p>I could possibly build a better product, but there's no point because I would not be successful without the sales and marketing ability to promote widespread adoption when there is already a capable and trusted product on the market. It just would never happen.</p>
+Basically everyone builds their own models in Excel, etc., but shares with each other in this other format.
 
-<p>But it's not a complicated product, and if I could offer it for free, and -- here's the killer question -- What if I could import/export this company's file formats? Or directly push data into the back end?</p>
+I could possibly build a better product, but there's no point because I would not be successful without the sales and marketing ability to promote widespread adoption when there is already a capable and trusted product on the market. It just would never happen.
 
-<p>Is it legal to do that in any way?</p>
+But it's not a complicated product, and if I could offer it for free, and -- here's the killer question -- What if I could import/export this company's file formats? Or directly push data into the back end?
 
-<p>If I can import and export their files, I think I have a shot.</p>
+Is it legal to do that in any way?
 
-<p>Would I inevitably face eternal lawsuits for having worked there in the first place and starting this kind of company? (I quit a while ago to work at another software company).</p>
+If I can import and export their files, I think I have a shot.
 
-<p>I don't know where the line is drawn. For example, Open Office and Google Docs can open Microsoft's DOCX, DOC file formats and others. I'm not a lawyer, but I'm sure if Microsoft said no one else could open their files that wouldn't fly.</p>
+Would I inevitably face eternal lawsuits for having worked there in the first place and starting this kind of company? (I quit a while ago to work at another software company).
 
+I don't know where the line is drawn. For example, Open Office and Google Docs can open Microsoft's DOCX, DOC file formats and others. I'm not a lawyer, but I'm sure if Microsoft said no one else could open their files that wouldn't fly.
 
 
 ## Answer 7897
@@ -29,13 +29,13 @@
 - posted by: [Paparazzi](https://stackexchange.com/users/300272/paparazzi) on 2015-11-20
 - score: 1
 
-<p>Talk to a lawyer  </p>
+Talk to a lawyer  
 
-<p>The format has legal protection or not.  Have they filed a patent on the format.  </p>
+The format has legal protection or not.  Have they filed a patent on the format.  
 
-<p>Even before PDF was an open spec a third party could still open or create PDF.</p>
+Even before PDF was an open spec a third party could still open or create PDF.
 
-<p>Postsript is a format that was (and maybe still is) legally protected. There have been formats with legal protection but very rare.  Look up patents on Postscript.</p>
+Postsript is a format that was (and maybe still is) legally protected. There have been formats with legal protection but very rare.  Look up patents on Postscript.
 
 
 

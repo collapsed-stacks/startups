@@ -4,16 +4,13 @@
 - tagged: `product-market-fit`
 - score: 1
 
-<blockquote>
-  <p>Pursue product-market fit before writing a single line of code</p>
-</blockquote>
+>  Pursue product-market fit before writing a single line of code
 
-<p>I've recently read "The lean product playbook" and trying to implement the suggestion of getting understanding the problem space, prior to creating a solution.</p>
+I've recently read "The lean product playbook" and trying to implement the suggestion of getting understanding the problem space, prior to creating a solution.
 
-<p>We are trying to reach out to users in order to understand the problem space, but they are not keen to participate in such interview.</p>
+We are trying to reach out to users in order to understand the problem space, but they are not keen to participate in such interview.
 
-<p>What methods do you use in order to get higher participation rates?</p>
-
+What methods do you use in order to get higher participation rates?
 
 
 ## Answer 13498
@@ -21,34 +18,31 @@
 - posted by: [hudsonmendes](https://stackexchange.com/users/89458/hudsonmendes) on 2017-10-17
 - score: 3
 
-<p>It must be for a certain type of enterpreneur, but I think this is a valid and genuine question, since <strong>this very question has bothered me for about 10 years now</strong>.</p>
+It must be for a certain type of enterpreneur, but I think this is a valid and genuine question, since **this very question has bothered me for about 10 years now**.
 
-<p><strong>In summary, I'd advise against a qualitative (interviews) approach.</strong></p>
+**In summary, I'd advise against a qualitative (interviews) approach.**
 
-<p>I'm versed in the <strong><em>Lean Startup</em></strong> literature (and philosophy) and just like Mr. Ramdeen has said, I've learned from trial and error.</p>
+I'm versed in the ***Lean Startup*** literature (and philosophy) and just like Mr. Ramdeen has said, I've learned from trial and error.
 
-<p>So here is my experience:</p>
+So here is my experience:
 
-<ul>
-<li><strong>Interviews</strong> were only good enough to provide me with <em>food for thought</em>. They did not provide me with as high quality data as quantitative research</li>
-</ul>
+ - **Interviews** were only good enough to provide me with *food for thought*. They did not provide me with as high quality data as quantitative research
 
-<p><em>Steve Jobs</em> himself for a long time said that <em>"customer do not always know what they want"</em> so it's often a waste to ask/interview them.</p>
+*Steve Jobs* himself for a long time said that *"customer do not always know what they want"* so it's often a waste to ask/interview them.
 
-<p>From that, I started trusting more quantitative approaches where <strong>I would offer something specific</strong> and <strong>see if the numbers have proven interest in my value proposition</strong>, and what I got was:</p>
+From that, I started trusting more quantitative approaches where **I would offer something specific** and **see if the numbers have proven interest in my value proposition**, and what I got was:
 
-<ul>
-<li><p><strong>E-mail marekting + content marketing</strong> has provided me with good quantitative input, but the channel (e-mail marketing) has been overstressed over the years.</p></li>
-<li><p><strong>Google Adwords campaign + landing page</strong> helped me to identify that <em>my message was not getting through</em>, which was a very important learning</p></li>
-<li><p><strong>Facebook Ads campaign + landing page</strong> also helped me identifty problems in the <em>message</em>, and a few more attempts adjusting the message have led to get my target reacting to my value proposition.</p></li>
-</ul>
+ - **E-mail marekting + content marketing** has provided me with good quantitative input, but the channel (e-mail marketing) has been overstressed over the years.
 
-<p>All in all, trial an error against a <em>very clear</em> purpose will give you a YES or NO answer to your product.</p>
+ - **Google Adwords campaign + landing page** helped me to identify that *my message was not getting through*, which was a very important learning
 
-<p>The effort there is really to figure out the <strong>right question</strong> and figuring out the <strong>answer from the data</strong>.</p>
+ - **Facebook Ads campaign + landing page** also helped me identifty problems in the *message*, and a few more attempts adjusting the message have led to get my target reacting to my value proposition.
 
-<p>Best of luck!</p>
+All in all, trial an error against a *very clear* purpose will give you a YES or NO answer to your product.
 
+The effort there is really to figure out the **right question** and figuring out the **answer from the data**.
+
+Best of luck!
 
 
 ## Answer 13488
@@ -56,26 +50,25 @@
 - posted by: [Vasheer Ramdeen](https://stackexchange.com/users/6845962/vasheer-ramdeen) on 2017-10-16
 - score: 1
 
-<p>Trial and error. </p>
+Trial and error. 
 
-<p>From my experience doing this, the first few tries are more for your own learning on how to actually do it. Spend time crafting what you will say, practice it and then just make as many calls as possible. Its important to make sure that you are attempting to reach your prospects and then running thorough what you need to know and not do it with someone who doesn't have the answers.</p>
+From my experience doing this, the first few tries are more for your own learning on how to actually do it. Spend time crafting what you will say, practice it and then just make as many calls as possible. Its important to make sure that you are attempting to reach your prospects and then running thorough what you need to know and not do it with someone who doesn't have the answers.
 
-<p>I used the following script with great success, 82% conversion rate:</p>
+I used the following script with great success, 82% conversion rate:
 
-<p>Hi, you are speaking to Vash, to whom am I speaking? </p>
+Hi, you are speaking to Vash, to whom am I speaking? 
 
-<p>...</p>
+...
 
-<p>Great, [NAME] I am doing some research into how businesses keep their customers happy. Will you be able to HELP me out with some information over 10 - 15 min.</p>
+Great, [NAME] I am doing some research into how businesses keep their customers happy. Will you be able to HELP me out with some information over 10 - 15 min.
 
-<p>...</p>
+...
 
-<p>They usually ask what company is this for, or what will you use this information for. Have your bases covered to let them know its confidential. </p>
+They usually ask what company is this for, or what will you use this information for. Have your bases covered to let them know its confidential. 
 
-<p>Make detailed notes of all your interactions so you can figure out where you go wrong and iterate your script and keep testing. If you are still failing after speaking to 20 people then you have a problem. It usually just takes loads of practice.</p>
+Make detailed notes of all your interactions so you can figure out where you go wrong and iterate your script and keep testing. If you are still failing after speaking to 20 people then you have a problem. It usually just takes loads of practice.
 
-<p>Good luck, hope you get the information you are looking for.</p>
-
+Good luck, hope you get the information you are looking for.
 
 
 ## Answer 13482
@@ -83,10 +76,9 @@
 - posted by: [BrettFromLA](https://stackexchange.com/users/2813127/brettfromla) on 2017-10-15
 - score: 0
 
-<p>I'm encountering the same issue with a new business I started last Monday. My plan is to offer to pay some of my potential customers to participate in a focus group, or a one-on-one discussion, of their typical work and the problems they encounter. Since this new business involves me designing custom software to address particular issues in a popular small business, I've got plenty of potential customers, and I should get invaluable insight by discussing their day-to-day business.</p>
+I'm encountering the same issue with a new business I started last Monday. My plan is to offer to pay some of my potential customers to participate in a focus group, or a one-on-one discussion, of their typical work and the problems they encounter. Since this new business involves me designing custom software to address particular issues in a popular small business, I've got plenty of potential customers, and I should get invaluable insight by discussing their day-to-day business.
 
-<p>I hope this helps!</p>
-
+I hope this helps!
 
 
 

@@ -4,32 +4,34 @@
 - tagged: `tech-company`, `marketing`
 - score: 6
 
-<p>I've spent the last 2 years building a web app which focuses on a very niche area in medicine and research: <a href="http://www.news-medical.net/life-sciences/What-is-Flow-Cytometry.aspx" rel="nofollow noreferrer">flow cytometry</a>. Basically my web app allows users to analyse flow cytometry files from anywhere on any mobile device. You can see it <a href="https://www.redmatterapp.com/" rel="nofollow noreferrer">here</a>.</p>
+I've spent the last 2 years building a web app which focuses on a very niche area in medicine and research: [flow cytometry][1]. Basically my web app allows users to analyse flow cytometry files from anywhere on any mobile device. You can see it [here][2].
 
-<p>The target market for the web app is labs/hospitals and universities. </p>
+The target market for the web app is labs/hospitals and universities. 
 
-<p>I'm now at the stage where I want to market it. My ideas for marketing it are:</p>
+I'm now at the stage where I want to market it. My ideas for marketing it are:
 
-<ol>
-<li>use contacts to run a trial in a local University</li>
-<li>find flow cytometry news sites and ask them (via email, facebook or twitter) to publish an article on my software</li>
-<li>apply to participate in flow cytometry events</li>
-<li>google adwords</li>
-</ol>
+ 1. use contacts to run a trial in a local University
+ 2. find flow cytometry news sites and ask them (via email, facebook or twitter) to publish an article on my software
+ 3. apply to participate in flow cytometry events
+ 4. google adwords
 
-<p>I spoke to contacts in the medical research departments of two local Universities and one of the Universities is interested in running a trial. </p>
+I spoke to contacts in the medical research departments of two local Universities and one of the Universities is interested in running a trial. 
 
-<p>Regarding number 2, I quickly realised that flow cytometry is so niche that there are very few news site on it. There a couple however and I sent them emails, without a response as of yet. </p>
+Regarding number 2, I quickly realised that flow cytometry is so niche that there are very few news site on it. There a couple however and I sent them emails, without a response as of yet. 
 
-<p>Similarly, because its so niche, there aren't many events. There are only 2 or 3 major ones per year. I have applied to be part of these. </p>
+Similarly, because its so niche, there aren't many events. There are only 2 or 3 major ones per year. I have applied to be part of these. 
 
-<p>I've signed up for google adwords, so we'll how that goes.</p>
+I've signed up for google adwords, so we'll how that goes.
 
-<p>Overall, however, I'm not making much progress (though I only started marketing it one week ago). Would people have tips for marketing software that's so very niche?</p>
+Overall, however, I'm not making much progress (though I only started marketing it one week ago). Would people have tips for marketing software that's so very niche?
 
-<p><strong>EDIT</strong>
-Since research departments in Universities are a target market, is it worth directly emailing these departments? Or is cold emailing useless?</p>
+**EDIT**
+Since research departments in Universities are a target market, is it worth directly emailing these departments? Or is cold emailing useless?
 
+
+
+  [1]: http://www.news-medical.net/life-sciences/What-is-Flow-Cytometry.aspx
+  [2]: https://www.redmatterapp.com/
 
 
 ## Answer 12126
@@ -37,25 +39,20 @@ Since research departments in Universities are a target market, is it worth dire
 - posted by: [BrettFromLA](https://stackexchange.com/users/2813127/brettfromla) on 2017-02-15
 - score: 3
 
-<p>Since there are very few news sites about flow cytometry, starting a flow cytometry blog may help establish you as a "player" in the field.</p>
+Since there are very few news sites about flow cytometry, starting a flow cytometry blog may help establish you as a "player" in the field.
 
-<p>Pros:</p>
+Pros:
 
-<ul>
-<li>Blogs are inexpensive.</li>
-<li>You can feature your web app prominently at the top of the blog.</li>
-<li>You can write occasional blog posts about features of your app or your app's successes.</li>
-<li>It enables others interested in the field to connect with you, which can lead to additional news stories, insider advice, and probably more sales of your app.</li>
-</ul>
+ - Blogs are inexpensive.
+ - You can feature your web app prominently at the top of the blog.
+ - You can write occasional blog posts about features of your app or your app's successes.
+ - It enables others interested in the field to connect with you, which can lead to additional news stories, insider advice, and probably more sales of your app.
 
-<p>Cons:</p>
+Cons:
 
-<ul>
-<li>It may be a challenge to come up with blog topics.</li>
-<li>It will take more of your time.</li>
-<li>Getting people to your blog is another marketing hurdle. However, it will be easier to get people to visit your free blog than it will be to get them to buy your web app!</li>
-</ul>
-
+ - It may be a challenge to come up with blog topics.
+ - It will take more of your time.
+ - Getting people to your blog is another marketing hurdle. However, it will be easier to get people to visit your free blog than it will be to get them to buy your web app!
 
 
 ## Answer 12121

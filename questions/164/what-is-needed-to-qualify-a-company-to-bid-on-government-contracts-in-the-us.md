@@ -4,15 +4,12 @@
 - tagged: `united-states`, `us-government`, `paperwork`
 - score: 7
 
-<p>For a newly established business that is looking to bid on US Government contracts:</p>
+For a newly established business that is looking to bid on US Government contracts:
 
-<ul>
-<li>What paperwork needs to be filed?</li>
-<li>Does it cost anything up-front?</li>
-</ul>
+* What paperwork needs to be filed?
+* Does it cost anything up-front?
 
-<p>Note: This question specifically deals with the registration/qualification to bid on a contract, not the actual bid process.</p>
-
+Note: This question specifically deals with the registration/qualification to bid on a contract, not the actual bid process.
 
 
 ## Answer 172

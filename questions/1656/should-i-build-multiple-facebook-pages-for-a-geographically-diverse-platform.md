@@ -4,14 +4,13 @@
 - tagged: `marketing`, `social-networking`, `expansion`
 - score: 3
 
-<p>I'm moving and expanding my business from Colorado to Texas, and I've never been concerned with this before. We have a Facebook page with about a thousand likes, and we largely use it to further promote our own website (and platform), especially by marking special events from Boulder and Denver (in Colorado).</p>
+I'm moving and expanding my business from Colorado to Texas, and I've never been concerned with this before. We have a Facebook page with about a thousand likes, and we largely use it to further promote our own website (and platform), especially by marking special events from Boulder and Denver (in Colorado).
 
-<p>We're moving to Austin, TX - a new market. I was asked if we should make a new Facebook page just as a sub-division to our market there. We could advertise events going on in Austin without having to worry about spamming our users back in Colorado (it's also somewhat ironic since our service is all about finding and experiencing local events you're interested in).</p>
+We're moving to Austin, TX - a new market. I was asked if we should make a new Facebook page just as a sub-division to our market there. We could advertise events going on in Austin without having to worry about spamming our users back in Colorado (it's also somewhat ironic since our service is all about finding and experiencing local events you're interested in).
 
-<p><strong>I'm looking for pros/cons, any legal / ethical concerns (Facebook policies etc.), and just general Do's-Dont's for social media campaigns</strong>. </p>
+**I'm looking for pros/cons, any legal / ethical concerns (Facebook policies etc.), and just general Do's-Dont's for social media campaigns**. 
 
-<p>The company is ---, since someone would probably end up asking for context purposes. Edit: The company advertises personal local events and monetizes off of promotions and advertisements etc., focusing on hyper local content to bring relevance to its users.</p>
-
+The company is ---, since someone would probably end up asking for context purposes. Edit: The company advertises personal local events and monetizes off of promotions and advertisements etc., focusing on hyper local content to bring relevance to its users.
 
 
 ## Answer 1661

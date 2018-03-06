@@ -4,14 +4,13 @@
 - tagged: `angel-investors`
 - score: 1
 
-<p>Meetings with investors, legal costs, opportunity cost and everything else.</p>
+Meetings with investors, legal costs, opportunity cost and everything else.
 
-<p>From what I hear it takes months of full time work just finding investors who are serious. The opportunity cost of two founders meeting with many investors until they find a serious offer is as high as 400k, if you assume they could have instead worked high paying technical jobs full time. Plus all the anciliary legal costs.</p>
+From what I hear it takes months of full time work just finding investors who are serious. The opportunity cost of two founders meeting with many investors until they find a serious offer is as high as 400k, if you assume they could have instead worked high paying technical jobs full time. Plus all the anciliary legal costs.
 
-<p>Given that seed rounds are as low as 500k, it seems that the funding you get is actually pretty marginal compared to the time you invest, at least for the seed round. </p>
+Given that seed rounds are as low as 500k, it seems that the funding you get is actually pretty marginal compared to the time you invest, at least for the seed round. 
 
-<p>Is this accurate? Is this what keeps just anyone from starting a tech company? </p>
-
+Is this accurate? Is this what keeps just anyone from starting a tech company? 
 
 
 ## Answer 9163
@@ -19,32 +18,27 @@
 - posted by: [Mowzer](https://stackexchange.com/users/1803081/mowzer) on 2016-05-13
 - score: 7
 
-<p>Yes. You pretty much have that correct.</p>
+Yes. You pretty much have that correct.
 
-<p>However, I would say this... I would change the last sentence of your question from:</p>
+However, I would say this... I would change the last sentence of your question from:
 
-<blockquote>
-  <p>Is this what keeps just anyone from starting a tech company?</p>
-</blockquote>
+> Is this what keeps just anyone from starting a tech company?
 
-<p>to read:</p>
+to read:
 
-<blockquote>
-  <p>This is one reason why successful tech startups are rare and also why you hardly find tech companies in which the founder or at least one of the co-founders was also the lone developer of at least a fully functioning prototype.</p>
-</blockquote>
+> This is one reason why successful tech startups are rare and also why you hardly find tech companies in which the founder or at least one of the co-founders was also the lone developer of at least a fully functioning prototype.
 
-<p>But... you also left out one important fact. Which explains why any of this ever happens at all.</p>
+But... you also left out one important fact. Which explains why any of this ever happens at all.
 
 <h3>So, why does any startup ever get funded?</h3>
 
-<p>Typically, <em>funded</em> tech startups are <em>valued</em> around $3 million (pre-money) at early seed stage.</p>
+Typically, *funded* tech startups are *valued* around $3 million (pre-money) at early seed stage.
 
-<p>Meaning if an investor invests $500k they might accept significantly less than 20% of the company. And the funded amount gets added to the pre-money valuation to determine the post-money valuation. So, in this example, the post-money valuation would be $3.5 million and the two co-founder's share-of-value would be $3 million... a $2.6 million (unrealized) gain on their $400k investment.</p>
+Meaning if an investor invests $500k they might accept significantly less than 20% of the company. And the funded amount gets added to the pre-money valuation to determine the post-money valuation. So, in this example, the post-money valuation would be $3.5 million and the two co-founder's share-of-value would be $3 million... a $2.6 million (unrealized) gain on their $400k investment.
 
-<p>FWIW, another milestone/benchmark combination is <strong><em>first dollar of revenue</em></strong>. If a startup reaches that milestone, today, valuations are going in the neighborhood of $25 million. At least in tech valley.</p>
+FWIW, another milestone/benchmark combination is ***first dollar of revenue***. If a startup reaches that milestone, today, valuations are going in the neighborhood of $25 million. At least in tech valley.
 
-<p>If you think about it, it makes sense that early stage funding would barely cover founders costs. This is because it is in the investors' interest to keep the founders hungry at this early, critical stage. Hungry = working and motivated. Not <em>flush with cash</em> and <em>ready to spend</em>. Also, early stage startups are inherently risky. Most fail. So limiting early funding is also a way to mitigate investor risk.</p>
-
+If you think about it, it makes sense that early stage funding would barely cover founders costs. This is because it is in the investors' interest to keep the founders hungry at this early, critical stage. Hungry = working and motivated. Not *flush with cash* and *ready to spend*. Also, early stage startups are inherently risky. Most fail. So limiting early funding is also a way to mitigate investor risk.
 
 
 

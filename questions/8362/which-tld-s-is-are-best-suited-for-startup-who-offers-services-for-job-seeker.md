@@ -4,12 +4,13 @@
 - tagged: `website`, `domain-name`, `customer-service`, `service`
 - score: 1
 
-<p>I have chosen a domain that is already registered with .com tld by some one else. I would like buy same domain name with different extensions. Our website will be offering Job preparation, Assessment, Interview experiences, Job posting and blogging. Except .com and .net many generic and country level TLDs are available. I prefer buying generic TLDs for international market.</p>
+I have chosen a domain that is already registered with .com tld by some one else. I would like buy same domain name with different extensions. Our website will be offering Job preparation, Assessment, Interview experiences, Job posting and blogging. Except .com and .net many generic and country level TLDs are available. I prefer buying generic TLDs for international market.
 
-<p>List of ccTLDs that Google treat them as gTLDs.<br/>
-<a href="https://support.google.com/webmasters/answer/62399?hl=en&amp;rd=1" rel="nofollow">https://support.google.com/webmasters/answer/62399?hl=en&amp;rd=1</a></p>
+List of ccTLDs that Google treat them as gTLDs.<br/>
+https://support.google.com/webmasters/answer/62399?hl=en&rd=1
 
-<p>Which one should I buy?</p>
+
+Which one should I buy?
 
 
 
@@ -18,10 +19,9 @@
 - posted by: [Saif Al Falah](https://stackexchange.com/users/1405882/saif-al-falah) on 2016-01-19
 - score: 2
 
-<p>How about .jobs?</p>
+How about .jobs?
 
-<p>I think that must suit your requirements.</p>
-
+I think that must suit your requirements.
 
 
 ## Answer 8365
@@ -29,10 +29,9 @@
 - posted by: [Anupam Rekha](https://stackexchange.com/users/1194719/anupam-rekha) on 2016-01-19
 - score: 1
 
-<p>You can also use .shiksha , .tips, .university, .careers, .org domain extensions.</p>
+You can also use .shiksha , .tips, .university, .careers, .org domain extensions.
 
-<p>Check here <a href="http://www.satyamhosting.in/clientarea/domainchecker/" rel="nofollow">http://www.satyamhosting.in/clientarea/domainchecker/</a></p>
-
+Check here http://www.satyamhosting.in/clientarea/domainchecker/
 
 
 ## Answer 8367
@@ -40,20 +39,19 @@
 - posted by: [bendecko](https://stackexchange.com/users/1650915/bendecko) on 2016-01-19
 - score: 1
 
-<p>You already have a .com</p>
+You already have a .com
 
-<p>Don't bother buying any more:</p>
+Don't bother buying any more:
 
-<p>1) SEO (Getting ranked in Google etc) is hard.  It is doubly hard with 2 sites, because basically SEO is a competition, and you´ve chosen to enter it with 2 competitors - who will require twice as much attention to get to the same place if you´d only entered one.</p>
+1) SEO (Getting ranked in Google etc) is hard.  It is doubly hard with 2 sites, because basically SEO is a competition, and you´ve chosen to enter it with 2 competitors - who will require twice as much attention to get to the same place if you´d only entered one.
 
-<p>2) ... which would have been much further ahead if you'd just concentrated on one and put in the same effort.</p>
+2) ... which would have been much further ahead if you'd just concentrated on one and put in the same effort.
 
-<p>3) Duplicate content issues if the content is the same.</p>
+3) Duplicate content issues if the content is the same.
 
-<p>Much better to hang all the content off the one domain and have folders e.g.  /marketing-jobs or /australia etc.</p>
+Much better to hang all the content off the one domain and have folders e.g.  /marketing-jobs or /australia etc.
 
-<p>The only reason'd I'd buy a different domain would be to track referrals e.g. from a magazine (offline) ad.   You put the ad. in the Magazine with the different domain, and that redirects the visitor to the primary site, logging the activity.</p>
-
+The only reason'd I'd buy a different domain would be to track referrals e.g. from a magazine (offline) ad.   You put the ad. in the Magazine with the different domain, and that redirects the visitor to the primary site, logging the activity.
 
 
 ## Answer 8394
@@ -70,8 +68,7 @@
 - posted by: [HLC](https://stackexchange.com/users/6237396/hlc) on 2016-01-27
 - score: 1
 
-<p>I would consider a short creative com or premium one word .jobs</p>
-
+I would consider a short creative com or premium one word .jobs
 
 
 

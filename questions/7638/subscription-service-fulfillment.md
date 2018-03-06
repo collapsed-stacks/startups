@@ -4,10 +4,9 @@
 - tagged: `product`, `shipping`, `fulfilment`
 - score: 1
 
-<p>I'm working on a project where we need to fulfill (ship) a subscription product.  This is a set of physical products (12), that need to be shipped in a particular order.  We ship out of Amazon and Shipwire warehouses.</p>
+I'm working on a project where we need to fulfill (ship) a subscription product.  This is a set of physical products (12), that need to be shipped in a particular order.  We ship out of Amazon and Shipwire warehouses.
 
-<p>Right now we're managing this by hand, but are there any software options that could manage customer onboarding for this, bill them, and handle the shipping?</p>
-
+Right now we're managing this by hand, but are there any software options that could manage customer onboarding for this, bill them, and handle the shipping?
 
 ## No Answers
 

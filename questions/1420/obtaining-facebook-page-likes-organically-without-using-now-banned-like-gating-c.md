@@ -4,11 +4,12 @@
 - tagged: `marketing`, `social-networking`, `target-market`
 - score: 4
 
-<p><a href="https://developers.facebook.com/blog/post/2014/08/07/Graph-API-v2.1/" rel="nofollow">As of November 5th, 2014</a>; you no longer are able to hold contests on Facebook to incentivize someone to like your Facebook page. This rule is only for pages and does not extend to statuses, or other Facebook posts.</p>
+[As of November 5th, 2014](https://developers.facebook.com/blog/post/2014/08/07/Graph-API-v2.1/); you no longer are able to hold contests on Facebook to incentivize someone to like your Facebook page. This rule is only for pages and does not extend to statuses, or other Facebook posts.
 
-<p><a href="https://www.youtube.com/watch?v=oVfHeWTKjag" rel="nofollow">Paying for Facebooks advertising has also been known to kill organic reach</a>, or make it so you can only get reach when you pay for Facebook advertising; which doesn't seem well targeted and could get extremely expensive. This is all because a while ago Facebook created an algorithm that hunts out fake profiles from click banks and in order for fake profiles to look legitimate, fake profiles need to like any page they come across. </p>
+[Paying for Facebooks advertising has also been known to kill organic reach](https://www.youtube.com/watch?v=oVfHeWTKjag), or make it so you can only get reach when you pay for Facebook advertising; which doesn't seem well targeted and could get extremely expensive. This is all because a while ago Facebook created an algorithm that hunts out fake profiles from click banks and in order for fake profiles to look legitimate, fake profiles need to like any page they come across. 
 
-<p>We all know that good content is king. Outside of writing great content, paid Facebook advertising, and like-gating; what would be some great ways, advice, ideas and blog articles for a start up looking to generate well targeted Facebook followers? </p>
+We all know that good content is king. Outside of writing great content, paid Facebook advertising, and like-gating; what would be some great ways, advice, ideas and blog articles for a start up looking to generate well targeted Facebook followers? 
+
 
 
 

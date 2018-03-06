@@ -4,8 +4,7 @@
 - tagged: `website`, `bizspark`
 - score: 1
 
-<p>Can i run more than two virtual machine instance on my bizspark account?</p>
-
+Can i run more than two virtual machine instance on my bizspark account?
 
 
 ## Answer 11902
@@ -13,15 +12,12 @@
 - posted by: [Jurijs Kovzels](https://stackexchange.com/users/5570775/jurijs-kovzels) on 2017-01-13
 - score: 2
 
-<blockquote>
-  <p>BizSpark startups receive five Visual Studio Enterprise with MSDN
-  subscriptions, each with a $150 monthly Azure credit. This totals
-  $750/month across all five developers to spend on Azure services.
-  These benefits are available for one year.</p>
-</blockquote>
+> BizSpark startups receive five Visual Studio Enterprise with MSDN
+> subscriptions, each with a $150 monthly Azure credit. This totals
+> $750/month across all five developers to spend on Azure services.
+> These benefits are available for one year.
 
-<p>Meaning that you get $150/mo of Azure <a href="https://azure.microsoft.com/en-us/solutions/" rel="nofollow noreferrer">services</a> per account. Azure subscription you get with BizSparks is not limited in any way, you can do what ever you want with it. Plus you can spread your infrastructure/computings cost over different accounts or you out of you pocket if you exceed $150/mo.</p>
-
+Meaning that you get $150/mo of Azure [services](https://azure.microsoft.com/en-us/solutions/) per account. Azure subscription you get with BizSparks is not limited in any way, you can do what ever you want with it. Plus you can spread your infrastructure/computings cost over different accounts or you out of you pocket if you exceed $150/mo.
 
 
 ## Answer 9725

@@ -4,12 +4,12 @@
 - tagged: `tech-company`, `international`, `legal`, `b2b`
 - score: 3
 
-<p>I have a B2B startup idea which needs to collaborate with multiple other companies in order to work.</p>
+I have a B2B startup idea which needs to collaborate with multiple other companies in order to work.
 
-<p>On the Business model level it will be just an online platform operated from Indian servers.
-But the scope can be published internationally. Now what I want to know is if I made overseas connections with companies but operated from India, then can I do that legally?</p>
+On the Business model level it will be just an online platform operated from Indian servers.
+But the scope can be published internationally. Now what I want to know is if I made overseas connections with companies but operated from India, then can I do that legally?
 
-<p>or do I have to jump the legal circus first?</p>
+or do I have to jump the legal circus first?
 
 
 
@@ -18,17 +18,18 @@ But the scope can be published internationally. Now what I want to know is if I 
 - posted by: [Nick Wilde](https://stackexchange.com/users/454046/nick-wilde) on 2014-08-12
 - score: 2
 
-<p>Without more details this is fairly basic and non-specific but it should give you a start.</p>
+Without more details this is fairly basic and non-specific but it should give you a start.
 
-<p>Assuming that you are not dealing with the shipping itself, and that you are careful you should be able to avoid any legal hassles. I would suggest avoiding medications, finance and armaments unless you get competent legal advice.</p>
+Assuming that you are not dealing with the shipping itself, and that you are careful you should be able to avoid any legal hassles. I would suggest avoiding medications, finance and armaments unless you get competent legal advice.
 
-<p>Important considerations:</p>
+Important considerations:
 
-<p>Sanctions/Embargo's: While India has historically been quite lax on following UN sanctions India itself may have a sanctions list of countries/entities that you can't deal with without license. I couldn't find one but you might want to ask a government advisor in the state you are basing in. </p>
+Sanctions/Embargo's: While India has historically been quite lax on following UN sanctions India itself may have a sanctions list of countries/entities that you can't deal with without license. I couldn't find one but you might want to ask a government advisor in the state you are basing in. 
 
-<p>Foreign Taxes: As long as you have no physical presence elsewhere than India that will generally not be a concern.</p>
+Foreign Taxes: As long as you have no physical presence elsewhere than India that will generally not be a concern.
 
-<p>Shipping: If you don't do the shipping yourself you avoid having to deal with import/export forms and requirements. If you do the shipping yourself you will have to do different forms for every location to/from and it will get much more complicated.</p>
+Shipping: If you don't do the shipping yourself you avoid having to deal with import/export forms and requirements. If you do the shipping yourself you will have to do different forms for every location to/from and it will get much more complicated.
+
 
 
 
@@ -37,8 +38,7 @@ But the scope can be published internationally. Now what I want to know is if I 
 - posted by: [Josh Fleming](https://stackexchange.com/users/11769315/josh-fleming) on 2017-11-14
 - score: 0
 
-<p>I don't see a problem in that. You just need the right set of skills, knowledge, investment &amp; entrepreneurship in you. Operating internationally requires some additional paper works that you can either complete yourself or you can opt for a lawyer to do all the hard work for you.</p>
-
+I don't see a problem in that. You just need the right set of skills, knowledge, investment & entrepreneurship in you. Operating internationally requires some additional paper works that you can either complete yourself or you can opt for a lawyer to do all the hard work for you.
 
 
 

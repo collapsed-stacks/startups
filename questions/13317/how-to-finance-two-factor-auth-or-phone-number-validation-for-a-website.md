@@ -4,15 +4,15 @@
 - tagged: `website`, `financing`
 - score: 1
 
-<p>From looking at all prices of SMS sending services (such as Twilio) I see that costs can often be around $0.05 or $0.10 for sending an SMS.  </p>
+From looking at all prices of SMS sending services (such as Twilio) I see that costs can often be around $0.05 or $0.10 for sending an SMS.  
 
-<p>My goal is to send an SMS to users when they sign up, the issue is that many users may sign up each month, even "just" 1000 users could cost up to $100 of SMS, which seems to be a lot for the kind of website I am thinking about.  </p>
+My goal is to send an SMS to users when they sign up, the issue is that many users may sign up each month, even "just" 1000 users could cost up to $100 of SMS, which seems to be a lot for the kind of website I am thinking about.  
 
-<p>Do you have any experience of how phone number validation and two factor authentication via SMS are typically financed ?<br>
-Could ads alone be enough ?  </p>
+Do you have any experience of how phone number validation and two factor authentication via SMS are typically financed ?  
+Could ads alone be enough ?  
 
-<p>Thank you</p>
 
+Thank you
 
 
 ## Answer 13320

@@ -4,16 +4,15 @@
 - tagged: `software`, `lean-startup`, `outsourcing`
 - score: 2
 
-<p>Are there any sites where a startup can post outline ideas and attract interest from 3rd party development houses? e.g. Similar to oDesk etc. but not for individuals.</p>
+Are there any sites where a startup can post outline ideas and attract interest from 3rd party development houses? e.g. Similar to oDesk etc. but not for individuals.
 
-<p>e.g.
+e.g.
 iOS development, these components, that backend design, 3 month initial, etc.
-(obviously more details than that!)</p>
+(obviously more details than that!)
 
-<p>I don't want individual developers at this stage, nor permanent staff, I need a managed team which can cover my requirements. (UK based preferably at this stage).</p>
+I don't want individual developers at this stage, nor permanent staff, I need a managed team which can cover my requirements. (UK based preferably at this stage).
 
-<p>I am looking to find small houses that I can then contact and review.</p>
-
+I am looking to find small houses that I can then contact and review.
 
 
 ## Answer 9723

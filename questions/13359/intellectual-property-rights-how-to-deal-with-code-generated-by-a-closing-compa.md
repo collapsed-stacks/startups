@@ -4,22 +4,19 @@
 - tagged: `tech-company`, `intellectual-property`
 - score: 2
 
-<p>This is a story about two companies created to work on the same startup idea. Let's call one company "Elephant" and another company "Castle".</p>
+This is a story about two companies created to work on the same startup idea. Let's call one company "Elephant" and another company "Castle".
 
-<p>My situation is the following:</p>
+My situation is the following:
 
-<ol>
-<li>We incorporated the company "Elephant" together with my cofounders to work on a startup idea. This company received a small grant and produced N lines of code.</li>
-<li>"Elephant" is going to be closed very soon.</li>
-<li>My cofounders opened a new company "Castle" without me. They treat these N lines of code as their personal property. </li>
-</ol>
+ 1. We incorporated the company "Elephant" together with my cofounders to work on a startup idea. This company received a small grant and produced N lines of code.
+ 2. "Elephant" is going to be closed very soon.
+ 3. My cofounders opened a new company "Castle" without me. They treat these N lines of code as their personal property. 
 
-<p>I tend to think that "Castle" must buy intellectual property rights from "Elephant". </p>
+I tend to think that "Castle" must buy intellectual property rights from "Elephant". 
 
-<p>But, obviously, my cofounders prefer to say that "Elephant" generated nothing useful. And it's virtually impossible to check how much code is going to be reused by the new company. </p>
+But, obviously, my cofounders prefer to say that "Elephant" generated nothing useful. And it's virtually impossible to check how much code is going to be reused by the new company. 
 
-<p>Which arguments I can use to convince them to buy intellectual property rights? </p>
-
+Which arguments I can use to convince them to buy intellectual property rights? 
 
 
 ## Answer 13360
@@ -45,16 +42,15 @@
 - posted by: [atlaste](https://stackexchange.com/users/1021317/atlaste) on 2017-09-20
 - score: 2
 
-<p>It depends a bit on the 'x'. If you spend 3 years writing 1M lines of code, and the other company intends to use it, it obviously represents a value. The IP is part of company Castle, that is: unless you've open sourced it or put something else in your license agreement.</p>
+It depends a bit on the 'x'. If you spend 3 years writing 1M lines of code, and the other company intends to use it, it obviously represents a value. The IP is part of company Castle, that is: unless you've open sourced it or put something else in your license agreement.
 
-<p>There's all kinds of ways to fight over this, including lawyers... Note that they will also just negotiate a number... </p>
+There's all kinds of ways to fight over this, including lawyers... Note that they will also just negotiate a number... 
 
-<p>So what's a reasonable number? You should realize that 'value' is very vague concept, because everyone values stuff differently. For example, I value my laptop a million euro's. We can argue about it for ages, without making any progress... One thing is certain: your lawyer will love the argument.</p>
+So what's a reasonable number? You should realize that 'value' is very vague concept, because everyone values stuff differently. For example, I value my laptop a million euro's. We can argue about it for ages, without making any progress... One thing is certain: your lawyer will love the argument.
 
-<p>Personally I'd just make a ballpark number, add some percentage on top of it and simply negotiate with the other founders without any emotion. So for example, if there's 3 years of work and no significant customers, I'd say 3 years * 200 days * 8 hours * 50 eur/hour = 240K eur seems like a reasonable payment to Elephant. Explain your calculation, negotiate for 280K eur, settle for 200K eur or whatever you consider reasonable. Preferably one-off; but if that's not possible, consider payment in terms. I wouldn't go for stock; after all, you're not on the best of terms. Realize that the alternative of the lawsuit is not pretty for anyone. </p>
+Personally I'd just make a ballpark number, add some percentage on top of it and simply negotiate with the other founders without any emotion. So for example, if there's 3 years of work and no significant customers, I'd say 3 years * 200 days * 8 hours * 50 eur/hour = 240K eur seems like a reasonable payment to Elephant. Explain your calculation, negotiate for 280K eur, settle for 200K eur or whatever you consider reasonable. Preferably one-off; but if that's not possible, consider payment in terms. I wouldn't go for stock; after all, you're not on the best of terms. Realize that the alternative of the lawsuit is not pretty for anyone. 
 
-<p>After that, drink a good glass of alcohol, cry like a baby, get it settled, take your loss like a pro and go your separate ways. </p>
-
+After that, drink a good glass of alcohol, cry like a baby, get it settled, take your loss like a pro and go your separate ways. 
 
 
 

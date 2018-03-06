@@ -4,10 +4,9 @@
 - tagged: `business-plan`
 - score: -1
 
-<p>I've developed a lossless compression algorithm for images with .bmp format, this algorithm for ".bmp" images is better than others algorithms like PAQ algorithms, Zopfli algorithm, brotli algorithm, png format, zip format, etc. This algorithm compresses .bmp files "20% to 40%" more than other lossless compression algorithms. The speed of compression with this algorithm is high and it uses little Ram for compression in the first few options (this algorithm has a few options).</p>
+I've developed a lossless compression algorithm for images with .bmp format, this algorithm for ".bmp" images is better than others algorithms like PAQ algorithms, Zopfli algorithm, brotli algorithm, png format, zip format, etc. This algorithm compresses .bmp files "20% to 40%" more than other lossless compression algorithms. The speed of compression with this algorithm is high and it uses little Ram for compression in the first few options (this algorithm has a few options).
 
-<p>Do you think I can sell the algorithm to some software company? What companies could I sell to? In what ways can be associated with these companies? How can I make these companies from the performance of this algorithm? If I can't sell this algorithm, in your opinion, what else can I use this algorithm for?</p>
-
+Do you think I can sell the algorithm to some software company? What companies could I sell to? In what ways can be associated with these companies? How can I make these companies from the performance of this algorithm? If I can't sell this algorithm, in your opinion, what else can I use this algorithm for?
 
 
 ## Answer 11333
@@ -56,10 +55,9 @@ Verified lossless: 100%.
 - posted by: [BrettFromLA](https://stackexchange.com/users/2813127/brettfromla) on 2016-10-04
 - score: 0
 
-<p>Websites that display pictures will like this algorithm. It will make their web pages load faster. But that would only work on a web browser that understood your algorithm. Therefore, you need to give this for free to web browsers (Chrome, Firefox, Internet Explorer, Safari, etc.). Then, you need to sell this to big websites that show a lot of pictures (Instagram, Pinterest, Facebook, Amazon, etc.).</p>
+Websites that display pictures will like this algorithm. It will make their web pages load faster. But that would only work on a web browser that understood your algorithm. Therefore, you need to give this for free to web browsers (Chrome, Firefox, Internet Explorer, Safari, etc.). Then, you need to sell this to big websites that show a lot of pictures (Instagram, Pinterest, Facebook, Amazon, etc.).
 
-<p>But this sounds very difficult. I don't know how you could contact web browsers and ask them to include your algorithm.</p>
-
+But this sounds very difficult. I don't know how you could contact web browsers and ask them to include your algorithm.
 
 
 ## Answer 11294
@@ -67,14 +65,13 @@ Verified lossless: 100%.
 - posted by: [Alari Truuts](https://stackexchange.com/users/5357302/alari-truuts) on 2016-10-06
 - score: 0
 
-<p>This is very difficult, as code can not be patented, and patenting the algorithm as a beneficial model is a financial suicide, and still remains unlikely to protect from similar solutions with slight modifications.</p>
+This is very difficult, as code can not be patented, and patenting the algorithm as a beneficial model is a financial suicide, and still remains unlikely to protect from similar solutions with slight modifications.
 
-<p>If it works, it'll get stolen, unless you get someone with deep pockets to back you.</p>
+If it works, it'll get stolen, unless you get someone with deep pockets to back you.
 
-<p>Your best bet in my mind is to take your algorithm, create an uncompression js and try sell your compression as a service/solution to websites with high traffic. Ofcourse you'll have to provide proof your algorithm actually saves the client money on whatever measurable (electricity, traffic, cpu resources) and has to actually be unnoticeable to endusers, noone wants to slow down the process of loading a site.</p>
+Your best bet in my mind is to take your algorithm, create an uncompression js and try sell your compression as a service/solution to websites with high traffic. Ofcourse you'll have to provide proof your algorithm actually saves the client money on whatever measurable (electricity, traffic, cpu resources) and has to actually be unnoticeable to endusers, noone wants to slow down the process of loading a site.
 
-<p>Get media publicity and companies might even turn to you to legally acquire your code. And you'll always have a fixed point in time and Internet to always say it was yours and you were first.</p>
-
+Get media publicity and companies might even turn to you to legally acquire your code. And you'll always have a fixed point in time and Internet to always say it was yours and you were first.
 
 
 ## Answer 11297

@@ -4,29 +4,33 @@
 - tagged: `hardware`, `distribution`, `europe`
 - score: 2
 
-<p>My Japanese company has items manufactured on my specifications in a <a href="https://en.wikipedia.org/wiki/Baltic_states" rel="nofollow noreferrer">Baltic country</a> (part of the <a href="https://en.wikipedia.org/wiki/European_Union" rel="nofollow noreferrer">EU</a>), and shipped to Japan where they are sold to the Japanese market. But I am starting to have clients in the EU, so every month a half-dozen of the items travel back:</p>
+My Japanese company has items manufactured on my specifications in a [Baltic country][1] (part of the [EU][2]), and shipped to Japan where they are sold to the Japanese market. But I am starting to have clients in the EU, so every month a half-dozen of the items travel back:
 
-<p>EU -> Japan -> EU</p>
+EU -> Japan -> EU
 
-<p><strong>QUESTION</strong>: How to avoid this useless shipping-and-back?<br>
-It would be more ecological, and save time, shipping cost, taxes.</p>
+**QUESTION**: How to avoid this useless shipping-and-back?  
+It would be more ecological, and save time, shipping cost, taxes.
 
-<p>Are there European "warehouses" of sorts that could do the following?</p>
+Are there European "warehouses" of sorts that could do the following?
 
-<ul>
-<li>Receive boxes from the factory, with an assortment of items inside.</li>
-<li>Store the items.</li>
-<li>When I decide, ship some items I specify to the address I specify.</li>
-</ul>
+- Receive boxes from the factory, with an assortment of items inside.
+- Store the items.
+- When I decide, ship some items I specify to the address I specify.
 
-<p>A catch is that the items have to be repackaged nicely in plastic, with my own fabric string over it holding a branded tag. It may sound superficial, but nice branding is actually important for this market. If impossible I am open to solutions without that, though.</p>
+A catch is that the items have to be repackaged nicely in plastic, with my own fabric string over it holding a branded tag. It may sound superficial, but nice branding is actually important for this market. If impossible I am open to solutions without that, though.
 
-<p>There are various models, but each item is 50~200 grams, non-breakable, and fits in a flexible C3 envelope (46cm*32cm), if that matters.</p>
+There are various models, but each item is 50~200 grams, non-breakable, and fits in a flexible C3 envelope (46cm*32cm), if that matters.
 
-<p><a href="https://i.stack.imgur.com/vwJgHs.jpg" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/vwJgHs.jpg" alt="Items coming from factory"></a>
-<a href="https://i.stack.imgur.com/f86mss.jpg" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/f86mss.jpg" alt="Fabric string and brand tag"></a>
-<a href="https://i.stack.imgur.com/jLRUTs.png" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/jLRUTs.png" alt="Envelope to final customer"></a></p>
+[![Items coming from factory][3]][3]
+[![Fabric string and brand tag][4]][4]
+[![Envelope to final customer][5]][5]
 
+
+  [1]: https://en.wikipedia.org/wiki/Baltic_states
+  [2]: https://en.wikipedia.org/wiki/European_Union
+  [3]: http://i.stack.imgur.com/vwJgHs.jpg
+  [4]: http://i.stack.imgur.com/f86mss.jpg
+  [5]: http://i.stack.imgur.com/jLRUTs.png
 
 
 ## Answer 9299

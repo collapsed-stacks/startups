@@ -4,13 +4,10 @@
 - tagged: `mobile-apps`, `customer-development`
 - score: 3
 
-<p>Regarding marketing platforms such as Shopular and Shopkick:</p>
+Regarding marketing platforms such as Shopular and Shopkick:
 
-<ul>
-<li>What is their customer value proposition for the end-user?</li>
-<li>How do they keep their customers engaged?</li>
-</ul>
-
+* What is their customer value proposition for the end-user?
+* How do they keep their customers engaged?
 
 
 ## Answer 8295
@@ -18,25 +15,22 @@
 - posted by: [Mruf](https://stackexchange.com/users/3246202/mruf) on 2016-01-09
 - score: 1
 
-<p>I can tell you something about shopkick only.</p>
+I can tell you something about shopkick only.
 
-<p>Shopkick incentivise people to visit certain stores and uses skinners box priciples to reward them.</p>
+Shopkick incentivise people to visit certain stores and uses skinners box priciples to reward them.
 
-<p>So, the value propositions are...</p>
+So, the value propositions are...
 
-<ol>
-<li>It's a realization of gamification, so it's fun to collect kicks</li>
-<li>You get discount, this is called illusion of saving</li>
-<li>You get rewarded, (with discounts and kicks)</li>
-<li>It is somewhat a "kick" to get a coupon right in the second you enter a store.</li>
-</ol>
+1. It's a realization of gamification, so it's fun to collect kicks
+2. You get discount, this is called illusion of saving
+3. You get rewarded, (with discounts and kicks)
+4. It is somewhat a "kick" to get a coupon right in the second you enter a store.
 
-<p>In the end, it's a way to first rise extrinsic motivation to visit a store, which morphs into more intrinsic motivation over some time.</p>
+In the end, it's a way to first rise extrinsic motivation to visit a store, which morphs into more intrinsic motivation over some time.
 
-<p>Another interesting thing on that concept is: They decentivise people from the real value of "kicks". Think about it, why not say something like "here are 4 cents for visiting this store". They hide the value, by give you 20 kicks.</p>
+Another interesting thing on that concept is: They decentivise people from the real value of "kicks". Think about it, why not say something like "here are 4 cents for visiting this store". They hide the value, by give you 20 kicks.
 
-<p>Hope that answers your questions. Feel free to ask.</p>
-
+Hope that answers your questions. Feel free to ask.
 
 
 ## Answer 7300
@@ -44,19 +38,20 @@
 - posted by: [Abhi](https://stackexchange.com/users/200253/abhi) on 2015-09-09
 - score: 0
 
-<p>Assuming End-user is the Shopper </p>
+Assuming End-user is the Shopper 
 
-<p>Q1 (Shopular) - Shopular delivers all the information from your favorite retailers right to your phone.Their app pushes relevant deals to your smart phone as soon as you walk into the store.</p>
+Q1 (Shopular) - Shopular delivers all the information from your favorite retailers right to your phone.Their app pushes relevant deals to your smart phone as soon as you walk into the store.
 
-<hr>
 
-<p>Q1 (Shopkick) - Shopkick's mobile app for shopping offers customers rewards for walking into stores.</p>
+----------
+Q1 (Shopkick) - Shopkick's mobile app for shopping offers customers rewards for walking into stores.
 
-<hr>
+----------
+Q2 (Shopular & Shopkick) - I don't know - if it were me I would install their and app and try to understand. 
 
-<p>Q2 (Shopular &amp; Shopkick) - I don't know - if it were me I would install their and app and try to understand. </p>
 
-<hr>
+----------
+
 
 
 

@@ -4,10 +4,9 @@
 - tagged: `business-registration`, `canada`, `freelancing`
 - score: 2
 
-<p>I am planning to register my company in Canada where I am the owner and self employed so I can open a bank account just for my company.</p>
+I am planning to register my company in Canada where I am the owner and self employed so I can open a bank account just for my company.
 
-<p>Where do I have to go and what do I have to do in order to receive a business registration number?</p>
-
+Where do I have to go and what do I have to do in order to receive a business registration number?
 
 
 ## Answer 3592

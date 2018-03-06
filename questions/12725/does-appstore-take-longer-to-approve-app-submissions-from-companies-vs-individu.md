@@ -4,14 +4,13 @@
 - tagged: `mobile-apps`, `app-store-optimization`
 - score: 0
 
-<p>I'm getting ready to submit my first iOS to the app store. I'm currently weighing the pros and cons of creating an LLC for my developer account to submit to the app store, as opposed to just submitting as an individual.</p>
+I'm getting ready to submit my first iOS to the app store. I'm currently weighing the pros and cons of creating an LLC for my developer account to submit to the app store, as opposed to just submitting as an individual.
 
-<p>In previous forum posts, it seems Apple used to take much longer (months) to approve an app from a company, whereas for individuals it can take less than a week. </p>
+In previous forum posts, it seems Apple used to take much longer (months) to approve an app from a company, whereas for individuals it can take less than a week. 
 
-<p>Has this changed at all or is this how it continues to be?</p>
+Has this changed at all or is this how it continues to be?
 
-<p>Thanks a lot</p>
-
+Thanks a lot
 
 ## No Answers
 

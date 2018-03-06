@@ -4,22 +4,20 @@
 - tagged: `marketing`, `mobile-apps`, `business-plan`, `website`, `web-development`
 - score: 3
 
-<p>We are a start up company, and are creating some new projects. Our main project Is a VPN client APP. </p>
+We are a start up company, and are creating some new projects. Our main project Is a VPN client APP. 
 
-<p>Our app is being developed between Russia and Singapore and it will be ready in 2 months. However our aim is to create an in house team that can manage all aspects of this app and at the same time create new applications and online platforms. Our goal is to create a total of 5 projects for the first year. </p>
+Our app is being developed between Russia and Singapore and it will be ready in 2 months. However our aim is to create an in house team that can manage all aspects of this app and at the same time create new applications and online platforms. Our goal is to create a total of 5 projects for the first year. 
 
-<p>Our projects will be  </p>
+Our projects will be  
+ 
 
-<ol>
-<li>A productivity app,    </li>
-<li>A gaming platform that allows users to
-bet on PS, Xbox, ext.. games  between each other</li>
-<li>A commercial platform for selling apps and websites 4&amp;5 still
-un defined so my question is what are the technical recourses that
-we will be needing for the first year in order to develop and
-maintain our projects? thank you</li>
-</ol>
-
+ 1. A productivity app,    
+ 2. A gaming platform that allows users to
+    bet on PS, Xbox, ext.. games  between each other
+ 3. A commercial platform for selling apps and websites 4&5 still
+    un defined so my question is what are the technical recourses that
+    we will be needing for the first year in order to develop and
+    maintain our projects? thank you
 
 
 ## Answer 9554
@@ -27,16 +25,15 @@ maintain our projects? thank you</li>
 - posted by: [D J Sims](https://stackexchange.com/users/7242000/d-j-sims) on 2016-06-24
 - score: 1
 
-<p>Ideally you should have a strong professional network you can reach out to to find programmers. If this isn't the case then things will be a lot harder. </p>
+Ideally you should have a strong professional network you can reach out to to find programmers. If this isn't the case then things will be a lot harder. 
 
-<p>Try going to open source programming meetups to find motivated programmers looking for work. If that doesnt work, try going on Dice.com and creating an employer account ($200). You'll be able to look at resumes and see if you can find the skills you need. </p>
+Try going to open source programming meetups to find motivated programmers looking for work. If that doesnt work, try going on Dice.com and creating an employer account ($200). You'll be able to look at resumes and see if you can find the skills you need. 
 
-<p>Pick the candidates who seem to have a genuine interest in open source programming with many Github contributions and a decent academic background in computer science related fields.</p>
+Pick the candidates who seem to have a genuine interest in open source programming with many Github contributions and a decent academic background in computer science related fields.
 
-<p>Pick the top few candidates, phone screen them, then sit them down for an in person programming task. Pick the best one.</p>
+Pick the top few candidates, phone screen them, then sit them down for an in person programming task. Pick the best one.
 
-<p>It seems you're asking this question because you don't already know skilled programmers you can trust. This is a really tough situation to be in and the best you can do is very carefully consider well screened candidates from school networks, online job boards, and networking events.</p>
-
+It seems you're asking this question because you don't already know skilled programmers you can trust. This is a really tough situation to be in and the best you can do is very carefully consider well screened candidates from school networks, online job boards, and networking events.
 
 
 ## Answer 11641

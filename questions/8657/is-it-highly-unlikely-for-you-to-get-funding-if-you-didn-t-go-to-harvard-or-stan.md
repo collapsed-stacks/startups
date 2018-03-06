@@ -4,8 +4,7 @@
 - tagged: `venture-capital`
 - score: 0
 
-<p>What it says on the tin. Who are some successful founders who <em>didnt</em> go to one of these schools?</p>
-
+What it says on the tin. Who are some successful founders who *didnt* go to one of these schools?
 
 
 ## Answer 8683
@@ -13,8 +12,7 @@
 - posted by: [user19556](https://stackexchange.com/users/7525137/user19556) on 2016-03-08
 - score: 2
 
-<p>I have never met, heard, or even ran into a situation where the schooling of the "pitcher", business owner, or whoever is seeking investors loses the deal or even leverage due to inferior schooling, or lack of it, for that matter. </p>
-
+I have never met, heard, or even ran into a situation where the schooling of the "pitcher", business owner, or whoever is seeking investors loses the deal or even leverage due to inferior schooling, or lack of it, for that matter. 
 
 
 

@@ -4,10 +4,9 @@
 - tagged: `target-market`, `data`, `learning`
 - score: 5
 
-<p>Assume you are given access to a new approach/architecture for neural networks useful for unsupervised machine learning that produces qualitatively better models than current approaches, with no significant performance loss.</p>
+Assume you are given access to a new approach/architecture for neural networks useful for unsupervised machine learning that produces qualitatively better models than current approaches, with no significant performance loss.
 
-<p>What problems would you want to try applying it to?</p>
-
+What problems would you want to try applying it to?
 
 
 ## Answer 6115
@@ -15,12 +14,11 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-08-22
 - score: 1
 
-<p>Lots of things...</p>
+Lots of things...
 
-<p>For instance, I had a recent client who could have made good use of neural nets to automate enhancing video covers. The cover images were mostly similar (same type of topic) but with vastly different levels of quality and levels. The result they were seeking was to have harmonious color and brightness characteristics, with a pinch of sharpening where needed.</p>
+For instance, I had a recent client who could have made good use of neural nets to automate enhancing video covers. The cover images were mostly similar (same type of topic) but with vastly different levels of quality and levels. The result they were seeking was to have harmonious color and brightness characteristics, with a pinch of sharpening where needed.
 
-<p>Another type of topic I'd find useful would be analyzing site usage data (e.g. Google Analytics) to highlight interesting trends and traffic patterns. Kind of like what they're doing over at Narrative Science, but with the twist that you'd want to weed out trash in the data before performing the analysis -- as in, ignore very short sessions or spam traffic like ghost referrals.</p>
-
+Another type of topic I'd find useful would be analyzing site usage data (e.g. Google Analytics) to highlight interesting trends and traffic patterns. Kind of like what they're doing over at Narrative Science, but with the twist that you'd want to weed out trash in the data before performing the analysis -- as in, ignore very short sessions or spam traffic like ghost referrals.
 
 
 ## Answer 6146
@@ -28,13 +26,11 @@
 - posted by: [zazaalaza](https://stackexchange.com/users/4672194/zazaalaza) on 2015-08-24
 - score: 1
 
-<p>I wouldn't just pick an idea and go with it without doing some serious market research first, but I'd do one of two things:</p>
+I wouldn't just pick an idea and go with it without doing some serious market research first, but I'd do one of two things:
 
-<ol>
-<li><p>Disrupt an existing market. E.g. a search engine built on a neural network.</p></li>
-<li><p>Create something new. E.g. a tool that tells you what genetic traits your children will inherit based on your and your spouses DNA.</p></li>
-</ol>
+1. Disrupt an existing market. E.g. a search engine built on a neural network.
 
+2. Create something new. E.g. a tool that tells you what genetic traits your children will inherit based on your and your spouses DNA.
 
 
 ## Answer 7898
@@ -42,14 +38,13 @@
 - posted by: [Mohammad Abu Musa](https://stackexchange.com/users/1386863/mohammad-abu-musa) on 2015-11-20
 - score: 1
 
-<p>I am using machine learning to segment people based on products they used before, I want to help startups validate their products through connecting them with early adopters who used similar products to theirs before.</p>
+I am using machine learning to segment people based on products they used before, I want to help startups validate their products through connecting them with early adopters who used similar products to theirs before.
 
-<p>Please visit this page, you will find a video demo in the bottom </p>
+Please visit this page, you will find a video demo in the bottom 
 
-<p><a href="http://findearlyadopters.com/startups" rel="nofollow">http://findearlyadopters.com/startups</a></p>
+http://findearlyadopters.com/startups
 
-<p>I would love to get your feedback.</p>
-
+I would love to get your feedback.
 
 
 ## Answer 7906

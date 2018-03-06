@@ -4,16 +4,15 @@
 - tagged: `lean`, `networking`, `consulting`
 - score: 9
 
-<p>I am a a recent college graduate looking to grow my experience in business and technology at a startup. I have some experience in small business and technology consulting and am hoping to leverage that and an ability to learn and adapt to new challenges to find a role in a growing startup that I can learn from.</p>
+I am a a recent college graduate looking to grow my experience in business and technology at a startup. I have some experience in small business and technology consulting and am hoping to leverage that and an ability to learn and adapt to new challenges to find a role in a growing startup that I can learn from.
 
-<p>Here's the problem - I need to find some of these type of companies.</p>
+Here's the problem - I need to find some of these type of companies.
 
-<p>How does one go about actually finding a small (and I mean 1-3 people kind of small) company in need of someone who can jump in and help develop business systems and processes along with being able to take a lead on technological or client-related projects.</p>
+How does one go about actually finding a small (and I mean 1-3 people kind of small) company in need of someone who can jump in and help develop business systems and processes along with being able to take a lead on technological or client-related projects.
 
-<p>At the moment I'm reaching out to some VCs and business owners I am connected to through my school and then will be asking them similar questions in a more formal manner. What else should I think about doing?</p>
+At the moment I'm reaching out to some VCs and business owners I am connected to through my school and then will be asking them similar questions in a more formal manner. What else should I think about doing?
 
-<p>*Edit - I am seeking a paid, preferably full-time position</p>
-
+*Edit - I am seeking a paid, preferably full-time position
 
 
 ## Answer 1407
@@ -43,16 +42,15 @@
 - posted by: [JacktheMac](https://stackexchange.com/users/5353530/jackthemac) on 2014-11-18
 - score: 7
 
-<p>As the co-founder of a globally successful publishing company as well as a few other startups I’d say one problem is that most startups work on mutual trust between the few people in at the beginning. </p>
+As the co-founder of a globally successful publishing company as well as a few other startups I’d say one problem is that most startups work on mutual trust between the few people in at the beginning. 
 
-<p>Often they will be bringing something new to the market, and will be very cautious about letting outsiders know exactly what they’re up to. The last thing they want (sorry) is someone straight out of college, ambitious and eager to get on, who could well take their ideas/tech/solutions/intellectual property to another company, since s/he is not financially or emotionally invested in that startup.</p>
+Often they will be bringing something new to the market, and will be very cautious about letting outsiders know exactly what they’re up to. The last thing they want (sorry) is someone straight out of college, ambitious and eager to get on, who could well take their ideas/tech/solutions/intellectual property to another company, since s/he is not financially or emotionally invested in that startup.
 
-<p>So don’t be surprised if very small startups of the sort you mention treat you with a degree of wariness. As well as proving you have something to bring to the table, you also have to show that you can keep schtum – and not disappear when the going gets tough, or you disagree with the others.</p>
+So don’t be surprised if very small startups of the sort you mention treat you with a degree of wariness. As well as proving you have something to bring to the table, you also have to show that you can keep schtum – and not disappear when the going gets tough, or you disagree with the others.
 
-<p>Also, startups almost always have very little cash to pay salaries (I worked for five years before receiving my first small pay cheque from startup #1). Don’t go in expecting much above the minimum wage.</p>
+Also, startups almost always have very little cash to pay salaries (I worked for five years before receiving my first small pay cheque from startup #1). Don’t go in expecting much above the minimum wage.
 
-<p>Just my penn'eth...</p>
-
+Just my penn'eth...
 
 
 ## Answer 1403
@@ -71,12 +69,11 @@
 - posted by: [TK-421](https://stackexchange.com/users/4125630/tk-421) on 2014-11-18
 - score: 3
 
-<p>I would recommend attending tech meet-ups (Meetup.Com) and startup social events in your area. Many colleges host small business forums and many cities have technological business societies. Think like a small business owner of a technical company. Where would this person likely spend their evenings for business reasons? Small business owners and presidents in are often attending these events for their own marketing purposes. Meeting talent is often a secondary or tertiary objective, but they are usually more than open to the conversation and will be excited that you took the initiative, speaking from experience.</p>
+I would recommend attending tech meet-ups (Meetup.Com) and startup social events in your area. Many colleges host small business forums and many cities have technological business societies. Think like a small business owner of a technical company. Where would this person likely spend their evenings for business reasons? Small business owners and presidents in are often attending these events for their own marketing purposes. Meeting talent is often a secondary or tertiary objective, but they are usually more than open to the conversation and will be excited that you took the initiative, speaking from experience.
 
-<p>Consider also joining groups on LinkedIn that are business, technical, and located near you.  Small start-ups will often post items here that you can start a conversation with, also speaking from experience.</p>
+Consider also joining groups on LinkedIn that are business, technical, and located near you.  Small start-ups will often post items here that you can start a conversation with, also speaking from experience.
 
-<p>Remember to always network, network, network, when it comes to small businesses.</p>
-
+Remember to always network, network, network, when it comes to small businesses.
 
 
 ## Answer 1431
@@ -84,8 +81,7 @@
 - posted by: [DaBlue](https://stackexchange.com/users/1780043/dablue) on 2014-11-20
 - score: 3
 
-<p>As a startup entrepreneur, having the position of looking for a "paid" position is going to be hard.  You'd be looking at a later term startup, not a true startup.  Most startups don't make money for a while.  You need to be able to manage working hard, very hard and lean until money starts coming in.  The other side is if you can get funded by VCs, but most of those companies already have traction.  I guess what I'm saying here, you probably won't be "handed" a role like this, but instead you need the passion for the startup's mission.  I also agree with the comment above in that trust is a major piece of the equation.  It goes to say that partners starting out will be working long, hard hours getting on each other's nerves because things are tight.  My suggestion is to attend networking events and start to meet people.  As you find people that are working on startups, invite them to coffee and discuss what they are doing.  But then, you must decide if you have passion for the endeavor as well as the startup's needs for a skill you can provide.  If you don't have the passion, you won't be an asset.</p>
-
+As a startup entrepreneur, having the position of looking for a "paid" position is going to be hard.  You'd be looking at a later term startup, not a true startup.  Most startups don't make money for a while.  You need to be able to manage working hard, very hard and lean until money starts coming in.  The other side is if you can get funded by VCs, but most of those companies already have traction.  I guess what I'm saying here, you probably won't be "handed" a role like this, but instead you need the passion for the startup's mission.  I also agree with the comment above in that trust is a major piece of the equation.  It goes to say that partners starting out will be working long, hard hours getting on each other's nerves because things are tight.  My suggestion is to attend networking events and start to meet people.  As you find people that are working on startups, invite them to coffee and discuss what they are doing.  But then, you must decide if you have passion for the endeavor as well as the startup's needs for a skill you can provide.  If you don't have the passion, you won't be an asset.
 
 
 ## Answer 1413
@@ -125,8 +121,7 @@ They can be either new startup (which may interest you) or side projects (which 
 - posted by: [Zoheb Ainapore](https://stackexchange.com/users/4674231/zoheb-ainapore) on 2014-12-01
 - score: 1
 
-<p>37signals <a href="http://WeWorkRemotely.com" rel="nofollow">http://WeWorkRemotely.com</a> is another good place to look out for. I have recently come across many startups hiring their first few employees there</p>
-
+37signals http://WeWorkRemotely.com is another good place to look out for. I have recently come across many startups hiring their first few employees there
 
 
 ## Answer 1497
@@ -134,14 +129,11 @@ They can be either new startup (which may interest you) or side projects (which 
 - posted by: [Aditya Krishnakant](https://stackexchange.com/users/5393822/aditya-krishnakant) on 2014-11-26
 - score: 0
 
-<ol>
-<li>Angel List </li>
-<li>Beta List</li>
-<li>White List</li>
-</ol>
+ 1. Angel List 
+ 2. Beta List
+ 3. White List
 
-<p>They are some of the websites which deal with information on start-ups.</p>
-
+They are some of the websites which deal with information on start-ups.
 
 
 

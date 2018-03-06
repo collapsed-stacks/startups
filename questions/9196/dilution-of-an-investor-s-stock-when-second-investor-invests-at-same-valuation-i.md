@@ -4,10 +4,9 @@
 - tagged: `equity`, `funding`, `stock`, `seed`
 - score: 2
 
-<p>Let's say an Investor X invests <code>100K</code> at a post-money valuation of <code>1M</code> (10%) Unlikely but in the unfortunate event where after 1 year, the company doesn't grow much and is again in need of money negotiates a deal where Investor Y agrees to invest <code>100K</code> yet again at post-money of <code>1M</code>.</p>
+Let's say an Investor X invests `100K` at a post-money valuation of `1M` (10%) Unlikely but in the unfortunate event where after 1 year, the company doesn't grow much and is again in need of money negotiates a deal where Investor Y agrees to invest `100K` yet again at post-money of `1M`.
 
-<p>What is the dilution of the stock held by investor X? How much <code>%</code> in stock would investors X and Y hold respectively after the second round?</p>
-
+What is the dilution of the stock held by investor X? How much `%` in stock would investors X and Y hold respectively after the second round?
 
 
 ## Answer 9225
@@ -15,28 +14,25 @@
 - posted by: [Jim](https://stackexchange.com/users/351236/jim) on 2016-05-17
 - score: 3
 
-<blockquote>
-  <p>What is the dilution of the stock held by investor X?</p>
-</blockquote>
+> What is the dilution of the stock held by investor X?
 
-<p>This is called a "down round." The company is accepting new investment at a lower valuation than the previous round. </p>
+This is called a "down round." The company is accepting new investment at a lower valuation than the previous round. 
 
-<p>Assuming all parties agree, the new investor Y now owns 10% at a $1MM valuation. That means that the previous investor owns 10% of the remaining shares. Since the remaining shares are 90% of the current valuation of $1MM (90% x $1MM = $900k), the previous investor X owns 10% of $900k = $90k. </p>
+Assuming all parties agree, the new investor Y now owns 10% at a $1MM valuation. That means that the previous investor owns 10% of the remaining shares. Since the remaining shares are 90% of the current valuation of $1MM (90% x $1MM = $900k), the previous investor X owns 10% of $900k = $90k. 
 
-<p>Considering that most startups fail, it's not a bad deal for an investor that is not prepared to invest more for a startup that needs it. And generally the alternative is that Investor X has their investment disappear - if the new investor does not participate, the company sounds like it will likely fail. </p>
+Considering that most startups fail, it's not a bad deal for an investor that is not prepared to invest more for a startup that needs it. And generally the alternative is that Investor X has their investment disappear - if the new investor does not participate, the company sounds like it will likely fail. 
 
-<p>Result: after Investor Y provides $100k for 10%, here is the result:</p>
+Result: after Investor Y provides $100k for 10%, here is the result:
 
-<p>Investor Y -> 10% = $100k</p>
+Investor Y -> 10% = $100k
 
-<p>Investor X -> 9% = $90k</p>
+Investor X -> 9% = $90k
 
-<p>Corporate Treasury/Others -> 81% = $810k</p>
+Corporate Treasury/Others -> 81% = $810k
 
-<p>EDIT:</p>
+EDIT:
 
-<p>If you are looking to have Investor X and Investor Y have equal ownership, then Investor Y should buy 10% of the existing shares. Since Investor X purchased 10%, Investor X and Investor Y will have equal ownership.</p>
-
+If you are looking to have Investor X and Investor Y have equal ownership, then Investor Y should buy 10% of the existing shares. Since Investor X purchased 10%, Investor X and Investor Y will have equal ownership.
 
 
 

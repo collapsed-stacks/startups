@@ -4,23 +4,20 @@
 - tagged: `tech-company`, `growth`, `web-development`, `saas`, `service`
 - score: 1
 
-<p>I am creating a platform that showcases behind the scenes material from movies. The unique value proposition is in its quality but also the quantity of never before seen content.</p>
+I am creating a platform that showcases behind the scenes material from movies. The unique value proposition is in its quality but also the quantity of never before seen content.
 
-<p>How to start out agile with so much content. These are the minimum requirements of the service:</p>
+How to start out agile with so much content. These are the minimum requirements of the service:
 
-<ol>
-<li>Users can preview 10% of the content for each movie, no subscription required</li>
-<li>Users can subscribe for 10$ a month to access all the material</li>
-<li>The site also has a shop w. thousands of files, no subscription required</li>
-</ol>
+1. Users can preview 10% of the content for each movie, no subscription required
+2. Users can subscribe for 10$ a month to access all the material
+3. The site also has a shop w. thousands of files, no subscription required
 
-<p>How can I go by building this ? What types of SaaS can encompass all of this or which go together well ?<br />
-I have been thinking about Subbly + BigCommerce.</p>
+How can I go by building this ? What types of SaaS can encompass all of this or which go together well ?<br />
+I have been thinking about Subbly + BigCommerce.
 
-<p>Budget is relatively large, but I would like to start agile. I got front-end programming experience and would like to customise the design fully - but not deal with back end.</p>
+Budget is relatively large, but I would like to start agile. I got front-end programming experience and would like to customise the design fully - but not deal with back end.
 
-<p>What path should I choose to help scale this business while maintaining the minimum requirements ?</p>
-
+What path should I choose to help scale this business while maintaining the minimum requirements ?
 
 
 ## Answer 3924
@@ -28,12 +25,11 @@ I have been thinking about Subbly + BigCommerce.</p>
 - posted by: [chelder](https://stackexchange.com/users/1234525/chelder) on 2015-04-02
 - score: 1
 
-<p>To start agile I'll think about how to do it without spending time in building a platform. </p>
+To start agile I'll think about how to do it without spending time in building a platform. 
 
-<p>For instance, cut the videos with any video editing software. Then provide a link to buy the full video (or even ask to send you an email if they want to buy the full video). Youtube could be the platform to store the preview video. If it works and people buy it, then build the platform (or build the platform at the same time). </p>
+For instance, cut the videos with any video editing software. Then provide a link to buy the full video (or even ask to send you an email if they want to buy the full video). Youtube could be the platform to store the preview video. If it works and people buy it, then build the platform (or build the platform at the same time). 
 
-<p>Is it an answer for you or you are asking about technologies?</p>
-
+Is it an answer for you or you are asking about technologies?
 
 
 ## Answer 5237

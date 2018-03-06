@@ -4,9 +4,8 @@
 - tagged: `website`, `business-model`, `idea`, `domain-name`
 - score: 1
 
-<p>I run a small boutique from my home and donate a portion of my proceeds to non-profits every month.  My current business name is Be The Good 2 (because Be the Good was taken).  I never thought to do a trademark search and just discovered that Be the Good is trademarked, so I'd like to change my name again.  Not that I want to, but feel the need before I grow.
-What do you think of "Michestra"?  Its a mix of both my first and last name.  Thanks in advance for feedback!</p>
-
+I run a small boutique from my home and donate a portion of my proceeds to non-profits every month.  My current business name is Be The Good 2 (because Be the Good was taken).  I never thought to do a trademark search and just discovered that Be the Good is trademarked, so I'd like to change my name again.  Not that I want to, but feel the need before I grow.
+What do you think of "Michestra"?  Its a mix of both my first and last name.  Thanks in advance for feedback!
 
 
 ## Answer 11629
@@ -14,14 +13,13 @@ What do you think of "Michestra"?  Its a mix of both my first and last name.  Th
 - posted by: [Aurora Afable](https://stackexchange.com/users/5912654/aurora-afable) on 2016-12-03
 - score: 2
 
-<p>I used to be in the same situation as you. Here are two things I did that helped me detemine my business name:</p>
+I used to be in the same situation as you. Here are two things I did that helped me detemine my business name:
 
-<ol>
-<li><a href="http://fiverr.com" rel="nofollow">Fiverr</a> - There are loads of creative people on there that would love to help you out.</li>
-<li><a href="https://www.shopify.com/tools/business-name-generator" rel="nofollow">Shopify's Name Generator</a> - awesome name generator that produces modern results.</li>
-</ol>
+ 1. [Fiverr](http://fiverr.com) - There are loads of creative people on there that would love to help you out.
+ 2. [Shopify's Name Generator](https://www.shopify.com/tools/business-name-generator) - awesome name generator that produces modern results.
 
-<p>I hope this helps.</p>
+I hope this helps.
+
 
 
 

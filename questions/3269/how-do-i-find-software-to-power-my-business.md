@@ -4,14 +4,13 @@
 - tagged: `software`, `saas`, `cloud`
 - score: 2
 
-<p>What's the best way to find software to power my business?</p>
+What's the best way to find software to power my business?
 
-<p>Right now, I'm looking for software to manage my office supplies. How much we use, how much it costs, daily costs, etc.</p>
+Right now, I'm looking for software to manage my office supplies. How much we use, how much it costs, daily costs, etc.
 
-<p>I'm not asking for help actually finding the software, but rather I'm asking <em>how</em> I can find it.</p>
+I'm not asking for help actually finding the software, but rather I'm asking *how* I can find it.
 
-<p>How do I effectively find software vendors and talk to them? What's the best way to learn whether business-to-business software is high quality and set at a good price point? Are there general tips about choosing SaaS software that I should keep in mind?</p>
-
+How do I effectively find software vendors and talk to them? What's the best way to learn whether business-to-business software is high quality and set at a good price point? Are there general tips about choosing SaaS software that I should keep in mind?
 
 
 ## Answer 3277
@@ -50,22 +49,18 @@ and <strong><a href="http://www.softwareadvice.com" rel="nofollow">Software Advi
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2015-01-31
 - score: 0
 
-<blockquote>
-  <p>How do I effectively find software vendors and talk to them?</p>
-</blockquote>
+> How do I effectively find software vendors and talk to them?
 
-<p>The best way is to ask around. At the local networking events you participate in, for instance. Or in online venues such as forums or LinkedIn groups or the <a href="https://softwarerecs.stackexchange.com/">Software Recommendations Stack Exchange</a>. People love to talk about how they're using this or that piece of software successfully.</p>
+The best way is to ask around. At the local networking events you participate in, for instance. Or in online venues such as forums or LinkedIn groups or the [Software Recommendations Stack Exchange](https://softwarerecs.stackexchange.com/). People love to talk about how they're using this or that piece of software successfully.
 
-<blockquote>
-  <p>What's the best way to learn whether business-to-business software is high quality and set at a good price point? Are there general tips about choosing SaaS software that I should keep in mind?</p>
-</blockquote>
 
-<p>The best way to know what using a software is like is to try it, and the two important points to have in mind to forge your purchase decision in my opinion are form and value. Mark made the commendable suggestion that you should use a forced rank list and a scored feature matrix to come up with a decision. But in my experience, software features are secondary when compared to form and value.</p>
+> What's the best way to learn whether business-to-business software is high quality and set at a good price point? Are there general tips about choosing SaaS software that I should keep in mind?
 
-<p>The importance of value is a no-brainer. Is using the software helping you to move forward with whatever goal you had in mind? Is it saving you or your staff an hour per month? Per week? More? Is it providing valuable insights that you shouldn't have without it? Anchor those against your costs, and you will know if the software is worth the money.</p>
+The best way to know what using a software is like is to try it, and the two important points to have in mind to forge your purchase decision in my opinion are form and value. Mark made the commendable suggestion that you should use a forced rank list and a scored feature matrix to come up with a decision. But in my experience, software features are secondary when compared to form and value.
 
-<p>The importance of form might be less clear, but don't overlook it. An important part of your decision process should amount to gut feeling -- as in do you or its end-users actually <em>like</em> using the software. This is crucial because nothing is more soul-draining than forcing yourself to use a piece of software that you hate. (Using some kind of project management or customer relationship management tool that generates sexy looking stats and reports, for instance, would make little sense if it means your staff needs to deal with a scratch-your-eyes-out batshit-crazy interface that forces them to do mind-numbing data entry.)</p>
+The importance of value is a no-brainer. Is using the software helping you to move forward with whatever goal you had in mind? Is it saving you or your staff an hour per month? Per week? More? Is it providing valuable insights that you shouldn't have without it? Anchor those against your costs, and you will know if the software is worth the money.
 
+The importance of form might be less clear, but don't overlook it. An important part of your decision process should amount to gut feeling -- as in do you or its end-users actually *like* using the software. This is crucial because nothing is more soul-draining than forcing yourself to use a piece of software that you hate. (Using some kind of project management or customer relationship management tool that generates sexy looking stats and reports, for instance, would make little sense if it means your staff needs to deal with a scratch-your-eyes-out batshit-crazy interface that forces them to do mind-numbing data entry.)
 
 
 

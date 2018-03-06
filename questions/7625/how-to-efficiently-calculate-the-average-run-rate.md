@@ -4,14 +4,18 @@
 - tagged: `marketing`, `sales`, `growth`, `revenue`, `churn`
 - score: 1
 
-<p>Annual <a href="http://www.investopedia.com/terms/r/runrate.asp" rel="nofollow noreferrer">Run Rate</a> is a metric which would help the company to set its targets, by extrapolating current trends and results.</p>
+Annual [Run Rate][1] is a metric which would help the company to set its targets, by extrapolating current trends and results.
 
-<p>And it's calculation is also very tricky(even more if your business has seasonal effects). So, are there any standard ways/techniques which can help startups calculate ARR efficiently, keeping their trends and patterns of sales in mind?</p>
+And it's calculation is also very tricky(even more if your business has seasonal effects). So, are there any standard ways/techniques which can help startups calculate ARR efficiently, keeping their trends and patterns of sales in mind?
 
-<p>And why should we calculate Annual run Rate of Recurring Revenue vs Time Period (segmented with respect to churn)?  What can be learned from this analysis?  (<a href="http://www.forentrepreneurs.com/saas-metrics-2/" rel="nofollow noreferrer">Source</a>)</p>
+And why should we calculate Annual run Rate of Recurring Revenue vs Time Period (segmented with respect to churn)?  What can be learned from this analysis?  ([Source][2])
 
-<p><a href="https://i.stack.imgur.com/PUsKv.png" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/PUsKv.png" alt="enter image description here"></a></p>
+[![enter image description here][3]][3]
 
+
+  [1]: http://www.investopedia.com/terms/r/runrate.asp
+  [2]: http://www.forentrepreneurs.com/saas-metrics-2/
+  [3]: http://i.stack.imgur.com/PUsKv.png
 
 
 ## Answer 7636

@@ -4,12 +4,11 @@
 - tagged: `united-kingdom`, `hiring`
 - score: 0
 
-<p>I have a start up and am looking to scale up now. I want to explore some team building stuff, so would love to get a feel for what skills are out there, how much people are paid etc. </p>
+I have a start up and am looking to scale up now. I want to explore some team building stuff, so would love to get a feel for what skills are out there, how much people are paid etc. 
 
-<p>I was wondering if there is a recruitment site etc. where you can browse people who are job hunting and see similar job postings + salaries and packages etc. Ideally one with a strong amount of UK / London info? </p>
+I was wondering if there is a recruitment site etc. where you can browse people who are job hunting and see similar job postings + salaries and packages etc. Ideally one with a strong amount of UK / London info? 
 
-<p>Thanks.</p>
-
+Thanks.
 
 
 ## Answer 7548
@@ -34,8 +33,7 @@
 - posted by: [Bryant](https://stackexchange.com/users/1836290/bryant) on 2015-10-12
 - score: 0
 
-<p>Glassdoor has a lot of this info</p>
-
+Glassdoor has a lot of this info
 
 
 

@@ -4,11 +4,12 @@
 - tagged: `pricing`, `e-commerce`, `shipping`
 - score: 2
 
-<p>I am launching an online shop that sells a variety of handmade crafts, using <a href="https://en.wikipedia.org/wiki/Drop_shipping" rel="nofollow">Drop Shipping</a> method.
-I am having a big difficulty adding my profit margin and setting final prices since I have a wide range of product types and vendor prices, and a wide range of shipping costs depending on the weight/size of the item and where the item is going to be shipped to.</p>
+I am launching an online shop that sells a variety of handmade crafts, using [Drop Shipping][1] method.
+I am having a big difficulty adding my profit margin and setting final prices since I have a wide range of product types and vendor prices, and a wide range of shipping costs depending on the weight/size of the item and where the item is going to be shipped to.
 
-<p>Not wanting to set a flat rate for the shipping around the globe, and with a lot of variables like this, how to set the final price of the products?</p>
+Not wanting to set a flat rate for the shipping around the globe, and with a lot of variables like this, how to set the final price of the products?
 
+  [1]: https://en.wikipedia.org/wiki/Drop_shipping
 
 ## No Answers
 

@@ -4,56 +4,37 @@
 - tagged: `networking`, `ycombinator`
 - score: 4
 
-<p>One of the features of startup accelerators such as Y Combinator is that they allow you to connect your startup with other startups. These generally fall into what I think of as three "types":</p>
+One of the features of startup accelerators such as Y Combinator is that they allow you to connect your startup with other startups. These generally fall into what I think of as three "types":
 
-<ol>
-<li><strong><em>Big</em></strong> - these are startups that have become well known in their particular fields and have widespread usage.
-<ul>
-<li>Examples:
-<ul>
-<li>Dropbox</li>
-<li>Hipmunk</li>
-<li>Stripe</li>
-</ul></li>
-</ul></li>
-<li><strong><em>Upcoming</em></strong> - fairly known in some circles, usage is growing, as is interest.
-<ul>
-<li>Examples:
-<ul>
-<li>Algolia</li>
-<li>Pushbullet</li>
-<li>RethinkDB</li>
-</ul></li>
-</ul></li>
-<li><strong><em>Beginning</em></strong> - not really known well, but have a ready MVP and are still getting their first few customers. No examples, since if I knew of some, they would be <em>Upcoming</em> by definition.</li>
-</ol>
+ 1. ***Big*** - these are startups that have become well known in their particular fields and have widespread usage.
+  - Examples:
+     - Dropbox
+     - Hipmunk
+     - Stripe
+ 2. ***Upcoming*** - fairly known in some circles, usage is growing, as is interest.
+  - Examples:
+     - Algolia
+     - Pushbullet
+     - RethinkDB
+ 3. ***Beginning*** - not really known well, but have a ready MVP and are still getting their first few customers. No examples, since if I knew of some, they would be _Upcoming_ by definition.
 
-<p>Now, outside of accelerators like this, how does one connect with startups in each of these categories?</p>
+Now, outside of accelerators like this, how does one connect with startups in each of these categories?
 
-<p>This is how I see it with each of these:</p>
+This is how I see it with each of these:
 
-<ol>
-<li><strong><em>Big</em></strong>
-<ul>
-<li>Difficult to even get into contact with heads</li>
-<li>What do they get from forming a relationship with you?</li>
-<li>Approached by many, so if they haven't heard of you, the signal-to-noise ration is very low</li>
-</ul></li>
-<li><strong><em>Upcoming</em></strong>
-<ul>
-<li>Fairly easy to get into contact with heads</li>
-<li>Yet again, however, what do they get out of it?</li>
-</ul></li>
-<li><strong><em>Beginning</em></strong>
-<ul>
-<li>How do you even find them?</li>
-<li>How do you figure out which ones are worth forming a relationship with?</li>
-<li>If you're not a customer, what are they getting from you?</li>
-</ul></li>
-</ol>
+1. ***Big***
+  - Difficult to even get into contact with heads
+  - What do they get from forming a relationship with you?
+  - Approached by many, so if they haven't heard of you, the signal-to-noise ration is very low
+2. ***Upcoming***
+  - Fairly easy to get into contact with heads
+  - Yet again, however, what do they get out of it?
+3. ***Beginning***
+  - How do you even find them?
+  - How do you figure out which ones are worth forming a relationship with?
+  - If you're not a customer, what are they getting from you?
 
-<p>Do correct me if I'm going about this the wrong way, but given these circumstances, how does one connect with other startups in each of these three categories?</p>
-
+Do correct me if I'm going about this the wrong way, but given these circumstances, how does one connect with other startups in each of these three categories?
 
 
 ## Answer 1433

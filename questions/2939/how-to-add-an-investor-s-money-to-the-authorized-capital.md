@@ -4,9 +4,9 @@
 - tagged: `software`, `equity`, `founder`, `investment`, `venture-capital`
 - score: 3
 
-<p>I'm finishing development of my project's proof of concept (it's a software prototype) this year. After that I'm going to incorporate with some small authorized capital (aprox. 5.000 EUR). The market cost of prototype's development is about 100.000EUR.  The next step is to find an investor with money for finishing the product and starting sales.</p>
+I'm finishing development of my project's proof of concept (it's a software prototype) this year. After that I'm going to incorporate with some small authorized capital (aprox. 5.000 EUR). The market cost of prototype's development is about 100.000EUR.  The next step is to find an investor with money for finishing the product and starting sales.
 
-<p>What is a typical scheme of selling equity? For example I need 500.000EUR to finish the product development and to start earn money. Does it mean that if an investor give me this money I have to sell him 84% equity (500.000 of total 600.000)? Or is it possible to sell 50% for 250.000, then the investor and I both increase the authorized capital by 250.000 to get 500.000 in total. What is a common scheme? (I divided 50x50 for simplicity, it's not the point of the question)</p>
+What is a typical scheme of selling equity? For example I need 500.000EUR to finish the product development and to start earn money. Does it mean that if an investor give me this money I have to sell him 84% equity (500.000 of total 600.000)? Or is it possible to sell 50% for 250.000, then the investor and I both increase the authorized capital by 250.000 to get 500.000 in total. What is a common scheme? (I divided 50x50 for simplicity, it's not the point of the question)
 
 
 
@@ -29,10 +29,9 @@ If you would like to keep it online, you can use a service like <a href="https:/
 - posted by: [Laxiton6893](https://stackexchange.com/users/2181902/laxiton6893) on 2015-01-09
 - score: 1
 
-<p>In the US (this may be different in the EU, but I don't think so) no. You set the terms meaning if you wanted to you can get the 500,000 Euro and only give him 10% of the company. The question then comes down to the evaluation, based on the market, revenue, product e.g. is the 500,000 euro worth more then say 10%. So you set the terms on what you think is right. </p>
+In the US (this may be different in the EU, but I don't think so) no. You set the terms meaning if you wanted to you can get the 500,000 Euro and only give him 10% of the company. The question then comes down to the evaluation, based on the market, revenue, product e.g. is the 500,000 euro worth more then say 10%. So you set the terms on what you think is right. 
 
-<p>Side note, I would not give 50% of the business away just to an investor who is giving you money. That really won't help you in the long run if the person won't be contributing to the development. </p>
-
+Side note, I would not give 50% of the business away just to an investor who is giving you money. That really won't help you in the long run if the person won't be contributing to the development. 
 
 
 

@@ -4,16 +4,13 @@
 - tagged: `taxes`, `tax-structure`, `yc-how-to-start-a-startup`
 - score: 6
 
-<blockquote>
-  <p>"Tax structuring". This is another thing. Once things are working it would be worth you spending a little bit of time thinking about how you set up the tax structure for the company. I confess I don't know a lot about the details here 'cause I just find it personally really boring. But like if you assign the IP to some corporation in Ireland that licensing it back to the US Corporation. You end up paying no tax. No corporate tax. But I know that you can only do that relatively early on. And this ends up being a huge issue for companies that don't do it that compete with companies that do it you know once they're big public companies. So that's worth doing.  </p>
-</blockquote>
+>"Tax structuring". This is another thing. Once things are working it would be worth you spending a little bit of time thinking about how you set up the tax structure for the company. I confess I don't know a lot about the details here 'cause I just find it personally really boring. But like if you assign the IP to some corporation in Ireland that licensing it back to the US Corporation. You end up paying no tax. No corporate tax. But I know that you can only do that relatively early on. And this ends up being a huge issue for companies that don't do it that compete with companies that do it you know once they're big public companies. So that's worth doing.  
 
-<p>Sam Altman - Startup Class</p>
+Sam Altman - Startup Class
 
-<p><a href="http://youtu.be/59ZQ-rf6iIc?t=25m50s" rel="nofollow">http://youtu.be/59ZQ-rf6iIc?t=25m50s</a></p>
+http://youtu.be/59ZQ-rf6iIc?t=25m50s
 
-<p>What does Sam mean here? What are the details he missed? How can we set up a structure so we pay no corporate tax?</p>
-
+What does Sam mean here? What are the details he missed? How can we set up a structure so we pay no corporate tax?
 
 
 ## Answer 1665
@@ -21,31 +18,29 @@
 - posted by: [Denis de Bernardy](https://stackexchange.com/users/182468/denis-de-bernardy) on 2014-12-16
 - score: 9
 
-<p>One of the most damaging things you can do to a business, in my experience, is to try to walk on the razor's edge when it comes to taxation.</p>
+One of the most damaging things you can do to a business, in my experience, is to try to walk on the razor's edge when it comes to taxation.
 
-<p>If you get caught (and you will), it can literally destroy your family.</p>
+If you get caught (and you will), it can literally destroy your family.
 
-<p>It's one thing, and perfectly legal and acceptable, to set up a Delaware-based business when operating in the US. Or in another state with either of low taxes or business-friendly courts. This, yes.</p>
+It's one thing, and perfectly legal and acceptable, to set up a Delaware-based business when operating in the US. Or in another state with either of low taxes or business-friendly courts. This, yes.
 
-<p>It's a completely different one to actively seek to avoid taxation using tax-related loopholes. Particularly international loopholes.</p>
+It's a completely different one to actively seek to avoid taxation using tax-related loopholes. Particularly international loopholes.
 
-<p>The temptation, of course, can be to set up shop in Belize, Panama, or any number of other tax havens, and pay little to no taxes whatsoever. Or it could be to set up international shops in Ireland, Malta, Cyprus, Hong Kong or wherever -- or London, for that matter -- in order to reduce the tax burden.</p>
+The temptation, of course, can be to set up shop in Belize, Panama, or any number of other tax havens, and pay little to no taxes whatsoever. Or it could be to set up international shops in Ireland, Malta, Cyprus, Hong Kong or wherever -- or London, for that matter -- in order to reduce the tax burden.
 
-<p>Just don't.</p>
+Just don't.
 
-<p>Two reasons:</p>
+Two reasons:
 
-<ol>
-<li><p>It takes significant expertise in international tax laws to keep up with the constantly changing environment. You will need a very competent lawyer (commanding unfathomably high rates) at your side throughout the process, and then some.</p></li>
-<li><p>Your taxman will have <strong><em>zero</em></strong> patience with you, and much less of a sense of humor, at the slightest hint that you've been messing around.</p></li>
-</ol>
+1. It takes significant expertise in international tax laws to keep up with the constantly changing environment. You will need a very competent lawyer (commanding unfathomably high rates) at your side throughout the process, and then some.
 
-<p>I cannot stress that last point enough, having seen it first-hand: you will get a massive, full-on, cavity-search grade probe into your company. And a rabid taxman <em>will</em> find a wide range of petty somethings to complain about; no ifs, no buts. Getting such a civil servant off of your back is a grueling time sink for a small business owner -- time which you cannot afford to waste.</p>
+2. Your taxman will have ***zero*** patience with you, and much less of a sense of humor, at the slightest hint that you've been messing around.
 
-<p>A larger corporation can field a team of lawyers and have a chance to win in court.</p>
+I cannot stress that last point enough, having seen it first-hand: you will get a massive, full-on, cavity-search grade probe into your company. And a rabid taxman *will* find a wide range of petty somethings to complain about; no ifs, no buts. Getting such a civil servant off of your back is a grueling time sink for a small business owner -- time which you cannot afford to waste.
 
-<p>You cannot. You'll end up settling with a large penalty, and will set yourself up for years on end with inquisitive taxmen knocking at your door. It is nerve-wracking and, again, can destroy your family.</p>
+A larger corporation can field a team of lawyers and have a chance to win in court.
 
+You cannot. You'll end up settling with a large penalty, and will set yourself up for years on end with inquisitive taxmen knocking at your door. It is nerve-wracking and, again, can destroy your family.
 
 
 ## Answer 1613

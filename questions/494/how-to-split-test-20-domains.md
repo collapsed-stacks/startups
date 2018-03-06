@@ -4,12 +4,11 @@
 - tagged: `testing`
 - score: 2
 
-<p>I've accumulated over 20 possible domains for one project. I'd like to use Adwords to push a bunch of traffic at them to see which sticks.</p>
+I've accumulated over 20 possible domains for one project. I'd like to use Adwords to push a bunch of traffic at them to see which sticks.
 
-<p>I assume I have to point all of the domains at one solution and I have to tell the solution to accept each of them. I have to write a bunch of copy to test with. I have to set up a bunch of ad groups, each of which will push at one domain. I assume I should tell Google not to crawl each of the sites, so there's no dupe hit.</p>
+I assume I have to point all of the domains at one solution and I have to tell the solution to accept each of them. I have to write a bunch of copy to test with. I have to set up a bunch of ad groups, each of which will push at one domain. I assume I should tell Google not to crawl each of the sites, so there's no dupe hit.
 
-<p>Is there a service that makes this easy? Should I just hire a VA to do it? Roll my own site or use one of unbounce/launchrock etc? (Who seems to specialise in on-page optimization, not necessarily domain testing). Is there a way to stop Google penalising me for duplicate content?</p>
-
+Is there a service that makes this easy? Should I just hire a VA to do it? Roll my own site or use one of unbounce/launchrock etc? (Who seems to specialise in on-page optimization, not necessarily domain testing). Is there a way to stop Google penalising me for duplicate content?
 
 
 ## Answer 498
@@ -17,18 +16,19 @@
 - posted by: [DataSmarter](https://stackexchange.com/users/3128474/datasmarter) on 2014-08-26
 - score: 6
 
-<p>Do you want to test the same content (also the same logo, same graphics,...) on different domains or do you need to change the content as well (e.g. logo and metadata that "stick" to the domain name?</p>
+Do you want to test the same content (also the same logo, same graphics,...) on different domains or do you need to change the content as well (e.g. logo and metadata that "stick" to the domain name?
 
-<p><strong>If it is exactly the same content, to make a redirection of you domains is not so difficult.</strong> E.g.: your advertising points to "www.test1.com", user clicks on it, arrives on "www.test1.com" an is immediately (he even doesn't see it) redirected to "www.test-general-solution.com". The same for "www.test2.com",... In that case, there is no "duplicate content" (the content is only on "www.test-general-solution.com") and thus you don't need to worry about google.</p>
+**If it is exactly the same content, to make a redirection of you domains is not so difficult.** E.g.: your advertising points to "www.test1.com", user clicks on it, arrives on "www.test1.com" an is immediately (he even doesn't see it) redirected to "www.test-general-solution.com". The same for "www.test2.com",... In that case, there is no "duplicate content" (the content is only on "www.test-general-solution.com") and thus you don't need to worry about google.
 
-<p>This is often used when companies have several domains that point to the main one. The reason can be a) avoiding mistyped domain names, b) several products or company parts pointing to the main site (e.g. "www.ABC-group.com" and "www.abc-holding.com" pointing to "www.abc.com") or even c) the national domains pointing to the "global one" (e.g. www.mycompany.fr pointing to www.mycompany.com/fr)</p>
+This is often used when companies have several domains that point to the main one. The reason can be a) avoiding mistyped domain names, b) several products or company parts pointing to the main site (e.g. "www.ABC-group.com" and "www.abc-holding.com" pointing to "www.abc.com") or even c) the national domains pointing to the "global one" (e.g. www.mycompany.fr pointing to www.mycompany.com/fr)
 
-<p><strong>If you need to adapt the content based on the domain name</strong>, it will be more work (then indeed, a VA can be useful) and you will have to pay attention to Google. You can do that in the "Google Webmaster Tools" tool and/or via the "robot.txt" (just google this expressions to see how it works).</p>
+**If you need to adapt the content based on the domain name**, it will be more work (then indeed, a VA can be useful) and you will have to pay attention to Google. You can do that in the "Google Webmaster Tools" tool and/or via the "robot.txt" (just google this expressions to see how it works).
 
-<p>But still, at your place, <strong>I would first do some "human" testing</strong> - ask the opinion of your family, your friends, your colleagues,...** And try to decrease the number of the potential domain names that you will test to 3-5.** Otherwise, it will be quite hard to manage it in a proper way. And pay AdSense for 5 websites will be much cheaper than for 20...</p>
+But still, at your place, **I would first do some "human" testing** - ask the opinion of your family, your friends, your colleagues,...** And try to decrease the number of the potential domain names that you will test to 3-5.** Otherwise, it will be quite hard to manage it in a proper way. And pay AdSense for 5 websites will be much cheaper than for 20...
 
-<p>Concerning Google, add each of your domains to the "Webmaster Tools" tool where you can easily manage the rules of the access of the Google's spider to each of y</p>
 
+
+Concerning Google, add each of your domains to the "Webmaster Tools" tool where you can easily manage the rules of the access of the Google's spider to each of y
 
 
 ## Answer 501

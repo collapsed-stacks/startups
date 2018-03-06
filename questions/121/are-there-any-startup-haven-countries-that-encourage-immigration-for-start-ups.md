@@ -4,12 +4,14 @@
 - tagged: `tech-company`, `international`
 - score: 10
 
-<p>In the UK, in the past, companies like Amazon were known for sending all their parcels from offshore locations in order to take advantage of better tax conditions (or perhaps loopholes).  </p>
+In the UK, in the past, companies like Amazon were known for sending all their parcels from offshore locations in order to take advantage of better tax conditions (or perhaps loopholes).  
 
-<p>Are there any countries that intentionally try to draw in start-ups? More specifically, I'm thinking of IT start ups, but any other area might be of interest too. I'm thinking of tax benefits, grants, or other 'goodies' to encourage commerce. </p>
+Are there any countries that intentionally try to draw in start-ups? More specifically, I'm thinking of IT start ups, but any other area might be of interest too. I'm thinking of tax benefits, grants, or other 'goodies' to encourage commerce. 
 
-<p>Israel, for example, prides itself on being a very <a href="http://en.wikipedia.org/wiki/Silicon_Wadi">startup-oriented economy</a>, but I'm not sure if they actively try to draw in business people. </p>
+Israel, for example, prides itself on being a very [startup-oriented economy][1], but I'm not sure if they actively try to draw in business people. 
 
+
+  [1]: http://en.wikipedia.org/wiki/Silicon_Wadi
 
 
 ## Answer 133

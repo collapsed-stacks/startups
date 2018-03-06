@@ -4,26 +4,23 @@
 - tagged: `tech-company`, `website`
 - score: 1
 
-<p>Many large companies and startups run Engineering blogs.</p>
+Many large companies and startups run Engineering blogs.
 
-<p>Example - </p>
+Example - 
 
-<p><a href="http://engineeringblog.yelp.com" rel="nofollow">http://engineeringblog.yelp.com</a>
-<a href="http://engineering.twitter.com/" rel="nofollow">http://engineering.twitter.com/</a>
-<a href="http://www.facebook.com/Engineering" rel="nofollow">http://www.facebook.com/Engineering</a>
-<a href="http://eng.yammer.com/blog/" rel="nofollow">http://eng.yammer.com/blog/</a></p>
+http://engineeringblog.yelp.com
+http://engineering.twitter.com/
+http://www.facebook.com/Engineering
+http://eng.yammer.com/blog/
 
-<p>I'm trying to look at viable options to start a similar Engineering blog for a small startup organization. We don't want to get involved in hosting and would prefer an out-of-the-box implementation that allows good support for markup and formatting.</p>
+I'm trying to look at viable options to start a similar Engineering blog for a small startup organization. We don't want to get involved in hosting and would prefer an out-of-the-box implementation that allows good support for markup and formatting.
 
-<p>So far I have only come across Wordpress.</p>
+So far I have only come across Wordpress.
 
-<ol>
-<li>Are there other good options to consider? Personal recommendations?</li>
-<li>If we were to go with Wordpress, is there a good Wordpress hosting service for a reasonable price?</li>
-</ol>
+1. Are there other good options to consider? Personal recommendations?
+2. If we were to go with Wordpress, is there a good Wordpress hosting service for a reasonable price?
 
-<p>Thanks!</p>
-
+Thanks!
 
 
 ## Answer 7307
@@ -31,8 +28,7 @@
 - posted by: [Robert Möstl](https://stackexchange.com/users/1018191/robert-m-stl) on 2015-09-10
 - score: 1
 
-<p>You could also try <a href="https://ghost.org/" rel="nofollow">Ghost</a> which gets increasingly popular in the realm of software development blogs. E.g. <strong>Jeff Atwood</strong> (co-founder of StackOverflow / StackExchange) is using it for http://blog.codinghorror.com/. Ghost is open-source, can either be hosted or self-hosted and also has some team collaboration features.</p>
-
+You could also try [Ghost](https://ghost.org/) which gets increasingly popular in the realm of software development blogs. E.g. **Jeff Atwood** (co-founder of StackOverflow / StackExchange) is using it for [http://blog.codinghorror.com/](codinghorror.com). Ghost is open-source, can either be hosted or self-hosted and also has some team collaboration features.
 
 
 ## Answer 7308
@@ -57,8 +53,7 @@
 - posted by: [Delmania](https://stackexchange.com/users/41929/delmania) on 2015-09-10
 - score: 1
 
-<p>I can vouch for Digital Ocean, as I use them for my site, delmania.net. They have a image configured for Wordpress. As for an actual blogging engine, Ghost is good, Blogger is good, and GitHub pages is good, but I earnestly recommend Wordpress for people just starting out. It has the lowest barrier of entry, and that will get you focused on making high quality content as opposed to have to configure the engine itself.</p>
-
+I can vouch for Digital Ocean, as I use them for my site, delmania.net. They have a image configured for Wordpress. As for an actual blogging engine, Ghost is good, Blogger is good, and GitHub pages is good, but I earnestly recommend Wordpress for people just starting out. It has the lowest barrier of entry, and that will get you focused on making high quality content as opposed to have to configure the engine itself.
 
 
 ## Answer 7310
@@ -76,8 +71,8 @@ For more info: <a href="https://pages.github.com/" rel="nofollow">https://pages.
 - posted by: [user5829](https://stackexchange.com/users/6930106/user5829) on 2015-09-10
 - score: -2
 
-<p>If you happen to be in electronics industry, you can check out www.valpont.com. Valpont.com is to serve as a community and knowledge base for electronics professionals and businesses. We just launched it and yes I work here. You can register as a business and you can post news/white-papers/IPs/files/etc. You can also post events, polls, jobs, and items for sale (we have e-commerce feature).  You can use "User Page" to serve as your "website". It supports many formatting but is not as flexibile as your own site to be clear. With your own site, you have to worry about how to get it known. So the main benefit of using valpont.com is to make your company more visible.<br>
-Feel free to give it a try and let us know how it works. The good side of being a startup is we take your feedback seriously.  </p>
+If you happen to be in electronics industry, you can check out www.valpont.com. Valpont.com is to serve as a community and knowledge base for electronics professionals and businesses. We just launched it and yes I work here. You can register as a business and you can post news/white-papers/IPs/files/etc. You can also post events, polls, jobs, and items for sale (we have e-commerce feature).  You can use "User Page" to serve as your "website". It supports many formatting but is not as flexibile as your own site to be clear. With your own site, you have to worry about how to get it known. So the main benefit of using valpont.com is to make your company more visible.  
+Feel free to give it a try and let us know how it works. The good side of being a startup is we take your feedback seriously.  
 
 
 

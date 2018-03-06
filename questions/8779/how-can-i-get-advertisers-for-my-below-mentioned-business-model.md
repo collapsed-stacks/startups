@@ -4,11 +4,10 @@
 - tagged: `website`, `business-plan`, `business-model`, `lean-startup`, `advertising`
 - score: 1
 
-<p>There is this business model used by Hitbliss and many other sites where we pay the users for watching an advertisement. </p>
+There is this business model used by Hitbliss and many other sites where we pay the users for watching an advertisement. 
 
-<p>Where can I find advertisers for this model? 
-How can I get bigger companies like Coca-Cola or even Google? </p>
-
+Where can I find advertisers for this model? 
+How can I get bigger companies like Coca-Cola or even Google? 
 
 ## No Answers
 

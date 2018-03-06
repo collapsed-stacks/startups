@@ -4,19 +4,18 @@
 - tagged: `investors`, `stock`, `83b`
 - score: 0
 
-<p>I have issued 90% stocks myself without any vesting as I'm a single founder.</p>
+I have issued 90% stocks myself without any vesting as I'm a single founder.
 
-<p>I do understand 83(b) election is required when there is vesting and should be filed within 30 days.</p>
+I do understand 83(b) election is required when there is vesting and should be filed within 30 days.
 
-<p>My question is that when i raise money in the future, can a investor ask me to adjust my issued stocks to put me on a vesting schedule?</p>
+My question is that when i raise money in the future, can a investor ask me to adjust my issued stocks to put me on a vesting schedule?
 
-<p>If thats possible, then I have two questions.</p>
+If thats possible, then I have two questions.
 
-<ol>
-<li>If I file 83(b) election at that time, is that valid?</li>
-<li>Although I don't have any vesting now, can I still file 83(b) election now as a precaution? Is there any drawbacks?</li>
-</ol>
+ 1. If I file 83(b) election at that time, is that valid?
+ 2. Although I don't have any vesting now, can I still file 83(b) election now as a precaution? Is there any drawbacks?
 
+ 
 
 ## No Answers
 

@@ -4,12 +4,11 @@
 - tagged: `employees`, `hiring`, `contractors`
 - score: 2
 
-<p>The advantage of contracting is that you're not stuck with a bad employee if you hire one. Also, if things go bad, You don't need to lay off employees, you just give out less contracts.</p>
+The advantage of contracting is that you're not stuck with a bad employee if you hire one. Also, if things go bad, You don't need to lay off employees, you just give out less contracts.
 
-<p>The advantage of employing is unusually large in my case since my "employees" will be presenting on camera a lot, and may become "known" to our customers. Having them disappear and new ones take their place will seem strange to customers. Furthermore, it is harder to protect "company secrets", as well as stop them from also working for competitors. </p>
+The advantage of employing is unusually large in my case since my "employees" will be presenting on camera a lot, and may become "known" to our customers. Having them disappear and new ones take their place will seem strange to customers. Furthermore, it is harder to protect "company secrets", as well as stop them from also working for competitors. 
 
-<p><strong>So which one would you recommend and why?</strong></p>
-
+**So which one would you recommend and why?**
 
 ## No Answers
 

@@ -4,8 +4,7 @@
 - tagged: `legal`, `llc`, `contracts`
 - score: 1
 
-<p>I don't meet the financial requirements as a accredited investor based on rule 501(a) under the 1933 Act, but as CTO would I qualify?</p>
-
+I don't meet the financial requirements as a accredited investor based on rule 501(a) under the 1933 Act, but as CTO would I qualify?
 
 
 ## Answer 11730
@@ -13,21 +12,18 @@
 - posted by: [DonQuiKong](https://stackexchange.com/users/9739821/donquikong) on 2016-12-19
 - score: -1
 
-<p>No. Everyone can call themselfs CTO by registering a firm. Without more information thats just a name.</p>
+No. Everyone can call themselfs CTO by registering a firm. Without more information thats just a name.
 
-<p>Edit: Someone downvoted this answer, I don't know why, but I'll just add some prove to my answer:</p>
+Edit: Someone downvoted this answer, I don't know why, but I'll just add some prove to my answer:
 
-<p><a href="http://www.ecfr.gov/cgi-bin/retrieveECFR?gp=&amp;SID=8edfd12967d69c024485029d968ee737&amp;r=SECTION&amp;n=17y3.0.1.1.12.0.46.176" rel="nofollow noreferrer">http://www.ecfr.gov/cgi-bin/retrieveECFR?gp=&amp;SID=8edfd12967d69c024485029d968ee737&amp;r=SECTION&amp;n=17y3.0.1.1.12.0.46.176</a></p>
+http://www.ecfr.gov/cgi-bin/retrieveECFR?gp=&SID=8edfd12967d69c024485029d968ee737&r=SECTION&n=17y3.0.1.1.12.0.46.176
 
-<p>There it clearly says who counts as accredited investor. </p>
+There it clearly says who counts as accredited investor. 
 
-<blockquote>
-  <p>Any director, executive officer, or general partner of the issuer of the securities being offered or sold, or any director, executive officer, or general partner of a general partner of that issuer;</p>
-</blockquote>
+>Any director, executive officer, or general partner of the issuer of the securities being offered or sold, or any director, executive officer, or general partner of a general partner of that issuer;
 
-<p>So if you are the CTO of the company you want to buy, maybe. But the rest stays valid, I could register a firm right now and call myself founder, CTO, CEO, Chief executive technical supder officer and whatever I want to.
-If you are CTO of a big enough firm, you have the necessary net worth. Else, you don't classify. </p>
-
+So if you are the CTO of the company you want to buy, maybe. But the rest stays valid, I could register a firm right now and call myself founder, CTO, CEO, Chief executive technical supder officer and whatever I want to.
+If you are CTO of a big enough firm, you have the necessary net worth. Else, you don't classify. 
 
 
 

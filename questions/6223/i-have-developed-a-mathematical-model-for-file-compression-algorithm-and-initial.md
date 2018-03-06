@@ -4,20 +4,20 @@
 - tagged: `legal`, `marketing`, `software`, `financing`, `sell`
 - score: 7
 
-<p>Firstly, please bear with me of my English writing as it's not my native language. I have developed a mathematical model for a file compression algorithm, it doesn't use any other available file compression algorithms (my own pure method), this can compress any type of file regardless of their file format (.wmv, .mkv, .txt) and initial tests are done with a software developer. Do you think I can sell the algorithm to some software company &amp; what kind of maximum price should I expect? And should I patent this first? The data are as follows. If this is not the correct stack-exchange site to post this kind of question, please be kind enough to guide me without down-voting this. </p>
+Firstly, please bear with me of my English writing as it's not my native language. I have developed a mathematical model for a file compression algorithm, it doesn't use any other available file compression algorithms (my own pure method), this can compress any type of file regardless of their file format (.wmv, .mkv, .txt) and initial tests are done with a software developer. Do you think I can sell the algorithm to some software company & what kind of maximum price should I expect? And should I patent this first? The data are as follows. If this is not the correct stack-exchange site to post this kind of question, please be kind enough to guide me without down-voting this. 
 
-<pre><code>Speed: 3.0 GHZ Dual core
-RAM: 8GB
-File type: MKV
-File size: 742 Megabytes
-Compressed output: 3.75 Megabytes
-Time taken for full compression: 8.34 minutes
-Compression ratio: 0.5% 
-Speed on this computer: 1.48 MegaBytes/second
-Time taken for decompression: 4.55 minutes
-</code></pre>
+    Speed: 3.0 GHZ Dual core
+    RAM: 8GB
+    File type: MKV
+    File size: 742 Megabytes
+    Compressed output: 3.75 Megabytes
+    Time taken for full compression: 8.34 minutes
+    Compression ratio: 0.5% 
+    Speed on this computer: 1.48 MegaBytes/second
+    Time taken for decompression: 4.55 minutes
 
-<p>When I compress all other file types (.mkv, .wmv, .mp3, .exe, .zip etc) yields similar results as above.</p>
+When I compress all other file types (.mkv, .wmv, .mp3, .exe, .zip etc) yields similar results as above.
+
 
 
 

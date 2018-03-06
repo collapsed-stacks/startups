@@ -4,8 +4,7 @@
 - tagged: `hardware`, `germany`
 - score: -2
 
-<p>I am really interested in joining a hardware startup in Germany, being a mechanical engineer with a vast experience with different projects. I think a hardware startup is best choice for learning. What are some good hardware startups in Germany?</p>
-
+I am really interested in joining a hardware startup in Germany, being a mechanical engineer with a vast experience with different projects. I think a hardware startup is best choice for learning. What are some good hardware startups in Germany?
 
 
 ## Answer 8569
@@ -13,11 +12,10 @@
 - posted by: [fiprojects](https://stackexchange.com/users/5370155/fiprojects) on 2016-02-19
 - score: 2
 
-<p>I suspect you'll find one or two in the Facebook Berlin Startup group
-<a href="https://www.facebook.com/groups/159595270791268/" rel="nofollow">https://www.facebook.com/groups/159595270791268/</a></p>
+I suspect you'll find one or two in the Facebook Berlin Startup group
+https://www.facebook.com/groups/159595270791268/
 
-<p>Best of luck...</p>
-
+Best of luck...
 
 
 

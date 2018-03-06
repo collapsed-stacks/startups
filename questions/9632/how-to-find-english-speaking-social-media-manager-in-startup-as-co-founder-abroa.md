@@ -4,20 +4,22 @@
 - tagged: `marketing`, `social-networking`
 - score: 2
 
-<p>We are the team that consists of two Russian developers. I’m responsible for backend, my friend - frontend (iOS) and design.</p>
+We are the team that consists of two Russian developers. I’m responsible for backend, my friend - frontend (iOS) and design.
 
-<p>We are keen on what we do, and think each little thing through. Now we have finished everything technical details: a server side, an application for iOS and all infrastructure (team works, documentation of API, work under load). And we are working up a question of promotion.</p>
+We are keen on what we do, and think each little thing through. Now we have finished everything technical details: a server side, an application for iOS and all infrastructure (team works, documentation of API, work under load). And we are working up a question of promotion.
 
-<p>We have a business plan including ideas of monetising, competitiveness, promotion, etc. But we need a person who know English-speaking mentality, who live there…</p>
+We have a business plan including ideas of monetising, competitiveness, promotion, etc. But we need a person who know English-speaking mentality, who live there…
 
-<p>We decided to focus on English-speaking countries (USA at first). We do not want to deal with Russian market (at least at first) for ideological reasons. </p>
+We decided to focus on English-speaking countries (USA at first). We do not want to deal with Russian market (at least at first) for ideological reasons. 
 
-<p>We are looking for enthusiast and can offer (at this time) just a share in our business (co-founder).</p>
+We are looking for enthusiast and can offer (at this time) just a share in our business (co-founder).
 
-<p>I try to post offers to websites about startups like startups.co.uk and startus.cc , but I really don't know, maybe there is way better?</p>
+I try to post offers to websites about startups like startups.co.uk and startus.cc , but I really don't know, maybe there is way better?
 
-<p>Also I'm not sure weather I correct write the job what I'm looking for: Public relations manager. Maybe such employment type is called Social media marketer? </p>
+Also I'm not sure weather I correct write the job what I'm looking for: Public relations manager. Maybe such employment type is called Social media marketer? 
 
+
+  [1]: https://spont.io
 
 
 ## Answer 11035
