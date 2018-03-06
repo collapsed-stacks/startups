@@ -56,4 +56,4 @@ After that, drink a good glass of alcohol, cry like a baby, get it settled, take
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

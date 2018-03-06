@@ -57,4 +57,4 @@ In your (US-centric?) case - CEO should be OK, the only cocky part is the `Chief
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

@@ -58,4 +58,4 @@ Q2 (Shopular & Shopkick) - I don't know - if it were me I would install their an
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

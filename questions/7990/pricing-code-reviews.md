@@ -48,4 +48,4 @@ As a side note, I am familiar with CLOC and SLOCCount which would need additiona
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

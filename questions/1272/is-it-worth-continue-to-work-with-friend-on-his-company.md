@@ -59,4 +59,4 @@ I would personally recommend you to demand a meeting every 7 / 14 / 28 days (cho
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

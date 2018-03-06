@@ -20,4 +20,4 @@ Do not worry about it. Instead, go ask. The worst you can hear is "no," and if y
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

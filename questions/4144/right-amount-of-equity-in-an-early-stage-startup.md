@@ -44,4 +44,4 @@ As for the "right" or average amount to offer pre-seed or post-seed, honestly it
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

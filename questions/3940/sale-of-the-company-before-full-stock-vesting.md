@@ -21,4 +21,4 @@ Arguably, YMMV if it is *not* explicit. (In that case, check with an attorney if
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

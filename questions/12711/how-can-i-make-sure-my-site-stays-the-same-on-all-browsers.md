@@ -38,4 +38,4 @@ Yes You can Design site in responsive mode. You can use bootstrap as well. For r
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

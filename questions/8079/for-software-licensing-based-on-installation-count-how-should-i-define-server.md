@@ -27,4 +27,4 @@ Perhaps 1 server is 1 physical server with up to 4 physical cores and up to two 
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

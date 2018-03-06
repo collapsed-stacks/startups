@@ -27,4 +27,4 @@ I'm keen to lock in a time-limted exclusive world-wide right to distribute and u
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

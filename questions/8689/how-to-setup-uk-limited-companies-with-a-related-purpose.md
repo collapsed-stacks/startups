@@ -41,4 +41,4 @@ Don't forget that if you go down the *SEIS/EIS* line, the shares must not be all
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

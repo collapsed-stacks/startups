@@ -31,4 +31,4 @@ Once I pick a state, I think we'll be able to collect our thoughts and begin dow
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

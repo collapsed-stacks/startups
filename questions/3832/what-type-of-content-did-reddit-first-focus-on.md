@@ -30,4 +30,4 @@ Take note of thread #14 in that last url: "It's Okay to Self-Submit to Reddit!" 
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

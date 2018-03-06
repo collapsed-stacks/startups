@@ -24,4 +24,4 @@ http://techcrunch.com/2013/11/02/welcome-to-the-unicorn-club/
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

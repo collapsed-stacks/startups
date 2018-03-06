@@ -43,4 +43,4 @@ Of an IOU, in comparison, you can say "we promised to pay a friend who helped us
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

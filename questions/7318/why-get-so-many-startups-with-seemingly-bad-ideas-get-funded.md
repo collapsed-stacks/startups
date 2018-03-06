@@ -80,4 +80,4 @@ If you want to learn more, I recommend to look at youtube for "Shark tank" or "D
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

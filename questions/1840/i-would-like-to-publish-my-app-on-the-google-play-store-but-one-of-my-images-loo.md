@@ -57,4 +57,4 @@ I'd be a bit tempted, if I were you, to swap around the shadow, just for the sak
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

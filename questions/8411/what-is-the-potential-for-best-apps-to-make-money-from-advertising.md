@@ -34,4 +34,4 @@ check out the blogs for more understanding."http://www.huffingtonpost.com/natash
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

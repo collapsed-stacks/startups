@@ -45,4 +45,4 @@ DISCLAIMER: This is NOT legal advice, and I am not an attorney. Check the releva
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

@@ -42,4 +42,4 @@ Btw, 500 likes can be easily achieved within a week with a small budget (ofc, de
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

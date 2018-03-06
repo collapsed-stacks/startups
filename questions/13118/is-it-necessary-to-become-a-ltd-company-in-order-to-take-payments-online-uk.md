@@ -28,4 +28,4 @@ Ltd stands for limited company, as in limited _liability_. If a disgruntled cust
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

@@ -32,4 +32,4 @@ If I was paying for ads, I would pay facebook 1000USD for one volume of exposure
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

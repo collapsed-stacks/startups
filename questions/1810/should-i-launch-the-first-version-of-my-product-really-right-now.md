@@ -43,4 +43,4 @@ Or **start by getting [1000 true fans](http://kk.org/thetechnium/2008/03/1000-tr
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

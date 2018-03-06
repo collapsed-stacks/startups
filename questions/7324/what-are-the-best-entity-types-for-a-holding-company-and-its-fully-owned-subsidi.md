@@ -24,4 +24,4 @@ Why do you need 2 entities? Why not 2 divisions of 1 entity? Simpler and cheaper
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

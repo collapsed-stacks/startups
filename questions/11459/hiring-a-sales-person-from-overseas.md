@@ -122,4 +122,4 @@ Which brings me to my last point. In my view, **offer no exclusivity**. If that'
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

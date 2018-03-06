@@ -27,4 +27,4 @@ I have seen a few good anecdotes from  Noah Kagen over at AppSumo.com, and Tim F
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

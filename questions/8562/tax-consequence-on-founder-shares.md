@@ -36,4 +36,4 @@ FYI: I am not an accountant but do have my own business since 1994. I own 99% of
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

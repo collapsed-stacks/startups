@@ -77,4 +77,4 @@ The space is ripe for growth. IoT. Driverless vehicles. In general everything te
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

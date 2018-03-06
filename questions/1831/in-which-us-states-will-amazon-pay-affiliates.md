@@ -23,4 +23,4 @@ An Amazon affiliate account enables you to receive a percentage of Amazon's sale
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

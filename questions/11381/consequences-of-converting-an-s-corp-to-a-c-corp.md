@@ -43,4 +43,4 @@ If you voluntarily change from an S-Corp to a C-Corp, it is normally by the dire
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

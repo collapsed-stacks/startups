@@ -40,4 +40,4 @@ Sometimes when VCs see huge cap tables then they see a lot of paperwork and dela
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

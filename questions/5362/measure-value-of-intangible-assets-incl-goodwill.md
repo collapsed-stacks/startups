@@ -33,4 +33,4 @@ The general formula is Goodwill = (Consideration paid + Fair value of noncontrol
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

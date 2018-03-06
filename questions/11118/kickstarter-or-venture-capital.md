@@ -32,4 +32,4 @@ In practice, ideally find a cofounder or two (e.g. business, then hardware) and 
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

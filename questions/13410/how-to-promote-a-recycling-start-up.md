@@ -50,4 +50,4 @@ AdWords and Facebook ads are basically a non-starter: it might be a sampling err
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

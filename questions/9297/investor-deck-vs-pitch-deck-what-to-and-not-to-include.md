@@ -87,4 +87,4 @@ PS:  My experience is that I raised about $1m for my current startup at 25 Y.O.
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

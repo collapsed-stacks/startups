@@ -26,4 +26,4 @@ You could ask to be paid (e.g., via a loan) but I don't expect your cofounders t
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

@@ -31,4 +31,4 @@ If I'm a UK business, and I sell SaaS access for 1000 euros to a French business
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

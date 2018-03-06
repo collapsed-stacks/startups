@@ -134,4 +134,4 @@ Btw, Windows runs native on Mac-hardware too if needed, but rarely in the other 
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

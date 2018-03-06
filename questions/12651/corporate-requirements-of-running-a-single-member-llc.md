@@ -30,4 +30,4 @@ The [state llc certificate of formation](http://www.sos.state.tx.us/corp/forms/2
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

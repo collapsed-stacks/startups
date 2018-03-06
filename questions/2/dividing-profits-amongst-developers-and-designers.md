@@ -168,4 +168,4 @@ Here in Austria, a developer would earn between 2.5k€ to 7k€ per month based
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

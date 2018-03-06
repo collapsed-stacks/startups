@@ -92,4 +92,4 @@ Also, Facebook is too old-fashioned and boring to be the platform. They are no w
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

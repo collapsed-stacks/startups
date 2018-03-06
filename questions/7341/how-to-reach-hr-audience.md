@@ -42,4 +42,4 @@ https://startups.stackexchange.com/questions/7301/how-to-send-an-email-to-thousa
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

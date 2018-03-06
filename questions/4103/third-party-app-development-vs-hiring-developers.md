@@ -78,4 +78,4 @@ I'd recommend hiring a company with a PROVEN TRACK RECORD in app development, us
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

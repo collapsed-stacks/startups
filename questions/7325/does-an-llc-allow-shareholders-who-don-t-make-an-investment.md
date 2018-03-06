@@ -34,4 +34,4 @@ FYI, as soon as someone is a vested owner and the LLC they can no longer receive
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

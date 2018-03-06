@@ -59,4 +59,4 @@ Excuses are what set entrepreneurs apart.  They don't have them no matter what. 
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

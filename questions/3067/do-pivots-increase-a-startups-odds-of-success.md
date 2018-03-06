@@ -91,4 +91,4 @@ So, yeah, in a sense, there are reasons to believe that pivots increase the odds
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

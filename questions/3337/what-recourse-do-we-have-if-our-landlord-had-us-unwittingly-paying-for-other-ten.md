@@ -20,4 +20,4 @@ Ask the landlord for a credit on next month's rent. Be nice, explain why, come u
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

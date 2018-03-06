@@ -51,4 +51,4 @@ Give points(1 to 5/10) for each skill and calculate at the end to know where he/
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

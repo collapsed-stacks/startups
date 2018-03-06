@@ -55,4 +55,4 @@ Keep in mind, if you pay peanuts, you'll get monkeys. I had an Uncle who always 
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

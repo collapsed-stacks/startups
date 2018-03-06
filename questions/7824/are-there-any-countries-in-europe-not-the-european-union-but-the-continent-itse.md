@@ -26,4 +26,4 @@ EU states all collect it electronically. I'm not 100% about the non-EU ones, but
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

@@ -34,4 +34,4 @@ In my investment pack that I sent to prospective investors was a 10 slide 'deck'
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

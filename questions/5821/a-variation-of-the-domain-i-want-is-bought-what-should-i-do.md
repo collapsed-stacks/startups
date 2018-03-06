@@ -47,4 +47,4 @@ Making you pay a lot for a domain is hard to prevent. Someone launching a compet
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

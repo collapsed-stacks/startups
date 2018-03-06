@@ -89,4 +89,4 @@ When I was a boy my dad sold horses. One week he placed an add in the paper. "HO
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

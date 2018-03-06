@@ -73,4 +73,4 @@ I'm sure there are also lower cost alternatives than GoDaddy.  I have clients th
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

@@ -49,4 +49,4 @@ As mentioned above, it is a wonderful idea, but don't leave a lot of time betwee
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

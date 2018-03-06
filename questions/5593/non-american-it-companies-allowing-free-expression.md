@@ -30,4 +30,4 @@ Anyway, I hope that didn't sound too sales'y -- it's not meant that way, and aga
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

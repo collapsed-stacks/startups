@@ -55,4 +55,4 @@ And a roadmap for versions 2, 3, and so forth -- complete with a list of hot pro
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

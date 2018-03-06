@@ -51,4 +51,4 @@ In part I agree with Michael and in part I disagree. #1 I don't think you are qu
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

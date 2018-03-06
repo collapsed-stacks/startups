@@ -56,4 +56,4 @@ More information here: http://en.wikipedia.org/wiki/Limited_liability_company
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

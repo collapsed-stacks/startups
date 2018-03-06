@@ -22,4 +22,4 @@ This site http://www.avvo.com/legal-answers/am-i-required-to-send-a-966-form-to-
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

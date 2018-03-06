@@ -106,4 +106,4 @@ Don't sell yourself short - especially if you've never sacrificed the 20hrs/week
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

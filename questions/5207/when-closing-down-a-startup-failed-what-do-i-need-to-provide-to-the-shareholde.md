@@ -37,4 +37,4 @@ Fwiw, in France you'd go to court, have a judge liquidate the company, and then 
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

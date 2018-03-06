@@ -83,4 +83,4 @@ See https://library.gv.com/how-to-choose-the-right-ux-metrics-for-your-product-5
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).

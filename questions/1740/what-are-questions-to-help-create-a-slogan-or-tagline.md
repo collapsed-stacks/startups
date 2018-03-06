@@ -84,4 +84,4 @@ http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=e
 
 ---
 
-All content is licensed under the [CC BY-SA 3.0 license](https://creativecommons.org/licenses/by-sa/3.0/).
+All content is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/).
